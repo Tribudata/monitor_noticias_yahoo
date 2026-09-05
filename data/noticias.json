@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-05T14:52:16-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-09-05T16:56:30-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Criptoactivo de Alpine F1 sube con fuerza luego de la pole de Gasly en Italia: detalles",
+        "url": "https://es.finance.yahoo.com/noticias/fan-token-alpine-f1-dispara-194500983.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Fan token de Alpine F1 se dispara tras pole de Gasly en Italia: detalles",
+        "capturado": "2026-09-05T16:56:30-05:00"
+      },
       {
         "titulo": "Cathie Wood afirma que gran parte de los inversionistas ignora esta altcoin",
         "url": "https://es.finance.yahoo.com/noticias/mayor%C3%ADa-inversores-valora-altcoin-cathie-172600020.html",
