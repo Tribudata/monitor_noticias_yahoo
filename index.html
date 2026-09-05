@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tribudata</title>
+<meta name="description" content="Titulares de economía y finanzas.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Libre+Franklin:wght@600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --blanco:#ffffff;
+    --negro:#0a0a0a;
+    --gris:#6b6b6b;
+    --regla:#c9c9c9;
+    --rojo:#9b1c1c;
+    --serif:"Playfair Display",Georgia,"Times New Roman",serif;
+    --sans:"Libre Franklin",-apple-system,"Segoe UI",Helvetica,sans-serif;
+  }
+  *{box-sizing:border-box}
+  body{
+    margin:0;
+    background:var(--blanco);
+    color:var(--negro);
+    font-family:var(--sans);
+    overflow:hidden;
+  }
+
+  .cinta{
+    position:relative;
+    border-top:1px solid var(--negro);
+    border-bottom:1px solid var(--negro);
+    padding:10px 0;
+    overflow:hidden;
+    white-space:nowrap;
+  }
+
+  /* Dos copias idénticas en fila: cuando la primera termina de salir,
+     la segunda ya ocupa su lugar y el ciclo se reinicia sin salto. */
+  .riel{
+    display:inline-flex;
+    align-items:center;
+    will-change:transform;
+    animation:correr linear infinite;
+  }
+  @keyframes correr{
+    from{transform:translateX(0)}
+    to{transform:translateX(-50%)}
+  }
+  .cinta:hover .riel{animation-play-state:paused}
+
+  .nota{
+    display:inline-flex;
+    align-items:baseline;
+    gap:10px;
+    padding:0 26px;
+    border-right:1px solid var(--regla);
+  }
+  .nota a{
+    font-family:var(--serif);
+    font-weight:700;
+    font-size:17px;
+    line-height:1.2;
+    color:var(--negro);
+    text-decoration:none;
+  }
+  .nota a:hover{color:var(--rojo)}
+  .nota a:focus-visible{outline:2px solid var(--rojo);outline-offset:3px}
+  .hora{
+    font-size:10px;
+    letter-spacing:.12em;
+    text-transform:uppercase;
+    color:var(--gris);
+    flex:none;
+  }
+  .nota.reciente .hora::before{
+    content:"Nuevo";
+    color:var(--rojo);
+    font-weight:600;
+    margin-right:6px;
+  }
+
+  .estado{
+    padding:8px 14px;
+    font-size:11px;
+    letter-spacing:.1em;
+    text-transform:uppercase;
+    color:var(--gris);
+  }
+
+  @media (prefers-reduced-motion:reduce){
+    .riel{animation:none}
+    .cinta{overflow-x:auto}
+  }
+</style>
+</head>
+<body>
+
+  <div class="cinta" id="cinta">
+    <div class="riel" id="riel"></div>
+  </div>
+  <div class="estado" id="estado">Cargando</div>
+
+<script>
+const FUENTE_JSON = "https://tribudata.github.io/monitor_noticias_yahoo/data/noticias.json";
+const SECCIONES = ["Portada"];
+const REFRESCO_MS = 5 * 60 * 1000;
+const VENTANA_NUEVO_H = 6;
+const VELOCIDAD = 22;   // píxeles por segundo: más bajo, más lento
+
+const $riel = document.getElementById("riel");
+const $estado = document.getElementById("estado");
+
+function hora(iso){
+  const d = new Date(iso);
+  return isNaN(d) ? "" : d.toLocaleTimeString("es-CO", {hour:"2-digit", minute:"2-digit"});
+}
+
+function esReciente(iso){
+  const d = new Date(iso);
+  return !isNaN(d) && (Date.now() - d) < VENTANA_NUEVO_H * 3600 * 1000;
+}
+
+function crearNota(item){
+  const nota = document.createElement("span");
+  nota.className = "nota" + (esReciente(item.capturado) ? " reciente" : "");
+
+  const a = document.createElement("a");
+  a.href = item.url;
+  a.target = "_blank";
+  a.rel = "noopener";
+  a.textContent = item.titulo;
+  nota.appendChild(a);
+
+  const marca = document.createElement("span");
+  marca.className = "hora";
+  marca.textContent = hora(item.capturado);
+  nota.appendChild(marca);
+
+  return nota;
+}
+
+function pintar(datos){
+  const et = datos.secciones || {};
+  const items = SECCIONES.flatMap(s => et[s] || [])
+    .sort((a,b) => (b.capturado || "").localeCompare(a.capturado || ""));
+
+  $riel.innerHTML = "";
+  if (!items.length){
+    $estado.textContent = "Sin titulares por ahora";
+    return;
+  }
+
+  // Se pinta dos veces para que el desplazamiento sea continuo.
+  const tanda = document.createElement("span");
+  items.forEach(i => tanda.appendChild(crearNota(i)));
+  $riel.appendChild(tanda);
+  $riel.appendChild(tanda.cloneNode(true));
+
+  // La duración se calcula del ancho real: la velocidad no cambia
+  // aunque haya más o menos titulares.
+  const ancho = tanda.getBoundingClientRect().width;
+  $riel.style.animationDuration = Math.max(ancho / VELOCIDAD, 30) + "s";
+
+  $estado.textContent = "Última Actualización " + (hora(datos.actualizado) || "—");
+}
+
+async function cargar(){
+  try{
+    const r = await fetch(FUENTE_JSON + "?v=" + Date.now(), {cache:"no-store"});
+    if (!r.ok) throw new Error("HTTP " + r.status);
+    pintar(await r.json());
+  }catch(e){
+    $estado.textContent = "No se pudieron cargar los titulares";
+  }
+}
+
+cargar();
+setInterval(cargar, REFRESCO_MS);
+</script>
+</body>
+</html>
