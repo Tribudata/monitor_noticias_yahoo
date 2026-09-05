@@ -1,9 +1,33 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-05T16:56:30-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-05T18:38:11-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Directivo de Ripple cuestiona traslado de oro por 11 mil millones y pregunta si las criptos superan eso",
+        "url": "https://es.finance.yahoo.com/noticias/ceo-ripple-critica-movimiento-oro-220400456.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "CEO de Ripple critica movimiento de oro por $11 mil millones: ¿Pueden las criptomonedas hacerlo mejor?",
+        "capturado": "2026-09-05T18:38:11-05:00"
+      },
+      {
+        "titulo": "Creador de Silent Hill se arrepiente de dejar las mujeres ocho años por la obra y fans lo apoyan",
+        "url": "https://es-us.noticias.yahoo.com/desarrollador-silent-hill-lamenta-renunciado-174920320.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Desarrollador de Silent Hill lamenta haber renunciado a las mujeres durante 8 años por el juego, pero los jugadores lo consuelan: “tu sacrificio perdurará, gracias”",
+        "capturado": "2026-09-05T18:38:11-05:00"
+      },
+      {
+        "titulo": "Chile Game Showcase 2026 impulsa la industria indie local con acuerdos externos el 5 y 12 de septiembre",
+        "url": "https://es-us.noticias.yahoo.com/chile-game-showcase-2026-potencia-173350014.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Chile Game Showcase 2026 potencia la escena indie nacional con alianzas internacionales este 5 y 12 de septiembre",
+        "capturado": "2026-09-05T18:38:11-05:00"
+      },
       {
         "titulo": "Criptoactivo de Alpine F1 sube con fuerza luego de la pole de Gasly en Italia: detalles",
         "url": "https://es.finance.yahoo.com/noticias/fan-token-alpine-f1-dispara-194500983.html",
