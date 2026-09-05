@@ -1,8 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-05T14:39:37-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-05T14:52:16-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
-    "Portada": []
+    "Portada": [
+      {
+        "titulo": "Cathie Wood afirma que gran parte de los inversionistas ignora esta altcoin",
+        "url": "https://es.finance.yahoo.com/noticias/mayor%C3%ADa-inversores-valora-altcoin-cathie-172600020.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "La mayoría de los inversores no valora esta altcoin: Cathie Wood",
+        "capturado": "2026-09-05T14:52:16-05:00"
+      },
+      {
+        "titulo": "XRP presenta idéntica pauta del alza del 650 por ciento: ¿Volverá a ocurrir?",
+        "url": "https://es.finance.yahoo.com/noticias/xrp-muestra-patr%C3%B3n-impuls%C3%B3-rally-151800998.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "XRP muestra el mismo patrón que impulsó rally del 650%: ¿Se repetirá la historia?",
+        "capturado": "2026-09-05T14:52:16-05:00"
+      },
+      {
+        "titulo": "Magnate venezolano indagado por EE UU concretó un pacto de petróleo con el Pentágono",
+        "url": "https://es.finance.yahoo.com/noticias/multimillonario-venezolano-investigado-eeuu-cerrado-143900510.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Multimillonario venezolano investigado por EEUU ha cerrado un acuerdo petrolero con el Pentágono",
+        "capturado": "2026-09-05T14:52:16-05:00"
+      },
+      {
+        "titulo": "CEO de Epic Games avizora crisis del sector por encarecimiento de la RAM debido a la IA",
+        "url": "https://es-us.noticias.yahoo.com/jefe-epic-games-pronostica-colapso-140953557.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Jefe de Epic Games pronostica el colapso de la industria porque la IA cuadruplicó el precio de la RAM: menos juegos y más caros, y consolas retrasadas los próximos tres años",
+        "capturado": "2026-09-05T14:52:16-05:00"
+      },
+      {
+        "titulo": "Fitch eleva la nota crediticia de Portugal a A+ conservando perspectiva estable",
+        "url": "https://es.finance.yahoo.com/noticias/fitch-sube-calificaci%C3%B3n-portugal-mantiene-130742468.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Fitch sube la calificación financiera de Portugal a A+ y mantiene una perspectiva \"estable\"",
+        "capturado": "2026-09-05T14:52:16-05:00"
+      },
+      {
+        "titulo": "Strategy comercializa tenis Bitcoin Jordans a 250 dólares sin permitir pago en criptomonedas",
+        "url": "https://es.finance.yahoo.com/noticias/strategy-lanza-zapatillas-bitcoin-jordans-130300203.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Strategy lanza zapatillas Bitcoin Jordans por $250, pero no se pueden comprar con BTC",
+        "capturado": "2026-09-05T14:52:16-05:00"
+      },
+      {
+        "titulo": "Futuro de Zcash luego de rebasar los 1000 dólares tras diez años",
+        "url": "https://es.finance.yahoo.com/noticias/zcash-superar-1-000-d%C3%A9cada-105000676.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿Qué sigue para Zcash tras superar los $1,000 por primera vez en una década?",
+        "capturado": "2026-09-05T14:52:16-05:00"
+      },
+      {
+        "titulo": "Inversionista sin pérdidas por tres décadas arriesga 125 millones de dólares en Bitcoin",
+        "url": "https://es.finance.yahoo.com/noticias/inversor-30-a%C3%B1os-p%C3%A9rdidas-apuesta-083700042.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Inversor con 30 años sin pérdidas apuesta $125 millones en Bitcoin",
+        "capturado": "2026-09-05T14:52:16-05:00"
+      }
+    ]
   }
 }
