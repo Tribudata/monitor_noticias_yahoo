@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-06T07:14:56-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-09-06T10:38:18-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Están saliendo los mineros de Bitcoin del mercado por culpa de la inteligencia artificial",
+        "url": "https://es.finance.yahoo.com/noticias/ia-expulsando-mineros-bitcoin-mercado-142100348.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿La IA está expulsando a los mineros de Bitcoin del mercado?",
+        "capturado": "2026-09-06T10:38:18-05:00"
+      },
+      {
+        "titulo": "Stihl, fabricante de motosierras, pide jornadas más extensas en Alemania sin pago extra",
+        "url": "https://es.finance.yahoo.com/noticias/fabricante-motosierras-stihl-aboga-jornada-133959949.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El fabricante de motosierras Stihl aboga por una jornada más larga en Alemania sin remuneración",
+        "capturado": "2026-09-06T10:38:18-05:00"
+      },
       {
         "titulo": "Escándalo por Camilo Séptimo en México apunta a posible uso de Bitcoin",
         "url": "https://es.finance.yahoo.com/noticias/caso-camilo-s%C3%A9ptimo-sacude-m%C3%A9xico-113500676.html",
