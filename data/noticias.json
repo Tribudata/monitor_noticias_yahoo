@@ -1,9 +1,41 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-06T13:03:15-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-09-06T15:39:29-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Aeronave Boeing 767 de Amazon Prime Air abandona la pista en el terminal aéreo de Miami",
+        "url": "https://es.finance.yahoo.com/noticias/boeing-767-amazon-prime-air-195759964.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Un Boeing 767 de Amazon Prime Air se sale de la pista en el aeropuerto de Miami",
+        "capturado": "2026-09-06T15:39:29-05:00"
+      },
+      {
+        "titulo": "Memoria cuántica: El dispositivo que rompe Bitcoin y lo reemplaza",
+        "url": "https://es.finance.yahoo.com/noticias/memoria-cu%C3%A1ntica-dispositivo-rompe-bitcoin-192300230.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Memoria cuántica: El dispositivo que rompe Bitcoin y lo reemplaza",
+        "capturado": "2026-09-06T15:39:29-05:00"
+      },
+      {
+        "titulo": "Mudarse al campo por vivienda: el retorno rural de jóvenes que escapan del costo habitacional",
+        "url": "https://es.finance.yahoo.com/noticias/irse-pueblo-casa-%C3%A9xodo-rural-035717659.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Irse al pueblo para tener casa: el éxodo rural inverso de los jóvenes que huyen del precio de la vivienda",
+        "capturado": "2026-09-06T15:39:29-05:00"
+      },
+      {
+        "titulo": "DLSS 5 y generación de fotogramas disponibles para RTX 20, 30 y 40 ignorando restricciones de NVIDIA gracias a un mod",
+        "url": "https://es-us.noticias.yahoo.com/dlss-5-generaci%C3%B3n-fotogramas-disponibles-153204616.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "DLSS 5 y generación de fotogramas disponibles para RTX 20, 30 y 40 ignorando las restricciones de NVIDIA gracias a un nuevo mod",
+        "capturado": "2026-09-06T15:39:29-05:00"
+      },
       {
         "titulo": "Balance de la semana sobre Bitcoin y criptomonedas en España y América Latina al 6 de septiembre",
         "url": "https://es.finance.yahoo.com/noticias/resumen-semanal-bitcoin-criptomonedas-espa%C3%B1a-171000194.html",
