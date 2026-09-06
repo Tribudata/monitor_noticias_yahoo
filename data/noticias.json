@@ -1,9 +1,41 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-06T03:03:20-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-06T07:14:56-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Escándalo por Camilo Séptimo en México apunta a posible uso de Bitcoin",
+        "url": "https://es.finance.yahoo.com/noticias/caso-camilo-s%C3%A9ptimo-sacude-m%C3%A9xico-113500676.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "El caso “Camilo Séptimo” sacude a México: ¿Bitcoin como móvil?",
+        "capturado": "2026-09-06T07:14:56-05:00"
+      },
+      {
+        "titulo": "Creador de Solana rechaza cobros de Robinhood Chain y califica de absurdos sus réditos por congestión",
+        "url": "https://es.finance.yahoo.com/noticias/cofundador-solana-critica-comisiones-robinhood-084400757.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Cofundador de Solana critica las comisiones de Robinhood Chain: llama “absurdas” las ganancias por congestión",
+        "capturado": "2026-09-06T07:14:56-05:00"
+      },
+      {
+        "titulo": "PIB marroquí avanza al doble que el español y el FMI proyecta una expansión firme cerca del 4% a futuro",
+        "url": "https://es.finance.yahoo.com/noticias/econom%C3%ADa-marruecos-crece-doble-espa%C3%B1a-053000565.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "La economía de Marruecos ya crece el doble que la de España y el FMI vaticina que crecerá de forma estable cerca de un 4% durante años",
+        "capturado": "2026-09-06T07:14:56-05:00"
+      },
+      {
+        "titulo": "La clave estará en mezclar volumen, eficacia operativa y consistencia estratégica",
+        "url": "https://es.finance.yahoo.com/noticias/clave-combinar-escala-excelencia-ejecuci%C3%B3n-040000024.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "“La clave estará en combinar escala, excelencia en ejecución y coherencia estratégica”",
+        "capturado": "2026-09-06T07:14:56-05:00"
+      },
       {
         "titulo": "Ejecutan DLSS 5 en GPU AMD y una RX 9070 XT baja de 140 a 30 FPS en Cyberpunk con la función activa",
         "url": "https://es-us.noticias.yahoo.com/logran-ejecutar-dlss-5-tarjetas-192327199.html",
