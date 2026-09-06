@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-05T18:38:11-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-09-05T22:13:00-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Ejecutan DLSS 5 en GPU AMD y una RX 9070 XT baja de 140 a 30 FPS en Cyberpunk con la función activa",
+        "url": "https://es-us.noticias.yahoo.com/logran-ejecutar-dlss-5-tarjetas-192327199.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Logran ejecutar DLSS 5 en tarjetas gráficas AMD, aunque aún le queda camino: una RX 9070 XT pasa de 140 a 30 FPS en Cyberpunk con la tecnología activa",
+        "capturado": "2026-09-05T22:13:00-05:00"
+      },
       {
         "titulo": "Directivo de Ripple cuestiona traslado de oro por 11 mil millones y pregunta si las criptos superan eso",
         "url": "https://es.finance.yahoo.com/noticias/ceo-ripple-critica-movimiento-oro-220400456.html",
