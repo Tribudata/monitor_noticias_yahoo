@@ -1,9 +1,33 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-06T10:38:18-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-09-06T13:03:15-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Balance de la semana sobre Bitcoin y criptomonedas en España y América Latina al 6 de septiembre",
+        "url": "https://es.finance.yahoo.com/noticias/resumen-semanal-bitcoin-criptomonedas-espa%C3%B1a-171000194.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Resumen semanal de Bitcoin y criptomonedas: España y América Latina – 6 de septiembre",
+        "capturado": "2026-09-06T13:03:15-05:00"
+      },
+      {
+        "titulo": "Titular de STIHL aboga por cambios para preservar el bienestar social y la bonanza",
+        "url": "https://es.finance.yahoo.com/noticias/presidente-stihl-defiende-reformas-mantener-162407282.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El presidente de STIHL defiende reformas para mantener la prosperidad y el Estado del bienestar",
+        "capturado": "2026-09-06T13:03:15-05:00"
+      },
+      {
+        "titulo": "Trump asegura que Estados Unidos se apropiará de la totalidad del crudo en el pacto con Venezuela",
+        "url": "https://es.finance.yahoo.com/noticias/trump-promete-ee-uu-quedar%C3%A1-105021950.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Trump promete que EE.UU. \"se quedará con todo\" el petróleo del acuerdo con Venezuela",
+        "capturado": "2026-09-06T13:03:15-05:00"
+      },
       {
         "titulo": "Están saliendo los mineros de Bitcoin del mercado por culpa de la inteligencia artificial",
         "url": "https://es.finance.yahoo.com/noticias/ia-expulsando-mineros-bitcoin-mercado-142100348.html",
