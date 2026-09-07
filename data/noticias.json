@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-07T15:42:29-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-09-07T18:17:52-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Sigue la salida de millonarios británicos: Chris Rokos se traslada a Grecia",
+        "url": "https://es.finance.yahoo.com/noticias/contin%C3%BAa-%C3%A9xodo-ricos-reino-unido-190749768.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Continúa el éxodo de ricos de Reino Unido: Chris Rokos se muda a Grecia",
+        "capturado": "2026-09-07T18:17:52-05:00"
+      },
+      {
+        "titulo": "Capcom priorizará rescatar franquicias inactivas tras vender un millón de Onimusha",
+        "url": "https://es-us.noticias.yahoo.com/capcom-enfocar%C3%A1-reactivar-ips-lanzamiento-170145477.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Capcom se enfocará en reactivar IPs que no han tenido un lanzamiento reciente después del éxito de Onimusha: Way of the Sword, que vendió más de un millón de copias en su primer día",
+        "capturado": "2026-09-07T18:17:52-05:00"
+      },
       {
         "titulo": "CASA 47: qué trae la nueva plataforma estatal de vivienda pública y su operación",
         "url": "https://es.finance.yahoo.com/noticias/casa-47-ofrece-portal-estatal-192606257.html",
