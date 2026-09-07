@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-06T19:42:49-05:00",
+  "actualizado": "2026-09-07T00:43:38-05:00",
   "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Este es el listado de los 20 puertos con mayor actividad en la UE y la ubicación de los españoles",
+        "url": "https://es.finance.yahoo.com/noticias/puertos-activos-europa-ciudades-mueven-040630931.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Estos son los 20 puertos más activos de la UE: ¿En qué puesto están los españoles?",
+        "capturado": "2026-09-07T00:43:38-05:00"
+      },
+      {
+        "titulo": "Lanzan función para integrar DLSS 5 en un paso a videojuegos sin soporte oficial de NVIDIA con RTX 20 y 30",
+        "url": "https://es-us.noticias.yahoo.com/herramienta-instala-dlss-5-clic-001532460.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Nueva herramienta instala DLSS 5 con un solo clic en juegos que NVIDIA nunca respaldó, incluyendo tarjetas RTX 20 y 30",
+        "capturado": "2026-09-07T00:43:38-05:00"
+      },
       {
         "titulo": "Emulador de PS5 en PC ejecuta la misión inicial de GTA 5 hasta a 60 FPS y aviva rumores sobre GTA 6",
         "url": "https://es-us.noticias.yahoo.com/emulador-ps5-pc-logra-correr-201751599.html",
