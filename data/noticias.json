@@ -1,9 +1,65 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-07T12:21:12-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-09-07T15:42:29-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "CASA 47: qué trae la nueva plataforma estatal de vivienda pública y su operación",
+        "url": "https://es.finance.yahoo.com/noticias/casa-47-ofrece-portal-estatal-192606257.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "CASA 47: Qué ofrece el nuevo portal estatal de vivienda pública y cómo funcionará",
+        "capturado": "2026-09-07T15:42:29-05:00"
+      },
+      {
+        "titulo": "Impuestos en Colombia crecen en julio, mas el acumulado anual sigue bajo la meta",
+        "url": "https://es.finance.yahoo.com/noticias/recaudo-tributario-colombia-sube-julio-185834177.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Recaudo tributario en Colombia sube en julio, aunque en lo corrido del año sigue por debajo de la meta",
+        "capturado": "2026-09-07T15:42:29-05:00"
+      },
+      {
+        "titulo": "Podría la IA rejuvenecernos? Un medicamento plantea esa opción",
+        "url": "https://es.finance.yahoo.com/noticias/ia-hacernos-j%C3%B3venes-f%C3%A1rmaco-abre-165925122.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "¿La IA puede hacernos más jóvenes? Un fármaco abre esa posibilidad",
+        "capturado": "2026-09-07T15:42:29-05:00"
+      },
+      {
+        "titulo": "Inversionista de bienes raíces aliado de Milei avala su proyecto en las Malvinas",
+        "url": "https://es.finance.yahoo.com/noticias/magnate-inmobiliario-aliado-milei-defiende-165405193.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Magnate inmobiliario aliado de Milei defiende su inversión en las Malvinas",
+        "capturado": "2026-09-07T15:42:29-05:00"
+      },
+      {
+        "titulo": "Cobre llega a máximo histórico en Londres por previsibles aranceles de Trump",
+        "url": "https://es.finance.yahoo.com/noticias/cobre-alcanza-r%C3%A9cord-hist%C3%B3rico-londres-164830893.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Cobre alcanza récord histórico en Londres ante posibles aranceles de Trump",
+        "capturado": "2026-09-07T15:42:29-05:00"
+      },
+      {
+        "titulo": "Publican edición gratis de Crash Bandicoot Racing para PC a 60 FPS con multijugador local de cuatro",
+        "url": "https://es-us.noticias.yahoo.com/lanzan-versi%C3%B3n-gratuita-crash-bandicoot-163048252.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Lanzan versión gratuita de Crash Bandicoot Racing para PC: corre a 60 FPS y tiene multijugador local de hasta 4 jugadores",
+        "capturado": "2026-09-07T15:42:29-05:00"
+      },
+      {
+        "titulo": "Canadá replicaría a los tributos de Trump y pone en peligro una escalada del conflicto comercial",
+        "url": "https://es.finance.yahoo.com/noticias/canad%C3%A1-responder%C3%ADa-aranceles-trump-arriesga-160731316.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Canadá respondería a aranceles de Trump y arriesga escalada de la guerra comercial",
+        "capturado": "2026-09-07T15:42:29-05:00"
+      },
       {
         "titulo": "Protestas en Portugal por histórico incremento en el precio de los combustibles",
         "url": "https://es.finance.yahoo.com/noticias/subida-r%C3%A9cord-combustibles-provoca-protestas-171738439.html",
