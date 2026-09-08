@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-08T06:35:09-05:00",
+  "actualizado": "2026-09-08T11:05:34-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Estudio de la Fed de Nueva York muestra inquietud ciudadana por el trabajo y el dinero propio",
+        "url": "https://es.finance.yahoo.com/noticias/consumidores-preocupados-finanzas-personales-empleo-155422750.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Consumidores están más preocupados por finanzas personales y empleo: reporte de Fed Nueva York",
+        "capturado": "2026-09-08T11:05:34-05:00"
+      },
+      {
+        "titulo": "Efectos en el Presupuesto 2027 por una expansión cercana al 1% del PIB y mayores recursos",
+        "url": "https://es.finance.yahoo.com/noticias/crecimiento-1-pib-ingresos-impacto-154636363.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Crecimiento hacia el 1% del PIB y más ingresos, qué impacto tendrá en la Ley de Presupuestos 2027",
+        "capturado": "2026-09-08T11:05:34-05:00"
+      },
+      {
+        "titulo": "Citibank otorga crédito por 300 millones de dólares a Avianca con garantía de la ABGF",
+        "url": "https://es.finance.yahoo.com/noticias/aerol%C3%ADnea-avianca-obtiene-financiaci%C3%B3n-300-144130970.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Aerolínea Avianca obtiene financiación por 300 millones de dólares con Citibank respaldada por agencia brasileña ABGF",
+        "capturado": "2026-09-08T11:05:34-05:00"
+      },
+      {
+        "titulo": "La OPEP cede bombeo por la presión al crudo saudí derivada de la guerra",
+        "url": "https://es.finance.yahoo.com/noticias/opep-pierde-producci%C3%B3n-presi%C3%B3n-petr%C3%B3leo-144112626.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "OPEP pierde producción ante presión sobre petróleo saudita por conflicto",
+        "capturado": "2026-09-08T11:05:34-05:00"
+      },
+      {
+        "titulo": "Kraken informa que 23 servicios presentan demoras en retiros por fallas de fondeo",
+        "url": "https://es.finance.yahoo.com/noticias/kraken-retiros-atascados-problemas-financiaci%C3%B3n-143813868.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Kraken dice que los retiros están atascados debido a problemas de financiación que afectan a 23 servicios",
+        "capturado": "2026-09-08T11:05:34-05:00"
+      },
+      {
+        "titulo": "Ventas externas de trigo blando 2026/27 de la UE llegan a 4,92 millones de toneladas al 6 de septiembre",
+        "url": "https://es.finance.yahoo.com/noticias/exportaciones-trigo-blando-2026-27-142650032.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Exportaciones de trigo blando 2026/27 de la UE ascienden a 4,92 millones de toneladas al 6 de septiembre",
+        "capturado": "2026-09-08T11:05:34-05:00"
+      },
+      {
+        "titulo": "Apple demoró diez años en diseñar su iPhone plegable y costaría más de US$2.000",
+        "url": "https://es.finance.yahoo.com/noticias/apple-tard%C3%B3-d%C3%A9cada-crear-iphone-140616875.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Apple tardó una década en crear su iPhone plegable; su precio sería de más de US$2.000",
+        "capturado": "2026-09-08T11:05:34-05:00"
+      },
+      {
+        "titulo": "Meta difundió centenares de avisos con abuso sexual infantil generado por IA",
+        "url": "https://es.finance.yahoo.com/noticias/meta-public%C3%B3-cientos-anuncios-abuso-135428460.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Meta publicó cientos de anuncios con abuso sexual infantil creado por IA",
+        "capturado": "2026-09-08T11:05:34-05:00"
+      },
       {
         "titulo": "EEUU sufre aranceles de hasta el 50% por parte de Canadá en medio de creciente pugna comercial",
         "url": "https://es.finance.yahoo.com/noticias/canad%C3%A1-impone-aranceles-50-productos-111944466.html",
@@ -419,70 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "¿La IA está expulsando a los mineros de Bitcoin del mercado?",
         "capturado": "2026-09-06T10:38:18-05:00"
-      },
-      {
-        "titulo": "Stihl, fabricante de motosierras, pide jornadas más extensas en Alemania sin pago extra",
-        "url": "https://es.finance.yahoo.com/noticias/fabricante-motosierras-stihl-aboga-jornada-133959949.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El fabricante de motosierras Stihl aboga por una jornada más larga en Alemania sin remuneración",
-        "capturado": "2026-09-06T10:38:18-05:00"
-      },
-      {
-        "titulo": "Escándalo por Camilo Séptimo en México apunta a posible uso de Bitcoin",
-        "url": "https://es.finance.yahoo.com/noticias/caso-camilo-s%C3%A9ptimo-sacude-m%C3%A9xico-113500676.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "El caso “Camilo Séptimo” sacude a México: ¿Bitcoin como móvil?",
-        "capturado": "2026-09-06T07:14:56-05:00"
-      },
-      {
-        "titulo": "Creador de Solana rechaza cobros de Robinhood Chain y califica de absurdos sus réditos por congestión",
-        "url": "https://es.finance.yahoo.com/noticias/cofundador-solana-critica-comisiones-robinhood-084400757.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Cofundador de Solana critica las comisiones de Robinhood Chain: llama “absurdas” las ganancias por congestión",
-        "capturado": "2026-09-06T07:14:56-05:00"
-      },
-      {
-        "titulo": "PIB marroquí avanza al doble que el español y el FMI proyecta una expansión firme cerca del 4% a futuro",
-        "url": "https://es.finance.yahoo.com/noticias/econom%C3%ADa-marruecos-crece-doble-espa%C3%B1a-053000565.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "La economía de Marruecos ya crece el doble que la de España y el FMI vaticina que crecerá de forma estable cerca de un 4% durante años",
-        "capturado": "2026-09-06T07:14:56-05:00"
-      },
-      {
-        "titulo": "La clave estará en mezclar volumen, eficacia operativa y consistencia estratégica",
-        "url": "https://es.finance.yahoo.com/noticias/clave-combinar-escala-excelencia-ejecuci%C3%B3n-040000024.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "“La clave estará en combinar escala, excelencia en ejecución y coherencia estratégica”",
-        "capturado": "2026-09-06T07:14:56-05:00"
-      },
-      {
-        "titulo": "Ejecutan DLSS 5 en GPU AMD y una RX 9070 XT baja de 140 a 30 FPS en Cyberpunk con la función activa",
-        "url": "https://es-us.noticias.yahoo.com/logran-ejecutar-dlss-5-tarjetas-192327199.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Logran ejecutar DLSS 5 en tarjetas gráficas AMD, aunque aún le queda camino: una RX 9070 XT pasa de 140 a 30 FPS en Cyberpunk con la tecnología activa",
-        "capturado": "2026-09-05T22:13:00-05:00"
-      },
-      {
-        "titulo": "Directivo de Ripple cuestiona traslado de oro por 11 mil millones y pregunta si las criptos superan eso",
-        "url": "https://es.finance.yahoo.com/noticias/ceo-ripple-critica-movimiento-oro-220400456.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "CEO de Ripple critica movimiento de oro por $11 mil millones: ¿Pueden las criptomonedas hacerlo mejor?",
-        "capturado": "2026-09-05T18:38:11-05:00"
-      },
-      {
-        "titulo": "Creador de Silent Hill se arrepiente de dejar las mujeres ocho años por la obra y fans lo apoyan",
-        "url": "https://es-us.noticias.yahoo.com/desarrollador-silent-hill-lamenta-renunciado-174920320.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Desarrollador de Silent Hill lamenta haber renunciado a las mujeres durante 8 años por el juego, pero los jugadores lo consuelan: “tu sacrificio perdurará, gracias”",
-        "capturado": "2026-09-05T18:38:11-05:00"
       }
     ]
   }
