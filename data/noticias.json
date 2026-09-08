@@ -1,9 +1,33 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-08T14:29:39-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-09-08T16:59:05-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Bolsas de EE. UU. bajan por ataques hutíes a petróleo saudí y sube el crudo",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-205651630.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen tras los ataques de los hutíes contra la infraestructura energética de Arabia Saudita, lo que impulsa el precio del petróleo crudo.",
+        "capturado": "2026-09-08T16:59:05-05:00"
+      },
+      {
+        "titulo": "Collective Mining pedirá licencia ambiental para Guayabales en Colombia en 2025",
+        "url": "https://es.finance.yahoo.com/noticias/collective-mining-solicitar%C3%A1-licencia-ambiental-204640062.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Collective Mining solicitará la licencia ambiental para el proyecto Guayabales en Colombia el próximo año.",
+        "capturado": "2026-09-08T16:59:05-05:00"
+      },
+      {
+        "titulo": "Quimbaya Gold reporta mineralización hallada en perforación inicial de Tahami",
+        "url": "https://es.finance.yahoo.com/noticias/quimbaya-gold-afirma-programa-inicial-193434988.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Quimbaya Gold afirma que el programa inicial de perforación en el proyecto Tahami en Colombia interceptó mineralización.",
+        "capturado": "2026-09-08T16:59:05-05:00"
+      },
       {
         "titulo": "Demanda a Amazon por presunta discriminación sistemática a trabajadoras en estado de embarazo",
         "url": "https://es.finance.yahoo.com/noticias/amazon-acusada-demanda-discriminaci%C3%B3n-sistem%C3%A1tica-185633321.html",
@@ -459,30 +483,6 @@
         "medio": "Tarreo",
         "titulo_fuente": "Nueva herramienta instala DLSS 5 con un solo clic en juegos que NVIDIA nunca respaldó, incluyendo tarjetas RTX 20 y 30",
         "capturado": "2026-09-07T00:43:38-05:00"
-      },
-      {
-        "titulo": "Emulador de PS5 en PC ejecuta la misión inicial de GTA 5 hasta a 60 FPS y aviva rumores sobre GTA 6",
-        "url": "https://es-us.noticias.yahoo.com/emulador-ps5-pc-logra-correr-201751599.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "El emulador de PS5 para PC logra correr la primera misión de GTA 5 en hasta 60 FPS, un avance tan rápido que los jugadores ya hablan de GTA 6 en PC",
-        "capturado": "2026-09-06T19:42:49-05:00"
-      },
-      {
-        "titulo": "RPCS3 ejecuta discos originales de PS3 desde la unidad de CD del PC sin necesidad de copias previas",
-        "url": "https://es-us.noticias.yahoo.com/rpcs3-lee-discos-f%C3%ADsicos-ps3-195216990.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "RPCS3 ahora lee discos físicos de PS3 directamente en lector de CD del PC sin copiar nada: inserta el disco y juega",
-        "capturado": "2026-09-06T19:42:49-05:00"
-      },
-      {
-        "titulo": "Aeronave Boeing 767 de Amazon Prime Air abandona la pista en el terminal aéreo de Miami",
-        "url": "https://es.finance.yahoo.com/noticias/boeing-767-amazon-prime-air-195759964.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Un Boeing 767 de Amazon Prime Air se sale de la pista en el aeropuerto de Miami",
-        "capturado": "2026-09-06T15:39:29-05:00"
       }
     ]
   }
