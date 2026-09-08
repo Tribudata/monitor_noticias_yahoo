@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-08T01:17:22-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-08T06:35:09-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "EEUU sufre aranceles de hasta el 50% por parte de Canadá en medio de creciente pugna comercial",
+        "url": "https://es.finance.yahoo.com/noticias/canad%C3%A1-impone-aranceles-50-productos-111944466.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Canadá impone aranceles de hasta el 50% a productos de EEUU mientras crece la disputa comercial",
+        "capturado": "2026-09-08T06:35:09-05:00"
+      },
+      {
+        "titulo": "Sentencian por corrupción a un exdirectivo de la banca helvética",
+        "url": "https://es.finance.yahoo.com/noticias/condenan-corrupci%C3%B3n-antiguo-alto-cargo-111240095.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Condenan por corrupción a un antiguo alto cargo de la banca suiza",
+        "capturado": "2026-09-08T06:35:09-05:00"
+      },
+      {
+        "titulo": "Wall Street siente la presión del incremento petrolero previo a abrir; Asia cae y Europa resiste",
+        "url": "https://es.finance.yahoo.com/noticias/alza-precios-petr%C3%B3leo-presiona-wall-110458923.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "El alza de los precios del petróleo presiona a Wall Street antes de la apertura; Asia cierra, Europa se mantiene estable.",
+        "capturado": "2026-09-08T06:35:09-05:00"
+      },
+      {
+        "titulo": "Qatar usa trasbordos de GNL entre embarcaciones para esquivar el bloqueo de Ormuz",
+        "url": "https://es.finance.yahoo.com/noticias/6-meses-bloqueo-hormuz-qatar-101328401.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Qatar recurre a transferencias de GNL entre buques para sortear el bloqueo de Ormuz",
+        "capturado": "2026-09-08T06:35:09-05:00"
+      },
+      {
+        "titulo": "Alemania registra la primera caída de sus ventas al exterior en 5 meses",
+        "url": "https://es.finance.yahoo.com/noticias/exportaciones-alemanas-caen-5-meses-100615792.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Las exportaciones de Alemania caen por primera vez en 5 meses",
+        "capturado": "2026-09-08T06:35:09-05:00"
+      },
+      {
+        "titulo": "El dato de inflación de agosto guiará a Wall Street por la alta probabilidad de alza de tasas de la Fed",
+        "url": "https://es.finance.yahoo.com/noticias/inversores-renta-variable-estadounidense-centrar%C3%A1n-094012001.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los inversores en renta variable estadounidense se centrarán en el dato de inflación de agosto, ya que la probabilidad de una subida de tipos por parte de la Reserva Federal en septiembre sigue siendo elevada.",
+        "capturado": "2026-09-08T06:35:09-05:00"
+      },
+      {
+        "titulo": "Suecia adquiere sistemas HIMARS a Estados Unidos por 630 millones de euros",
+        "url": "https://es.finance.yahoo.com/noticias/suecia-comprar%C3%A1-artiller%C3%ADa-cohetes-himars-091936488.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Suecia compra sistemas HIMARS a EE.UU. por 630 millones de euros",
+        "capturado": "2026-09-08T06:35:09-05:00"
+      },
+      {
+        "titulo": "Jaguar Land Rover eliminará 4000 puestos de trabajo, casi el 10% de su personal",
+        "url": "https://es.finance.yahoo.com/noticias/jaguar-land-rover-recorta-4-090245563.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Jaguar Land Rover recortará 4.000 empleos, casi el 10% de su plantilla",
+        "capturado": "2026-09-08T06:35:09-05:00"
+      },
       {
         "titulo": "Bank of America eleva meta y precio de Nordex al anticipar fuerte repunte en sus utilidades",
         "url": "https://es.finance.yahoo.com/noticias/calificaci%C3%B3n-precio-objetivo-nordex-aumentan-053004635.html",
@@ -419,70 +483,6 @@
         "medio": "Tarreo",
         "titulo_fuente": "Desarrollador de Silent Hill lamenta haber renunciado a las mujeres durante 8 años por el juego, pero los jugadores lo consuelan: “tu sacrificio perdurará, gracias”",
         "capturado": "2026-09-05T18:38:11-05:00"
-      },
-      {
-        "titulo": "Chile Game Showcase 2026 impulsa la industria indie local con acuerdos externos el 5 y 12 de septiembre",
-        "url": "https://es-us.noticias.yahoo.com/chile-game-showcase-2026-potencia-173350014.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Chile Game Showcase 2026 potencia la escena indie nacional con alianzas internacionales este 5 y 12 de septiembre",
-        "capturado": "2026-09-05T18:38:11-05:00"
-      },
-      {
-        "titulo": "Criptoactivo de Alpine F1 sube con fuerza luego de la pole de Gasly en Italia: detalles",
-        "url": "https://es.finance.yahoo.com/noticias/fan-token-alpine-f1-dispara-194500983.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Fan token de Alpine F1 se dispara tras pole de Gasly en Italia: detalles",
-        "capturado": "2026-09-05T16:56:30-05:00"
-      },
-      {
-        "titulo": "Cathie Wood afirma que gran parte de los inversionistas ignora esta altcoin",
-        "url": "https://es.finance.yahoo.com/noticias/mayor%C3%ADa-inversores-valora-altcoin-cathie-172600020.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "La mayoría de los inversores no valora esta altcoin: Cathie Wood",
-        "capturado": "2026-09-05T14:52:16-05:00"
-      },
-      {
-        "titulo": "XRP presenta idéntica pauta del alza del 650 por ciento: ¿Volverá a ocurrir?",
-        "url": "https://es.finance.yahoo.com/noticias/xrp-muestra-patr%C3%B3n-impuls%C3%B3-rally-151800998.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "XRP muestra el mismo patrón que impulsó rally del 650%: ¿Se repetirá la historia?",
-        "capturado": "2026-09-05T14:52:16-05:00"
-      },
-      {
-        "titulo": "Magnate venezolano indagado por EE UU concretó un pacto de petróleo con el Pentágono",
-        "url": "https://es.finance.yahoo.com/noticias/multimillonario-venezolano-investigado-eeuu-cerrado-143900510.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Multimillonario venezolano investigado por EEUU ha cerrado un acuerdo petrolero con el Pentágono",
-        "capturado": "2026-09-05T14:52:16-05:00"
-      },
-      {
-        "titulo": "CEO de Epic Games avizora crisis del sector por encarecimiento de la RAM debido a la IA",
-        "url": "https://es-us.noticias.yahoo.com/jefe-epic-games-pronostica-colapso-140953557.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Jefe de Epic Games pronostica el colapso de la industria porque la IA cuadruplicó el precio de la RAM: menos juegos y más caros, y consolas retrasadas los próximos tres años",
-        "capturado": "2026-09-05T14:52:16-05:00"
-      },
-      {
-        "titulo": "Fitch eleva la nota crediticia de Portugal a A+ conservando perspectiva estable",
-        "url": "https://es.finance.yahoo.com/noticias/fitch-sube-calificaci%C3%B3n-portugal-mantiene-130742468.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Fitch sube la calificación financiera de Portugal a A+ y mantiene una perspectiva \"estable\"",
-        "capturado": "2026-09-05T14:52:16-05:00"
-      },
-      {
-        "titulo": "Strategy comercializa tenis Bitcoin Jordans a 250 dólares sin permitir pago en criptomonedas",
-        "url": "https://es.finance.yahoo.com/noticias/strategy-lanza-zapatillas-bitcoin-jordans-130300203.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Strategy lanza zapatillas Bitcoin Jordans por $250, pero no se pueden comprar con BTC",
-        "capturado": "2026-09-05T14:52:16-05:00"
       }
     ]
   }
