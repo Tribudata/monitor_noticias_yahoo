@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-07T18:17:52-05:00",
+  "actualizado": "2026-09-07T20:18:09-05:00",
   "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Argentina denunciará a Navitas y directivos por actividades en Malvinas",
+        "url": "https://es.finance.yahoo.com/noticias/argentina-denunciar%C3%A1-penalmente-navitas-directivos-233926829.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Argentina denunciará penalmente a Navitas y a sus directivos por operar en Islas Malvinas",
+        "capturado": "2026-09-07T20:18:09-05:00"
+      },
+      {
+        "titulo": "RPCS3 permite jugar Infamous 2 en PC a resolución 4K sin fallas gráficas",
+        "url": "https://es-us.noticias.yahoo.com/infamous-2-completamente-jugable-pc-201300433.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Infamous 2 ya es completamente jugable en PC gracias a RPCS3 y además corre en 4K sin problemas gráficos",
+        "capturado": "2026-09-07T20:18:09-05:00"
+      },
       {
         "titulo": "Sigue la salida de millonarios británicos: Chris Rokos se traslada a Grecia",
         "url": "https://es.finance.yahoo.com/noticias/contin%C3%BAa-%C3%A9xodo-ricos-reino-unido-190749768.html",
