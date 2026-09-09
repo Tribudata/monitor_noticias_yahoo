@@ -1,9 +1,33 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-09T15:31:15-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-09-09T17:57:57-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Para Fitch, el presupuesto colombiano de 2027 presenta un grave déficit y demanda un gran trabajo",
+        "url": "https://es.finance.yahoo.com/noticias/presupuesto-colombia-2027-muestra-profundo-215552336.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Presupuesto de Colombia para 2027 muestra profundo desequilibrio y requiere esfuerzo significativo: Fitch",
+        "capturado": "2026-09-09T17:57:57-05:00"
+      },
+      {
+        "titulo": "Actualización: Las bolsas en EE. UU. bajan al subir los bonos del Tesoro tras la recompra de Bessent, intensificando el conflicto con Irán y situando el crudo Brent arriba de US$100",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-210157822.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen a medida que suben los rendimientos de los bonos del Tesoro después de que Bessent triplicara el tamaño de su programa de recompra, lo que empeora la guerra con Irán y eleva el precio del crudo Brent por encima de los 100 dólares.",
+        "capturado": "2026-09-09T17:57:57-05:00"
+      },
+      {
+        "titulo": "OpenAI habría hurtado apuntes a matemático que empleaba Codex para hallar antes que él una fórmula centenaria: usó 10.000 agentes e invirtió US$22,5 millones para conseguirlo",
+        "url": "https://es-us.noticias.yahoo.com/openai-habr%C3%ADa-robado-notas-matem%C3%A1tico-014840857.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "OpenAI habría robado notas a matemático que usaba Codex para resolver antes que él ecuación centenaria: desplegó 10.000 agentes y gastó US$22,5 millones para lograrlo",
+        "capturado": "2026-09-09T17:57:57-05:00"
+      },
       {
         "titulo": "Secretario Rubio anuncia gestión de 45 millones de dólares para seguridad en Ecuador",
         "url": "https://es.finance.yahoo.com/noticias/secretario-rubio-buscar%C3%A1-45-millones-200959588.html",
@@ -458,30 +482,6 @@
         "resumen": "",
         "medio": "Euronews",
         "titulo_fuente": "Las exportaciones de Alemania caen por primera vez en 5 meses",
-        "capturado": "2026-09-08T06:35:09-05:00"
-      },
-      {
-        "titulo": "El dato de inflación de agosto guiará a Wall Street por la alta probabilidad de alza de tasas de la Fed",
-        "url": "https://es.finance.yahoo.com/noticias/inversores-renta-variable-estadounidense-centrar%C3%A1n-094012001.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los inversores en renta variable estadounidense se centrarán en el dato de inflación de agosto, ya que la probabilidad de una subida de tipos por parte de la Reserva Federal en septiembre sigue siendo elevada.",
-        "capturado": "2026-09-08T06:35:09-05:00"
-      },
-      {
-        "titulo": "Suecia adquiere sistemas HIMARS a Estados Unidos por 630 millones de euros",
-        "url": "https://es.finance.yahoo.com/noticias/suecia-comprar%C3%A1-artiller%C3%ADa-cohetes-himars-091936488.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Suecia compra sistemas HIMARS a EE.UU. por 630 millones de euros",
-        "capturado": "2026-09-08T06:35:09-05:00"
-      },
-      {
-        "titulo": "Jaguar Land Rover eliminará 4000 puestos de trabajo, casi el 10% de su personal",
-        "url": "https://es.finance.yahoo.com/noticias/jaguar-land-rover-recorta-4-090245563.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Jaguar Land Rover recortará 4.000 empleos, casi el 10% de su plantilla",
         "capturado": "2026-09-08T06:35:09-05:00"
       }
     ]
