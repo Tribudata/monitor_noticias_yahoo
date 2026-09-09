@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-09T04:35:50-05:00",
+  "actualizado": "2026-09-09T09:11:59-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "El bache fiscal qatarí llega a 5.000M€ en el segundo trimestre por la caída del GNL",
+        "url": "https://es.finance.yahoo.com/noticias/d%C3%A9ficit-presupuestario-catar-duplica-5-120642217.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El déficit presupuestario de Qatar se duplica a 5.000M€ en el segundo trimestre por la crisis de GNL",
+        "capturado": "2026-09-09T09:11:59-05:00"
+      },
+      {
+        "titulo": "Cultivadores de champán usarán reservas tras la caída de cosecha por las olas de calor",
+        "url": "https://es.finance.yahoo.com/noticias/productores-champ%C3%A1n-recurrir%C3%A1n-reservas-reducci%C3%B3n-134342506.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Productores de champán recurrirán a reservas tras la reducción de cosecha provocada por olas de calor",
+        "capturado": "2026-09-09T09:11:59-05:00"
+      },
+      {
+        "titulo": "El Brent reasume los 100 dólares ante la escalada bélica en Oriente Medio",
+        "url": "https://es.finance.yahoo.com/noticias/brent-supera-100-d%C3%B3lares-intensifica-130715473.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Brent supera 100 dólares mientras se intensifica el conflicto en Oriente Medio",
+        "capturado": "2026-09-09T09:11:59-05:00"
+      },
+      {
+        "titulo": "ETFs y futuros accionarios caen en la preapertura del miércoles con el Brent sobre 100 dólares",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-futuros-acciones-130653573.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa y los futuros de acciones bajan antes de la apertura del miércoles, mientras el crudo Brent supera los 100 dólares por barril.",
+        "capturado": "2026-09-09T09:11:59-05:00"
+      },
+      {
+        "titulo": "Los futuros de acciones en EE. UU. bajan en la preapertura y el Brent supera los 100 dólares",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-futuros-acciones-estadounidenses-caen-124959037.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los futuros de las acciones estadounidenses caen antes de la apertura del mercado, mientras que el crudo Brent supera los 100 dólares por barril.",
+        "capturado": "2026-09-09T09:11:59-05:00"
+      },
+      {
+        "titulo": "El valor del gas europeo sube a picos de 2023 debido al bloqueo de GNL en el estrecho de Ormuz",
+        "url": "https://es.finance.yahoo.com/noticias/precios-gas-europa-siguen-subiendo-113548382.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El precio del gas en Europa escala a máximos desde 2023 por el bloqueo del GNL en el estrecho de Ormuz",
+        "capturado": "2026-09-09T09:11:59-05:00"
+      },
+      {
+        "titulo": "Ventas externas de maíz en Argentina alcanzarían marcas históricas por conflicto ucraniano y calor europeo",
+        "url": "https://es.finance.yahoo.com/noticias/exportaciones-ma%C3%ADz-argentino-ser-r%C3%A9cord-120456819.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Exportaciones de maíz argentino podrían ser récord por guerra de Ucrania y calor en Europa",
+        "capturado": "2026-09-09T09:11:59-05:00"
+      },
+      {
+        "titulo": "El crudo regresa a los US$100: Morning Briefing Español",
+        "url": "https://es.finance.yahoo.com/noticias/petr%C3%B3leo-vuelve-us-100-morning-120415063.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "El petróleo vuelve a los US$100: Morning Briefing Español",
+        "capturado": "2026-09-09T09:11:59-05:00"
+      },
       {
         "titulo": "Crudo trepa a 100 dólares tras ofensiva contra buques iraníes en el estrecho de Ormuz",
         "url": "https://es.finance.yahoo.com/noticias/petr%C3%B3leo-supera-100-d%C3%B3lares-barril-081757933.html",
@@ -419,70 +483,6 @@
         "medio": "Bloomberg",
         "titulo_fuente": "¿La IA puede hacernos más jóvenes? Un fármaco abre esa posibilidad",
         "capturado": "2026-09-07T15:42:29-05:00"
-      },
-      {
-        "titulo": "Inversionista de bienes raíces aliado de Milei avala su proyecto en las Malvinas",
-        "url": "https://es.finance.yahoo.com/noticias/magnate-inmobiliario-aliado-milei-defiende-165405193.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Magnate inmobiliario aliado de Milei defiende su inversión en las Malvinas",
-        "capturado": "2026-09-07T15:42:29-05:00"
-      },
-      {
-        "titulo": "Cobre llega a máximo histórico en Londres por previsibles aranceles de Trump",
-        "url": "https://es.finance.yahoo.com/noticias/cobre-alcanza-r%C3%A9cord-hist%C3%B3rico-londres-164830893.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Cobre alcanza récord histórico en Londres ante posibles aranceles de Trump",
-        "capturado": "2026-09-07T15:42:29-05:00"
-      },
-      {
-        "titulo": "Publican edición gratis de Crash Bandicoot Racing para PC a 60 FPS con multijugador local de cuatro",
-        "url": "https://es-us.noticias.yahoo.com/lanzan-versi%C3%B3n-gratuita-crash-bandicoot-163048252.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Lanzan versión gratuita de Crash Bandicoot Racing para PC: corre a 60 FPS y tiene multijugador local de hasta 4 jugadores",
-        "capturado": "2026-09-07T15:42:29-05:00"
-      },
-      {
-        "titulo": "Canadá replicaría a los tributos de Trump y pone en peligro una escalada del conflicto comercial",
-        "url": "https://es.finance.yahoo.com/noticias/canad%C3%A1-responder%C3%ADa-aranceles-trump-arriesga-160731316.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Canadá respondería a aranceles de Trump y arriesga escalada de la guerra comercial",
-        "capturado": "2026-09-07T15:42:29-05:00"
-      },
-      {
-        "titulo": "Protestas en Portugal por histórico incremento en el precio de los combustibles",
-        "url": "https://es.finance.yahoo.com/noticias/subida-r%C3%A9cord-combustibles-provoca-protestas-171738439.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La subida récord de los combustibles provoca protestas en Portugal",
-        "capturado": "2026-09-07T12:21:12-05:00"
-      },
-      {
-        "titulo": "El computador de Hunter Biden se vuelve memecoin el miércoles y TRUMP cae un 97 por ciento",
-        "url": "https://es.finance.yahoo.com/noticias/laptop-hunter-biden-convierte-memecoin-154326691.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "La laptop de Hunter Biden se convierte en una memecoin el miércoles. TRUMP baja un 97%",
-        "capturado": "2026-09-07T12:21:12-05:00"
-      },
-      {
-        "titulo": "Estados Unidos aumenta compras de cobre congoleño debido a su mayor aceptación comercial",
-        "url": "https://es.finance.yahoo.com/noticias/eeuu-importa-cobre-congo-aceptado-151306121.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "EEUU importa más cobre del Congo, que es mejor aceptado por los consumidores",
-        "capturado": "2026-09-07T12:21:12-05:00"
-      },
-      {
-        "titulo": "Bolsa argentina opera a la baja con menor volumen por festivo en Estados Unidos",
-        "url": "https://es.finance.yahoo.com/noticias/plaza-financiera-argentina-baja-negocios-144353580.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Plaza financiera de Argentina en baja con negocios reducidos por feriado estadounidense",
-        "capturado": "2026-09-07T12:21:12-05:00"
       }
     ]
   }
