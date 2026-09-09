@@ -1,9 +1,41 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-09T12:54:56-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-09-09T15:31:15-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Secretario Rubio anuncia gestión de 45 millones de dólares para seguridad en Ecuador",
+        "url": "https://es.finance.yahoo.com/noticias/secretario-rubio-buscar%C3%A1-45-millones-200959588.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Secretario Rubio dice que buscará 45 millones de dólares en fondos de seguridad para Ecuador",
+        "capturado": "2026-09-09T15:31:15-05:00"
+      },
+      {
+        "titulo": "Bessent respalda emplear la fuerza financiera de EE.UU. en política exterior, tal como en Argentina",
+        "url": "https://es.finance.yahoo.com/noticias/bessent-apoya-usar-poder-financiero-181841792.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Bessent apoya usar poder financiero de EEUU como herramienta de política exterior, como en Argentina",
+        "capturado": "2026-09-09T15:31:15-05:00"
+      },
+      {
+        "titulo": "Irán avisa que está listo para un conflicto mayor con EE.UU. y señala que no retrocederá",
+        "url": "https://es.finance.yahoo.com/noticias/ir%C3%A1n-preparado-guerra-intensa-ee-170642136.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Irán está preparado para una guerra más intensa con EE.UU. y advierte que no cederá",
+        "capturado": "2026-09-09T15:31:15-05:00"
+      },
+      {
+        "titulo": "Ciudadanos de El Salvador afrontan la conclusión del TPS en territorio estadounidense",
+        "url": "https://es.finance.yahoo.com/noticias/salvadore%C3%B1os-enfrentn-tps-ee-uu-170346462.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Salvadoreños se enfrentn al fin del TPS en EE.UU.",
+        "capturado": "2026-09-09T15:31:15-05:00"
+      },
       {
         "titulo": "Bolsas de EE. UU. bajan al superar el petróleo US$100 por guerra con Irán y subir tasas por recompras",
         "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-173635529.html",
@@ -451,38 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "Jaguar Land Rover recortará 4.000 empleos, casi el 10% de su plantilla",
         "capturado": "2026-09-08T06:35:09-05:00"
-      },
-      {
-        "titulo": "Bank of America eleva meta y precio de Nordex al anticipar fuerte repunte en sus utilidades",
-        "url": "https://es.finance.yahoo.com/noticias/calificaci%C3%B3n-precio-objetivo-nordex-aumentan-053004635.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "La calificación y el precio objetivo de Nordex aumentan, ya que Bank of America prevé un importante potencial de crecimiento de las ganancias.",
-        "capturado": "2026-09-08T01:17:22-05:00"
-      },
-      {
-        "titulo": "Exportaciones chinas suben 25% y muestran dinamismo a pesar de tensiones comerciales con EE. UU.",
-        "url": "https://es.finance.yahoo.com/noticias/exportaciones-china-aceleran-fuerte-demanda-042917415.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "China pisa el acelerador: sus exportaciones se disparan un 25% pese a la guerra comercial con EE.UU.",
-        "capturado": "2026-09-08T01:17:22-05:00"
-      },
-      {
-        "titulo": "Baja transparencia salarial en España: apenas el 18% de las vacantes publica la remuneración",
-        "url": "https://es.finance.yahoo.com/noticias/transparencia-salarial-ue-honestas-ofertas-033253799.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "España, a la cola en transparencia salarial: solo el 18% de las ofertas de empleo revela el sueldo",
-        "capturado": "2026-09-08T01:17:22-05:00"
-      },
-      {
-        "titulo": "Nextendo Network permite jugar en línea títulos de Nintendo Switch en PC y consolas desbloqueadas",
-        "url": "https://es-us.noticias.yahoo.com/nextendo-network-servidor-gratuito-jugar-234558538.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Nextendo Network, el servidor gratuito para jugar en línea títulos de Nintendo Switch desde emulador de PC o consolas desbloqueadas: ya tiene Mario Kart 8, Splatoon 2 y Smash Ultimate",
-        "capturado": "2026-09-08T01:17:22-05:00"
       }
     ]
   }
