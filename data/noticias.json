@@ -1,9 +1,33 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-08T16:59:05-05:00",
+  "actualizado": "2026-09-08T19:02:33-05:00",
   "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Aranceles canadienses contra EE UU comienzan a regir mientras diálogo sigue frenado",
+        "url": "https://es.finance.yahoo.com/noticias/aranceles-canad%C3%A1-represalia-eeuu-entran-215906145.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Los aranceles de Canadá en represalia contra EEUU entran en vigor con la negociación estancada",
+        "capturado": "2026-09-08T19:02:33-05:00"
+      },
+      {
+        "titulo": "Tres entregas clásicas de Donkey Kong Country de SNES obtienen adaptaciones libres para PC",
+        "url": "https://es-us.noticias.yahoo.com/trilog%C3%ADa-cl%C3%A1sica-donkey-kong-country-195615471.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "La trilogía clásica de Donkey Kong Country para SNES recibe ports gratuitos para PC",
+        "capturado": "2026-09-08T19:02:33-05:00"
+      },
+      {
+        "titulo": "Emulador KyTyPS5 de PlayStation 5 ejecuta juego real de Demon’s Souls Remake en computador",
+        "url": "https://es-us.noticias.yahoo.com/emulador-ps5-kytyps5-logra-correr-181034356.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "El emulador de PS5 KyTyPS5 logra correr gameplay real de Demon’s Souls Remake en PC: “se siente como Bloodborne en shadps4 otra vez”",
+        "capturado": "2026-09-08T19:02:33-05:00"
+      },
       {
         "titulo": "Bolsas de EE. UU. bajan por ataques hutíes a petróleo saudí y sube el crudo",
         "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-205651630.html",
@@ -459,30 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "La gran pregunta: ¿es la madera la clave de la vivienda asequible en Europa?",
         "capturado": "2026-09-07T06:43:23-05:00"
-      },
-      {
-        "titulo": "EDF conversa para adquirir 300.000 usuarios de So Energy en territorio británico",
-        "url": "https://es.finance.yahoo.com/noticias/edf-energy-negocia-comprar-so-093924991.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "EDF negocia la compra de 300.000 clientes de So Energy en Reino Unido",
-        "capturado": "2026-09-07T06:43:23-05:00"
-      },
-      {
-        "titulo": "Este es el listado de los 20 puertos con mayor actividad en la UE y la ubicación de los españoles",
-        "url": "https://es.finance.yahoo.com/noticias/puertos-activos-europa-ciudades-mueven-040630931.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Estos son los 20 puertos más activos de la UE: ¿En qué puesto están los españoles?",
-        "capturado": "2026-09-07T00:43:38-05:00"
-      },
-      {
-        "titulo": "Lanzan función para integrar DLSS 5 en un paso a videojuegos sin soporte oficial de NVIDIA con RTX 20 y 30",
-        "url": "https://es-us.noticias.yahoo.com/herramienta-instala-dlss-5-clic-001532460.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Nueva herramienta instala DLSS 5 con un solo clic en juegos que NVIDIA nunca respaldó, incluyendo tarjetas RTX 20 y 30",
-        "capturado": "2026-09-07T00:43:38-05:00"
       }
     ]
   }
