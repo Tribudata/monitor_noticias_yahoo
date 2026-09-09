@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-08T23:59:59-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-09-09T04:35:50-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Crudo trepa a 100 dólares tras ofensiva contra buques iraníes en el estrecho de Ormuz",
+        "url": "https://es.finance.yahoo.com/noticias/petr%C3%B3leo-supera-100-d%C3%B3lares-barril-081757933.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El petróleo escala hasta los 100 dólares tras los ataques a petroleros iraníes en el estrecho de Ormuz",
+        "capturado": "2026-09-09T04:35:50-05:00"
+      },
+      {
+        "titulo": "Trump veta licores canadienses y sube aranceles durante tensión comercial",
+        "url": "https://es.finance.yahoo.com/noticias/trump-apunta-alcohol-canadiense-escalada-063142827.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Trump prohíbe importar alcohol de Canadá y eleva aranceles en plena escalada comercial",
+        "capturado": "2026-09-09T04:35:50-05:00"
+      },
+      {
+        "titulo": "Fabricación de champán cae cerca del 50 por ciento, mas inventarios previenen escasez",
+        "url": "https://es.finance.yahoo.com/noticias/desplome-50-cosecha-vaciar%C3%A1-estanter%C3%ADas-050051773.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "La producción de champán se desploma casi un 50%, pero las reservas evitarán el desabastecimiento",
+        "capturado": "2026-09-09T04:35:50-05:00"
+      },
+      {
+        "titulo": "Inditex reporta mejores ganancias al cierre del primer semestre en un entorno global difícil",
+        "url": "https://es.finance.yahoo.com/noticias/inditex-registra-mejores-resultados-semestre-090122734.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Inditex registra mejores resultados en el primer semestre en un contexto global altamente complejo.",
+        "capturado": "2026-09-09T04:35:50-05:00"
+      },
+      {
+        "titulo": "BHP informa destino de 1.200 millones de reales brasileños por nuevo pacto de Río Doce en Brasil",
+        "url": "https://es.finance.yahoo.com/noticias/grupo-bhp-detalla-asignaci%C3%B3n-1-084814301.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "El Grupo BHP detalla la asignación de 1.200 millones de reales brasileños en virtud del nuevo acuerdo de Río Doce en Brasil.",
+        "capturado": "2026-09-09T04:35:50-05:00"
+      },
+      {
+        "titulo": "Google destinará 15.000 millones de dólares a infraestructura de IA en Finlandia",
+        "url": "https://es.finance.yahoo.com/noticias/google-invertir%C3%A1-15-000-millones-083351229.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Google invertirá 15.000 millones de dólares en infraestructura de IA en Finlandia",
+        "capturado": "2026-09-09T04:35:50-05:00"
+      },
+      {
+        "titulo": "La UE afronta una demanda en su estrategia para aligerar las normas ecológicas",
+        "url": "https://es.finance.yahoo.com/noticias/ue-enfrenta-denuncia-plan-simplificar-082936914.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "La UE se enfrenta a una denuncia en su plan para simplificar la legislación medioambiental",
+        "capturado": "2026-09-09T04:35:50-05:00"
+      },
+      {
+        "titulo": "Portugal agotará recursos para salvaguardar el refino en la integración Galp-Moeve",
+        "url": "https://es.finance.yahoo.com/noticias/portugal-har%C3%A1-proteger-capacidad-refinado-072750924.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Portugal hará todo lo posible para proteger la capacidad de refinado en la fusión entre Galp y Moeve",
+        "capturado": "2026-09-09T04:35:50-05:00"
+      },
       {
         "titulo": "El incremento de tasas del BCE se da por hecho, aunque sus razones generan dudas",
         "url": "https://es.finance.yahoo.com/noticias/subida-tipos-bce-segura-motivos-040001536.html",
@@ -419,70 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Plaza financiera de Argentina en baja con negocios reducidos por feriado estadounidense",
         "capturado": "2026-09-07T12:21:12-05:00"
-      },
-      {
-        "titulo": "Eric Crown argumenta las razones por las cuales finalizó la tendencia bajista de Bitcoin",
-        "url": "https://es.finance.yahoo.com/noticias/mercado-bajista-bitcoin-termin%C3%B3-eric-143000492.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "El mercado bajista de Bitcoin terminó, Eric Crown explica por qué",
-        "capturado": "2026-09-07T12:21:12-05:00"
-      },
-      {
-        "titulo": "Aumentan los indicios de alarma para los republicanos de Trump al cierre de la campaña estadounidense",
-        "url": "https://es.finance.yahoo.com/noticias/se%C3%B1ales-alerta-multiplican-republicanos-trump-142835993.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Señales de alerta se multiplican para los republicanos de Trump en recta final de campaña en EEUU",
-        "capturado": "2026-09-07T12:21:12-05:00"
-      },
-      {
-        "titulo": "Disminuye el caudal del río Rin en territorio alemán, aunque continúa sobre sus marcas históricas",
-        "url": "https://es.finance.yahoo.com/noticias/niveles-agua-r%C3%ADo-rin-bajan-141636093.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Niveles de agua del río Rin bajan en Alemania, siguen por encima de sus mínimos históricos",
-        "capturado": "2026-09-07T12:21:12-05:00"
-      },
-      {
-        "titulo": "Canal de Panamá prevé nuevas limitaciones por escasez de lluvias y confía su porvenir a Río Indio",
-        "url": "https://es.finance.yahoo.com/noticias/canal-panam%C3%A1-descarta-restricciones-sequ%C3%ADa-140514838.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Canal de Panamá no descarta más restricciones por sequía, apuesta su futuro al proyecto Río Indio",
-        "capturado": "2026-09-07T12:21:12-05:00"
-      },
-      {
-        "titulo": "Firmas tecnológicas analizan la Patagonia argentina para instalar centros de datos gigantes",
-        "url": "https://es.finance.yahoo.com/noticias/industria-tecnol%C3%B3gica-explora-patagonia-argentina-113521273.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Industria tecnológica explora Patagonia argentina para construir megacentros de datos",
-        "capturado": "2026-09-07T06:43:23-05:00"
-      },
-      {
-        "titulo": "El triunfo de AfD eleva el peligro para la repunte financiero de Alemania",
-        "url": "https://es.finance.yahoo.com/noticias/victoria-afd-aumenta-riesgo-recuperaci%C3%B3n-111803663.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La victoria de AfD aumenta el riesgo para la recuperación económica de Alemania",
-        "capturado": "2026-09-07T06:43:23-05:00"
-      },
-      {
-        "titulo": "La cosecha de vino galo toca mínimos de tres décadas tras olas de calor",
-        "url": "https://es.finance.yahoo.com/noticias/producci%C3%B3n-vino-franc%C3%A9s-sit%C3%BAa-m%C3%ADnimos-105409323.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "La producción de vino francés se sitúa en mínimos de 30 años tras olas de calor",
-        "capturado": "2026-09-07T06:43:23-05:00"
-      },
-      {
-        "titulo": "Deutsche Bank augura estabilidad en la expansión a tipo de cambio constante de Inditex en el segundo trimestre fiscal",
-        "url": "https://es.finance.yahoo.com/noticias/deutsche-bank-prev%C3%A9-cambios-significativos-102637396.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Deutsche Bank prevé que no habrá cambios significativos en el crecimiento a tipo de cambio constante de Inditex en el segundo trimestre fiscal.",
-        "capturado": "2026-09-07T06:43:23-05:00"
       }
     ]
   }
