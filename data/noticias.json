@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-09T09:11:59-05:00",
+  "actualizado": "2026-09-09T12:54:56-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Bolsas de EE. UU. bajan al superar el petróleo US$100 por guerra con Irán y subir tasas por recompras",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-173635529.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen a medida que el petróleo crudo supera la marca de los 100 dólares en medio del empeoramiento de la guerra con Irán, y los rendimientos se disparan después de que el Tesoro triplicara las recompras de deuda pública.",
+        "capturado": "2026-09-09T12:54:56-05:00"
+      },
+      {
+        "titulo": "Acciones y fondos cotizados de Estados Unidos retroceden pasada la mitad de la jornada",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-acciones-estadounidenses-173124427.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa y las acciones estadounidenses caen después del mediodía.",
+        "capturado": "2026-09-09T12:54:56-05:00"
+      },
+      {
+        "titulo": "Trump dio US$45.000 en aportes monetarios a Natalie Harp y a otros allegados",
+        "url": "https://es.finance.yahoo.com/noticias/trump-entreg%C3%B3-45-000-d%C3%B3lares-172059368.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Trump entregó 45.000 dólares en donaciones en efectivo a colaboradora cercana Natalie Harp y a otras personas",
+        "capturado": "2026-09-09T12:54:56-05:00"
+      },
+      {
+        "titulo": "OMC indica que el intercambio global de bienes repunta pese a gravámenes y conflicto en Medio Oriente",
+        "url": "https://es.finance.yahoo.com/noticias/comercio-mundial-mercanc%C3%ADas-fortalece-aranceles-164406883.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Comercio mundial de mercancías se fortalece a pesar de aranceles y tensiones en Oriente Medio: OMC",
+        "capturado": "2026-09-09T12:54:56-05:00"
+      },
+      {
+        "titulo": "Ministerio de Hacienda estadounidense multiplica por tres la recompra de bonos a US$6.000 millones",
+        "url": "https://es.finance.yahoo.com/noticias/tesoro-ee-uu-triplica-recompra-151908857.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Tesoro de EE.UU. triplica recompra de deuda a largo plazo a US$6.000 millones",
+        "capturado": "2026-09-09T12:54:56-05:00"
+      },
+      {
+        "titulo": "Rumores del mercado: Shell, TotalEnergies Ventures y otras firmas mirarían activos de BP en el Mar del Norte",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-rumores-mercado-shell-totalenergies-151226103.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Rumores del mercado: Shell, TotalEnergies Ventures y otras compañías estarían interesadas en la cartera de BP en el Mar del Norte.",
+        "capturado": "2026-09-09T12:54:56-05:00"
+      },
+      {
+        "titulo": "Grecia, Egipto y Chipre apoyan iniciativa para exportar gas chipriota hacia Europa",
+        "url": "https://es.finance.yahoo.com/noticias/egipto-grecia-chipre-respaldan-planes-141110940.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Egipto, Grecia y Chipre respaldan el plan para llevar gas chipriota a Europa",
+        "capturado": "2026-09-09T12:54:56-05:00"
+      },
+      {
+        "titulo": "Messi adquirirá el equipo español CD Eldense y expande su conglomerado empresarial",
+        "url": "https://es.finance.yahoo.com/noticias/messi-comprar%C3%A1-club-espa%C3%B1ol-cd-140852173.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Messi comprará el club español CD Eldense y amplía su imperio empresarial",
+        "capturado": "2026-09-09T12:54:56-05:00"
+      },
       {
         "titulo": "El bache fiscal qatarí llega a 5.000M€ en el segundo trimestre por la caída del GNL",
         "url": "https://es.finance.yahoo.com/noticias/d%C3%A9ficit-presupuestario-catar-duplica-5-120642217.html",
@@ -419,70 +483,6 @@
         "medio": "Tarreo",
         "titulo_fuente": "Nextendo Network, el servidor gratuito para jugar en línea títulos de Nintendo Switch desde emulador de PC o consolas desbloqueadas: ya tiene Mario Kart 8, Splatoon 2 y Smash Ultimate",
         "capturado": "2026-09-08T01:17:22-05:00"
-      },
-      {
-        "titulo": "Huawei y Xiaomi presentan nuevos teléfonos plegables previos al estreno de Apple en este mercado",
-        "url": "https://es.finance.yahoo.com/noticias/huawei-xiaomi-lanzan-plegables-debut-215444495.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Huawei y Xiaomi lanzan nuevos plegables antes del debut de Apple en la categoría",
-        "capturado": "2026-09-08T01:17:22-05:00"
-      },
-      {
-        "titulo": "Argentina denunciará a Navitas y directivos por actividades en Malvinas",
-        "url": "https://es.finance.yahoo.com/noticias/argentina-denunciar%C3%A1-penalmente-navitas-directivos-233926829.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Argentina denunciará penalmente a Navitas y a sus directivos por operar en Islas Malvinas",
-        "capturado": "2026-09-07T20:18:09-05:00"
-      },
-      {
-        "titulo": "RPCS3 permite jugar Infamous 2 en PC a resolución 4K sin fallas gráficas",
-        "url": "https://es-us.noticias.yahoo.com/infamous-2-completamente-jugable-pc-201300433.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Infamous 2 ya es completamente jugable en PC gracias a RPCS3 y además corre en 4K sin problemas gráficos",
-        "capturado": "2026-09-07T20:18:09-05:00"
-      },
-      {
-        "titulo": "Sigue la salida de millonarios británicos: Chris Rokos se traslada a Grecia",
-        "url": "https://es.finance.yahoo.com/noticias/contin%C3%BAa-%C3%A9xodo-ricos-reino-unido-190749768.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Continúa el éxodo de ricos de Reino Unido: Chris Rokos se muda a Grecia",
-        "capturado": "2026-09-07T18:17:52-05:00"
-      },
-      {
-        "titulo": "Capcom priorizará rescatar franquicias inactivas tras vender un millón de Onimusha",
-        "url": "https://es-us.noticias.yahoo.com/capcom-enfocar%C3%A1-reactivar-ips-lanzamiento-170145477.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Capcom se enfocará en reactivar IPs que no han tenido un lanzamiento reciente después del éxito de Onimusha: Way of the Sword, que vendió más de un millón de copias en su primer día",
-        "capturado": "2026-09-07T18:17:52-05:00"
-      },
-      {
-        "titulo": "CASA 47: qué trae la nueva plataforma estatal de vivienda pública y su operación",
-        "url": "https://es.finance.yahoo.com/noticias/casa-47-ofrece-portal-estatal-192606257.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "CASA 47: Qué ofrece el nuevo portal estatal de vivienda pública y cómo funcionará",
-        "capturado": "2026-09-07T15:42:29-05:00"
-      },
-      {
-        "titulo": "Impuestos en Colombia crecen en julio, mas el acumulado anual sigue bajo la meta",
-        "url": "https://es.finance.yahoo.com/noticias/recaudo-tributario-colombia-sube-julio-185834177.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Recaudo tributario en Colombia sube en julio, aunque en lo corrido del año sigue por debajo de la meta",
-        "capturado": "2026-09-07T15:42:29-05:00"
-      },
-      {
-        "titulo": "Podría la IA rejuvenecernos? Un medicamento plantea esa opción",
-        "url": "https://es.finance.yahoo.com/noticias/ia-hacernos-j%C3%B3venes-f%C3%A1rmaco-abre-165925122.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "¿La IA puede hacernos más jóvenes? Un fármaco abre esa posibilidad",
-        "capturado": "2026-09-07T15:42:29-05:00"
       }
     ]
   }
