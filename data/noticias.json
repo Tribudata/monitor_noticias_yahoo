@@ -1,9 +1,33 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-08T19:02:33-05:00",
+  "actualizado": "2026-09-08T23:59:59-05:00",
   "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "El incremento de tasas del BCE se da por hecho, aunque sus razones generan dudas",
+        "url": "https://es.finance.yahoo.com/noticias/subida-tipos-bce-segura-motivos-040001536.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "La subida de tipos del BCE parece segura, los motivos no tanto",
+        "capturado": "2026-09-08T23:59:59-05:00"
+      },
+      {
+        "titulo": "El DLSS Multi Frame Generation con DLSS 5 llega a las RTX 30 y triplica los FPS en Cyberpunk y Black Myth: Wukong",
+        "url": "https://es-us.noticias.yahoo.com/dlss-multi-frame-generation-dlss-001346297.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "El DLSS Multi Frame Generation con DLSS 5 incluido llega a las RTX 30 y triplica los FPS en Cyberpunk y Black Myth: Wukong",
+        "capturado": "2026-09-08T23:59:59-05:00"
+      },
+      {
+        "titulo": "Meta lanza Muse, su herramienta de inteligencia artificial para compras, reservas, Gmail y WhatsApp",
+        "url": "https://es.finance.yahoo.com/noticias/meta-presenta-muse-asistente-ia-203659394.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Meta presenta Muse, su asistente de IA para compras, reservas, Gmail, WhatsApp y más",
+        "capturado": "2026-09-08T23:59:59-05:00"
+      },
       {
         "titulo": "Aranceles canadienses contra EE UU comienzan a regir mientras diálogo sigue frenado",
         "url": "https://es.finance.yahoo.com/noticias/aranceles-canad%C3%A1-represalia-eeuu-entran-215906145.html",
@@ -458,30 +482,6 @@
         "resumen": "",
         "medio": "MT Newswires",
         "titulo_fuente": "Deutsche Bank prevé que no habrá cambios significativos en el crecimiento a tipo de cambio constante de Inditex en el segundo trimestre fiscal.",
-        "capturado": "2026-09-07T06:43:23-05:00"
-      },
-      {
-        "titulo": "El dólar acumula una caída del 97% en su valor desde 1913 y surgen dudas sobre si Bitcoin es la solución",
-        "url": "https://es.finance.yahoo.com/noticias/d%C3%B3lar-perdido-97-valor-1913-102500734.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "El dólar ha perdido el 97% de su valor desde 1913: ¿Es Bitcoin la respuesta?",
-        "capturado": "2026-09-07T06:43:23-05:00"
-      },
-      {
-        "titulo": "Información muestra que las cosechas en Europa maduran antes por culpa del cambio climático",
-        "url": "https://es.finance.yahoo.com/noticias/cultivos-europeos-madurando-cambio-clim%C3%A1tico-101034144.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Los cultivos europeos están madurando antes debido al cambio climático, según datos",
-        "capturado": "2026-09-07T06:43:23-05:00"
-      },
-      {
-        "titulo": "El gran interrogante: es la madera la solución para la vivienda económica en Europa",
-        "url": "https://es.finance.yahoo.com/noticias/pregunta-madera-clave-vivienda-asequible-095003654.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La gran pregunta: ¿es la madera la clave de la vivienda asequible en Europa?",
         "capturado": "2026-09-07T06:43:23-05:00"
       }
     ]
