@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-10T09:52:11-05:00",
+  "actualizado": "2026-09-10T13:08:38-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Fondo Monetario Internacional prevé expansión global del 3% en 2026 pese a elevado peligro",
+        "url": "https://es.finance.yahoo.com/noticias/fmi-crecimiento-mundial-camino-3-175537139.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "El FMI dice que el crecimiento mundial sigue en camino del 3% en 2026, pero hay altos riesgos",
+        "capturado": "2026-09-10T13:08:38-05:00"
+      },
+      {
+        "titulo": "Bolsas de Estados Unidos bajan por mayores tasas de bonos, petróleo caro y alta inflación",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-173931677.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen a medida que los rendimientos de los bonos del Tesoro se disparan en medio de los altos precios de los productores y el alza del petróleo crudo.",
+        "capturado": "2026-09-10T13:08:38-05:00"
+      },
+      {
+        "titulo": "Flávio Bolsonaro empata con Lula en sondeo de comicios en Brasil por lío en alta corte",
+        "url": "https://es.finance.yahoo.com/noticias/fl%C3%A1vio-bolsonaro-alcanza-lula-encuesta-173000460.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Flávio Bolsonaro alcanza a Lula en encuesta electoral de Brasil ante crisis en Tribunal Supremo",
+        "capturado": "2026-09-10T13:08:38-05:00"
+      },
+      {
+        "titulo": "Gobierno italiano extiende por siete días la menor tasa al diésel como última rebaja",
+        "url": "https://es.finance.yahoo.com/noticias/italia-prolonga-semana-rebaja-impuesto-165245370.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Italia prorroga una semana la rebaja de las tasas al gasóleo, será el último descuento general",
+        "capturado": "2026-09-10T13:08:38-05:00"
+      },
+      {
+        "titulo": "Demora en aranceles al cobre de la Casa Blanca por temor a impacto económico",
+        "url": "https://es.finance.yahoo.com/noticias/plan-casa-blanca-aranceles-cobre-171733515.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "El plan de la Casa Blanca de aranceles al cobre se frena ante preocupación por economía: fuentes",
+        "capturado": "2026-09-10T13:08:38-05:00"
+      },
+      {
+        "titulo": "Acciones y fondos cotizados de EE. UU. descienden pasado el mediodía",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-acciones-estadounidenses-170834390.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa y las acciones estadounidenses caen después del mediodía.",
+        "capturado": "2026-09-10T13:08:38-05:00"
+      },
+      {
+        "titulo": "Nubank afianza su llegada a Estados Unidos con un acuerdo con Lead Bank",
+        "url": "https://es.finance.yahoo.com/noticias/nubank-acelera-entrada-ee-uu-164819015.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Nubank acelera su entrada a EE.UU. mediante una alianza con Lead Bank",
+        "capturado": "2026-09-10T13:08:38-05:00"
+      },
+      {
+        "titulo": "El fenómeno de El Niño alerta por un máximo histórico y clima extremo",
+        "url": "https://es.finance.yahoo.com/noticias/ni%C3%B1o-amenaza-r%C3%A9cord-hist%C3%B3rico-clima-164316055.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "El Niño amenaza con un récord histórico y más clima extremo",
+        "capturado": "2026-09-10T13:08:38-05:00"
+      },
       {
         "titulo": "Socio clave de Novartis exige modificaciones directas en la junta tras fallos en pruebas médicas",
         "url": "https://es.finance.yahoo.com/noticias/importante-accionista-novartis-pide-cambios-143825461.html",
@@ -419,70 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Google invertirá 15.000 millones de dólares en infraestructura de IA en Finlandia",
         "capturado": "2026-09-09T04:35:50-05:00"
-      },
-      {
-        "titulo": "La UE afronta una demanda en su estrategia para aligerar las normas ecológicas",
-        "url": "https://es.finance.yahoo.com/noticias/ue-enfrenta-denuncia-plan-simplificar-082936914.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "La UE se enfrenta a una denuncia en su plan para simplificar la legislación medioambiental",
-        "capturado": "2026-09-09T04:35:50-05:00"
-      },
-      {
-        "titulo": "Portugal agotará recursos para salvaguardar el refino en la integración Galp-Moeve",
-        "url": "https://es.finance.yahoo.com/noticias/portugal-har%C3%A1-proteger-capacidad-refinado-072750924.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Portugal hará todo lo posible para proteger la capacidad de refinado en la fusión entre Galp y Moeve",
-        "capturado": "2026-09-09T04:35:50-05:00"
-      },
-      {
-        "titulo": "El incremento de tasas del BCE se da por hecho, aunque sus razones generan dudas",
-        "url": "https://es.finance.yahoo.com/noticias/subida-tipos-bce-segura-motivos-040001536.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La subida de tipos del BCE parece segura, los motivos no tanto",
-        "capturado": "2026-09-08T23:59:59-05:00"
-      },
-      {
-        "titulo": "El DLSS Multi Frame Generation con DLSS 5 llega a las RTX 30 y triplica los FPS en Cyberpunk y Black Myth: Wukong",
-        "url": "https://es-us.noticias.yahoo.com/dlss-multi-frame-generation-dlss-001346297.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "El DLSS Multi Frame Generation con DLSS 5 incluido llega a las RTX 30 y triplica los FPS en Cyberpunk y Black Myth: Wukong",
-        "capturado": "2026-09-08T23:59:59-05:00"
-      },
-      {
-        "titulo": "Meta lanza Muse, su herramienta de inteligencia artificial para compras, reservas, Gmail y WhatsApp",
-        "url": "https://es.finance.yahoo.com/noticias/meta-presenta-muse-asistente-ia-203659394.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Meta presenta Muse, su asistente de IA para compras, reservas, Gmail, WhatsApp y más",
-        "capturado": "2026-09-08T23:59:59-05:00"
-      },
-      {
-        "titulo": "Aranceles canadienses contra EE UU comienzan a regir mientras diálogo sigue frenado",
-        "url": "https://es.finance.yahoo.com/noticias/aranceles-canad%C3%A1-represalia-eeuu-entran-215906145.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Los aranceles de Canadá en represalia contra EEUU entran en vigor con la negociación estancada",
-        "capturado": "2026-09-08T19:02:33-05:00"
-      },
-      {
-        "titulo": "Tres entregas clásicas de Donkey Kong Country de SNES obtienen adaptaciones libres para PC",
-        "url": "https://es-us.noticias.yahoo.com/trilog%C3%ADa-cl%C3%A1sica-donkey-kong-country-195615471.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "La trilogía clásica de Donkey Kong Country para SNES recibe ports gratuitos para PC",
-        "capturado": "2026-09-08T19:02:33-05:00"
-      },
-      {
-        "titulo": "Emulador KyTyPS5 de PlayStation 5 ejecuta juego real de Demon’s Souls Remake en computador",
-        "url": "https://es-us.noticias.yahoo.com/emulador-ps5-kytyps5-logra-correr-181034356.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "El emulador de PS5 KyTyPS5 logra correr gameplay real de Demon’s Souls Remake en PC: “se siente como Bloodborne en shadps4 otra vez”",
-        "capturado": "2026-09-08T19:02:33-05:00"
       }
     ]
   }
