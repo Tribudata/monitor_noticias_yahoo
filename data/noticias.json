@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-10T05:44:29-05:00",
+  "actualizado": "2026-09-10T09:52:11-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Socio clave de Novartis exige modificaciones directas en la junta tras fallos en pruebas médicas",
+        "url": "https://es.finance.yahoo.com/noticias/importante-accionista-novartis-pide-cambios-143825461.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Importante accionista de Novartis pide cambios en directorio tras reveses en ensayos clínicos",
+        "capturado": "2026-09-10T09:52:11-05:00"
+      },
+      {
+        "titulo": "Congresistas estadounidenses exigen nuevas regulaciones en IA tras alertas de seguridad de Anthropic",
+        "url": "https://es.finance.yahoo.com/noticias/legisladores-eeuu-piden-normas-ia-143214699.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Legisladores EEUU piden nuevas normas sobre IA tras advertencias de seguridad sobre Anthropic",
+        "capturado": "2026-09-10T09:52:11-05:00"
+      },
+      {
+        "titulo": "Comercialización de casas usadas en EE UU baja en agosto a su piso de 14 meses",
+        "url": "https://es.finance.yahoo.com/noticias/ventas-viviendas-mano-eeuu-caen-143151728.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Las ventas de viviendas de segunda mano en EEUU caen en agosto a mínimo de 14 meses",
+        "capturado": "2026-09-10T09:52:11-05:00"
+      },
+      {
+        "titulo": "Colombia incrementa en 8.066 millones de dólares colocación de papeles de deuda local para 2026",
+        "url": "https://es.finance.yahoo.com/noticias/colombia-aumenta-8-066-millones-142456223.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Colombia aumenta en 8.066 millones de dólares emisión en títulos de deuda interna para 2026",
+        "capturado": "2026-09-10T09:52:11-05:00"
+      },
+      {
+        "titulo": "Berenberg conserva su consejo de compra para Inditex post segundo trimestre y ajusta proyecciones",
+        "url": "https://es.finance.yahoo.com/noticias/berenberg-mantiene-recomendaci%C3%B3n-compra-inditex-133222138.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Berenberg mantiene su recomendación de compra para Inditex tras los resultados del segundo trimestre; las estimaciones se revisan a la baja.",
+        "capturado": "2026-09-10T09:52:11-05:00"
+      },
+      {
+        "titulo": "El recargo del precio del cobre en EE UU cae al frenarse su iniciativa de aranceles",
+        "url": "https://es.finance.yahoo.com/noticias/prima-precio-cobre-eeuu-hunde-133154345.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "La prima del precio del cobre en EEUU se hunde tras conocerse que plan arancelario se estancó",
+        "capturado": "2026-09-10T09:52:11-05:00"
+      },
+      {
+        "titulo": "ETF caen y futuros bursátiles muestran resultados mixtos previo al mercado del jueves por inflación mayorista",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-bajan-futuros-131756587.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa bajan y los futuros de renta variable presentan resultados mixtos antes de la apertura del mercado el jueves, en medio de la publicación de datos sobre la inflación de los precios al productor.",
+        "capturado": "2026-09-10T09:52:11-05:00"
+      },
+      {
+        "titulo": "Actualización: Futuros de acciones norteamericanas retroceden el jueves analizando inflación y crudo al alza",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-futuros-acciones-estadounidenses-bajan-125840594.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los futuros de las acciones estadounidenses bajan antes de la apertura del jueves mientras los operadores evalúan los datos de inflación en medio de precios del petróleo más altos.",
+        "capturado": "2026-09-10T09:52:11-05:00"
+      },
       {
         "titulo": "Berenberg mantiene concepto positivo de compra sobre Lottomatica durante su trato de fusión con Cirsa",
         "url": "https://es.finance.yahoo.com/noticias/berenberg-reafirma-recomendaci%C3%B3n-compra-lottomatica-102108601.html",
@@ -419,70 +483,6 @@
         "medio": "Tarreo",
         "titulo_fuente": "El emulador de PS5 KyTyPS5 logra correr gameplay real de Demon’s Souls Remake en PC: “se siente como Bloodborne en shadps4 otra vez”",
         "capturado": "2026-09-08T19:02:33-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE. UU. bajan por ataques hutíes a petróleo saudí y sube el crudo",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-205651630.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen tras los ataques de los hutíes contra la infraestructura energética de Arabia Saudita, lo que impulsa el precio del petróleo crudo.",
-        "capturado": "2026-09-08T16:59:05-05:00"
-      },
-      {
-        "titulo": "Collective Mining pedirá licencia ambiental para Guayabales en Colombia en 2025",
-        "url": "https://es.finance.yahoo.com/noticias/collective-mining-solicitar%C3%A1-licencia-ambiental-204640062.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Collective Mining solicitará la licencia ambiental para el proyecto Guayabales en Colombia el próximo año.",
-        "capturado": "2026-09-08T16:59:05-05:00"
-      },
-      {
-        "titulo": "Quimbaya Gold reporta mineralización hallada en perforación inicial de Tahami",
-        "url": "https://es.finance.yahoo.com/noticias/quimbaya-gold-afirma-programa-inicial-193434988.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Quimbaya Gold afirma que el programa inicial de perforación en el proyecto Tahami en Colombia interceptó mineralización.",
-        "capturado": "2026-09-08T16:59:05-05:00"
-      },
-      {
-        "titulo": "Demanda a Amazon por presunta discriminación sistemática a trabajadoras en estado de embarazo",
-        "url": "https://es.finance.yahoo.com/noticias/amazon-acusada-demanda-discriminaci%C3%B3n-sistem%C3%A1tica-185633321.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Amazon, acusada en una demanda de discriminación sistemática contra empleadas embarazadas",
-        "capturado": "2026-09-08T14:29:39-05:00"
-      },
-      {
-        "titulo": "Señalan a Amazon en una demanda de trato discriminatorio sistemático debido al embarazo",
-        "url": "https://es.finance.yahoo.com/noticias/amazon-acusada-demanda-discriminaci%C3%B3n-sistem%C3%A1tica-171107100.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Amazon, acusada en una demanda de discriminación sistemática por embarazo",
-        "capturado": "2026-09-08T14:29:39-05:00"
-      },
-      {
-        "titulo": "Estados Unidos rastrea migrantes deportados en Centroamérica y México para exigirles multas por US$423 millones",
-        "url": "https://es.finance.yahoo.com/noticias/ee-uu-busca-migrantes-deportados-171054699.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "EE.UU. busca a migrantes deportados en México y Centroamérica para cobrar US$423 millones en multas",
-        "capturado": "2026-09-08T14:29:39-05:00"
-      },
-      {
-        "titulo": "Francia, Reino Unido y Canadá aplican medidas punitivas contra asentamientos israelíes",
-        "url": "https://es.finance.yahoo.com/noticias/reino-unido-francia-canad%C3%A1-imponen-170609604.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Reino Unido, Francia y Canadá imponen sanciones a asentamientos israelíes",
-        "capturado": "2026-09-08T14:29:39-05:00"
-      },
-      {
-        "titulo": "De la Espriella suaviza la normatividad armamentística y reanuda los permisos en territorio colombiano",
-        "url": "https://es.finance.yahoo.com/noticias/espriella-flexibiliza-leyes-armas-levanta-165857472.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "De la Espriella flexibiliza leyes de armas y levanta suspensión de permisos en Colombia",
-        "capturado": "2026-09-08T14:29:39-05:00"
       }
     ]
   }
