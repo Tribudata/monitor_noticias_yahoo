@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-10T00:46:53-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-09-10T05:44:29-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Berenberg mantiene concepto positivo de compra sobre Lottomatica durante su trato de fusión con Cirsa",
+        "url": "https://es.finance.yahoo.com/noticias/berenberg-reafirma-recomendaci%C3%B3n-compra-lottomatica-102108601.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Berenberg reafirma su recomendación de compra para Lottomatica en medio del acuerdo de fusión con Cirsa.",
+        "capturado": "2026-09-10T05:44:29-05:00"
+      },
+      {
+        "titulo": "Habrá fin de Seat? El Ejecutivo cree en su permanencia al tiempo que Volkswagen analiza su porvenir",
+        "url": "https://es.finance.yahoo.com/noticias/desaparecer%C3%A1-seat-gobierno-conf%C3%ADa-continuidad-101215471.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "¿Desaparecerá Seat? El Gobierno confía en su continuidad mientras Volkswagen estudia su futuro",
+        "capturado": "2026-09-10T05:44:29-05:00"
+      },
+      {
+        "titulo": "Anuncio de pago en campañas de Trump genera presión en los bonos del Tesoro",
+        "url": "https://es.finance.yahoo.com/noticias/promesa-pago-electoral-trump-pone-093923499.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Promesa de pago electoral de Trump pone presión sobre los Treasuries",
+        "capturado": "2026-09-10T05:44:29-05:00"
+      },
+      {
+        "titulo": "El FMI releva al experto luso Ricardo Reis luego de cuestionar los aranceles de Trump",
+        "url": "https://es.finance.yahoo.com/noticias/economista-portugu%C3%A9s-ricardo-reis-apartado-090758706.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El FMI aparta al economista portugués Ricardo Reis tras criticar los aranceles de Trump",
+        "capturado": "2026-09-10T05:44:29-05:00"
+      },
+      {
+        "titulo": "Corea del Sur roza pacto de inversión en Estados Unidos superior a 100.000 millones de dólares, dice WSJ",
+        "url": "https://es.finance.yahoo.com/noticias/corea-sur-acuerdo-inversi%C3%B3n-eeuu-085458702.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Corea del Sur está cerca de acuerdo de inversión en EEUU por más de 100.000 millones de dólares, según WSJ",
+        "capturado": "2026-09-10T05:44:29-05:00"
+      },
+      {
+        "titulo": "Suben con fuerza los rendimientos del Tesoro de EE.UU. tras fallida recompra de bonos por 6.000 millones",
+        "url": "https://es.finance.yahoo.com/noticias/rendimientos-tesoro-eeuu-disparan-decepciona-081425079.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Los rendimientos del Tesoro de EE.UU. se disparan, decepcionante recompra de bonos de 6.000 millones",
+        "capturado": "2026-09-10T05:44:29-05:00"
+      },
+      {
+        "titulo": "Fuentes señalan que China adquiere un millón de toneladas de soja estadounidense antes de la visita de Xi",
+        "url": "https://es.finance.yahoo.com/noticias/china-compra-mill%C3%B3n-toneladas-soja-072339472.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "China compra un millón de toneladas de soja de EEUU antes de la visita de Xi, según fuentes",
+        "capturado": "2026-09-10T05:44:29-05:00"
+      },
+      {
+        "titulo": "El director del BIS advierte que el boom de la IA trae nuevos peligros para la estabilidad financiera",
+        "url": "https://es.finance.yahoo.com/noticias/auge-ia-plantea-riesgos-estabilidad-063109048.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "El auge de la IA plantea nuevos riesgos para la estabilidad financiera, según director del BIS",
+        "capturado": "2026-09-10T05:44:29-05:00"
+      },
       {
         "titulo": "Qué naciones de Europa muestran mayor dependencia del petróleo de Ormuz",
         "url": "https://es.finance.yahoo.com/noticias/pa%C3%ADses-europeos-importan-petr%C3%B3leo-crudo-040459217.html",
@@ -419,70 +483,6 @@
         "medio": "Bloomberg",
         "titulo_fuente": "De la Espriella flexibiliza leyes de armas y levanta suspensión de permisos en Colombia",
         "capturado": "2026-09-08T14:29:39-05:00"
-      },
-      {
-        "titulo": "Carney descarta ampliar disputa comercial pero avala gravámenes frente a EE UU",
-        "url": "https://es.finance.yahoo.com/noticias/carney-rechaza-escalar-guerra-comercial-164810449.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Carney rechaza escalar guerra comercial, pero defiende aranceles contra EE.UU.",
-        "capturado": "2026-09-08T14:29:39-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE UU bajan tras huelgas energéticas saudíes que elevan el crudo",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-163950551.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen mientras las huelgas en instalaciones energéticas de Arabia Saudí impulsan al alza el precio del petróleo crudo.",
-        "capturado": "2026-09-08T14:29:39-05:00"
-      },
-      {
-        "titulo": "Estudio de la Fed de Nueva York muestra inquietud ciudadana por el trabajo y el dinero propio",
-        "url": "https://es.finance.yahoo.com/noticias/consumidores-preocupados-finanzas-personales-empleo-155422750.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Consumidores están más preocupados por finanzas personales y empleo: reporte de Fed Nueva York",
-        "capturado": "2026-09-08T11:05:34-05:00"
-      },
-      {
-        "titulo": "Efectos en el Presupuesto 2027 por una expansión cercana al 1% del PIB y mayores recursos",
-        "url": "https://es.finance.yahoo.com/noticias/crecimiento-1-pib-ingresos-impacto-154636363.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Crecimiento hacia el 1% del PIB y más ingresos, qué impacto tendrá en la Ley de Presupuestos 2027",
-        "capturado": "2026-09-08T11:05:34-05:00"
-      },
-      {
-        "titulo": "Citibank otorga crédito por 300 millones de dólares a Avianca con garantía de la ABGF",
-        "url": "https://es.finance.yahoo.com/noticias/aerol%C3%ADnea-avianca-obtiene-financiaci%C3%B3n-300-144130970.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Aerolínea Avianca obtiene financiación por 300 millones de dólares con Citibank respaldada por agencia brasileña ABGF",
-        "capturado": "2026-09-08T11:05:34-05:00"
-      },
-      {
-        "titulo": "La OPEP cede bombeo por la presión al crudo saudí derivada de la guerra",
-        "url": "https://es.finance.yahoo.com/noticias/opep-pierde-producci%C3%B3n-presi%C3%B3n-petr%C3%B3leo-144112626.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "OPEP pierde producción ante presión sobre petróleo saudita por conflicto",
-        "capturado": "2026-09-08T11:05:34-05:00"
-      },
-      {
-        "titulo": "Kraken informa que 23 servicios presentan demoras en retiros por fallas de fondeo",
-        "url": "https://es.finance.yahoo.com/noticias/kraken-retiros-atascados-problemas-financiaci%C3%B3n-143813868.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Kraken dice que los retiros están atascados debido a problemas de financiación que afectan a 23 servicios",
-        "capturado": "2026-09-08T11:05:34-05:00"
-      },
-      {
-        "titulo": "Ventas externas de trigo blando 2026/27 de la UE llegan a 4,92 millones de toneladas al 6 de septiembre",
-        "url": "https://es.finance.yahoo.com/noticias/exportaciones-trigo-blando-2026-27-142650032.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Exportaciones de trigo blando 2026/27 de la UE ascienden a 4,92 millones de toneladas al 6 de septiembre",
-        "capturado": "2026-09-08T11:05:34-05:00"
       }
     ]
   }
