@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-10T13:08:38-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-09-10T16:04:27-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Caen las bolsas en EE UU y suben los títulos del Tesoro por alza inflacionaria; la guerra con Irán intimida el Mar Rojo",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-205815348.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen mientras los rendimientos de los bonos del Tesoro se disparan en medio de un fuerte aumento de la inflación mayorista; la escalada de la guerra con Irán amenaza un punto estratégico en el Mar Rojo.",
+        "capturado": "2026-09-10T16:04:27-05:00"
+      },
+      {
+        "titulo": "Anthropic demanda a Moonshot por desviar peticiones de Claude para instruir su IA",
+        "url": "https://es.finance.yahoo.com/noticias/anthropic-acusa-moonshot-desviar-consultas-181417817.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Anthropic acusa a Moonshot de desviar consultas a Claude para entrenar su propia IA",
+        "capturado": "2026-09-10T16:04:27-05:00"
+      },
       {
         "titulo": "Fondo Monetario Internacional prevé expansión global del 3% en 2026 pese a elevado peligro",
         "url": "https://es.finance.yahoo.com/noticias/fmi-crecimiento-mundial-camino-3-175537139.html",
@@ -466,22 +482,6 @@
         "resumen": "",
         "medio": "MT Newswires",
         "titulo_fuente": "Inditex registra mejores resultados en el primer semestre en un contexto global altamente complejo.",
-        "capturado": "2026-09-09T04:35:50-05:00"
-      },
-      {
-        "titulo": "BHP informa destino de 1.200 millones de reales brasileños por nuevo pacto de Río Doce en Brasil",
-        "url": "https://es.finance.yahoo.com/noticias/grupo-bhp-detalla-asignaci%C3%B3n-1-084814301.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "El Grupo BHP detalla la asignación de 1.200 millones de reales brasileños en virtud del nuevo acuerdo de Río Doce en Brasil.",
-        "capturado": "2026-09-09T04:35:50-05:00"
-      },
-      {
-        "titulo": "Google destinará 15.000 millones de dólares a infraestructura de IA en Finlandia",
-        "url": "https://es.finance.yahoo.com/noticias/google-invertir%C3%A1-15-000-millones-083351229.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Google invertirá 15.000 millones de dólares en infraestructura de IA en Finlandia",
         "capturado": "2026-09-09T04:35:50-05:00"
       }
     ]
