@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-10T16:04:27-05:00",
+  "actualizado": "2026-09-10T18:19:54-05:00",
   "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Boehly y Walter van camino a ceder sus acciones del Chelsea a Clearlake Capital",
+        "url": "https://es.finance.yahoo.com/noticias/boehly-walter-acercan-vender-participaciones-190520684.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Boehly y Walter se acercan a vender sus participaciones en Chelsea a Clearlake Capital",
+        "capturado": "2026-09-10T18:19:54-05:00"
+      },
+      {
+        "titulo": "Steam lanza el Big Art Mode solicitado por usuarios, con salvapantallas y inicio en escritorio",
+        "url": "https://es-us.noticias.yahoo.com/steam-a%C3%B1ade-big-art-mode-173603385.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Steam añade el Big Art Mode que los jugadores pedían hace años junto a salvapantallas y la opción de arrancar en modo escritorio por defecto",
+        "capturado": "2026-09-10T18:19:54-05:00"
+      },
       {
         "titulo": "Caen las bolsas en EE UU y suben los títulos del Tesoro por alza inflacionaria; la guerra con Irán intimida el Mar Rojo",
         "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-205815348.html",
@@ -466,22 +482,6 @@
         "resumen": "",
         "medio": "Euronews",
         "titulo_fuente": "Trump prohíbe importar alcohol de Canadá y eleva aranceles en plena escalada comercial",
-        "capturado": "2026-09-09T04:35:50-05:00"
-      },
-      {
-        "titulo": "Fabricación de champán cae cerca del 50 por ciento, mas inventarios previenen escasez",
-        "url": "https://es.finance.yahoo.com/noticias/desplome-50-cosecha-vaciar%C3%A1-estanter%C3%ADas-050051773.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La producción de champán se desploma casi un 50%, pero las reservas evitarán el desabastecimiento",
-        "capturado": "2026-09-09T04:35:50-05:00"
-      },
-      {
-        "titulo": "Inditex reporta mejores ganancias al cierre del primer semestre en un entorno global difícil",
-        "url": "https://es.finance.yahoo.com/noticias/inditex-registra-mejores-resultados-semestre-090122734.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Inditex registra mejores resultados en el primer semestre en un contexto global altamente complejo.",
         "capturado": "2026-09-09T04:35:50-05:00"
       }
     ]
