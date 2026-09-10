@@ -1,9 +1,57 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-09T19:57:56-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-10T00:46:53-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Qué naciones de Europa muestran mayor dependencia del petróleo de Ormuz",
+        "url": "https://es.finance.yahoo.com/noticias/pa%C3%ADses-europeos-importan-petr%C3%B3leo-crudo-040459217.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "¿Qué países europeos dependen más del crudo de Ormuz?",
+        "capturado": "2026-09-10T00:46:53-05:00"
+      },
+      {
+        "titulo": "RBC ajusta proyecciones semestrales de Inditex y conserva su consejo de rendimiento superior",
+        "url": "https://es.finance.yahoo.com/noticias/rbc-actualiza-previsiones-resultados-semestre-052844062.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "RBC actualiza sus previsiones para los resultados del primer semestre posterior al ejercicio fiscal de Inditex; mantiene la recomendación de \"rendimiento superior\".",
+        "capturado": "2026-09-10T00:46:53-05:00"
+      },
+      {
+        "titulo": "La F1 eleva los arriendos turísticos en Madrid hasta 20000 euros cerca del circuito",
+        "url": "https://es.finance.yahoo.com/noticias/f%C3%B3rmula-1-dispara-alquileres-tur%C3%ADsticos-040153868.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "La Fórmula 1 dispara los alquileres turísticos en Madrid: hasta 20.000 euros por alojarse cerca del circuito",
+        "capturado": "2026-09-10T00:46:53-05:00"
+      },
+      {
+        "titulo": "Hypertune mejora procesador memoria y gráfica hasta 60 por ciento más sin ajustes con apoyo de Intel",
+        "url": "https://es-us.noticias.yahoo.com/60-fps-tocar-hypertune-optimiza-011847198.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Hasta un 60% más de FPS sin tocar nada: Hypertune optimiza automáticamente CPU, GPU y RAM y cuenta con el respaldo de Intel",
+        "capturado": "2026-09-10T00:46:53-05:00"
+      },
+      {
+        "titulo": "La RX 9070 XT reemplaza a la RX 6600 como la GPU de AMD predilecta en Steam tras años liderando",
+        "url": "https://es-us.noticias.yahoo.com/rx-9070-xt-desbanca-rx-001414062.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "La RX 9070 XT desbanca a la RX 6600 como la tarjeta gráfica más popular de AMD en Steam, que llevaba años como la Radeon más usada",
+        "capturado": "2026-09-10T00:46:53-05:00"
+      },
+      {
+        "titulo": "DLSS 5 de NVIDIA desembarca en Windows para optimizar visualmente fotos, videos y web sin usar juegos",
+        "url": "https://es-us.noticias.yahoo.com/dlss-5-nvidia-llega-escritorio-215958945.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "DLSS 5 de NVIDIA llega al escritorio de Windows y mejora visualmente videos, fotos y navegadores sin necesidad de abrir ningún juego",
+        "capturado": "2026-09-10T00:46:53-05:00"
+      },
       {
         "titulo": "La aplicación de NVIDIA ya enseña en el monitor el uso, calor y gasto de energía al jugar sin externos",
         "url": "https://es-us.noticias.yahoo.com/app-nvidia-muestra-pantalla-temperatura-195050311.html",
@@ -435,54 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Exportaciones de trigo blando 2026/27 de la UE ascienden a 4,92 millones de toneladas al 6 de septiembre",
         "capturado": "2026-09-08T11:05:34-05:00"
-      },
-      {
-        "titulo": "Apple demoró diez años en diseñar su iPhone plegable y costaría más de US$2.000",
-        "url": "https://es.finance.yahoo.com/noticias/apple-tard%C3%B3-d%C3%A9cada-crear-iphone-140616875.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Apple tardó una década en crear su iPhone plegable; su precio sería de más de US$2.000",
-        "capturado": "2026-09-08T11:05:34-05:00"
-      },
-      {
-        "titulo": "Meta difundió centenares de avisos con abuso sexual infantil generado por IA",
-        "url": "https://es.finance.yahoo.com/noticias/meta-public%C3%B3-cientos-anuncios-abuso-135428460.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Meta publicó cientos de anuncios con abuso sexual infantil creado por IA",
-        "capturado": "2026-09-08T11:05:34-05:00"
-      },
-      {
-        "titulo": "EEUU sufre aranceles de hasta el 50% por parte de Canadá en medio de creciente pugna comercial",
-        "url": "https://es.finance.yahoo.com/noticias/canad%C3%A1-impone-aranceles-50-productos-111944466.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Canadá impone aranceles de hasta el 50% a productos de EEUU mientras crece la disputa comercial",
-        "capturado": "2026-09-08T06:35:09-05:00"
-      },
-      {
-        "titulo": "Sentencian por corrupción a un exdirectivo de la banca helvética",
-        "url": "https://es.finance.yahoo.com/noticias/condenan-corrupci%C3%B3n-antiguo-alto-cargo-111240095.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Condenan por corrupción a un antiguo alto cargo de la banca suiza",
-        "capturado": "2026-09-08T06:35:09-05:00"
-      },
-      {
-        "titulo": "Wall Street siente la presión del incremento petrolero previo a abrir; Asia cae y Europa resiste",
-        "url": "https://es.finance.yahoo.com/noticias/alza-precios-petr%C3%B3leo-presiona-wall-110458923.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "El alza de los precios del petróleo presiona a Wall Street antes de la apertura; Asia cierra, Europa se mantiene estable.",
-        "capturado": "2026-09-08T06:35:09-05:00"
-      },
-      {
-        "titulo": "Qatar usa trasbordos de GNL entre embarcaciones para esquivar el bloqueo de Ormuz",
-        "url": "https://es.finance.yahoo.com/noticias/6-meses-bloqueo-hormuz-qatar-101328401.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Qatar recurre a transferencias de GNL entre buques para sortear el bloqueo de Ormuz",
-        "capturado": "2026-09-08T06:35:09-05:00"
       }
     ]
   }
