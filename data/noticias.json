@@ -1,9 +1,65 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-11T06:41:41-05:00",
+  "actualizado": "2026-09-11T10:57:35-05:00",
   "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Costos de barcos petroleros alcanzan máximos históricos tras ofensivas contra naves de Irán y EE UU",
+        "url": "https://es.finance.yahoo.com/noticias/tarifas-petroleros-tocan-r%C3%A9cords-ataques-155000204.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Tarifas de petroleros tocan récords tras ataques a buques de Irán y EEUU",
+        "capturado": "2026-09-11T10:57:35-05:00"
+      },
+      {
+        "titulo": "Gremio de trabajadores alemán pide a Volkswagen asegurar cumplimiento del pacto laboral de 2024",
+        "url": "https://es.finance.yahoo.com/noticias/sindicato-alem%C3%A1n-exige-volkswagen-comprometa-145055108.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Sindicato alemán exige a Volkswagen que se comprometa con el convenio colectivo de 2024",
+        "capturado": "2026-09-11T10:57:35-05:00"
+      },
+      {
+        "titulo": "Alza de precios en EE UU se ubica en 3,4% y registra su aceleración más alta desde mayo",
+        "url": "https://es.finance.yahoo.com/noticias/inflaci%C3%B3n-ee-uu-mantiene-3-132658356.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "La inflación de EE UU se mantiene en el 3,4% y los precios suben al ritmo más rápido desde mayo",
+        "capturado": "2026-09-11T10:57:35-05:00"
+      },
+      {
+        "titulo": "ETFs y futuros accionarios avanzan antes de la apertura bursátil del viernes tras datos de inflación",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-futuros-renta-131424179.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa y los futuros de renta variable suben antes de la apertura del mercado el viernes tras la publicación de datos de inflación.",
+        "capturado": "2026-09-11T10:57:35-05:00"
+      },
+      {
+        "titulo": "Costo de vida de los consumidores en EE UU sube en agosto",
+        "url": "https://es.finance.yahoo.com/noticias/inflaci%C3%B3n-consumo-eeuu-repunta-agosto-125802534.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "La inflación al consumo en EEUU repunta en agosto",
+        "capturado": "2026-09-11T10:57:35-05:00"
+      },
+      {
+        "titulo": "Apertura en alza para futuros de acciones en EE. UU. tras evaluar datos inflacionarios y baja del crudo",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-futuros-acciones-estadounidenses-suben-125437705.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los futuros de las acciones estadounidenses suben antes de la apertura del mercado mientras los operadores analizan más datos de inflación y la caída de los precios del petróleo.",
+        "capturado": "2026-09-11T10:57:35-05:00"
+      },
+      {
+        "titulo": "Fondo estatal de petróleo de Azerbaiyán fomenta la conformación del consejo de inversión China-ASEAN",
+        "url": "https://es.finance.yahoo.com/noticias/fondo-petrolero-estatal-azerbaiy%C3%A1n-impulsa-122035053.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El fondo petrolero estatal de Azerbaiyán impulsa la creación del consejo de inversión China-ASEAN",
+        "capturado": "2026-09-11T10:57:35-05:00"
+      },
       {
         "titulo": "Wall Street al alza antes de abrir por abaratamiento del crudo y fe tecnológica, con Asia a la baja y Europa al alza",
         "url": "https://es.finance.yahoo.com/noticias/reducci%C3%B3n-precios-petr%C3%B3leo-optimismo-tecnol%C3%B3gico-111107643.html",
@@ -427,62 +483,6 @@
         "medio": "Bloomberg",
         "titulo_fuente": "Irán está preparado para una guerra más intensa con EE.UU. y advierte que no cederá",
         "capturado": "2026-09-09T15:31:15-05:00"
-      },
-      {
-        "titulo": "Ciudadanos de El Salvador afrontan la conclusión del TPS en territorio estadounidense",
-        "url": "https://es.finance.yahoo.com/noticias/salvadore%C3%B1os-enfrentn-tps-ee-uu-170346462.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Salvadoreños se enfrentn al fin del TPS en EE.UU.",
-        "capturado": "2026-09-09T15:31:15-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE. UU. bajan al superar el petróleo US$100 por guerra con Irán y subir tasas por recompras",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-173635529.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen a medida que el petróleo crudo supera la marca de los 100 dólares en medio del empeoramiento de la guerra con Irán, y los rendimientos se disparan después de que el Tesoro triplicara las recompras de deuda pública.",
-        "capturado": "2026-09-09T12:54:56-05:00"
-      },
-      {
-        "titulo": "Acciones y fondos cotizados de Estados Unidos retroceden pasada la mitad de la jornada",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-acciones-estadounidenses-173124427.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa y las acciones estadounidenses caen después del mediodía.",
-        "capturado": "2026-09-09T12:54:56-05:00"
-      },
-      {
-        "titulo": "Trump dio US$45.000 en aportes monetarios a Natalie Harp y a otros allegados",
-        "url": "https://es.finance.yahoo.com/noticias/trump-entreg%C3%B3-45-000-d%C3%B3lares-172059368.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Trump entregó 45.000 dólares en donaciones en efectivo a colaboradora cercana Natalie Harp y a otras personas",
-        "capturado": "2026-09-09T12:54:56-05:00"
-      },
-      {
-        "titulo": "OMC indica que el intercambio global de bienes repunta pese a gravámenes y conflicto en Medio Oriente",
-        "url": "https://es.finance.yahoo.com/noticias/comercio-mundial-mercanc%C3%ADas-fortalece-aranceles-164406883.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Comercio mundial de mercancías se fortalece a pesar de aranceles y tensiones en Oriente Medio: OMC",
-        "capturado": "2026-09-09T12:54:56-05:00"
-      },
-      {
-        "titulo": "Ministerio de Hacienda estadounidense multiplica por tres la recompra de bonos a US$6.000 millones",
-        "url": "https://es.finance.yahoo.com/noticias/tesoro-ee-uu-triplica-recompra-151908857.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Tesoro de EE.UU. triplica recompra de deuda a largo plazo a US$6.000 millones",
-        "capturado": "2026-09-09T12:54:56-05:00"
-      },
-      {
-        "titulo": "Rumores del mercado: Shell, TotalEnergies Ventures y otras firmas mirarían activos de BP en el Mar del Norte",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-rumores-mercado-shell-totalenergies-151226103.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Rumores del mercado: Shell, TotalEnergies Ventures y otras compañías estarían interesadas en la cartera de BP en el Mar del Norte.",
-        "capturado": "2026-09-09T12:54:56-05:00"
       }
     ]
   }
