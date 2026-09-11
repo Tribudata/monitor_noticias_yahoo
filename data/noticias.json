@@ -1,9 +1,33 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-10T20:20:46-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-09-11T01:25:54-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Anthropic indica que la inteligencia artificial generaría un alza del 15% y alto desempleo en 2030",
+        "url": "https://es.finance.yahoo.com/noticias/anthropic-afirma-ia-aportar-crecimiento-050023056.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Anthropic afirma que la IA podría aportar un crecimiento del 15% y desempleo masivo en 2030",
+        "capturado": "2026-09-11T01:25:54-05:00"
+      },
+      {
+        "titulo": "Logrará el incremento de tasas del BCE detener el choque inflacionario causado por la energía",
+        "url": "https://es.finance.yahoo.com/noticias/subida-tipos-bce-frenar-shock-053543030.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "¿Puede la subida de tipos del BCE frenar el shock inflacionista provocado por la energía?",
+        "capturado": "2026-09-11T01:25:54-05:00"
+      },
+      {
+        "titulo": "No Man’s Sky festeja una década con enorme parche gratis y usuarios vuelan directo al sol",
+        "url": "https://es-us.noticias.yahoo.com/man-s-sky-celebra-10-214251895.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "No Man’s Sky celebra 10 años con su mayor actualización gratuita con estaciones espaciales y jugadores ignoran todo lo nuevo para volar directo al sol",
+        "capturado": "2026-09-11T01:25:54-05:00"
+      },
       {
         "titulo": "Windows incorpora compatibilidad con vibración, iluminación y gatillos del DualSense en juegos de PC",
         "url": "https://es-us.noticias.yahoo.com/windows-a%C3%B1ade-soporte-gatillos-adaptativos-201239984.html",
@@ -458,30 +482,6 @@
         "resumen": "",
         "medio": "MT Newswires",
         "titulo_fuente": "Actualización: Los futuros de las acciones estadounidenses caen antes de la apertura del mercado, mientras que el crudo Brent supera los 100 dólares por barril.",
-        "capturado": "2026-09-09T09:11:59-05:00"
-      },
-      {
-        "titulo": "El valor del gas europeo sube a picos de 2023 debido al bloqueo de GNL en el estrecho de Ormuz",
-        "url": "https://es.finance.yahoo.com/noticias/precios-gas-europa-siguen-subiendo-113548382.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El precio del gas en Europa escala a máximos desde 2023 por el bloqueo del GNL en el estrecho de Ormuz",
-        "capturado": "2026-09-09T09:11:59-05:00"
-      },
-      {
-        "titulo": "Ventas externas de maíz en Argentina alcanzarían marcas históricas por conflicto ucraniano y calor europeo",
-        "url": "https://es.finance.yahoo.com/noticias/exportaciones-ma%C3%ADz-argentino-ser-r%C3%A9cord-120456819.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Exportaciones de maíz argentino podrían ser récord por guerra de Ucrania y calor en Europa",
-        "capturado": "2026-09-09T09:11:59-05:00"
-      },
-      {
-        "titulo": "El crudo regresa a los US$100: Morning Briefing Español",
-        "url": "https://es.finance.yahoo.com/noticias/petr%C3%B3leo-vuelve-us-100-morning-120415063.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "El petróleo vuelve a los US$100: Morning Briefing Español",
         "capturado": "2026-09-09T09:11:59-05:00"
       }
     ]
