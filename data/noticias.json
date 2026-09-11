@@ -1,9 +1,41 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-11T10:57:35-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-09-11T14:05:10-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Tecnología y comunicaciones elevan la bolsa de EE. UU. e IPC de agosto sube bonos del Tesoro de corto plazo",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-servicios-comunicaci%C3%B3n-tecnolog%C3%ADa-impulsan-181816784.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los servicios de comunicación y la tecnología impulsan al alza los índices bursátiles estadounidenses, mientras que el IPC de agosto desencadena un repunte en los rendimientos de los bonos del Tesoro a corto plazo.",
+        "capturado": "2026-09-11T14:05:10-05:00"
+      },
+      {
+        "titulo": "Ministro anuncia que Perú y la India entran en la etapa final de negociaciones para un tratado comercial",
+        "url": "https://es.finance.yahoo.com/noticias/per%C3%BA-india-ingresan-tramo-final-174326335.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Perú e India ingresan a tramo final para un tratado de libre comercio: ministro",
+        "capturado": "2026-09-11T14:05:10-05:00"
+      },
+      {
+        "titulo": "Acciones y fondos cotizados en bolsa de Estados Unidos registran alzas pasada la hora del almuerzo",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-acciones-estadounidenses-171329465.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa y las acciones estadounidenses suben después del mediodía.",
+        "capturado": "2026-09-11T14:05:10-05:00"
+      },
+      {
+        "titulo": "EE. UU. otorgará un crédito de 100 millones de dólares a Africell para competir con Huawei en África",
+        "url": "https://es.finance.yahoo.com/noticias/eeuu-conceder%C3%A1-pr%C3%A9stamo-100-millones-160747899.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "EEUU concederá préstamo de 100 millones de dólares a Africell para hacer frente a Huawei en África",
+        "capturado": "2026-09-11T14:05:10-05:00"
+      },
       {
         "titulo": "Costos de barcos petroleros alcanzan máximos históricos tras ofensivas contra naves de Irán y EE UU",
         "url": "https://es.finance.yahoo.com/noticias/tarifas-petroleros-tocan-r%C3%A9cords-ataques-155000204.html",
@@ -451,38 +483,6 @@
         "medio": "MT Newswires",
         "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen a medida que suben los rendimientos de los bonos del Tesoro después de que Bessent triplicara el tamaño de su programa de recompra, lo que empeora la guerra con Irán y eleva el precio del crudo Brent por encima de los 100 dólares.",
         "capturado": "2026-09-09T17:57:57-05:00"
-      },
-      {
-        "titulo": "OpenAI habría hurtado apuntes a matemático que empleaba Codex para hallar antes que él una fórmula centenaria: usó 10.000 agentes e invirtió US$22,5 millones para conseguirlo",
-        "url": "https://es-us.noticias.yahoo.com/openai-habr%C3%ADa-robado-notas-matem%C3%A1tico-014840857.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "OpenAI habría robado notas a matemático que usaba Codex para resolver antes que él ecuación centenaria: desplegó 10.000 agentes y gastó US$22,5 millones para lograrlo",
-        "capturado": "2026-09-09T17:57:57-05:00"
-      },
-      {
-        "titulo": "Secretario Rubio anuncia gestión de 45 millones de dólares para seguridad en Ecuador",
-        "url": "https://es.finance.yahoo.com/noticias/secretario-rubio-buscar%C3%A1-45-millones-200959588.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Secretario Rubio dice que buscará 45 millones de dólares en fondos de seguridad para Ecuador",
-        "capturado": "2026-09-09T15:31:15-05:00"
-      },
-      {
-        "titulo": "Bessent respalda emplear la fuerza financiera de EE.UU. en política exterior, tal como en Argentina",
-        "url": "https://es.finance.yahoo.com/noticias/bessent-apoya-usar-poder-financiero-181841792.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Bessent apoya usar poder financiero de EEUU como herramienta de política exterior, como en Argentina",
-        "capturado": "2026-09-09T15:31:15-05:00"
-      },
-      {
-        "titulo": "Irán avisa que está listo para un conflicto mayor con EE.UU. y señala que no retrocederá",
-        "url": "https://es.finance.yahoo.com/noticias/ir%C3%A1n-preparado-guerra-intensa-ee-170642136.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Irán está preparado para una guerra más intensa con EE.UU. y advierte que no cederá",
-        "capturado": "2026-09-09T15:31:15-05:00"
       }
     ]
   }
