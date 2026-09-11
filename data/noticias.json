@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-11T16:50:43-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-09-11T18:53:38-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Hijo halla que su madre suma 18.793 triunfos en Pokémon GO y 39.000 monedas ahorradas en una década",
+        "url": "https://es-us.noticias.yahoo.com/jugador-descubre-mam%C3%A1-terror-arenas-180640993.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Jugador descubre que su mamá es el terror de las arenas de Pokémon GO con 18.793 victorias en 10 años y 39.000 monedas que no gasta por tacaña",
+        "capturado": "2026-09-11T18:53:38-05:00"
+      },
       {
         "titulo": "Alza en bolsas de EE. UU. tras inflación de agosto y datos de bonos mientras el petróleo crudo cae",
         "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-204107369.html",
@@ -474,14 +482,6 @@
         "resumen": "",
         "medio": "MT Newswires",
         "titulo_fuente": "RBC actualiza sus previsiones para los resultados del primer semestre posterior al ejercicio fiscal de Inditex; mantiene la recomendación de \"rendimiento superior\".",
-        "capturado": "2026-09-10T00:46:53-05:00"
-      },
-      {
-        "titulo": "La F1 eleva los arriendos turísticos en Madrid hasta 20000 euros cerca del circuito",
-        "url": "https://es.finance.yahoo.com/noticias/f%C3%B3rmula-1-dispara-alquileres-tur%C3%ADsticos-040153868.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La Fórmula 1 dispara los alquileres turísticos en Madrid: hasta 20.000 euros por alojarse cerca del circuito",
         "capturado": "2026-09-10T00:46:53-05:00"
       }
     ]
