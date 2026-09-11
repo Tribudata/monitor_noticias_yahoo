@@ -1,9 +1,65 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-11T01:25:54-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-09-11T06:41:41-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Wall Street al alza antes de abrir por abaratamiento del crudo y fe tecnológica, con Asia a la baja y Europa al alza",
+        "url": "https://es.finance.yahoo.com/noticias/reducci%C3%B3n-precios-petr%C3%B3leo-optimismo-tecnol%C3%B3gico-111107643.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "La reducción de los precios del petróleo y el optimismo tecnológico impulsan a Wall Street antes de la apertura, Asia baja, Europa sube.",
+        "capturado": "2026-09-11T06:41:41-05:00"
+      },
+      {
+        "titulo": "Pasivos de Europa tocan cimas plurianuales en medio de la persistente liquidación mundial",
+        "url": "https://es.finance.yahoo.com/noticias/rendimientos-deuda-europea-marcan-m%C3%A1ximos-101858676.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "La deuda europea marca máximos de varios años mientras continúa la ola de ventas global",
+        "capturado": "2026-09-11T06:41:41-05:00"
+      },
+      {
+        "titulo": "Falta de crudo mundial aumentará en 2026 por postergaciones en el golfo Pérsico, señala la AIE",
+        "url": "https://es.finance.yahoo.com/noticias/d%C3%A9ficit-petrolero-global-crecer%C3%A1-2026-105339351.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Déficit petrolero global crecerá en 2026 por retrasos en el golfo Pérsico, dice la AIE",
+        "capturado": "2026-09-11T06:41:41-05:00"
+      },
+      {
+        "titulo": "Provisión de petróleo saudita llega a suelo de más de treinta años tras ofensivas hutíes según la AIE",
+        "url": "https://es.finance.yahoo.com/noticias/suministro-petrolero-saud%C3%AD-toca-m%C3%ADnimo-102835973.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Suministro petrolero saudí toca mínimo de más de tres décadas tras ataques hutíes: AIE",
+        "capturado": "2026-09-11T06:41:41-05:00"
+      },
+      {
+        "titulo": "Avance económico, Francia se retrasa frente a sus pares de Europa",
+        "url": "https://es.finance.yahoo.com/noticias/crecimiento-francia-queda-atr%C3%A1s-vecinos-074852175.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Crecimiento, Francia se queda atrás respecto a sus vecinos europeos",
+        "capturado": "2026-09-11T06:41:41-05:00"
+      },
+      {
+        "titulo": "Shell participa en la puja para la ronda petrolera y gasífera noruega de 2026",
+        "url": "https://es.finance.yahoo.com/noticias/shell-une-licitadores-ronda-exploraci%C3%B3n-091853729.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Shell se une a los licitadores para la ronda de exploración de petróleo y gas de Noruega de 2026.",
+        "capturado": "2026-09-11T06:41:41-05:00"
+      },
+      {
+        "titulo": "El banco central indica que la economía gala está a salvo pero urge recortar el déficit",
+        "url": "https://es.finance.yahoo.com/noticias/econom%C3%ADa-francesa-corre-peligro-reducir-081108775.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "La economía francesa no corre peligro, pero hay que reducir el déficit, afirma el banco central",
+        "capturado": "2026-09-11T06:41:41-05:00"
+      },
       {
         "titulo": "Anthropic indica que la inteligencia artificial generaría un alza del 15% y alto desempleo en 2030",
         "url": "https://es.finance.yahoo.com/noticias/anthropic-afirma-ia-aportar-crecimiento-050023056.html",
@@ -427,62 +483,6 @@
         "medio": "MT Newswires",
         "titulo_fuente": "Actualización: Rumores del mercado: Shell, TotalEnergies Ventures y otras compañías estarían interesadas en la cartera de BP en el Mar del Norte.",
         "capturado": "2026-09-09T12:54:56-05:00"
-      },
-      {
-        "titulo": "Grecia, Egipto y Chipre apoyan iniciativa para exportar gas chipriota hacia Europa",
-        "url": "https://es.finance.yahoo.com/noticias/egipto-grecia-chipre-respaldan-planes-141110940.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Egipto, Grecia y Chipre respaldan el plan para llevar gas chipriota a Europa",
-        "capturado": "2026-09-09T12:54:56-05:00"
-      },
-      {
-        "titulo": "Messi adquirirá el equipo español CD Eldense y expande su conglomerado empresarial",
-        "url": "https://es.finance.yahoo.com/noticias/messi-comprar%C3%A1-club-espa%C3%B1ol-cd-140852173.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Messi comprará el club español CD Eldense y amplía su imperio empresarial",
-        "capturado": "2026-09-09T12:54:56-05:00"
-      },
-      {
-        "titulo": "El bache fiscal qatarí llega a 5.000M€ en el segundo trimestre por la caída del GNL",
-        "url": "https://es.finance.yahoo.com/noticias/d%C3%A9ficit-presupuestario-catar-duplica-5-120642217.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El déficit presupuestario de Qatar se duplica a 5.000M€ en el segundo trimestre por la crisis de GNL",
-        "capturado": "2026-09-09T09:11:59-05:00"
-      },
-      {
-        "titulo": "Cultivadores de champán usarán reservas tras la caída de cosecha por las olas de calor",
-        "url": "https://es.finance.yahoo.com/noticias/productores-champ%C3%A1n-recurrir%C3%A1n-reservas-reducci%C3%B3n-134342506.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Productores de champán recurrirán a reservas tras la reducción de cosecha provocada por olas de calor",
-        "capturado": "2026-09-09T09:11:59-05:00"
-      },
-      {
-        "titulo": "El Brent reasume los 100 dólares ante la escalada bélica en Oriente Medio",
-        "url": "https://es.finance.yahoo.com/noticias/brent-supera-100-d%C3%B3lares-intensifica-130715473.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Brent supera 100 dólares mientras se intensifica el conflicto en Oriente Medio",
-        "capturado": "2026-09-09T09:11:59-05:00"
-      },
-      {
-        "titulo": "ETFs y futuros accionarios caen en la preapertura del miércoles con el Brent sobre 100 dólares",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-futuros-acciones-130653573.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa y los futuros de acciones bajan antes de la apertura del miércoles, mientras el crudo Brent supera los 100 dólares por barril.",
-        "capturado": "2026-09-09T09:11:59-05:00"
-      },
-      {
-        "titulo": "Los futuros de acciones en EE. UU. bajan en la preapertura y el Brent supera los 100 dólares",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-futuros-acciones-estadounidenses-caen-124959037.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los futuros de las acciones estadounidenses caen antes de la apertura del mercado, mientras que el crudo Brent supera los 100 dólares por barril.",
-        "capturado": "2026-09-09T09:11:59-05:00"
       }
     ]
   }
