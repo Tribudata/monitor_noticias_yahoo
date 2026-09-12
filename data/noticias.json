@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-12T13:08:41-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-09-12T15:47:47-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "El encarecimiento del petróleo forzaría al BCE a elevar tipos de interés, advierte delegado al FT",
+        "url": "https://es.finance.yahoo.com/noticias/altos-precios-crudo-obligar-bce-193244714.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Altos precios del crudo podrían obligar al BCE a subir más las tasas, dice funcionario al FT",
+        "capturado": "2026-09-12T15:47:47-05:00"
+      },
       {
         "titulo": "Capgemini enajena su subsidiaria en EE UU cuestionada por el acuerdo con ICE",
         "url": "https://es.finance.yahoo.com/noticias/capgemini-vende-filial-estadounidense-criticada-170914191.html",
@@ -474,14 +482,6 @@
         "resumen": "",
         "medio": "Reuters",
         "titulo_fuente": "Las ventas de viviendas de segunda mano en EEUU caen en agosto a mínimo de 14 meses",
-        "capturado": "2026-09-10T09:52:11-05:00"
-      },
-      {
-        "titulo": "Colombia incrementa en 8.066 millones de dólares colocación de papeles de deuda local para 2026",
-        "url": "https://es.finance.yahoo.com/noticias/colombia-aumenta-8-066-millones-142456223.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Colombia aumenta en 8.066 millones de dólares emisión en títulos de deuda interna para 2026",
         "capturado": "2026-09-10T09:52:11-05:00"
       }
     ]
