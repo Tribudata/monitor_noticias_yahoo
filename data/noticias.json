@@ -1,9 +1,33 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-12T10:44:08-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-12T13:08:41-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Capgemini enajena su subsidiaria en EE UU cuestionada por el acuerdo con ICE",
+        "url": "https://es.finance.yahoo.com/noticias/capgemini-vende-filial-estadounidense-criticada-170914191.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Capgemini vende su filial estadounidense, criticada por su contrato con ICE",
+        "capturado": "2026-09-12T13:08:41-05:00"
+      },
+      {
+        "titulo": "Tesla produce el Cybercab con una velocidad superior a cinco veces según Elon Musk",
+        "url": "https://es.finance.yahoo.com/noticias/elon-musk-tesla-fabrica-cybercab-170042576.html",
+        "resumen": "",
+        "medio": "Benzinga Espana",
+        "titulo_fuente": "Elon Musk: Tesla fabrica el Cybercab más de cinco veces más rápido",
+        "capturado": "2026-09-12T13:08:41-05:00"
+      },
+      {
+        "titulo": "La señal del Bitcoin ante el oro que afianza la perspectiva positiva de Cathie Wood",
+        "url": "https://es.finance.yahoo.com/noticias/bitcoin-frente-oro-se%C3%B1al-refuerza-100021532.html",
+        "resumen": "",
+        "medio": "Benzinga Espana",
+        "titulo_fuente": "Bitcoin frente al oro: la señal que refuerza el optimismo de Cathie Wood",
+        "capturado": "2026-09-12T13:08:41-05:00"
+      },
       {
         "titulo": "Boicot de Canadá a bienes estadounidenses fuerza a cadenas a hallar nuevos proveedores",
         "url": "https://es.finance.yahoo.com/noticias/boicot-canadiense-productos-eeuu-obliga-150318671.html",
@@ -458,30 +482,6 @@
         "resumen": "",
         "medio": "Reuters",
         "titulo_fuente": "Colombia aumenta en 8.066 millones de dólares emisión en títulos de deuda interna para 2026",
-        "capturado": "2026-09-10T09:52:11-05:00"
-      },
-      {
-        "titulo": "Berenberg conserva su consejo de compra para Inditex post segundo trimestre y ajusta proyecciones",
-        "url": "https://es.finance.yahoo.com/noticias/berenberg-mantiene-recomendaci%C3%B3n-compra-inditex-133222138.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Berenberg mantiene su recomendación de compra para Inditex tras los resultados del segundo trimestre; las estimaciones se revisan a la baja.",
-        "capturado": "2026-09-10T09:52:11-05:00"
-      },
-      {
-        "titulo": "El recargo del precio del cobre en EE UU cae al frenarse su iniciativa de aranceles",
-        "url": "https://es.finance.yahoo.com/noticias/prima-precio-cobre-eeuu-hunde-133154345.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "La prima del precio del cobre en EEUU se hunde tras conocerse que plan arancelario se estancó",
-        "capturado": "2026-09-10T09:52:11-05:00"
-      },
-      {
-        "titulo": "ETF caen y futuros bursátiles muestran resultados mixtos previo al mercado del jueves por inflación mayorista",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-bajan-futuros-131756587.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa bajan y los futuros de renta variable presentan resultados mixtos antes de la apertura del mercado el jueves, en medio de la publicación de datos sobre la inflación de los precios al productor.",
         "capturado": "2026-09-10T09:52:11-05:00"
       }
     ]
