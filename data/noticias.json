@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-12T15:47:47-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-12T17:51:48-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "StarCraft regresará en 2030 como shooter y presentó su tráiler inicial en BlizzCon tras cancelaciones",
+        "url": "https://es-us.noticias.yahoo.com/starcraft-vuelve-2030-shooter-blizzcon-181213069.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "StarCraft vuelve en 2030 como shooter: en BlizzCon mostró su primer tráiler tras años de rumores y dos intentos cancelados",
+        "capturado": "2026-09-12T17:51:48-05:00"
+      },
+      {
+        "titulo": "Emulador de PS5 ejecuta tres exclusivos en PC con Demon's Souls y Astro Bot en mal momento para Sony",
+        "url": "https://es-us.noticias.yahoo.com/emulador-ps5-exclusivos-jugables-pc-164433185.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Emulador de PS5 ya tiene tres exclusivos jugables en PC incluyendo Demon’s Souls y Astro Bot, y el timing no podría ser peor para PlayStation",
+        "capturado": "2026-09-12T17:51:48-05:00"
+      },
       {
         "titulo": "El encarecimiento del petróleo forzaría al BCE a elevar tipos de interés, advierte delegado al FT",
         "url": "https://es.finance.yahoo.com/noticias/altos-precios-crudo-obligar-bce-193244714.html",
@@ -466,22 +482,6 @@
         "resumen": "",
         "medio": "Reuters",
         "titulo_fuente": "Importante accionista de Novartis pide cambios en directorio tras reveses en ensayos clínicos",
-        "capturado": "2026-09-10T09:52:11-05:00"
-      },
-      {
-        "titulo": "Congresistas estadounidenses exigen nuevas regulaciones en IA tras alertas de seguridad de Anthropic",
-        "url": "https://es.finance.yahoo.com/noticias/legisladores-eeuu-piden-normas-ia-143214699.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Legisladores EEUU piden nuevas normas sobre IA tras advertencias de seguridad sobre Anthropic",
-        "capturado": "2026-09-10T09:52:11-05:00"
-      },
-      {
-        "titulo": "Comercialización de casas usadas en EE UU baja en agosto a su piso de 14 meses",
-        "url": "https://es.finance.yahoo.com/noticias/ventas-viviendas-mano-eeuu-caen-143151728.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Las ventas de viviendas de segunda mano en EEUU caen en agosto a mínimo de 14 meses",
         "capturado": "2026-09-10T09:52:11-05:00"
       }
     ]
