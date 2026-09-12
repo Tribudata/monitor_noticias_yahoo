@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-11T22:22:53-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-09-12T03:04:16-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Anuncian remasterización no oficial de Parasite Eve 2 para PC con avance del 75 por ciento",
+        "url": "https://es-us.noticias.yahoo.com/parasite-eve-2-remaster-oficial-235315370.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Parasite Eve 2 tendrá un remaster no oficial para PC: gráficos HD, 60 FPS y pantalla panorámica sin emulador, con el 75% completado",
+        "capturado": "2026-09-12T03:04:16-05:00"
+      },
       {
         "titulo": "DLSS 5 enloquece en GTA V al pausar y vuelve a los personajes estructuras psicodélicas como viaje de ácido",
         "url": "https://es-us.noticias.yahoo.com/dlss-5-enloquece-gta-v-213258270.html",
@@ -474,14 +482,6 @@
         "resumen": "",
         "medio": "Reuters",
         "titulo_fuente": "China compra un millón de toneladas de soja de EEUU antes de la visita de Xi, según fuentes",
-        "capturado": "2026-09-10T05:44:29-05:00"
-      },
-      {
-        "titulo": "El director del BIS advierte que el boom de la IA trae nuevos peligros para la estabilidad financiera",
-        "url": "https://es.finance.yahoo.com/noticias/auge-ia-plantea-riesgos-estabilidad-063109048.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "El auge de la IA plantea nuevos riesgos para la estabilidad financiera, según director del BIS",
         "capturado": "2026-09-10T05:44:29-05:00"
       }
     ]
