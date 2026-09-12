@@ -1,9 +1,65 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-12T03:04:16-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-12T07:17:27-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Mayor jornada laboral por idéntica remuneración según el director general de STIHL",
+        "url": "https://es.finance.yahoo.com/noticias/fabricante-motosierras-stihl-aboga-jornada-133959949.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Más horas por el mismo sueldo: la propuesta del CEO de STIHL",
+        "capturado": "2026-09-12T07:17:27-05:00"
+      },
+      {
+        "titulo": "Jim Cramer afirma que el Bono del Tesoro a 30 años domina el mercado actual",
+        "url": "https://es.finance.yahoo.com/noticias/jim-cramer-bono-tesoro-30-084400615.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Jim Cramer: el Bono del Tesoro a 30 años es el rey en este momento",
+        "capturado": "2026-09-12T07:17:27-05:00"
+      },
+      {
+        "titulo": "Bank of America alerta acerca de la fuga de recursos financieros en Wall Street",
+        "url": "https://es.finance.yahoo.com/noticias/bank-of-america-advierte-salida-050000796.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "Bank of America advierte sobre la salida de capital en Wall Street",
+        "capturado": "2026-09-12T07:17:27-05:00"
+      },
+      {
+        "titulo": "Soportes esenciales que el Ibex 35 tiene la obligación de conservar",
+        "url": "https://es.finance.yahoo.com/noticias/niveles-clave-fundamentales-ibex-35-045000417.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "\"Niveles clave y fundamentales que el Ibex 35 no debe perder\"",
+        "capturado": "2026-09-12T07:17:27-05:00"
+      },
+      {
+        "titulo": "Para 2026 buscamos ser el constructor con mayor entrega de casas en la historia nacional",
+        "url": "https://es.finance.yahoo.com/noticias/2026-aspiramos-convertirnos-promotor-viviendas-040000205.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "“En 2026 aspiramos a convertirnos en el promotor que más viviendas habrá entregado en la historia de nuestro país”",
+        "capturado": "2026-09-12T07:17:27-05:00"
+      },
+      {
+        "titulo": "Alza de precios, tasas, lío de títulos y las razones del enriquecimiento de los ricos",
+        "url": "https://es.finance.yahoo.com/noticias/inflaci%C3%B3n-tipos-crisis-bonos-ricos-040000242.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "Inflación, tipos, crisis de bonos y por qué los ricos son cada vez más ricos",
+        "capturado": "2026-09-12T07:17:27-05:00"
+      },
+      {
+        "titulo": "Oportunidad de alza de tipos de la Fed llega al 90%: Dónde falló la economía de Trump",
+        "url": "https://es.finance.yahoo.com/noticias/probabilidad-aumento-tasas-fed-acerca-213500208.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Probabilidad de aumento de tasas de la Fed se acerca al 90%: ¿Dónde falló la economía de Trump?",
+        "capturado": "2026-09-12T07:17:27-05:00"
+      },
       {
         "titulo": "Anuncian remasterización no oficial de Parasite Eve 2 para PC con avance del 75 por ciento",
         "url": "https://es-us.noticias.yahoo.com/parasite-eve-2-remaster-oficial-235315370.html",
@@ -427,62 +483,6 @@
         "medio": "MT Newswires",
         "titulo_fuente": "Actualización: Los futuros de las acciones estadounidenses bajan antes de la apertura del jueves mientras los operadores evalúan los datos de inflación en medio de precios del petróleo más altos.",
         "capturado": "2026-09-10T09:52:11-05:00"
-      },
-      {
-        "titulo": "Berenberg mantiene concepto positivo de compra sobre Lottomatica durante su trato de fusión con Cirsa",
-        "url": "https://es.finance.yahoo.com/noticias/berenberg-reafirma-recomendaci%C3%B3n-compra-lottomatica-102108601.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Berenberg reafirma su recomendación de compra para Lottomatica en medio del acuerdo de fusión con Cirsa.",
-        "capturado": "2026-09-10T05:44:29-05:00"
-      },
-      {
-        "titulo": "Habrá fin de Seat? El Ejecutivo cree en su permanencia al tiempo que Volkswagen analiza su porvenir",
-        "url": "https://es.finance.yahoo.com/noticias/desaparecer%C3%A1-seat-gobierno-conf%C3%ADa-continuidad-101215471.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "¿Desaparecerá Seat? El Gobierno confía en su continuidad mientras Volkswagen estudia su futuro",
-        "capturado": "2026-09-10T05:44:29-05:00"
-      },
-      {
-        "titulo": "Anuncio de pago en campañas de Trump genera presión en los bonos del Tesoro",
-        "url": "https://es.finance.yahoo.com/noticias/promesa-pago-electoral-trump-pone-093923499.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Promesa de pago electoral de Trump pone presión sobre los Treasuries",
-        "capturado": "2026-09-10T05:44:29-05:00"
-      },
-      {
-        "titulo": "El FMI releva al experto luso Ricardo Reis luego de cuestionar los aranceles de Trump",
-        "url": "https://es.finance.yahoo.com/noticias/economista-portugu%C3%A9s-ricardo-reis-apartado-090758706.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El FMI aparta al economista portugués Ricardo Reis tras criticar los aranceles de Trump",
-        "capturado": "2026-09-10T05:44:29-05:00"
-      },
-      {
-        "titulo": "Corea del Sur roza pacto de inversión en Estados Unidos superior a 100.000 millones de dólares, dice WSJ",
-        "url": "https://es.finance.yahoo.com/noticias/corea-sur-acuerdo-inversi%C3%B3n-eeuu-085458702.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Corea del Sur está cerca de acuerdo de inversión en EEUU por más de 100.000 millones de dólares, según WSJ",
-        "capturado": "2026-09-10T05:44:29-05:00"
-      },
-      {
-        "titulo": "Suben con fuerza los rendimientos del Tesoro de EE.UU. tras fallida recompra de bonos por 6.000 millones",
-        "url": "https://es.finance.yahoo.com/noticias/rendimientos-tesoro-eeuu-disparan-decepciona-081425079.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Los rendimientos del Tesoro de EE.UU. se disparan, decepcionante recompra de bonos de 6.000 millones",
-        "capturado": "2026-09-10T05:44:29-05:00"
-      },
-      {
-        "titulo": "Fuentes señalan que China adquiere un millón de toneladas de soja estadounidense antes de la visita de Xi",
-        "url": "https://es.finance.yahoo.com/noticias/china-compra-mill%C3%B3n-toneladas-soja-072339472.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "China compra un millón de toneladas de soja de EEUU antes de la visita de Xi, según fuentes",
-        "capturado": "2026-09-10T05:44:29-05:00"
       }
     ]
   }
