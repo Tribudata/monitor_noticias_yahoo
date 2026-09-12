@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-11T18:53:38-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-11T22:22:53-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "DLSS 5 enloquece en GTA V al pausar y vuelve a los personajes estructuras psicodélicas como viaje de ácido",
+        "url": "https://es-us.noticias.yahoo.com/dlss-5-enloquece-gta-v-213258270.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "DLSS 5 enloquece en GTA V cuando el juego se pausa y transforma los personajes en estructuras psicodélicas que los jugadores comparan con un viaje de ácido",
+        "capturado": "2026-09-11T22:22:53-05:00"
+      },
+      {
+        "titulo": "Creador de Thief afirma que la industria debió frenar la mejora gráfica en 2010 por costos y falta de impacto",
+        "url": "https://es-us.noticias.yahoo.com/dise%C3%B1ador-thief-industria-debi%C3%B3-dejar-201929859.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Diseñador de Thief dice que la industria debió dejar de mejorar los gráficos en 2010: “Solo cuestan una fortuna y los jugadores ya no notan la diferencia”",
+        "capturado": "2026-09-11T22:22:53-05:00"
+      },
       {
         "titulo": "Hijo halla que su madre suma 18.793 triunfos en Pokémon GO y 39.000 monedas ahorradas en una década",
         "url": "https://es-us.noticias.yahoo.com/jugador-descubre-mam%C3%A1-terror-arenas-180640993.html",
@@ -467,22 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "El auge de la IA plantea nuevos riesgos para la estabilidad financiera, según director del BIS",
         "capturado": "2026-09-10T05:44:29-05:00"
-      },
-      {
-        "titulo": "Qué naciones de Europa muestran mayor dependencia del petróleo de Ormuz",
-        "url": "https://es.finance.yahoo.com/noticias/pa%C3%ADses-europeos-importan-petr%C3%B3leo-crudo-040459217.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "¿Qué países europeos dependen más del crudo de Ormuz?",
-        "capturado": "2026-09-10T00:46:53-05:00"
-      },
-      {
-        "titulo": "RBC ajusta proyecciones semestrales de Inditex y conserva su consejo de rendimiento superior",
-        "url": "https://es.finance.yahoo.com/noticias/rbc-actualiza-previsiones-resultados-semestre-052844062.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "RBC actualiza sus previsiones para los resultados del primer semestre posterior al ejercicio fiscal de Inditex; mantiene la recomendación de \"rendimiento superior\".",
-        "capturado": "2026-09-10T00:46:53-05:00"
       }
     ]
   }
