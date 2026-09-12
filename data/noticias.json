@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-12T07:17:27-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-09-12T10:44:08-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Boicot de Canadá a bienes estadounidenses fuerza a cadenas a hallar nuevos proveedores",
+        "url": "https://es.finance.yahoo.com/noticias/boicot-canadiense-productos-eeuu-obliga-150318671.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Boicot canadiense a productos EEUU obliga a supermercados a buscar nuevas fuentes de suministro",
+        "capturado": "2026-09-12T10:44:08-05:00"
+      },
       {
         "titulo": "Mayor jornada laboral por idéntica remuneración según el director general de STIHL",
         "url": "https://es.finance.yahoo.com/noticias/fabricante-motosierras-stihl-aboga-jornada-133959949.html",
@@ -474,14 +482,6 @@
         "resumen": "",
         "medio": "MT Newswires",
         "titulo_fuente": "Los fondos cotizados en bolsa bajan y los futuros de renta variable presentan resultados mixtos antes de la apertura del mercado el jueves, en medio de la publicación de datos sobre la inflación de los precios al productor.",
-        "capturado": "2026-09-10T09:52:11-05:00"
-      },
-      {
-        "titulo": "Actualización: Futuros de acciones norteamericanas retroceden el jueves analizando inflación y crudo al alza",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-futuros-acciones-estadounidenses-bajan-125840594.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los futuros de las acciones estadounidenses bajan antes de la apertura del jueves mientras los operadores evalúan los datos de inflación en medio de precios del petróleo más altos.",
         "capturado": "2026-09-10T09:52:11-05:00"
       }
     ]
