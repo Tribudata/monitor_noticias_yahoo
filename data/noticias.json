@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-12T17:51:48-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-09-12T19:38:29-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Blizzard lanza World of Warcraft Forever el 4 de noviembre con nueva raza, 9 mazmorras, 3 zonas, beta pronto y dos campañas para Warcraft 3",
+        "url": "https://es-us.noticias.yahoo.com/blizzard-anuncia-world-of-warcraft-191104087.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Blizzard anuncia World of Warcraft Forever: llega el 4 de noviembre con nueva raza, 9 mazmorras y 3 zonas, beta la próxima semana y dos campañas nuevas para Warcraft 3",
+        "capturado": "2026-09-12T19:38:29-05:00"
+      },
       {
         "titulo": "StarCraft regresará en 2030 como shooter y presentó su tráiler inicial en BlizzCon tras cancelaciones",
         "url": "https://es-us.noticias.yahoo.com/starcraft-vuelve-2030-shooter-blizzcon-181213069.html",
@@ -475,14 +483,6 @@
         "medio": "Bloomberg",
         "titulo_fuente": "El Niño amenaza con un récord histórico y más clima extremo",
         "capturado": "2026-09-10T13:08:38-05:00"
-      },
-      {
-        "titulo": "Socio clave de Novartis exige modificaciones directas en la junta tras fallos en pruebas médicas",
-        "url": "https://es.finance.yahoo.com/noticias/importante-accionista-novartis-pide-cambios-143825461.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Importante accionista de Novartis pide cambios en directorio tras reveses en ensayos clínicos",
-        "capturado": "2026-09-10T09:52:11-05:00"
       }
     ]
   }
