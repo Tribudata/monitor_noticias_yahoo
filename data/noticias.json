@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-13T00:41:46-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-13T06:11:24-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Avanza la tokenización en Brasil mediante una estrategia de crédito por 2 mil millones de dólares",
+        "url": "https://es.finance.yahoo.com/noticias/impulso-tokenizaci%C3%B3n-brasil-acelera-plan-085000304.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "El impulso de la tokenización en Brasil se acelera con un plan de crédito de $2 mil millones",
+        "capturado": "2026-09-13T06:11:24-05:00"
+      },
       {
         "titulo": "Obtén sin costo Spider-Man: Edge of Time para computador con control de teclado, ratón y DLSS 5 opcional, 15 años después",
         "url": "https://es-us.noticias.yahoo.com/descarga-gratis-spider-man-edge-231059050.html",
@@ -474,14 +482,6 @@
         "resumen": "",
         "medio": "MT Newswires",
         "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen a medida que los rendimientos de los bonos del Tesoro se disparan en medio de los altos precios de los productores y el alza del petróleo crudo.",
-        "capturado": "2026-09-10T13:08:38-05:00"
-      },
-      {
-        "titulo": "Flávio Bolsonaro empata con Lula en sondeo de comicios en Brasil por lío en alta corte",
-        "url": "https://es.finance.yahoo.com/noticias/fl%C3%A1vio-bolsonaro-alcanza-lula-encuesta-173000460.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Flávio Bolsonaro alcanza a Lula en encuesta electoral de Brasil ante crisis en Tribunal Supremo",
         "capturado": "2026-09-10T13:08:38-05:00"
       }
     ]
