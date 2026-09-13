@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-13T16:01:55-05:00",
+  "actualizado": "2026-09-13T18:20:08-05:00",
   "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Emulador de PS5 en PC corre Demon's Souls Remake a 30 FPS tras iniciar a dos cuadros por segundo",
+        "url": "https://es-us.noticias.yahoo.com/demon-s-souls-remake-alcanza-184225264.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Demon’s Souls Remake alcanza los 30 FPS en emulador de PS5 para PC, dos días después de arrancar a solo 2 FPS",
+        "capturado": "2026-09-13T18:20:08-05:00"
+      },
+      {
+        "titulo": "Disponible versión gratuita para PC de Super Mario Strikers con mejoras visuales y varios mandos",
+        "url": "https://es-us.noticias.yahoo.com/lanzan-port-gratuito-super-mario-165244515.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Lanzan port gratuito de Super Mario Strikers de GameCube para PC con gráficos mejorados, pantalla panorámica y soporte para mouse, teclado y controles",
+        "capturado": "2026-09-13T18:20:08-05:00"
+      },
       {
         "titulo": "Trump anuncia que quitará los tributos aduaneros estadounidenses al whisky de Irlanda",
         "url": "https://es.finance.yahoo.com/noticias/trump-eliminar-aranceles-eeuu-whisky-202431493.html",
@@ -467,22 +483,6 @@
         "medio": "Tarreo",
         "titulo_fuente": "Jugadores logran activar FSR 4.1.1b en tarjetas gráficas Radeon RX 6000 usando solo un archivo DLL, adelantando meses los planes de AMD",
         "capturado": "2026-09-10T20:20:46-05:00"
-      },
-      {
-        "titulo": "Boehly y Walter van camino a ceder sus acciones del Chelsea a Clearlake Capital",
-        "url": "https://es.finance.yahoo.com/noticias/boehly-walter-acercan-vender-participaciones-190520684.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Boehly y Walter se acercan a vender sus participaciones en Chelsea a Clearlake Capital",
-        "capturado": "2026-09-10T18:19:54-05:00"
-      },
-      {
-        "titulo": "Steam lanza el Big Art Mode solicitado por usuarios, con salvapantallas y inicio en escritorio",
-        "url": "https://es-us.noticias.yahoo.com/steam-a%C3%B1ade-big-art-mode-173603385.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Steam añade el Big Art Mode que los jugadores pedían hace años junto a salvapantallas y la opción de arrancar en modo escritorio por defecto",
-        "capturado": "2026-09-10T18:19:54-05:00"
       }
     ]
   }
