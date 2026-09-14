@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-13T18:20:08-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-09-13T20:23:36-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Compañías de IA adquieren RTX 5090 en masa para servidores agotando existencias para gamers y elevando el valor a más de 5000 dólares",
+        "url": "https://es-us.noticias.yahoo.com/empresas-ia-compran-rtx-5090-195414532.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Empresas de IA compran RTX 5090 al por mayor para armar servidores dejando sin stock a los jugadores y disparando el precio a más de $5.000 dólares",
+        "capturado": "2026-09-13T20:23:36-05:00"
+      },
       {
         "titulo": "Emulador de PS5 en PC corre Demon's Souls Remake a 30 FPS tras iniciar a dos cuadros por segundo",
         "url": "https://es-us.noticias.yahoo.com/demon-s-souls-remake-alcanza-184225264.html",
@@ -474,14 +482,6 @@
         "resumen": "",
         "medio": "Tarreo",
         "titulo_fuente": "Windows añade soporte para los gatillos adaptativos, vibración e iluminación del DualSense de PS5 en juegos de PC",
-        "capturado": "2026-09-10T20:20:46-05:00"
-      },
-      {
-        "titulo": "Gamers logran habilitar FSR 4.1.1b en Radeon RX 6000 mediante un DLL, anticipando planes de AMD",
-        "url": "https://es-us.noticias.yahoo.com/jugadores-logran-activar-fsr-4-192209745.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Jugadores logran activar FSR 4.1.1b en tarjetas gráficas Radeon RX 6000 usando solo un archivo DLL, adelantando meses los planes de AMD",
         "capturado": "2026-09-10T20:20:46-05:00"
       }
     ]
