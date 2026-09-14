@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-14T01:46:03-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-14T08:41:00-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Las acciones de tecnología bajan en la bolsa luego de que jefes de IA pidieran frenar el ritmo",
+        "url": "https://es.finance.yahoo.com/noticias/acciones-softbank-hunden-crecen-peticiones-105713562.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Las tecnológicas caen en bolsa tras la petición de los líderes de la IA de una desaceleración",
+        "capturado": "2026-09-14T08:41:00-05:00"
+      },
+      {
+        "titulo": "Microsoft crea un código ético para conservar la supervisión humana sobre su inteligencia artificial",
+        "url": "https://es.finance.yahoo.com/noticias/microsoft-elabora-c%C3%B3digo-conducta-mantener-133045859.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Microsoft elabora un código de conducta para mantener su IA bajo control humano",
+        "capturado": "2026-09-14T08:41:00-05:00"
+      },
+      {
+        "titulo": "Los ETF y los futuros accionarios caen previo a la apertura del lunes por un retroceso de la IA",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-futuros-renta-132016470.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa y los futuros de renta variable bajan antes de la apertura del lunes en medio de un retroceso de la IA.",
+        "capturado": "2026-09-14T08:41:00-05:00"
+      },
+      {
+        "titulo": "Futuros de acciones en EE UU caen antes de abrir por la cautela en IA y la decisión de la Fed",
+        "url": "https://es.finance.yahoo.com/noticias/correcci%C3%B3n-actualizaci%C3%B3n-futuros-renta-variable-130541651.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Corrección: Actualización: Los futuros de renta variable estadounidense bajan antes de la apertura del mercado mientras los operadores evalúan la posibilidad de una desaceleración en el avance de la IA y la próxima decisión de la Reserva Federal.",
+        "capturado": "2026-09-14T08:41:00-05:00"
+      },
+      {
+        "titulo": "Futuros de acciones de EE UU descienden antes de abrir por la cautela en IA y la decisión de la Fed",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-futuros-acciones-estadounidenses-bajan-125216277.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los futuros de las acciones estadounidenses bajan antes de la apertura del mercado mientras los operadores evalúan la posibilidad de una desaceleración en el avance de la IA y la próxima decisión de la Reserva Federal.",
+        "capturado": "2026-09-14T08:41:00-05:00"
+      },
+      {
+        "titulo": "Acciones de EE. UU. a la baja en preapertura por dudas sobre la IA y anuncio de la Reserva Federal",
+        "url": "https://es.finance.yahoo.com/noticias/futuros-acciones-estadounidenses-bajan-apertura-115814180.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los futuros de las acciones estadounidenses bajan antes de la apertura del mercado, mientras los operadores evalúan la posibilidad de una desaceleración en el avance de la IA y la próxima decisión de la Reserva Federal.",
+        "capturado": "2026-09-14T08:41:00-05:00"
+      },
+      {
+        "titulo": "Trump flexibiliza códigos éticos y facilita la aprobación de un importante proyecto cripto",
+        "url": "https://es.finance.yahoo.com/noticias/trump-cede-normas-%C3%A9ticas-despeja-112348865.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Trump cede en normas éticas y despeja el camino a una gran ley cripto",
+        "capturado": "2026-09-14T08:41:00-05:00"
+      },
+      {
+        "titulo": "Wall Street opera con cautela previa por temores de IA, crudo y bonos; bolsas de Asia y Europa caen",
+        "url": "https://es.finance.yahoo.com/noticias/preocupaci%C3%B3n-ia-petr%C3%B3leo-rendimiento-bonos-111150154.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "La preocupación por la IA, el petróleo y el rendimiento de los bonos frena la actividad en Wall Street antes de la apertura; Asia y Europa registran pérdidas.",
+        "capturado": "2026-09-14T08:41:00-05:00"
+      },
       {
         "titulo": "Donald Trump asegura que quitará el arancel del 15% al whisky irlandés",
         "url": "https://es.finance.yahoo.com/noticias/donald-trump-promete-eliminar-arancel-030619198.html",
@@ -419,70 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "La deuda europea marca máximos de varios años mientras continúa la ola de ventas global",
         "capturado": "2026-09-11T06:41:41-05:00"
-      },
-      {
-        "titulo": "Falta de crudo mundial aumentará en 2026 por postergaciones en el golfo Pérsico, señala la AIE",
-        "url": "https://es.finance.yahoo.com/noticias/d%C3%A9ficit-petrolero-global-crecer%C3%A1-2026-105339351.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Déficit petrolero global crecerá en 2026 por retrasos en el golfo Pérsico, dice la AIE",
-        "capturado": "2026-09-11T06:41:41-05:00"
-      },
-      {
-        "titulo": "Provisión de petróleo saudita llega a suelo de más de treinta años tras ofensivas hutíes según la AIE",
-        "url": "https://es.finance.yahoo.com/noticias/suministro-petrolero-saud%C3%AD-toca-m%C3%ADnimo-102835973.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Suministro petrolero saudí toca mínimo de más de tres décadas tras ataques hutíes: AIE",
-        "capturado": "2026-09-11T06:41:41-05:00"
-      },
-      {
-        "titulo": "Avance económico, Francia se retrasa frente a sus pares de Europa",
-        "url": "https://es.finance.yahoo.com/noticias/crecimiento-francia-queda-atr%C3%A1s-vecinos-074852175.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Crecimiento, Francia se queda atrás respecto a sus vecinos europeos",
-        "capturado": "2026-09-11T06:41:41-05:00"
-      },
-      {
-        "titulo": "Shell participa en la puja para la ronda petrolera y gasífera noruega de 2026",
-        "url": "https://es.finance.yahoo.com/noticias/shell-une-licitadores-ronda-exploraci%C3%B3n-091853729.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Shell se une a los licitadores para la ronda de exploración de petróleo y gas de Noruega de 2026.",
-        "capturado": "2026-09-11T06:41:41-05:00"
-      },
-      {
-        "titulo": "El banco central indica que la economía gala está a salvo pero urge recortar el déficit",
-        "url": "https://es.finance.yahoo.com/noticias/econom%C3%ADa-francesa-corre-peligro-reducir-081108775.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "La economía francesa no corre peligro, pero hay que reducir el déficit, afirma el banco central",
-        "capturado": "2026-09-11T06:41:41-05:00"
-      },
-      {
-        "titulo": "Anthropic indica que la inteligencia artificial generaría un alza del 15% y alto desempleo en 2030",
-        "url": "https://es.finance.yahoo.com/noticias/anthropic-afirma-ia-aportar-crecimiento-050023056.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Anthropic afirma que la IA podría aportar un crecimiento del 15% y desempleo masivo en 2030",
-        "capturado": "2026-09-11T01:25:54-05:00"
-      },
-      {
-        "titulo": "Logrará el incremento de tasas del BCE detener el choque inflacionario causado por la energía",
-        "url": "https://es.finance.yahoo.com/noticias/subida-tipos-bce-frenar-shock-053543030.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "¿Puede la subida de tipos del BCE frenar el shock inflacionista provocado por la energía?",
-        "capturado": "2026-09-11T01:25:54-05:00"
-      },
-      {
-        "titulo": "No Man’s Sky festeja una década con enorme parche gratis y usuarios vuelan directo al sol",
-        "url": "https://es-us.noticias.yahoo.com/man-s-sky-celebra-10-214251895.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "No Man’s Sky celebra 10 años con su mayor actualización gratuita con estaciones espaciales y jugadores ignoran todo lo nuevo para volar directo al sol",
-        "capturado": "2026-09-11T01:25:54-05:00"
       }
     ]
   }
