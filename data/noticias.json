@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-13T20:23:36-05:00",
+  "actualizado": "2026-09-14T01:46:03-05:00",
   "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Donald Trump asegura que quitará el arancel del 15% al whisky irlandés",
+        "url": "https://es.finance.yahoo.com/noticias/donald-trump-promete-eliminar-arancel-030619198.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Donald Trump promete eliminar el arancel del 15% al whisky irlandés",
+        "capturado": "2026-09-14T01:46:03-05:00"
+      },
       {
         "titulo": "Compañías de IA adquieren RTX 5090 en masa para servidores agotando existencias para gamers y elevando el valor a más de 5000 dólares",
         "url": "https://es-us.noticias.yahoo.com/empresas-ia-compran-rtx-5090-195414532.html",
@@ -475,14 +483,6 @@
         "medio": "Tarreo",
         "titulo_fuente": "No Man’s Sky celebra 10 años con su mayor actualización gratuita con estaciones espaciales y jugadores ignoran todo lo nuevo para volar directo al sol",
         "capturado": "2026-09-11T01:25:54-05:00"
-      },
-      {
-        "titulo": "Windows incorpora compatibilidad con vibración, iluminación y gatillos del DualSense en juegos de PC",
-        "url": "https://es-us.noticias.yahoo.com/windows-a%C3%B1ade-soporte-gatillos-adaptativos-201239984.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Windows añade soporte para los gatillos adaptativos, vibración e iluminación del DualSense de PS5 en juegos de PC",
-        "capturado": "2026-09-10T20:20:46-05:00"
       }
     ]
   }
