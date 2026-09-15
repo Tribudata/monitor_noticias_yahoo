@@ -1,9 +1,57 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-14T20:11:26-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-09-15T01:27:57-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "La tasa del bono estadounidense a diez años rebasa el 5% en medio del desplome bursátil mundial",
+        "url": "https://es.finance.yahoo.com/noticias/rendimiento-bono-ee-uu-10-055230226.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El rendimiento del bono de EE.UU. a 10 años supera el 5% mientras se agrava la venta global",
+        "capturado": "2026-09-15T01:27:57-05:00"
+      },
+      {
+        "titulo": "Alemania exige seguridades a UniCredit sobre la adquisición de Commerzbank",
+        "url": "https://es.finance.yahoo.com/noticias/alemania-pide-garant%C3%ADas-unicredit-compra-043822264.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Alemania pide garantías a UniCredit por la compra de Commerzbank",
+        "capturado": "2026-09-15T01:27:57-05:00"
+      },
+      {
+        "titulo": "El capital estancado que genera pérdidas financieras a los ciudadanos de Europa",
+        "url": "https://es.finance.yahoo.com/noticias/billones-inm%C3%B3viles-pierden-dinero-europeos-040134576.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Los ahorros inmóviles que hacen perder dinero a los europeos",
+        "capturado": "2026-09-15T01:27:57-05:00"
+      },
+      {
+        "titulo": "Logrará Intel elevar su cotización de cara al año 2030",
+        "url": "https://es.finance.yahoo.com/noticias/intel-impulsar-valor-2030-001000142.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "¿Podría Intel impulsar su valor para 2030?",
+        "capturado": "2026-09-15T01:27:57-05:00"
+      },
+      {
+        "titulo": "Cardano concreta una relevante incorporación de pagos",
+        "url": "https://es.finance.yahoo.com/noticias/cardano-logra-importante-integraci%C3%B3n-pagos-000000084.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "Cardano logra una importante integración de pagos",
+        "capturado": "2026-09-15T01:27:57-05:00"
+      },
+      {
+        "titulo": "Blizzard asegura que Diablo V volverá a un entorno anterior a Diablo 4 de exploración permanente y calabozos aleatorios",
+        "url": "https://es-us.noticias.yahoo.com/blizzard-promete-diablo-v-regresar%C3%A1-232023030.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Blizzard promete que Diablo V regresará a un mundo previo a Diablo 4 de descubrimiento constante y mazmorras procedurales que cambian cada vez que las visitas",
+        "capturado": "2026-09-15T01:27:57-05:00"
+      },
       {
         "titulo": "El Congreso colombiano avala la partida de gastos para 2027 por 206.655 millones de dólares",
         "url": "https://es.finance.yahoo.com/noticias/congreso-colombia-aprueba-monto-presupuesto-231453882.html",
@@ -435,54 +483,6 @@
         "medio": "Tarreo",
         "titulo_fuente": "DLSS 5 enloquece en GTA V cuando el juego se pausa y transforma los personajes en estructuras psicodélicas que los jugadores comparan con un viaje de ácido",
         "capturado": "2026-09-11T22:22:53-05:00"
-      },
-      {
-        "titulo": "Creador de Thief afirma que la industria debió frenar la mejora gráfica en 2010 por costos y falta de impacto",
-        "url": "https://es-us.noticias.yahoo.com/dise%C3%B1ador-thief-industria-debi%C3%B3-dejar-201929859.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Diseñador de Thief dice que la industria debió dejar de mejorar los gráficos en 2010: “Solo cuestan una fortuna y los jugadores ya no notan la diferencia”",
-        "capturado": "2026-09-11T22:22:53-05:00"
-      },
-      {
-        "titulo": "Hijo halla que su madre suma 18.793 triunfos en Pokémon GO y 39.000 monedas ahorradas en una década",
-        "url": "https://es-us.noticias.yahoo.com/jugador-descubre-mam%C3%A1-terror-arenas-180640993.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Jugador descubre que su mamá es el terror de las arenas de Pokémon GO con 18.793 victorias en 10 años y 39.000 monedas que no gasta por tacaña",
-        "capturado": "2026-09-11T18:53:38-05:00"
-      },
-      {
-        "titulo": "Alza en bolsas de EE. UU. tras inflación de agosto y datos de bonos mientras el petróleo crudo cae",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-204107369.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben tras el dato de inflación de agosto, que desencadena un repunte en los rendimientos de los bonos del Tesoro a corto plazo, mientras que el petróleo crudo se desploma.",
-        "capturado": "2026-09-11T16:50:43-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE. UU. bajan en la semana por máximo en tres años de bonos y petróleo sobre 100 dólares",
-        "url": "https://es.finance.yahoo.com/noticias/%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-semana-201935216.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los índices bursátiles estadounidenses caen esta semana, ya que el rendimiento de los bonos del Tesoro de referencia alcanza su nivel más alto en casi tres años y el petróleo crudo supera los 100 dólares.",
-        "capturado": "2026-09-11T16:50:43-05:00"
-      },
-      {
-        "titulo": "Déficit fiscal estadounidense disminuye en agosto y llega a 1,97 billones en el año",
-        "url": "https://es.finance.yahoo.com/noticias/d%C3%A9ficit-presupuestario-eeuu-baja-agosto-192110666.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Déficit presupuestario de EEUU baja en agosto y se mantiene en 1,97 billones de dólares en el año",
-        "capturado": "2026-09-11T16:50:43-05:00"
-      },
-      {
-        "titulo": "Flávio Bolsonaro solicita revelar pesquisa sobre sus nexos con Banco Master",
-        "url": "https://es.finance.yahoo.com/noticias/fl%C3%A1vio-bolsonaro-pide-p%C3%BAblica-investigaci%C3%B3n-185901235.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Flávio Bolsonaro pide hacer pública investigación sobre sus vínculos con Banco Master",
-        "capturado": "2026-09-11T16:50:43-05:00"
       }
     ]
   }
