@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-15T01:27:57-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-09-15T07:01:27-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "El BCE llama a elegir los nuevos diseños de billetes antes de que acabe el plazo",
+        "url": "https://es.finance.yahoo.com/noticias/bce-invita-europeos-votar-dise%C3%B1os-112326987.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El BCE invita a los europeos a votar los nuevos diseños de billetes ante el fin del plazo",
+        "capturado": "2026-09-15T07:01:27-05:00"
+      },
+      {
+        "titulo": "El crudo Brent rebasa los 107 dólares por inquietud sobre la oferta de Arabia Saudita",
+        "url": "https://es.finance.yahoo.com/noticias/brent-supera-107-d%C3%B3lares-preocupaciones-113927984.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "El Brent supera los 107 dólares por preocupaciones sobre el suministro saudí",
+        "capturado": "2026-09-15T07:01:27-05:00"
+      },
+      {
+        "titulo": "Wall Street baja en la apertura por tasas de bonos y petróleo al alza; Asia y Europa caen",
+        "url": "https://es.finance.yahoo.com/noticias/aumento-rendimientos-bonos-precios-petr%C3%B3leo-110715639.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "El aumento de los rendimientos de los bonos y los precios del petróleo deprimen a Wall Street antes de la apertura; Asia y Europa retroceden.",
+        "capturado": "2026-09-15T07:01:27-05:00"
+      },
+      {
+        "titulo": "Por qué Grecia consigue financiación a menor costo que Francia",
+        "url": "https://es.finance.yahoo.com/noticias/grecia-financia-barato-francia-110140282.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "¿Por qué Grecia se financia más barato que Francia?",
+        "capturado": "2026-09-15T07:01:27-05:00"
+      },
+      {
+        "titulo": "Pekín no logra impulsar el gasto interno a pesar de sus iniciativas",
+        "url": "https://es.finance.yahoo.com/noticias/ventas-minoristas-china-vuelven-frenarse-085752710.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "China no consigue reactivar el consumo pese a los esfuerzos de Pekín",
+        "capturado": "2026-09-15T07:01:27-05:00"
+      },
+      {
+        "titulo": "La OMC dice que el comercio global vive un momento crucial y pide transformaciones",
+        "url": "https://es.finance.yahoo.com/noticias/omc-afirma-sistema-comercial-mundial-102319954.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "La OMC afirma que el sistema comercial mundial se encuentra en una encrucijada crítica e insta a una reforma",
+        "capturado": "2026-09-15T07:01:27-05:00"
+      },
+      {
+        "titulo": "Retornan exiliados a territorio venezolano bajo una reducida apertura política",
+        "url": "https://es.finance.yahoo.com/noticias/exiliados-regresan-venezuela-apertura-pol%C3%ADtica-100000974.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Exiliados regresan a Venezuela en una apertura política limitada",
+        "capturado": "2026-09-15T07:01:27-05:00"
+      },
+      {
+        "titulo": "Canadá se ofrece como destino para empresas en encuentro de inversionistas",
+        "url": "https://es.finance.yahoo.com/noticias/canad%C3%A1-presenta-refugio-inversores-mundo-075834113.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Canadá se presenta como refugio empresarial en una cumbre de inversiones",
+        "capturado": "2026-09-15T07:01:27-05:00"
+      },
       {
         "titulo": "La tasa del bono estadounidense a diez años rebasa el 5% en medio del desplome bursátil mundial",
         "url": "https://es.finance.yahoo.com/noticias/rendimiento-bono-ee-uu-10-055230226.html",
@@ -419,70 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "Más horas por el mismo sueldo: la propuesta del CEO de STIHL",
         "capturado": "2026-09-12T07:17:27-05:00"
-      },
-      {
-        "titulo": "Jim Cramer afirma que el Bono del Tesoro a 30 años domina el mercado actual",
-        "url": "https://es.finance.yahoo.com/noticias/jim-cramer-bono-tesoro-30-084400615.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Jim Cramer: el Bono del Tesoro a 30 años es el rey en este momento",
-        "capturado": "2026-09-12T07:17:27-05:00"
-      },
-      {
-        "titulo": "Bank of America alerta acerca de la fuga de recursos financieros en Wall Street",
-        "url": "https://es.finance.yahoo.com/noticias/bank-of-america-advierte-salida-050000796.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "Bank of America advierte sobre la salida de capital en Wall Street",
-        "capturado": "2026-09-12T07:17:27-05:00"
-      },
-      {
-        "titulo": "Soportes esenciales que el Ibex 35 tiene la obligación de conservar",
-        "url": "https://es.finance.yahoo.com/noticias/niveles-clave-fundamentales-ibex-35-045000417.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "\"Niveles clave y fundamentales que el Ibex 35 no debe perder\"",
-        "capturado": "2026-09-12T07:17:27-05:00"
-      },
-      {
-        "titulo": "Para 2026 buscamos ser el constructor con mayor entrega de casas en la historia nacional",
-        "url": "https://es.finance.yahoo.com/noticias/2026-aspiramos-convertirnos-promotor-viviendas-040000205.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "“En 2026 aspiramos a convertirnos en el promotor que más viviendas habrá entregado en la historia de nuestro país”",
-        "capturado": "2026-09-12T07:17:27-05:00"
-      },
-      {
-        "titulo": "Alza de precios, tasas, lío de títulos y las razones del enriquecimiento de los ricos",
-        "url": "https://es.finance.yahoo.com/noticias/inflaci%C3%B3n-tipos-crisis-bonos-ricos-040000242.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "Inflación, tipos, crisis de bonos y por qué los ricos son cada vez más ricos",
-        "capturado": "2026-09-12T07:17:27-05:00"
-      },
-      {
-        "titulo": "Oportunidad de alza de tipos de la Fed llega al 90%: Dónde falló la economía de Trump",
-        "url": "https://es.finance.yahoo.com/noticias/probabilidad-aumento-tasas-fed-acerca-213500208.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Probabilidad de aumento de tasas de la Fed se acerca al 90%: ¿Dónde falló la economía de Trump?",
-        "capturado": "2026-09-12T07:17:27-05:00"
-      },
-      {
-        "titulo": "Anuncian remasterización no oficial de Parasite Eve 2 para PC con avance del 75 por ciento",
-        "url": "https://es-us.noticias.yahoo.com/parasite-eve-2-remaster-oficial-235315370.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Parasite Eve 2 tendrá un remaster no oficial para PC: gráficos HD, 60 FPS y pantalla panorámica sin emulador, con el 75% completado",
-        "capturado": "2026-09-12T03:04:16-05:00"
-      },
-      {
-        "titulo": "DLSS 5 enloquece en GTA V al pausar y vuelve a los personajes estructuras psicodélicas como viaje de ácido",
-        "url": "https://es-us.noticias.yahoo.com/dlss-5-enloquece-gta-v-213258270.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "DLSS 5 enloquece en GTA V cuando el juego se pausa y transforma los personajes en estructuras psicodélicas que los jugadores comparan con un viaje de ácido",
-        "capturado": "2026-09-11T22:22:53-05:00"
       }
     ]
   }
