@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-15T07:01:27-05:00",
+  "actualizado": "2026-09-15T12:11:50-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Inquietud en el BCE por una eventual partida prematura de Christine Lagarde",
+        "url": "https://es.finance.yahoo.com/noticias/personal-bce-teme-estabilidad-rumores-162445930.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Temor en el BCE ante una posible salida anticipada de Christine Lagarde",
+        "capturado": "2026-09-15T12:11:50-05:00"
+      },
+      {
+        "titulo": "Ventas externas de trigo blando comunitario en 2026/27 bajan un 2% al 13 de septiembre",
+        "url": "https://es.finance.yahoo.com/noticias/exportaciones-trigo-blando-ue-2026-153002964.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Exportaciones de trigo blando de la UE en 2026/27 caen un 2% al 13 de septiembre",
+        "capturado": "2026-09-15T12:11:50-05:00"
+      },
+      {
+        "titulo": "Compras foráneas de soja de la UE en 2026/27 disminuyeron un 17% al 13 de septiembre",
+        "url": "https://es.finance.yahoo.com/noticias/importaciones-soja-ue-2026-27-152800240.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Importaciones de soja de la UE en 2026/27 se redujeron un 17% al 13 de septiembre",
+        "capturado": "2026-09-15T12:11:50-05:00"
+      },
+      {
+        "titulo": "Plazas argentinas acomodan posturas mediante factores externos",
+        "url": "https://es.finance.yahoo.com/noticias/mercados-argentinos-ajustan-posiciones-condicionamientos-145154198.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Mercados argentinos ajustan posiciones bajo condicionamientos externos",
+        "capturado": "2026-09-15T12:11:50-05:00"
+      },
+      {
+        "titulo": "Gran Bretaña intenta calmar a firmas en Malvinas tras advertencia de Argentina",
+        "url": "https://es.finance.yahoo.com/noticias/reino-unido-busca-tranquilizar-empresas-141153294.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Reino Unido busca tranquilizar a empresas que operan en Malvinas tras amenaza argentina",
+        "capturado": "2026-09-15T12:11:50-05:00"
+      },
+      {
+        "titulo": "Premio nobel Ressa advierte que sin frenos a la IA la humanidad perderá su poder de acción",
+        "url": "https://es.finance.yahoo.com/noticias/l%C3%ADmites-ia-humanidad-perder%C3%A1-capacidad-135109245.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "\"Hay que poner límites a la IA o la humanidad perderá capacidad de actuar\", dice premio nobel Ressa",
+        "capturado": "2026-09-15T12:11:50-05:00"
+      },
+      {
+        "titulo": "Futuros de acciones y fondos cotizados caen en la preapertura del martes a la espera de la Fed",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-futuros-renta-132308545.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa y los futuros de renta variable bajan antes de la apertura del mercado el martes, mientras los operadores se preparan para la reunión de la Reserva Federal.",
+        "capturado": "2026-09-15T12:11:50-05:00"
+      },
+      {
+        "titulo": "Créditos de Marvel's Wolverine confirman a Sweet Baby Inc. como asesora narrativa del juego",
+        "url": "https://es-us.noticias.yahoo.com/cr%C3%A9ditos-marvel-s-wolverine-confirman-130535720.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Los créditos de Marvel’s Wolverine confirman la participación de Sweet Baby Inc. como consultora narrativa del juego",
+        "capturado": "2026-09-15T12:11:50-05:00"
+      },
       {
         "titulo": "El BCE llama a elegir los nuevos diseños de billetes antes de que acabe el plazo",
         "url": "https://es.finance.yahoo.com/noticias/bce-invita-europeos-votar-dise%C3%B1os-112326987.html",
@@ -419,70 +483,6 @@
         "medio": "Tarreo",
         "titulo_fuente": "Blizzard anuncia World of Warcraft Forever: llega el 4 de noviembre con nueva raza, 9 mazmorras y 3 zonas, beta la próxima semana y dos campañas nuevas para Warcraft 3",
         "capturado": "2026-09-12T19:38:29-05:00"
-      },
-      {
-        "titulo": "StarCraft regresará en 2030 como shooter y presentó su tráiler inicial en BlizzCon tras cancelaciones",
-        "url": "https://es-us.noticias.yahoo.com/starcraft-vuelve-2030-shooter-blizzcon-181213069.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "StarCraft vuelve en 2030 como shooter: en BlizzCon mostró su primer tráiler tras años de rumores y dos intentos cancelados",
-        "capturado": "2026-09-12T17:51:48-05:00"
-      },
-      {
-        "titulo": "Emulador de PS5 ejecuta tres exclusivos en PC con Demon's Souls y Astro Bot en mal momento para Sony",
-        "url": "https://es-us.noticias.yahoo.com/emulador-ps5-exclusivos-jugables-pc-164433185.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Emulador de PS5 ya tiene tres exclusivos jugables en PC incluyendo Demon’s Souls y Astro Bot, y el timing no podría ser peor para PlayStation",
-        "capturado": "2026-09-12T17:51:48-05:00"
-      },
-      {
-        "titulo": "El encarecimiento del petróleo forzaría al BCE a elevar tipos de interés, advierte delegado al FT",
-        "url": "https://es.finance.yahoo.com/noticias/altos-precios-crudo-obligar-bce-193244714.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Altos precios del crudo podrían obligar al BCE a subir más las tasas, dice funcionario al FT",
-        "capturado": "2026-09-12T15:47:47-05:00"
-      },
-      {
-        "titulo": "Capgemini enajena su subsidiaria en EE UU cuestionada por el acuerdo con ICE",
-        "url": "https://es.finance.yahoo.com/noticias/capgemini-vende-filial-estadounidense-criticada-170914191.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Capgemini vende su filial estadounidense, criticada por su contrato con ICE",
-        "capturado": "2026-09-12T13:08:41-05:00"
-      },
-      {
-        "titulo": "Tesla produce el Cybercab con una velocidad superior a cinco veces según Elon Musk",
-        "url": "https://es.finance.yahoo.com/noticias/elon-musk-tesla-fabrica-cybercab-170042576.html",
-        "resumen": "",
-        "medio": "Benzinga Espana",
-        "titulo_fuente": "Elon Musk: Tesla fabrica el Cybercab más de cinco veces más rápido",
-        "capturado": "2026-09-12T13:08:41-05:00"
-      },
-      {
-        "titulo": "La señal del Bitcoin ante el oro que afianza la perspectiva positiva de Cathie Wood",
-        "url": "https://es.finance.yahoo.com/noticias/bitcoin-frente-oro-se%C3%B1al-refuerza-100021532.html",
-        "resumen": "",
-        "medio": "Benzinga Espana",
-        "titulo_fuente": "Bitcoin frente al oro: la señal que refuerza el optimismo de Cathie Wood",
-        "capturado": "2026-09-12T13:08:41-05:00"
-      },
-      {
-        "titulo": "Boicot de Canadá a bienes estadounidenses fuerza a cadenas a hallar nuevos proveedores",
-        "url": "https://es.finance.yahoo.com/noticias/boicot-canadiense-productos-eeuu-obliga-150318671.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Boicot canadiense a productos EEUU obliga a supermercados a buscar nuevas fuentes de suministro",
-        "capturado": "2026-09-12T10:44:08-05:00"
-      },
-      {
-        "titulo": "Mayor jornada laboral por idéntica remuneración según el director general de STIHL",
-        "url": "https://es.finance.yahoo.com/noticias/fabricante-motosierras-stihl-aboga-jornada-133959949.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Más horas por el mismo sueldo: la propuesta del CEO de STIHL",
-        "capturado": "2026-09-12T07:17:27-05:00"
       }
     ]
   }
