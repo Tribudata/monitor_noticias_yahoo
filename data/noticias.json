@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-14T17:38:46-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-14T20:11:26-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "El Congreso colombiano avala la partida de gastos para 2027 por 206.655 millones de dólares",
+        "url": "https://es.finance.yahoo.com/noticias/congreso-colombia-aprueba-monto-presupuesto-231453882.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Congreso de Colombia aprueba monto de presupuesto de gastos para 2027 por 206.655 millones de dólares",
+        "capturado": "2026-09-14T20:11:26-05:00"
+      },
+      {
+        "titulo": "Mod de DLSS 5 Frame Generation multiplica los FPS en RTX 20 y 30, las tarjetas que NVIDIA nunca incluyó en el soporte oficial",
+        "url": "https://es-us.noticias.yahoo.com/mod-dlss-5-frame-generation-201232343.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Mod de DLSS 5 Frame Generation multiplica los FPS en RTX 20 y 30, las tarjetas que NVIDIA nunca incluyó en el soporte oficial",
+        "capturado": "2026-09-14T20:11:26-05:00"
+      },
       {
         "titulo": "Semiconductores impulsan baja en bolsas de EE. UU. y papeles del Tesoro llegan al 5%",
         "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-semiconductores-contribuyen-ca%C3%ADda-%C3%ADndices-212047887.html",
@@ -466,22 +482,6 @@
         "resumen": "",
         "medio": "Bloomberg",
         "titulo_fuente": "Flávio Bolsonaro pide hacer pública investigación sobre sus vínculos con Banco Master",
-        "capturado": "2026-09-11T16:50:43-05:00"
-      },
-      {
-        "titulo": "Aumento inflacionario presiona a Warsh para que la Fed suba tasas",
-        "url": "https://es.finance.yahoo.com/noticias/inflaci%C3%B3n-aumenta-presi%C3%B3n-warsh-fed-181036924.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Inflación aumenta presión sobre Warsh para que la Fed eleve las tasas",
-        "capturado": "2026-09-11T16:50:43-05:00"
-      },
-      {
-        "titulo": "Nubank traslada el método brasileño Pix a su llegada a Estados Unidos",
-        "url": "https://es.finance.yahoo.com/noticias/nubank-f%C3%B3rmula-brasile%C3%B1a-pix-desembarco-180039176.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Nubank lleva la fórmula brasileña Pix a su desembarco en EE.UU.",
         "capturado": "2026-09-11T16:50:43-05:00"
       }
     ]
