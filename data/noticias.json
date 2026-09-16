@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-15T18:03:36-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-09-15T20:32:23-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Masahiro Sakurai afirma que la innovación no impacta las ventas y los jugadores prefieren lo conocido",
+        "url": "https://es-us.noticias.yahoo.com/voy-cruel-originalidad-influye-ventas-195314479.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "“Voy a decir algo cruel, la originalidad no influye mucho en las ventas”: Masahiro Sakurai explica por qué los jugadores siempre eligen lo conocido sobre lo nuevo",
+        "capturado": "2026-09-15T20:32:23-05:00"
+      },
       {
         "titulo": "Bolsas de EE. UU. caen y bonos clave llegan a máximo de 19 años previo a alza de tasas de la Fed con crudo al alza",
         "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-retroceden-205827416.html",
@@ -475,14 +483,6 @@
         "medio": "Tarreo",
         "titulo_fuente": "Lanzan port gratuito de Super Mario Strikers de GameCube para PC con gráficos mejorados, pantalla panorámica y soporte para mouse, teclado y controles",
         "capturado": "2026-09-13T18:20:08-05:00"
-      },
-      {
-        "titulo": "Trump anuncia que quitará los tributos aduaneros estadounidenses al whisky de Irlanda",
-        "url": "https://es.finance.yahoo.com/noticias/trump-eliminar-aranceles-eeuu-whisky-202431493.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Trump dice que va a eliminar los aranceles de EEUU sobre el whisky irlandés",
-        "capturado": "2026-09-13T16:01:55-05:00"
       }
     ]
   }
