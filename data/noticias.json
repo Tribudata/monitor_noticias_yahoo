@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-15T20:32:23-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-16T02:18:10-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Causas de la inversión europea en el crecimiento de la inteligencia artificial estadounidense",
+        "url": "https://es.finance.yahoo.com/noticias/dinero-europeo-financia-auge-ia-051246084.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "¿Por qué Europa está financiando el auge de la IA en EE.UU.?",
+        "capturado": "2026-09-16T02:18:10-05:00"
+      },
+      {
+        "titulo": "En qué invierte Europa los recursos públicos según un estudio reciente",
+        "url": "https://es.finance.yahoo.com/noticias/d%C3%B3nde-gasta-europa-dinero-an%C3%A1lisis-040243648.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "¿Dónde gasta Europa su dinero? Un análisis del gasto público en el continente",
+        "capturado": "2026-09-16T02:18:10-05:00"
+      },
+      {
+        "titulo": "La Fed incrementará las tasas de interés ignorando la solicitud de recortes de Trump",
+        "url": "https://es.finance.yahoo.com/noticias/reserva-federal-subir%C3%A1-tipos-pese-054157936.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "La Reserva Federal subirá los tipos pese a la presión de Trump para recortarlos",
+        "capturado": "2026-09-16T02:18:10-05:00"
+      },
+      {
+        "titulo": "Francia apoyaría a Knot en el BCE y busca la plaza de economista jefe",
+        "url": "https://es.finance.yahoo.com/noticias/francia-respaldar%C3%ADa-knot-dirigir-bce-061412131.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Francia respaldaría a Knot para dirigir el BCE y quiere el puesto de economista jefe",
+        "capturado": "2026-09-16T02:18:10-05:00"
+      },
+      {
+        "titulo": "Santander revoca el fallo británico de 677 millones de libras por cobros indebidos de seguros PPI",
+        "url": "https://es.finance.yahoo.com/noticias/santander-logra-anulaci%C3%B3n-sentencia-tribunal-045105929.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Santander logra la anulación de la sentencia del Tribunal Superior del Reino Unido por valor de 677 millones de libras esterlinas relativa a la venta fraudulenta de seguros de protección de pagos (PPI).",
+        "capturado": "2026-09-16T02:18:10-05:00"
+      },
+      {
+        "titulo": "La oferta de Ethereum continúa reduciéndose en las plataformas de intercambio",
+        "url": "https://es.finance.yahoo.com/noticias/suministro-ethereum-desapareciendo-exchanges-232000755.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "El suministro de Ethereum sigue desapareciendo de los exchanges",
+        "capturado": "2026-09-16T02:18:10-05:00"
+      },
+      {
+        "titulo": "El PSBlackout contra el fin de los discos físicos fracasó sin afectar a jugadores",
+        "url": "https://es-us.noticias.yahoo.com/psblackout-protesta-discos-f%C3%ADsicos-impacto-224021271.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "El PSBlackout, la protesta contra el fin de los discos físicos, no tuvo ningún impacto en los jugadores de PlayStation y fue un fracaso absoluto",
+        "capturado": "2026-09-16T02:18:10-05:00"
+      },
+      {
+        "titulo": "Hideki Kamiya agota mensajes en X peleando por Zelda y paga Premium para seguir",
+        "url": "https://es-us.noticias.yahoo.com/respond%C3%AD-demasiados-insectos-hideki-kamiya-215906685.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "“Respondí a demasiados insectos”: Hideki Kamiya agota sus mensajes en X peleándose con fans de Zelda por llamar a Wind Waker “una m*erd*” y paga Premium para seguir",
+        "capturado": "2026-09-16T02:18:10-05:00"
+      },
       {
         "titulo": "Masahiro Sakurai afirma que la innovación no impacta las ventas y los jugadores prefieren lo conocido",
         "url": "https://es-us.noticias.yahoo.com/voy-cruel-originalidad-influye-ventas-195314479.html",
@@ -419,70 +483,6 @@
         "medio": "MT Newswires",
         "titulo_fuente": "Corrección: Actualización: Los futuros de renta variable estadounidense bajan antes de la apertura del mercado mientras los operadores evalúan la posibilidad de una desaceleración en el avance de la IA y la próxima decisión de la Reserva Federal.",
         "capturado": "2026-09-14T08:41:00-05:00"
-      },
-      {
-        "titulo": "Futuros de acciones de EE UU descienden antes de abrir por la cautela en IA y la decisión de la Fed",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-futuros-acciones-estadounidenses-bajan-125216277.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los futuros de las acciones estadounidenses bajan antes de la apertura del mercado mientras los operadores evalúan la posibilidad de una desaceleración en el avance de la IA y la próxima decisión de la Reserva Federal.",
-        "capturado": "2026-09-14T08:41:00-05:00"
-      },
-      {
-        "titulo": "Acciones de EE. UU. a la baja en preapertura por dudas sobre la IA y anuncio de la Reserva Federal",
-        "url": "https://es.finance.yahoo.com/noticias/futuros-acciones-estadounidenses-bajan-apertura-115814180.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los futuros de las acciones estadounidenses bajan antes de la apertura del mercado, mientras los operadores evalúan la posibilidad de una desaceleración en el avance de la IA y la próxima decisión de la Reserva Federal.",
-        "capturado": "2026-09-14T08:41:00-05:00"
-      },
-      {
-        "titulo": "Trump flexibiliza códigos éticos y facilita la aprobación de un importante proyecto cripto",
-        "url": "https://es.finance.yahoo.com/noticias/trump-cede-normas-%C3%A9ticas-despeja-112348865.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Trump cede en normas éticas y despeja el camino a una gran ley cripto",
-        "capturado": "2026-09-14T08:41:00-05:00"
-      },
-      {
-        "titulo": "Wall Street opera con cautela previa por temores de IA, crudo y bonos; bolsas de Asia y Europa caen",
-        "url": "https://es.finance.yahoo.com/noticias/preocupaci%C3%B3n-ia-petr%C3%B3leo-rendimiento-bonos-111150154.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "La preocupación por la IA, el petróleo y el rendimiento de los bonos frena la actividad en Wall Street antes de la apertura; Asia y Europa registran pérdidas.",
-        "capturado": "2026-09-14T08:41:00-05:00"
-      },
-      {
-        "titulo": "Donald Trump asegura que quitará el arancel del 15% al whisky irlandés",
-        "url": "https://es.finance.yahoo.com/noticias/donald-trump-promete-eliminar-arancel-030619198.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Donald Trump promete eliminar el arancel del 15% al whisky irlandés",
-        "capturado": "2026-09-14T01:46:03-05:00"
-      },
-      {
-        "titulo": "Compañías de IA adquieren RTX 5090 en masa para servidores agotando existencias para gamers y elevando el valor a más de 5000 dólares",
-        "url": "https://es-us.noticias.yahoo.com/empresas-ia-compran-rtx-5090-195414532.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Empresas de IA compran RTX 5090 al por mayor para armar servidores dejando sin stock a los jugadores y disparando el precio a más de $5.000 dólares",
-        "capturado": "2026-09-13T20:23:36-05:00"
-      },
-      {
-        "titulo": "Emulador de PS5 en PC corre Demon's Souls Remake a 30 FPS tras iniciar a dos cuadros por segundo",
-        "url": "https://es-us.noticias.yahoo.com/demon-s-souls-remake-alcanza-184225264.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Demon’s Souls Remake alcanza los 30 FPS en emulador de PS5 para PC, dos días después de arrancar a solo 2 FPS",
-        "capturado": "2026-09-13T18:20:08-05:00"
-      },
-      {
-        "titulo": "Disponible versión gratuita para PC de Super Mario Strikers con mejoras visuales y varios mandos",
-        "url": "https://es-us.noticias.yahoo.com/lanzan-port-gratuito-super-mario-165244515.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Lanzan port gratuito de Super Mario Strikers de GameCube para PC con gráficos mejorados, pantalla panorámica y soporte para mouse, teclado y controles",
-        "capturado": "2026-09-13T18:20:08-05:00"
       }
     ]
   }
