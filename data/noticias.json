@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-16T02:18:10-05:00",
+  "actualizado": "2026-09-16T07:43:33-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Santander consigue revocar el fallo del Tribunal Superior británico por 677 millones de libras sobre PPI",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-santander-logra-anulaci%C3%B3n-sentencia-115842181.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Santander logra la anulación de la sentencia del Tribunal Superior del Reino Unido por 677 millones de libras esterlinas relativa a la venta fraudulenta de seguros de protección de pagos (PPI).",
+        "capturado": "2026-09-16T07:43:33-05:00"
+      },
+      {
+        "titulo": "Acciones de EE. UU. al alza antes de abrir por expectativa sobre tasas de la Reserva Federal",
+        "url": "https://es.finance.yahoo.com/noticias/futuros-acciones-estadounidenses-suben-apertura-115303805.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los futuros de las acciones estadounidenses suben antes de la apertura del mercado mientras los operadores esperan la decisión de la Reserva Federal sobre las tasas de interés.",
+        "capturado": "2026-09-16T07:43:33-05:00"
+      },
+      {
+        "titulo": "Ucrania comienza siembra de trigo de invierno pese a sequía y proyecta área menor",
+        "url": "https://es.finance.yahoo.com/noticias/ucrania-inicia-siembra-trigo-invierno-114131429.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Ucrania inicia siembra del trigo de invierno a pesar de la sequía, prevé una superficie menor",
+        "capturado": "2026-09-16T07:43:33-05:00"
+      },
+      {
+        "titulo": "Bitcoin retrocede tras bloqueo en el Senado de EE. UU. a normativa fundamental de criptomonedas",
+        "url": "https://es.finance.yahoo.com/noticias/bitcoin-cae-senado-eeuu-bloquee-090507618.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Bitcoin cae después de que el Senado de EE.UU. bloquee una ley clave sobre criptomonedas",
+        "capturado": "2026-09-16T07:43:33-05:00"
+      },
+      {
+        "titulo": "Wall Street sube antes de abrir por petróleo más barato y tecnología; alzas en Asia y Europa",
+        "url": "https://es.finance.yahoo.com/noticias/reducci%C3%B3n-precios-petr%C3%B3leo-fortaleza-sector-111810935.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "La reducción de los precios del petróleo y la fortaleza del sector tecnológico impulsan las ganancias de Wall Street antes de la apertura; Asia y Europa registran alzas.",
+        "capturado": "2026-09-16T07:43:33-05:00"
+      },
+      {
+        "titulo": "España eleva a más de 17.000 millones de euros el gasto en la red eléctrica hasta 2030",
+        "url": "https://es.finance.yahoo.com/noticias/espa%C3%B1a-aumenta-inversi%C3%B3n-red-el%C3%A9ctrica-111649612.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "España aumenta la inversión en la red eléctrica a más de 17.000 millones de euros hasta 2030",
+        "capturado": "2026-09-16T07:43:33-05:00"
+      },
+      {
+        "titulo": "España reporta la primera filtración de información vinculada a un sistema de IA",
+        "url": "https://es.finance.yahoo.com/noticias/espa%C3%B1a-registra-brecha-datos-atribuida-103500902.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "España registra la primera brecha de datos atribuida a un agente de IA",
+        "capturado": "2026-09-16T07:43:33-05:00"
+      },
+      {
+        "titulo": "Google presenta su sistema de sonido más sofisticado: En qué consiste",
+        "url": "https://es.finance.yahoo.com/noticias/google-lanza-modelo-audio-avanzado-091700576.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Google lanza su modelo de audio más avanzado: ¿De qué se trata?",
+        "capturado": "2026-09-16T07:43:33-05:00"
+      },
       {
         "titulo": "Causas de la inversión europea en el crecimiento de la inteligencia artificial estadounidense",
         "url": "https://es.finance.yahoo.com/noticias/dinero-europeo-financia-auge-ia-051246084.html",
@@ -419,70 +483,6 @@
         "medio": "Bloomberg",
         "titulo_fuente": "Brasil gana terreno en EE.UU. con la carne que Trump necesita",
         "capturado": "2026-09-14T14:03:15-05:00"
-      },
-      {
-        "titulo": "Los ETF muestran balances divididos conforme los títulos valores de EE. UU. descienden pasada la medianoche",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-presentan-resultados-171215209.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa presentan resultados mixtos a medida que las acciones estadounidenses caen después del mediodía.",
-        "capturado": "2026-09-14T14:03:15-05:00"
-      },
-      {
-        "titulo": "Microsoft lanza directrices para orientar la creación de modelos de inteligencia artificial",
-        "url": "https://es.finance.yahoo.com/noticias/microsoft-publica-manifiesto-guiar-desarrollo-160109003.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Microsoft publica manifiesto para guiar el desarrollo de modelos de IA",
-        "capturado": "2026-09-14T14:03:15-05:00"
-      },
-      {
-        "titulo": "Alemania ve inviable frenar la IA mientras Europa debate sobre su seguridad",
-        "url": "https://es.finance.yahoo.com/noticias/alemania-detener-desarrollo-ia-viable-152319314.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Alemania dice que detener el desarrollo de la IA no es \"viable\"; Europa evalúa la seguridad",
-        "capturado": "2026-09-14T14:03:15-05:00"
-      },
-      {
-        "titulo": "Trump critica al director ejecutivo de Anthropic por solicitar una pausa en la IA",
-        "url": "https://es.finance.yahoo.com/noticias/trump-ataca-ceo-anthropic-pedir-152128070.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Trump ataca al CEO de Anthropic por pedir que se frene el desarollo de la IA",
-        "capturado": "2026-09-14T14:03:15-05:00"
-      },
-      {
-        "titulo": "Las acciones de tecnología bajan en la bolsa luego de que jefes de IA pidieran frenar el ritmo",
-        "url": "https://es.finance.yahoo.com/noticias/acciones-softbank-hunden-crecen-peticiones-105713562.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Las tecnológicas caen en bolsa tras la petición de los líderes de la IA de una desaceleración",
-        "capturado": "2026-09-14T08:41:00-05:00"
-      },
-      {
-        "titulo": "Microsoft crea un código ético para conservar la supervisión humana sobre su inteligencia artificial",
-        "url": "https://es.finance.yahoo.com/noticias/microsoft-elabora-c%C3%B3digo-conducta-mantener-133045859.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Microsoft elabora un código de conducta para mantener su IA bajo control humano",
-        "capturado": "2026-09-14T08:41:00-05:00"
-      },
-      {
-        "titulo": "Los ETF y los futuros accionarios caen previo a la apertura del lunes por un retroceso de la IA",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-futuros-renta-132016470.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa y los futuros de renta variable bajan antes de la apertura del lunes en medio de un retroceso de la IA.",
-        "capturado": "2026-09-14T08:41:00-05:00"
-      },
-      {
-        "titulo": "Futuros de acciones en EE UU caen antes de abrir por la cautela en IA y la decisión de la Fed",
-        "url": "https://es.finance.yahoo.com/noticias/correcci%C3%B3n-actualizaci%C3%B3n-futuros-renta-variable-130541651.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Corrección: Actualización: Los futuros de renta variable estadounidense bajan antes de la apertura del mercado mientras los operadores evalúan la posibilidad de una desaceleración en el avance de la IA y la próxima decisión de la Reserva Federal.",
-        "capturado": "2026-09-14T08:41:00-05:00"
       }
     ]
   }
