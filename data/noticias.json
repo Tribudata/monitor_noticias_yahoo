@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-16T12:29:45-05:00",
+  "actualizado": "2026-09-16T15:23:14-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "La Fed incrementa las tasas por primera vez desde 2023 con decisión unánime que reta a Trump",
+        "url": "https://es.finance.yahoo.com/noticias/fed-sube-tipos-2023-votaci%C3%B3n-182754433.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "La Fed sube los tipos por primera vez desde 2023 con un voto unánime que desafía a Trump",
+        "capturado": "2026-09-16T15:23:14-05:00"
+      },
+      {
+        "titulo": "Celsius entabla demanda contra BitMEX reclamando 6360 Bitcoin extraviados",
+        "url": "https://es.finance.yahoo.com/noticias/celsius-demanda-bitmex-6-360-185100467.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Celsius demanda a BitMEX por 6,360 Bitcoin perdidos",
+        "capturado": "2026-09-16T15:23:14-05:00"
+      },
+      {
+        "titulo": "La Fed eleva tipos para frenar la inflación ignorando las presiones de Trump",
+        "url": "https://es.finance.yahoo.com/noticias/fed-sube-tasas-contener-inflaci%C3%B3n-181652903.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Fed sube tasas para contener la inflación pese a las presiones de Trump",
+        "capturado": "2026-09-16T15:23:14-05:00"
+      },
+      {
+        "titulo": "La Fed asciende al 4 por ciento mientras 16 miembros siguen deliberando",
+        "url": "https://es.finance.yahoo.com/noticias/fed-sube-4-16-funcionarios-180435861.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "La Fed sube a 4%: ¿Por qué 16 funcionarios aún no han terminado?",
+        "capturado": "2026-09-16T15:23:14-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE UU mixtas por inminente endurecimiento monetario de la Reserva Federal y caída del crudo",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-175406509.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos ante la casi segura decisión de la Reserva Federal de endurecer su política monetaria y la caída del precio del petróleo crudo.",
+        "capturado": "2026-09-16T15:23:14-05:00"
+      },
+      {
+        "titulo": "Meloni elimina tributo vehicular para casi todos los carros previo a los comicios",
+        "url": "https://es.finance.yahoo.com/noticias/meloni-suprime-impuesto-circulaci%C3%B3n-mayor%C3%ADa-175257656.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Meloni suprime impuesto de circulación para mayoría de autos a medida que se acercan las elecciones",
+        "capturado": "2026-09-16T15:23:14-05:00"
+      },
+      {
+        "titulo": "Contratos de futuro del maíz caen previo a conocerse datos de cosecha en USA",
+        "url": "https://es.finance.yahoo.com/noticias/futuros-ma%C3%ADz-bajan-espera-resultados-173546204.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Los futuros del maíz bajan a la espera de resultados de cosecha EEUU",
+        "capturado": "2026-09-16T15:23:14-05:00"
+      },
+      {
+        "titulo": "Standard Chartered proyecta Arbitrum en 10 dólares para 2030 y explica su base",
+        "url": "https://es.finance.yahoo.com/noticias/standard-chartered-ve-arbitrum-arb-173000720.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Standard Chartered ve a Arbitrum (ARB) en $10 para 2030: ¿En qué se basa el pronóstico?",
+        "capturado": "2026-09-16T15:23:14-05:00"
+      },
       {
         "titulo": "Ministra de Economía alemana propone recortar el IVA al combustible por un tiempo",
         "url": "https://es.finance.yahoo.com/noticias/ministra-econom%C3%ADa-alemana-aboga-reducci%C3%B3n-163927496.html",
@@ -419,70 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "El rendimiento del bono de EE.UU. a 10 años supera el 5% mientras se agrava la venta global",
         "capturado": "2026-09-15T01:27:57-05:00"
-      },
-      {
-        "titulo": "Alemania exige seguridades a UniCredit sobre la adquisición de Commerzbank",
-        "url": "https://es.finance.yahoo.com/noticias/alemania-pide-garant%C3%ADas-unicredit-compra-043822264.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Alemania pide garantías a UniCredit por la compra de Commerzbank",
-        "capturado": "2026-09-15T01:27:57-05:00"
-      },
-      {
-        "titulo": "El capital estancado que genera pérdidas financieras a los ciudadanos de Europa",
-        "url": "https://es.finance.yahoo.com/noticias/billones-inm%C3%B3viles-pierden-dinero-europeos-040134576.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Los ahorros inmóviles que hacen perder dinero a los europeos",
-        "capturado": "2026-09-15T01:27:57-05:00"
-      },
-      {
-        "titulo": "Logrará Intel elevar su cotización de cara al año 2030",
-        "url": "https://es.finance.yahoo.com/noticias/intel-impulsar-valor-2030-001000142.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "¿Podría Intel impulsar su valor para 2030?",
-        "capturado": "2026-09-15T01:27:57-05:00"
-      },
-      {
-        "titulo": "Cardano concreta una relevante incorporación de pagos",
-        "url": "https://es.finance.yahoo.com/noticias/cardano-logra-importante-integraci%C3%B3n-pagos-000000084.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "Cardano logra una importante integración de pagos",
-        "capturado": "2026-09-15T01:27:57-05:00"
-      },
-      {
-        "titulo": "Blizzard asegura que Diablo V volverá a un entorno anterior a Diablo 4 de exploración permanente y calabozos aleatorios",
-        "url": "https://es-us.noticias.yahoo.com/blizzard-promete-diablo-v-regresar%C3%A1-232023030.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Blizzard promete que Diablo V regresará a un mundo previo a Diablo 4 de descubrimiento constante y mazmorras procedurales que cambian cada vez que las visitas",
-        "capturado": "2026-09-15T01:27:57-05:00"
-      },
-      {
-        "titulo": "El Congreso colombiano avala la partida de gastos para 2027 por 206.655 millones de dólares",
-        "url": "https://es.finance.yahoo.com/noticias/congreso-colombia-aprueba-monto-presupuesto-231453882.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Congreso de Colombia aprueba monto de presupuesto de gastos para 2027 por 206.655 millones de dólares",
-        "capturado": "2026-09-14T20:11:26-05:00"
-      },
-      {
-        "titulo": "Mod de DLSS 5 Frame Generation multiplica los FPS en RTX 20 y 30, las tarjetas que NVIDIA nunca incluyó en el soporte oficial",
-        "url": "https://es-us.noticias.yahoo.com/mod-dlss-5-frame-generation-201232343.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Mod de DLSS 5 Frame Generation multiplica los FPS en RTX 20 y 30, las tarjetas que NVIDIA nunca incluyó en el soporte oficial",
-        "capturado": "2026-09-14T20:11:26-05:00"
-      },
-      {
-        "titulo": "Semiconductores impulsan baja en bolsas de EE. UU. y papeles del Tesoro llegan al 5%",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-semiconductores-contribuyen-ca%C3%ADda-%C3%ADndices-212047887.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los semiconductores contribuyen a la caída de los índices bursátiles estadounidenses, mientras que el rendimiento de los bonos del Tesoro de referencia alcanza el 5%.",
-        "capturado": "2026-09-14T17:38:46-05:00"
       }
     ]
   }
