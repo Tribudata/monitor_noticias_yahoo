@@ -1,9 +1,41 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-16T15:23:14-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-09-16T18:09:49-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Anthropic da ganancias al prescindir del gasto de producir a Claude",
+        "url": "https://es.finance.yahoo.com/noticias/anthropic-rentable-ignoras-costo-crear-214200832.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Anthropic es rentable, si ignoras el costo de crear Claude",
+        "capturado": "2026-09-16T18:09:49-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE UU bajan y tasas de bonos trepan por alza de tasas de la Fed tras tres años",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-210828454.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen y los rendimientos de los bonos del Tesoro se disparan tras la subida de tipos de interés de la Fed por primera vez en más de tres años",
+        "capturado": "2026-09-16T18:09:49-05:00"
+      },
+      {
+        "titulo": "Ánimo de edificadores de casas en EE UU baja en septiembre a piso de 12 meses",
+        "url": "https://es.finance.yahoo.com/noticias/confianza-constructores-viviendas-eeuu-cae-202736624.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Confianza de constructores de viviendas EEUU cae en septiembre a mínimo en 12 meses",
+        "capturado": "2026-09-16T18:09:49-05:00"
+      },
+      {
+        "titulo": "Bitcoin gana al oro como el refugio idóneo frente a la devaluación, afirma Raoul Pal",
+        "url": "https://es.finance.yahoo.com/noticias/bitcoin-supera-oro-verdadera-cobertura-201500646.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Bitcoin supera al oro como la verdadera cobertura contra la devaluación, dice Raoul Pal",
+        "capturado": "2026-09-16T18:09:49-05:00"
+      },
       {
         "titulo": "La Fed incrementa las tasas por primera vez desde 2023 con decisión unánime que reta a Trump",
         "url": "https://es.finance.yahoo.com/noticias/fed-sube-tipos-2023-votaci%C3%B3n-182754433.html",
@@ -451,38 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "China no consigue reactivar el consumo pese a los esfuerzos de Pekín",
         "capturado": "2026-09-15T07:01:27-05:00"
-      },
-      {
-        "titulo": "La OMC dice que el comercio global vive un momento crucial y pide transformaciones",
-        "url": "https://es.finance.yahoo.com/noticias/omc-afirma-sistema-comercial-mundial-102319954.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "La OMC afirma que el sistema comercial mundial se encuentra en una encrucijada crítica e insta a una reforma",
-        "capturado": "2026-09-15T07:01:27-05:00"
-      },
-      {
-        "titulo": "Retornan exiliados a territorio venezolano bajo una reducida apertura política",
-        "url": "https://es.finance.yahoo.com/noticias/exiliados-regresan-venezuela-apertura-pol%C3%ADtica-100000974.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Exiliados regresan a Venezuela en una apertura política limitada",
-        "capturado": "2026-09-15T07:01:27-05:00"
-      },
-      {
-        "titulo": "Canadá se ofrece como destino para empresas en encuentro de inversionistas",
-        "url": "https://es.finance.yahoo.com/noticias/canad%C3%A1-presenta-refugio-inversores-mundo-075834113.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Canadá se presenta como refugio empresarial en una cumbre de inversiones",
-        "capturado": "2026-09-15T07:01:27-05:00"
-      },
-      {
-        "titulo": "La tasa del bono estadounidense a diez años rebasa el 5% en medio del desplome bursátil mundial",
-        "url": "https://es.finance.yahoo.com/noticias/rendimiento-bono-ee-uu-10-055230226.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El rendimiento del bono de EE.UU. a 10 años supera el 5% mientras se agrava la venta global",
-        "capturado": "2026-09-15T01:27:57-05:00"
       }
     ]
   }
