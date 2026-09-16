@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-16T07:43:33-05:00",
+  "actualizado": "2026-09-16T12:29:45-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Ministra de Economía alemana propone recortar el IVA al combustible por un tiempo",
+        "url": "https://es.finance.yahoo.com/noticias/ministra-econom%C3%ADa-alemana-aboga-reducci%C3%B3n-163927496.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Ministra de Economía alemana aboga por una reducción temporal del IVA al combustible",
+        "capturado": "2026-09-16T12:29:45-05:00"
+      },
+      {
+        "titulo": "Santander tumba fallo de tribunal británico por 677 millones de libras sobre seguros",
+        "url": "https://es.finance.yahoo.com/noticias/correcci%C3%B3n-actualizaci%C3%B3n-santander-logra-anulaci%C3%B3n-162219126.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Corrección: Actualización: Santander logra la anulación de la sentencia del Tribunal Superior del Reino Unido por 677 millones de libras esterlinas relativa a la venta fraudulenta de seguros de protección de pagos.",
+        "capturado": "2026-09-16T12:29:45-05:00"
+      },
+      {
+        "titulo": "Gasolina barata de TotalEnergies genera controversia entre rivales en territorio francés",
+        "url": "https://es.finance.yahoo.com/noticias/francia-combustible-rebajado-totalenergies-dispara-160222429.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El combustible rebajado de TotalEnergies dispara la polémica entre los competidores en Francia",
+        "capturado": "2026-09-16T12:29:45-05:00"
+      },
+      {
+        "titulo": "Motivos por los que firma alemana de IA cambia su sede principal a su país de origen",
+        "url": "https://es.finance.yahoo.com/noticias/emergente-empresa-alemana-ia-traslada-143900988.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Por qué esta emergente empresa alemana de IA traslada su matriz de Estados Unidos a Alemania",
+        "capturado": "2026-09-16T12:29:45-05:00"
+      },
+      {
+        "titulo": "Start-up italiana de IA física alcanza valoración de 1.700 millones de dólares y es unicornio",
+        "url": "https://es.finance.yahoo.com/noticias/exein-convierte-unicornio-start-up-150414574.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Exein se convierte en unicornio, la start-up italiana de IA física vale 1.700 millones de dólares",
+        "capturado": "2026-09-16T12:29:45-05:00"
+      },
+      {
+        "titulo": "El máximo representante de la ONU advierte acerca de los peligros de la IA",
+        "url": "https://es.finance.yahoo.com/noticias/secretario-general-onu-voz-alarma-153657608.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "El secretario general de la ONU da la voz de alarma sobre los riesgos de la IA",
+        "capturado": "2026-09-16T12:29:45-05:00"
+      },
+      {
+        "titulo": "Las existencias empresariales estadounidenses aumentan por encima de lo estimado en julio",
+        "url": "https://es.finance.yahoo.com/noticias/inventarios-empresas-eeuu-suben-previsto-152222310.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Los inventarios de las empresas de EEUU suben más de lo previsto en julio",
+        "capturado": "2026-09-16T12:29:45-05:00"
+      },
+      {
+        "titulo": "Subsidiaria de la turca Can2 Termik hará proyecto petrolero de 400 millones de dólares en Venezuela",
+        "url": "https://es.finance.yahoo.com/noticias/filial-turca-can2-termik-desarrollar%C3%A1-150308999.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Filial de turca Can2 Termik desarrollará proyecto petrolero de 400 millones de dólares en Venezuela",
+        "capturado": "2026-09-16T12:29:45-05:00"
+      },
       {
         "titulo": "Santander consigue revocar el fallo del Tribunal Superior británico por 677 millones de libras sobre PPI",
         "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-santander-logra-anulaci%C3%B3n-sentencia-115842181.html",
@@ -419,70 +483,6 @@
         "medio": "MT Newswires",
         "titulo_fuente": "Actualización: Los semiconductores contribuyen a la caída de los índices bursátiles estadounidenses, mientras que el rendimiento de los bonos del Tesoro de referencia alcanza el 5%.",
         "capturado": "2026-09-14T17:38:46-05:00"
-      },
-      {
-        "titulo": "Tesoro estadounidense frena modificaciones administrativas en Citgo y firmas controladoras",
-        "url": "https://es.finance.yahoo.com/noticias/tesoro-eeuu-bloquea-cambios-gobernanza-202558529.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Tesoro de EEUU bloquea cambios de gobernanza en Citgo y sus empresas matrices",
-        "capturado": "2026-09-14T17:38:46-05:00"
-      },
-      {
-        "titulo": "Monsanto, de Bayer, pide a juez de Misuri avalar pacto de 7.250 millones por Roundup",
-        "url": "https://es.finance.yahoo.com/noticias/monsanto-bayer-insta-juez-misuri-191128835.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Monsanto de Bayer insta a juez de Misuri a aprobar acuerdo de 7.250 millones de dólares por Roundup",
-        "capturado": "2026-09-14T17:38:46-05:00"
-      },
-      {
-        "titulo": "RPCS3 alcanza 78% de juegos de PS3 en PC y fija exigencias para 2026 con Jak y LittleBigPlanet",
-        "url": "https://es-us.noticias.yahoo.com/rpcs3-llega-78-cat%C3%A1logo-ps3-183209321.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "RPCS3 llega al 78% del catálogo de PS3 jugable en PC y actualiza sus requerimientos para 2026: Colección de Jak and Daxter y LittleBigPlanet Karting ya son compatibles",
-        "capturado": "2026-09-14T17:38:46-05:00"
-      },
-      {
-        "titulo": "Títulos de Salesforce suben levemente a la par que su división de IA aumenta un 240%",
-        "url": "https://es.finance.yahoo.com/noticias/acciones-salesforce-avanzan-negocio-ia-180117501.html",
-        "resumen": "",
-        "medio": "Benzinga Espana",
-        "titulo_fuente": "Las acciones de Salesforce apenas avanzan mientras su negocio de IA crece un 240%",
-        "capturado": "2026-09-14T17:38:46-05:00"
-      },
-      {
-        "titulo": "Un Fenómeno de El Niño posiblemente histórico eleva las apuestas en contratos climáticos",
-        "url": "https://es.finance.yahoo.com/noticias/ni%C3%B1o-potencialmente-hist%C3%B3rico-dispara-apuestas-180828958.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Un El Niño potencialmente histórico dispara las apuestas en derivados climáticos",
-        "capturado": "2026-09-14T14:03:15-05:00"
-      },
-      {
-        "titulo": "El Senado del Parlamento suizo aprueba el tratado comercial con el Mercosur",
-        "url": "https://es.finance.yahoo.com/noticias/c%C3%A1mara-alta-parlamento-suizo-respalda-180010051.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Cámara alta del Parlamento suizo respalda acuerdo comercial con el Mercosur",
-        "capturado": "2026-09-14T14:03:15-05:00"
-      },
-      {
-        "titulo": "Actualización: Las bolsas de EE. UU. caen al rebasar los bonos del Tesoro a 10 años el 5%, a la vez que el crudo sube",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-retroceden-175030913.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses retroceden al superar el rendimiento de los bonos del Tesoro a 10 años el umbral del 5%, mientras que el petróleo crudo extiende sus ganancias.",
-        "capturado": "2026-09-14T14:03:15-05:00"
-      },
-      {
-        "titulo": "Brasil avanza en EE. UU. con el abastecimiento de carne requerido por Trump",
-        "url": "https://es.finance.yahoo.com/noticias/brasil-gana-terreno-ee-uu-174018900.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Brasil gana terreno en EE.UU. con la carne que Trump necesita",
-        "capturado": "2026-09-14T14:03:15-05:00"
       }
     ]
   }
