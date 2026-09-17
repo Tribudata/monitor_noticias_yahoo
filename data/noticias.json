@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-17T07:42:30-05:00",
+  "actualizado": "2026-09-17T12:29:42-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "ETFs repuntan mientras los títulos de EE UU ganan terreno pasada la medianoche",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-suben-medida-170803265.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa suben a medida que las acciones estadounidenses avanzan después del mediodía.",
+        "capturado": "2026-09-17T12:29:42-05:00"
+      },
+      {
+        "titulo": "Colocación de $500 millones de SBF aún persigue a Anthropic",
+        "url": "https://es.finance.yahoo.com/noticias/inversi%C3%B3n-500-millones-sbf-persigue-155200441.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Inversión de $500 millones de SBF todavía persigue a Anthropic",
+        "capturado": "2026-09-17T12:29:42-05:00"
+      },
+      {
+        "titulo": "ExxonMobil dialoga para volver a Venezuela y pretende rescatar dos grandes yacimientos",
+        "url": "https://es.finance.yahoo.com/noticias/exxonmobil-negocia-regreso-venezuela-busca-152659909.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "ExxonMobil negocia regreso a Venezuela y busca recuperar dos enormes campos petroleros",
+        "capturado": "2026-09-17T12:29:42-05:00"
+      },
+      {
+        "titulo": "Mercado de valores argentino toma respiro tras subida de tasa en EE UU",
+        "url": "https://es.finance.yahoo.com/noticias/plaza-financiera-argentina-oxigena-alza-145239706.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Plaza financiera argentina se oxigena tras alza de tasa estadounidense",
+        "capturado": "2026-09-17T12:29:42-05:00"
+      },
+      {
+        "titulo": "Vitalik Buterin fomenta la IA local: ¿Puede tu computador suplir a ChatGPT?",
+        "url": "https://es.finance.yahoo.com/noticias/vitalik-buterin-impulsa-ia-local-142700801.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Vitalik Buterin impulsa la IA local: ¿Puede tu portátil reemplazar a ChatGPT?",
+        "capturado": "2026-09-17T12:29:42-05:00"
+      },
+      {
+        "titulo": "Suben obras residenciales unifamiliares norteamericanas en agosto pero bajan permisos",
+        "url": "https://es.finance.yahoo.com/noticias/inicios-construcci%C3%B3n-viviendas-unifamiliares-eeuu-140133040.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Inicios de construcción viviendas unifamiliares en EEUU repuntan en agosto; caen licencias de obra",
+        "capturado": "2026-09-17T12:29:42-05:00"
+      },
+      {
+        "titulo": "Lockheed Martin muestra nuevo proyectil secreto y acelera su fabricación",
+        "url": "https://es.finance.yahoo.com/noticias/lockheed-martin-revela-misil-secreto-135532219.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Lockheed Martin revela nuevo misil secreto y acelera su producción",
+        "capturado": "2026-09-17T12:29:42-05:00"
+      },
+      {
+        "titulo": "Monarca Carlos alerta a directivos de IA sobre riesgos existenciales en reunión escocesa",
+        "url": "https://es.finance.yahoo.com/noticias/rey-carlos-advierte-l%C3%ADderes-sector-133353717.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Rey Carlos advierte a líderes del sector de la IA sobre \"peligros existenciales\" en cita en Escocia",
+        "capturado": "2026-09-17T12:29:42-05:00"
+      },
       {
         "titulo": "Armadoras chinas exploran plantas en Europa por nueva regla UE de contenido local, según asesor de BYD",
         "url": "https://es.finance.yahoo.com/noticias/fabricantes-autom%C3%B3viles-chinos-buscan-f%C3%A1bricas-122428937.html",
@@ -419,70 +483,6 @@
         "medio": "Estrategias de inversión",
         "titulo_fuente": "El suministro de Ethereum sigue desapareciendo de los exchanges",
         "capturado": "2026-09-16T02:18:10-05:00"
-      },
-      {
-        "titulo": "El PSBlackout contra el fin de los discos físicos fracasó sin afectar a jugadores",
-        "url": "https://es-us.noticias.yahoo.com/psblackout-protesta-discos-f%C3%ADsicos-impacto-224021271.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "El PSBlackout, la protesta contra el fin de los discos físicos, no tuvo ningún impacto en los jugadores de PlayStation y fue un fracaso absoluto",
-        "capturado": "2026-09-16T02:18:10-05:00"
-      },
-      {
-        "titulo": "Hideki Kamiya agota mensajes en X peleando por Zelda y paga Premium para seguir",
-        "url": "https://es-us.noticias.yahoo.com/respond%C3%AD-demasiados-insectos-hideki-kamiya-215906685.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "“Respondí a demasiados insectos”: Hideki Kamiya agota sus mensajes en X peleándose con fans de Zelda por llamar a Wind Waker “una m*erd*” y paga Premium para seguir",
-        "capturado": "2026-09-16T02:18:10-05:00"
-      },
-      {
-        "titulo": "Masahiro Sakurai afirma que la innovación no impacta las ventas y los jugadores prefieren lo conocido",
-        "url": "https://es-us.noticias.yahoo.com/voy-cruel-originalidad-influye-ventas-195314479.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "“Voy a decir algo cruel, la originalidad no influye mucho en las ventas”: Masahiro Sakurai explica por qué los jugadores siempre eligen lo conocido sobre lo nuevo",
-        "capturado": "2026-09-15T20:32:23-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE. UU. caen y bonos clave llegan a máximo de 19 años previo a alza de tasas de la Fed con crudo al alza",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-retroceden-205827416.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses retroceden mientras el rendimiento de los bonos de referencia alcanza su nivel más alto en 19 años antes de la subida de tipos de la Fed, al tiempo que aumentan los precios del petróleo crudo.",
-        "capturado": "2026-09-15T18:03:36-05:00"
-      },
-      {
-        "titulo": "Senado de EE. UU. frena propuesta legal sobre criptoactivos en duro golpe para la industria",
-        "url": "https://es.finance.yahoo.com/noticias/senado-eeuu-logra-sacar-proyecto-204038680.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Senado EEUU no logra sacar adelante proyecto de ley sobre criptomonedas, en revés para el sector",
-        "capturado": "2026-09-15T18:03:36-05:00"
-      },
-      {
-        "titulo": "Usuarios califican Marvel’s Wolverine con 97 sobre 100 en PlayStation Store, 20 unidades arriba de la crítica",
-        "url": "https://es-us.noticias.yahoo.com/jugadores-punt%C3%BAan-marvel-s-wolverine-173451632.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Jugadores puntúan Marvel’s Wolverine con un 97/100 en PlayStation Store, 20 puntos por encima del Metascore de los críticos",
-        "capturado": "2026-09-15T18:03:36-05:00"
-      },
-      {
-        "titulo": "Alza en la soja por cifras de procesamiento en Estados Unidos y repunte del trigo",
-        "url": "https://es.finance.yahoo.com/noticias/soja-sube-datos-molienda-eeuu-185842268.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Soja sube tras los datos de la molienda en EEUU y el trigo se recupera",
-        "capturado": "2026-09-15T15:22:22-05:00"
-      },
-      {
-        "titulo": "Gasto bélico en Irán llega a 38.000 millones de dólares según oficina presupuestal del Congreso",
-        "url": "https://es.finance.yahoo.com/noticias/costo-guerra-ir%C3%A1n-alcanza-38-183408095.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Costo de guerra en Irán alcanza 38.000 millones de dólares: oficina presupuesto del Congreso",
-        "capturado": "2026-09-15T15:22:22-05:00"
       }
     ]
   }
