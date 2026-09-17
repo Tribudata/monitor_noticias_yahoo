@@ -1,9 +1,41 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-17T15:31:15-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-09-17T18:23:47-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Wall Street avanza y tecnológicas repuntan tras baja de bonos por promesa de la Fed contra la inflación",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-213219823.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben y las grandes tecnológicas repuntan después de que el compromiso de la Fed de controlar la inflación hiciera caer los rendimientos de los bonos del Tesoro",
+        "capturado": "2026-09-17T18:23:47-05:00"
+      },
+      {
+        "titulo": "Fondos cotizados de Bitcoin superarían al oro por triple, según experto: efectos para la cotización",
+        "url": "https://es.finance.yahoo.com/noticias/etf-spot-bitcoin-triplicar-oro-212200051.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Los ETF spot de Bitcoin podrían triplicar al oro, según analista: ¿Qué significa para el precio de BTC?",
+        "capturado": "2026-09-17T18:23:47-05:00"
+      },
+      {
+        "titulo": "Emulador de PS5 exhibe por vez inicial Demon's Souls Remake en 4K y Astro Bot a 60 FPS en PC",
+        "url": "https://es-us.noticias.yahoo.com/emulador-ps5-muestra-22-minutos-181429997.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Emulador de PS5 muestra por primera vez 22 minutos de Demon’s Souls Remake en 4K sin crashear y Astro Bot corriendo a 60 FPS en PC",
+        "capturado": "2026-09-17T18:23:47-05:00"
+      },
+      {
+        "titulo": "Esquema de sobornos para revivir médicos en Wardogs resalta como novedad mecánica actual",
+        "url": "https://es-us.noticias.yahoo.com/sistema-sobornos-m%C3%A9dicos-te-revivan-173839078.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Sistema de sobornos para que los médicos te revivan en Wardogs destaca como una de las mecánicas más innovadoras recientemente",
+        "capturado": "2026-09-17T18:23:47-05:00"
+      },
       {
         "titulo": "Jim Cramer anticipa subida del 40 por ciento en títulos de Palantir y cuestiona postura de Wall Street",
         "url": "https://es.finance.yahoo.com/noticias/jim-cramer-pronostica-rally-40-195900402.html",
@@ -450,38 +482,6 @@
         "resumen": "",
         "medio": "Reuters",
         "titulo_fuente": "Ucrania inicia siembra del trigo de invierno a pesar de la sequía, prevé una superficie menor",
-        "capturado": "2026-09-16T07:43:33-05:00"
-      },
-      {
-        "titulo": "Bitcoin retrocede tras bloqueo en el Senado de EE. UU. a normativa fundamental de criptomonedas",
-        "url": "https://es.finance.yahoo.com/noticias/bitcoin-cae-senado-eeuu-bloquee-090507618.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Bitcoin cae después de que el Senado de EE.UU. bloquee una ley clave sobre criptomonedas",
-        "capturado": "2026-09-16T07:43:33-05:00"
-      },
-      {
-        "titulo": "Wall Street sube antes de abrir por petróleo más barato y tecnología; alzas en Asia y Europa",
-        "url": "https://es.finance.yahoo.com/noticias/reducci%C3%B3n-precios-petr%C3%B3leo-fortaleza-sector-111810935.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "La reducción de los precios del petróleo y la fortaleza del sector tecnológico impulsan las ganancias de Wall Street antes de la apertura; Asia y Europa registran alzas.",
-        "capturado": "2026-09-16T07:43:33-05:00"
-      },
-      {
-        "titulo": "España eleva a más de 17.000 millones de euros el gasto en la red eléctrica hasta 2030",
-        "url": "https://es.finance.yahoo.com/noticias/espa%C3%B1a-aumenta-inversi%C3%B3n-red-el%C3%A9ctrica-111649612.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "España aumenta la inversión en la red eléctrica a más de 17.000 millones de euros hasta 2030",
-        "capturado": "2026-09-16T07:43:33-05:00"
-      },
-      {
-        "titulo": "España reporta la primera filtración de información vinculada a un sistema de IA",
-        "url": "https://es.finance.yahoo.com/noticias/espa%C3%B1a-registra-brecha-datos-atribuida-103500902.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "España registra la primera brecha de datos atribuida a un agente de IA",
         "capturado": "2026-09-16T07:43:33-05:00"
       }
     ]
