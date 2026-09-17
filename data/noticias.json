@@ -1,9 +1,65 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-17T12:29:42-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-09-17T15:31:15-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Jim Cramer anticipa subida del 40 por ciento en títulos de Palantir y cuestiona postura de Wall Street",
+        "url": "https://es.finance.yahoo.com/noticias/jim-cramer-pronostica-rally-40-195900402.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Jim Cramer pronostica rally del 40% para las acciones de Palantir: ¿Está de acuerdo Wall Street?",
+        "capturado": "2026-09-17T15:31:15-05:00"
+      },
+      {
+        "titulo": "Patrón gráfico actual en XRP no se registraba hace trece años",
+        "url": "https://es.finance.yahoo.com/noticias/se%C3%B1al-gr%C3%A1fico-xrp-ve%C3%ADa-13-183600948.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Esta señal en el gráfico de XRP no se veía desde hace 13 años",
+        "capturado": "2026-09-17T15:31:15-05:00"
+      },
+      {
+        "titulo": "Bolsa de EE UU avanza y tasas de bonos bajan tras promesa de la Fed de frenar alza de precios",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-175650092.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben mientras que los rendimientos de los bonos del Tesoro caen después de que la Reserva Federal reafirmara su compromiso de controlar la inflación.",
+        "capturado": "2026-09-17T15:31:15-05:00"
+      },
+      {
+        "titulo": "Founders Metals compra porción sin regalías en yacimiento de oro Antino en Surinam",
+        "url": "https://es.finance.yahoo.com/noticias/founders-metals-adquiere-participaci%C3%B3n-libre-172933006.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Founders Metals adquiere una participación libre de regalías en el proyecto aurífero Antino en Surinam.",
+        "capturado": "2026-09-17T15:31:15-05:00"
+      },
+      {
+        "titulo": "S&P Global adquiere a auditor clave de criptomonedas estables: razones del movimiento y su magnitud",
+        "url": "https://es.finance.yahoo.com/noticias/s-p-global-compra-auditor-171400471.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "S&P Global compra al auditor detrás de la mayoría de las stablecoins: ¿Por qué ahora y por qué dos veces?",
+        "capturado": "2026-09-17T15:31:15-05:00"
+      },
+      {
+        "titulo": "Estados Unidos habilita nuevamente su puerto principal a la entrada de ganado vivo procedente de México",
+        "url": "https://es.finance.yahoo.com/noticias/ee-uu-reabre-puerto-importaciones-165758453.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "EE.UU. reabre su mayor puerto para las importaciones de ganado vivo desde México",
+        "capturado": "2026-09-17T15:31:15-05:00"
+      },
+      {
+        "titulo": "Gobierno estadounidense analiza modificar normas antimonopolio frente a amenazas recientes de la inteligencia artificial",
+        "url": "https://es.finance.yahoo.com/noticias/ee-uu-eval%C3%BAa-actualizar-reglas-165603972.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "EE.UU. evalúa actualizar reglas antimonopolio ante los nuevos riesgos de la IA",
+        "capturado": "2026-09-17T15:31:15-05:00"
+      },
       {
         "titulo": "ETFs repuntan mientras los títulos de EE UU ganan terreno pasada la medianoche",
         "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-suben-medida-170803265.html",
@@ -427,62 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "España registra la primera brecha de datos atribuida a un agente de IA",
         "capturado": "2026-09-16T07:43:33-05:00"
-      },
-      {
-        "titulo": "Google presenta su sistema de sonido más sofisticado: En qué consiste",
-        "url": "https://es.finance.yahoo.com/noticias/google-lanza-modelo-audio-avanzado-091700576.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Google lanza su modelo de audio más avanzado: ¿De qué se trata?",
-        "capturado": "2026-09-16T07:43:33-05:00"
-      },
-      {
-        "titulo": "Causas de la inversión europea en el crecimiento de la inteligencia artificial estadounidense",
-        "url": "https://es.finance.yahoo.com/noticias/dinero-europeo-financia-auge-ia-051246084.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "¿Por qué Europa está financiando el auge de la IA en EE.UU.?",
-        "capturado": "2026-09-16T02:18:10-05:00"
-      },
-      {
-        "titulo": "En qué invierte Europa los recursos públicos según un estudio reciente",
-        "url": "https://es.finance.yahoo.com/noticias/d%C3%B3nde-gasta-europa-dinero-an%C3%A1lisis-040243648.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "¿Dónde gasta Europa su dinero? Un análisis del gasto público en el continente",
-        "capturado": "2026-09-16T02:18:10-05:00"
-      },
-      {
-        "titulo": "La Fed incrementará las tasas de interés ignorando la solicitud de recortes de Trump",
-        "url": "https://es.finance.yahoo.com/noticias/reserva-federal-subir%C3%A1-tipos-pese-054157936.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La Reserva Federal subirá los tipos pese a la presión de Trump para recortarlos",
-        "capturado": "2026-09-16T02:18:10-05:00"
-      },
-      {
-        "titulo": "Francia apoyaría a Knot en el BCE y busca la plaza de economista jefe",
-        "url": "https://es.finance.yahoo.com/noticias/francia-respaldar%C3%ADa-knot-dirigir-bce-061412131.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Francia respaldaría a Knot para dirigir el BCE y quiere el puesto de economista jefe",
-        "capturado": "2026-09-16T02:18:10-05:00"
-      },
-      {
-        "titulo": "Santander revoca el fallo británico de 677 millones de libras por cobros indebidos de seguros PPI",
-        "url": "https://es.finance.yahoo.com/noticias/santander-logra-anulaci%C3%B3n-sentencia-tribunal-045105929.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Santander logra la anulación de la sentencia del Tribunal Superior del Reino Unido por valor de 677 millones de libras esterlinas relativa a la venta fraudulenta de seguros de protección de pagos (PPI).",
-        "capturado": "2026-09-16T02:18:10-05:00"
-      },
-      {
-        "titulo": "La oferta de Ethereum continúa reduciéndose en las plataformas de intercambio",
-        "url": "https://es.finance.yahoo.com/noticias/suministro-ethereum-desapareciendo-exchanges-232000755.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "El suministro de Ethereum sigue desapareciendo de los exchanges",
-        "capturado": "2026-09-16T02:18:10-05:00"
       }
     ]
   }
