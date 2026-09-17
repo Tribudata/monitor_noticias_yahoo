@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-17T02:13:48-05:00",
+  "actualizado": "2026-09-17T07:42:30-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Armadoras chinas exploran plantas en Europa por nueva regla UE de contenido local, según asesor de BYD",
+        "url": "https://es.finance.yahoo.com/noticias/fabricantes-autom%C3%B3viles-chinos-buscan-f%C3%A1bricas-122428937.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Fabricantes automóviles chinos buscan fábricas en Europa ante nueva normativa UE sobre contenido local: asesor BYD",
+        "capturado": "2026-09-17T07:42:30-05:00"
+      },
+      {
+        "titulo": "Futuros de papeles en EE. UU. avanzan previo a la apertura bursátil analizando alza de tasas de la Fed",
+        "url": "https://es.finance.yahoo.com/noticias/futuros-acciones-estadounidenses-suben-apertura-120128120.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los futuros de las acciones estadounidenses suben antes de la apertura del mercado mientras los operadores evalúan el aumento de las tasas de interés de la Reserva Federal.",
+        "capturado": "2026-09-17T07:42:30-05:00"
+      },
+      {
+        "titulo": "OpenAI declina galardón matemático de un millón de dólares ofrecido por Justin Sun",
+        "url": "https://es.finance.yahoo.com/noticias/openai-rechaza-premio-matem%C3%A1ticas-1-114800949.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "OpenAI rechaza premio matemáticas de $1 millón de Justin Sun",
+        "capturado": "2026-09-17T07:42:30-05:00"
+      },
+      {
+        "titulo": "Fuga de información en Revolut afecta a 700 usuarios y exige pago extorsivo de 3 millones de dólares",
+        "url": "https://es.finance.yahoo.com/noticias/fraude-revolut-hackers-obtienen-datos-100609729.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Revolut, víctima de un robo de datos: 700 clientes afectados y un rescate de 3 millones de dólares",
+        "capturado": "2026-09-17T07:42:30-05:00"
+      },
+      {
+        "titulo": "Canadá definirá por cuenta propia sus alianzas estratégicas, afirma Carney",
+        "url": "https://es.finance.yahoo.com/noticias/carney-canad%C3%A1-decidir%C3%A1-al%C3%ADa-112256483.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Carney dice que Canadá decidirá por sí misma con quién se alía",
+        "capturado": "2026-09-17T07:42:30-05:00"
+      },
+      {
+        "titulo": "Subsecretario germano pide fijar acciones ante la entrada de vehículos híbridos chinos",
+        "url": "https://es.finance.yahoo.com/noticias/vicecanciller-alem%C3%A1n-insta-adoptar-medidas-112027095.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Vicecanciller alemán insta a adoptar medidas contra las importaciones de autos híbridos chinos",
+        "capturado": "2026-09-17T07:42:30-05:00"
+      },
+      {
+        "titulo": "Entidad monetaria inglesa conserva tasa en 3,75% y el IPC llega a pico de 5 meses",
+        "url": "https://es.finance.yahoo.com/noticias/banco-inglaterra-mantiene-tipos-3-111929058.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El Banco de Inglaterra mantiene tipos en 3,75%, la inflación alcanza máximo de 5 meses",
+        "capturado": "2026-09-17T07:42:30-05:00"
+      },
+      {
+        "titulo": "Jefa de gobierno nipona conserva al titular de Hacienda en reestructuración estatal",
+        "url": "https://es.finance.yahoo.com/noticias/ministra-jap%C3%B3n-mantiene-ministro-econom%C3%ADa-111729817.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Primera ministra de Japón mantiene al ministro de Economía en reorganización del Gobierno",
+        "capturado": "2026-09-17T07:42:30-05:00"
+      },
       {
         "titulo": "Analistas respaldan la rebaja del IRPF en Portugal aunque advierten riesgos de deterioro",
         "url": "https://es.finance.yahoo.com/noticias/recorte-irpf-portugal-expertos-apoyan-060925127.html",
@@ -419,70 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Costo de guerra en Irán alcanza 38.000 millones de dólares: oficina presupuesto del Congreso",
         "capturado": "2026-09-15T15:22:22-05:00"
-      },
-      {
-        "titulo": "Alex Saab acepta su culpabilidad por blanqueo en corte de Miami",
-        "url": "https://es.finance.yahoo.com/noticias/alex-saab-declara-culpable-lavado-174751729.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Alex Saab se declara culpable de lavado en un tribunal de Miami",
-        "capturado": "2026-09-15T15:22:22-05:00"
-      },
-      {
-        "titulo": "Bajan las bolsas en Estados Unidos al tiempo que suben los títulos del Tesoro y el crudo",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-173735383.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen mientras que el rendimiento de los bonos del Tesoro de referencia alcanza su nivel más alto en casi dos décadas y el petróleo crudo se dispara.",
-        "capturado": "2026-09-15T15:22:22-05:00"
-      },
-      {
-        "titulo": "Venezuela limita el circulante bancario para sostener el bolívar",
-        "url": "https://es.finance.yahoo.com/noticias/venezuela-restringe-liquidez-bancaria-apuntalar-173523394.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Venezuela restringe liquidez bancaria para apuntalar al bolívar",
-        "capturado": "2026-09-15T15:22:22-05:00"
-      },
-      {
-        "titulo": "Acciones de EE UU y fondos cotizados en bolsa bajan pasada la una de la tarde",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-acciones-estadounidenses-171200230.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa y las acciones estadounidenses caen después del mediodía.",
-        "capturado": "2026-09-15T15:22:22-05:00"
-      },
-      {
-        "titulo": "PIB peruano crece 3,56 por ciento en julio y supera la totalidad de pronósticos",
-        "url": "https://es.finance.yahoo.com/noticias/econom%C3%ADa-per%C3%BA-repunta-3-56-170446583.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Economía de Perú repunta 3,56% en julio y supera todas las previsiones",
-        "capturado": "2026-09-15T15:22:22-05:00"
-      },
-      {
-        "titulo": "Inquietud en el BCE por una eventual partida prematura de Christine Lagarde",
-        "url": "https://es.finance.yahoo.com/noticias/personal-bce-teme-estabilidad-rumores-162445930.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Temor en el BCE ante una posible salida anticipada de Christine Lagarde",
-        "capturado": "2026-09-15T12:11:50-05:00"
-      },
-      {
-        "titulo": "Ventas externas de trigo blando comunitario en 2026/27 bajan un 2% al 13 de septiembre",
-        "url": "https://es.finance.yahoo.com/noticias/exportaciones-trigo-blando-ue-2026-153002964.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Exportaciones de trigo blando de la UE en 2026/27 caen un 2% al 13 de septiembre",
-        "capturado": "2026-09-15T12:11:50-05:00"
-      },
-      {
-        "titulo": "Compras foráneas de soja de la UE en 2026/27 disminuyeron un 17% al 13 de septiembre",
-        "url": "https://es.finance.yahoo.com/noticias/importaciones-soja-ue-2026-27-152800240.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Importaciones de soja de la UE en 2026/27 se redujeron un 17% al 13 de septiembre",
-        "capturado": "2026-09-15T12:11:50-05:00"
       }
     ]
   }
