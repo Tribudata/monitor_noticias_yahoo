@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-16T18:09:49-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-09-16T20:36:37-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Crypto.com clausura su cuenta en reales ante la fecha límite del Banco Central de Brasil",
+        "url": "https://es.finance.yahoo.com/noticias/plazo-banco-central-brasil-acerc%C3%A1ndose-230800219.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Con el plazo del Banco Central de Brasil acercándose, Crypto.com cierra cuenta en reales",
+        "capturado": "2026-09-16T20:36:37-05:00"
+      },
+      {
+        "titulo": "Creador de Linux para PS5 deja la iniciativa tras reportes de usuarios sobre un fallo a PlayStation",
+        "url": "https://es-us.noticias.yahoo.com/mont%C3%B3n-novatos-usando-ia-creador-203141424.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "“Solo un montón de novatos usando IA”: el creador del Linux para PS5 abandona el proyecto después de que usuarios reportaran a PlayStation el último bug que quedaba",
+        "capturado": "2026-09-16T20:36:37-05:00"
+      },
       {
         "titulo": "Anthropic da ganancias al prescindir del gasto de producir a Claude",
         "url": "https://es.finance.yahoo.com/noticias/anthropic-rentable-ignoras-costo-crear-214200832.html",
@@ -466,22 +482,6 @@
         "resumen": "",
         "medio": "MT Newswires",
         "titulo_fuente": "El aumento de los rendimientos de los bonos y los precios del petróleo deprimen a Wall Street antes de la apertura; Asia y Europa retroceden.",
-        "capturado": "2026-09-15T07:01:27-05:00"
-      },
-      {
-        "titulo": "Por qué Grecia consigue financiación a menor costo que Francia",
-        "url": "https://es.finance.yahoo.com/noticias/grecia-financia-barato-francia-110140282.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "¿Por qué Grecia se financia más barato que Francia?",
-        "capturado": "2026-09-15T07:01:27-05:00"
-      },
-      {
-        "titulo": "Pekín no logra impulsar el gasto interno a pesar de sus iniciativas",
-        "url": "https://es.finance.yahoo.com/noticias/ventas-minoristas-china-vuelven-frenarse-085752710.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "China no consigue reactivar el consumo pese a los esfuerzos de Pekín",
         "capturado": "2026-09-15T07:01:27-05:00"
       }
     ]
