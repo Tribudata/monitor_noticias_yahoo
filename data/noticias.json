@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-16T20:36:37-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-09-17T02:13:48-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Analistas respaldan la rebaja del IRPF en Portugal aunque advierten riesgos de deterioro",
+        "url": "https://es.finance.yahoo.com/noticias/recorte-irpf-portugal-expertos-apoyan-060925127.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Recorte del IRPF en Portugal: expertos apoyan las medidas pero alertan de un posible empeoramiento",
+        "capturado": "2026-09-17T02:13:48-05:00"
+      },
+      {
+        "titulo": "Armin Papperger, titular de Rheinmetall, asegura que la llegada de robots es inminente",
+        "url": "https://es.finance.yahoo.com/noticias/jefe-rheinmetall-papperger-robots-llegar%C3%A1n-052548709.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Armin Papperger, presidente de Rheinmetall: \"Los robots llegarán\"",
+        "capturado": "2026-09-17T02:13:48-05:00"
+      },
+      {
+        "titulo": "Conflicto en Irán elevaría en 8.500 millones de dólares el costo para la industria española",
+        "url": "https://es.finance.yahoo.com/noticias/guerra-ir%C3%A1n-elevar-8-500-064034943.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "La guerra en Irán podría elevar en 8.500 millones de dólares el gasto de la industria española",
+        "capturado": "2026-09-17T02:13:48-05:00"
+      },
+      {
+        "titulo": "GE Vernova y Vineyard Wind resuelven litigio judicial por parque eólico en Nueva Inglaterra",
+        "url": "https://es.finance.yahoo.com/noticias/ge-vernova-vineyard-wind-zanjan-061025640.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "GE Vernova y Vineyard Wind zanjan su disputa legal sobre el parque eólico de Nueva Inglaterra",
+        "capturado": "2026-09-17T02:13:48-05:00"
+      },
+      {
+        "titulo": "Hy24 y COFIDES comprarán el 29% de iniciativa de hidrógeno verde de Moeve en España",
+        "url": "https://es.finance.yahoo.com/noticias/hy24-cofides-adquirir%C3%A1n-29-proyecto-060118750.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Hy24 y COFIDES adquirirán el 29% en el proyecto de hidrógeno verde de Moeve en España",
+        "capturado": "2026-09-17T02:13:48-05:00"
+      },
+      {
+        "titulo": "El impacto Canadá: cuáles firmas europeas se favorecerían con vínculos más cercanos",
+        "url": "https://es.finance.yahoo.com/noticias/efecto-canad%C3%A1-empresas-europeas-beneficiarse-060002994.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El \"efecto Canadá\": Qué empresas europeas pueden beneficiarse de lazos más estrechos",
+        "capturado": "2026-09-17T02:13:48-05:00"
+      },
+      {
+        "titulo": "Anthropic eleva su valorización sobre 2 billones de dólares previo a su OPI",
+        "url": "https://es.finance.yahoo.com/noticias/anthropic-supera-2-billones-d%C3%B3lares-050011184.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Anthropic dispara su valoración por encima de los 2 billones de dólares antes de salir a bolsa",
+        "capturado": "2026-09-17T02:13:48-05:00"
+      },
+      {
+        "titulo": "Europa contra Estados Unidos en la clasificación de urbes globales de 2026",
+        "url": "https://es.finance.yahoo.com/noticias/europa-frente-estados-unidos-r%C3%A1nking-040344482.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Europa frente a Estados Unidos en el ránking de las mejores ciudades del mundo de 2026",
+        "capturado": "2026-09-17T02:13:48-05:00"
+      },
       {
         "titulo": "Crypto.com clausura su cuenta en reales ante la fecha límite del Banco Central de Brasil",
         "url": "https://es.finance.yahoo.com/noticias/plazo-banco-central-brasil-acerc%C3%A1ndose-230800219.html",
@@ -419,70 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Importaciones de soja de la UE en 2026/27 se redujeron un 17% al 13 de septiembre",
         "capturado": "2026-09-15T12:11:50-05:00"
-      },
-      {
-        "titulo": "Plazas argentinas acomodan posturas mediante factores externos",
-        "url": "https://es.finance.yahoo.com/noticias/mercados-argentinos-ajustan-posiciones-condicionamientos-145154198.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Mercados argentinos ajustan posiciones bajo condicionamientos externos",
-        "capturado": "2026-09-15T12:11:50-05:00"
-      },
-      {
-        "titulo": "Gran Bretaña intenta calmar a firmas en Malvinas tras advertencia de Argentina",
-        "url": "https://es.finance.yahoo.com/noticias/reino-unido-busca-tranquilizar-empresas-141153294.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Reino Unido busca tranquilizar a empresas que operan en Malvinas tras amenaza argentina",
-        "capturado": "2026-09-15T12:11:50-05:00"
-      },
-      {
-        "titulo": "Premio nobel Ressa advierte que sin frenos a la IA la humanidad perderá su poder de acción",
-        "url": "https://es.finance.yahoo.com/noticias/l%C3%ADmites-ia-humanidad-perder%C3%A1-capacidad-135109245.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "\"Hay que poner límites a la IA o la humanidad perderá capacidad de actuar\", dice premio nobel Ressa",
-        "capturado": "2026-09-15T12:11:50-05:00"
-      },
-      {
-        "titulo": "Futuros de acciones y fondos cotizados caen en la preapertura del martes a la espera de la Fed",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-futuros-renta-132308545.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa y los futuros de renta variable bajan antes de la apertura del mercado el martes, mientras los operadores se preparan para la reunión de la Reserva Federal.",
-        "capturado": "2026-09-15T12:11:50-05:00"
-      },
-      {
-        "titulo": "Créditos de Marvel's Wolverine confirman a Sweet Baby Inc. como asesora narrativa del juego",
-        "url": "https://es-us.noticias.yahoo.com/cr%C3%A9ditos-marvel-s-wolverine-confirman-130535720.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Los créditos de Marvel’s Wolverine confirman la participación de Sweet Baby Inc. como consultora narrativa del juego",
-        "capturado": "2026-09-15T12:11:50-05:00"
-      },
-      {
-        "titulo": "El BCE llama a elegir los nuevos diseños de billetes antes de que acabe el plazo",
-        "url": "https://es.finance.yahoo.com/noticias/bce-invita-europeos-votar-dise%C3%B1os-112326987.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El BCE invita a los europeos a votar los nuevos diseños de billetes ante el fin del plazo",
-        "capturado": "2026-09-15T07:01:27-05:00"
-      },
-      {
-        "titulo": "El crudo Brent rebasa los 107 dólares por inquietud sobre la oferta de Arabia Saudita",
-        "url": "https://es.finance.yahoo.com/noticias/brent-supera-107-d%C3%B3lares-preocupaciones-113927984.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "El Brent supera los 107 dólares por preocupaciones sobre el suministro saudí",
-        "capturado": "2026-09-15T07:01:27-05:00"
-      },
-      {
-        "titulo": "Wall Street baja en la apertura por tasas de bonos y petróleo al alza; Asia y Europa caen",
-        "url": "https://es.finance.yahoo.com/noticias/aumento-rendimientos-bonos-precios-petr%C3%B3leo-110715639.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "El aumento de los rendimientos de los bonos y los precios del petróleo deprimen a Wall Street antes de la apertura; Asia y Europa retroceden.",
-        "capturado": "2026-09-15T07:01:27-05:00"
       }
     ]
   }
