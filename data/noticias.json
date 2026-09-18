@@ -1,9 +1,65 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-18T10:55:45-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-09-18T13:55:06-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Ventas externas agro Argentina alcanzarían tope de 42.200 millones de dólares en periodo 26/27: Bolsa Rosario",
+        "url": "https://es.finance.yahoo.com/noticias/exportaciones-agro-argentina-tocar-r%C3%A9cord-184733313.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Exportaciones agro Argentina podrían tocar récord de 42.200 million $ en ciclo 26/27: Bolsa Rosario",
+        "capturado": "2026-09-18T13:55:06-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE. UU. retroceden al tiempo que tasa de bonos del Tesoro vuelve a pico de casi 19 años",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-175248454.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen mientras que el rendimiento de los bonos del Tesoro de referencia se acerca nuevamente a su nivel más alto en casi 19 años.",
+        "capturado": "2026-09-18T13:55:06-05:00"
+      },
+      {
+        "titulo": "Piratas informáticos contagian 30.000 aparatos y hurtan 11 millones de dólares de monederos virtuales",
+        "url": "https://es.finance.yahoo.com/noticias/hackers-infectan-30-000-dispositivos-173300453.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Hackers infectan 30,000 dispositivos y roban $11 millones de wallets de criptomonedas",
+        "capturado": "2026-09-18T13:55:06-05:00"
+      },
+      {
+        "titulo": "Armadoras piden a Trump excluir a marcas de carros chinas previo a junta con Xi",
+        "url": "https://es.finance.yahoo.com/noticias/automotrices-instan-trump-mantener-fabricantes-172039323.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Automotrices instan a Trump a mantener fuera a fabricantes de autos chinos antes de reunión con Xi",
+        "capturado": "2026-09-18T13:55:06-05:00"
+      },
+      {
+        "titulo": "Fondos cotizados y títulos accionarios de Estados Unidos descienden pasada la mitad del día",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-acciones-estadounidenses-171826025.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa y las acciones estadounidenses bajan tras el mediodía.",
+        "capturado": "2026-09-18T13:55:06-05:00"
+      },
+      {
+        "titulo": "La primera actriz de inteligencia artificial del mundo falla en vivo con Piers Morgan y pasa al chino",
+        "url": "https://es.finance.yahoo.com/noticias/actriz-ia-mundo-falla-vivo-162711623.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "«La ‘primera actriz de IA del mundo’ tiene fallos en vivo con Piers Morgan y cambia al chino»",
+        "capturado": "2026-09-18T13:55:06-05:00"
+      },
+      {
+        "titulo": "El director ejecutivo de Palantir afirma que Anthropic busca la nacionalización de la IA para huir de demandas",
+        "url": "https://es.finance.yahoo.com/noticias/ceo-palantir-anthropic-nacionalizaci%C3%B3n-ia-161400875.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "El CEO de Palantir dice que Anthropic quiere la nacionalización de la IA para evitar demandas",
+        "capturado": "2026-09-18T13:55:06-05:00"
+      },
       {
         "titulo": "Perspectivas de la cumbre Trump Xi entre tasas y un trato de 30.000 millones",
         "url": "https://es.finance.yahoo.com/noticias/esperar-cumbre-trump-xi-aranceles-150538653.html",
@@ -427,62 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "GE Vernova y Vineyard Wind zanjan su disputa legal sobre el parque eólico de Nueva Inglaterra",
         "capturado": "2026-09-17T02:13:48-05:00"
-      },
-      {
-        "titulo": "Hy24 y COFIDES comprarán el 29% de iniciativa de hidrógeno verde de Moeve en España",
-        "url": "https://es.finance.yahoo.com/noticias/hy24-cofides-adquirir%C3%A1n-29-proyecto-060118750.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Hy24 y COFIDES adquirirán el 29% en el proyecto de hidrógeno verde de Moeve en España",
-        "capturado": "2026-09-17T02:13:48-05:00"
-      },
-      {
-        "titulo": "El impacto Canadá: cuáles firmas europeas se favorecerían con vínculos más cercanos",
-        "url": "https://es.finance.yahoo.com/noticias/efecto-canad%C3%A1-empresas-europeas-beneficiarse-060002994.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El \"efecto Canadá\": Qué empresas europeas pueden beneficiarse de lazos más estrechos",
-        "capturado": "2026-09-17T02:13:48-05:00"
-      },
-      {
-        "titulo": "Anthropic eleva su valorización sobre 2 billones de dólares previo a su OPI",
-        "url": "https://es.finance.yahoo.com/noticias/anthropic-supera-2-billones-d%C3%B3lares-050011184.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Anthropic dispara su valoración por encima de los 2 billones de dólares antes de salir a bolsa",
-        "capturado": "2026-09-17T02:13:48-05:00"
-      },
-      {
-        "titulo": "Europa contra Estados Unidos en la clasificación de urbes globales de 2026",
-        "url": "https://es.finance.yahoo.com/noticias/europa-frente-estados-unidos-r%C3%A1nking-040344482.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Europa frente a Estados Unidos en el ránking de las mejores ciudades del mundo de 2026",
-        "capturado": "2026-09-17T02:13:48-05:00"
-      },
-      {
-        "titulo": "Crypto.com clausura su cuenta en reales ante la fecha límite del Banco Central de Brasil",
-        "url": "https://es.finance.yahoo.com/noticias/plazo-banco-central-brasil-acerc%C3%A1ndose-230800219.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Con el plazo del Banco Central de Brasil acercándose, Crypto.com cierra cuenta en reales",
-        "capturado": "2026-09-16T20:36:37-05:00"
-      },
-      {
-        "titulo": "Creador de Linux para PS5 deja la iniciativa tras reportes de usuarios sobre un fallo a PlayStation",
-        "url": "https://es-us.noticias.yahoo.com/mont%C3%B3n-novatos-usando-ia-creador-203141424.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "“Solo un montón de novatos usando IA”: el creador del Linux para PS5 abandona el proyecto después de que usuarios reportaran a PlayStation el último bug que quedaba",
-        "capturado": "2026-09-16T20:36:37-05:00"
-      },
-      {
-        "titulo": "Anthropic da ganancias al prescindir del gasto de producir a Claude",
-        "url": "https://es.finance.yahoo.com/noticias/anthropic-rentable-ignoras-costo-crear-214200832.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Anthropic es rentable, si ignoras el costo de crear Claude",
-        "capturado": "2026-09-16T18:09:49-05:00"
       }
     ]
   }
