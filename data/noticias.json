@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-18T16:26:31-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-18T18:30:17-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "La RX 9070 GRE vale su precio oficial y supera en velocidad a la RTX 5060 Ti que es $280 dólares más costosa",
+        "url": "https://es-us.noticias.yahoo.com/rx-9070-gre-%C3%BAnica-tarjeta-184715391.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "La RX 9070 GRE es la única tarjeta gráfica disponible bajo su precio oficial y encima es más rápida que la RTX 5060 Ti que cuesta $280 dólares más",
+        "capturado": "2026-09-18T18:30:17-05:00"
+      },
       {
         "titulo": "Variedad de resultados en la bolsa de EE. UU. y retorno del bono del Tesoro al 5%",
         "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-203756584.html",
@@ -474,14 +482,6 @@
         "resumen": "",
         "medio": "Reuters",
         "titulo_fuente": "Vicecanciller alemán insta a adoptar medidas contra las importaciones de autos híbridos chinos",
-        "capturado": "2026-09-17T07:42:30-05:00"
-      },
-      {
-        "titulo": "Entidad monetaria inglesa conserva tasa en 3,75% y el IPC llega a pico de 5 meses",
-        "url": "https://es.finance.yahoo.com/noticias/banco-inglaterra-mantiene-tipos-3-111929058.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El Banco de Inglaterra mantiene tipos en 3,75%, la inflación alcanza máximo de 5 meses",
         "capturado": "2026-09-17T07:42:30-05:00"
       }
     ]
