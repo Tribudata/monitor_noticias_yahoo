@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-18T01:21:14-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-18T06:38:08-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Taskent alista firmas para bolsas mundiales en medio de nueva tendencia de OPI",
+        "url": "https://es.finance.yahoo.com/noticias/ola-salidas-bolsa-taskent-prepara-111832354.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Nueva ola de salidas a bolsa, Taskent prepara empresas para los mercados globales",
+        "capturado": "2026-09-18T06:38:08-05:00"
+      },
+      {
+        "titulo": "Wall Street al alza por caída del crudo y auge tecnológico; Asia sube y Europa cae",
+        "url": "https://es.finance.yahoo.com/noticias/bajada-precios-petr%C3%B3leo-repunte-tecnol%C3%B3gico-111414894.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "La bajada de los precios del petróleo y el repunte tecnológico impulsan a Wall Street antes de la apertura; Asia sube, Europa baja.",
+        "capturado": "2026-09-18T06:38:08-05:00"
+      },
+      {
+        "titulo": "Rusia asume dominio sobre bienes de Nestlé y firmas galas",
+        "url": "https://es.finance.yahoo.com/noticias/rusia-toma-control-activos-nestl%C3%A9-102024506.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Rusia toma el control de activos de Nestlé y empresas francesas",
+        "capturado": "2026-09-18T06:38:08-05:00"
+      },
+      {
+        "titulo": "Travala de Binance sube cerca del 100 por ciento por causas explicadas",
+        "url": "https://es.finance.yahoo.com/noticias/travala-ava-respaldada-binance-dispara-103800360.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Travala (AVA) respaldada por Binance, se dispara casi 100%: te contamos por qué",
+        "capturado": "2026-09-18T06:38:08-05:00"
+      },
+      {
+        "titulo": "Revolut evalúa doble cotización en Londres y Nueva York en su esperada OPI",
+        "url": "https://es.finance.yahoo.com/noticias/revolut-baraja-cotizar-york-londres-102645214.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Revolut baraja cotizar a la vez en Nueva York y Londres en su esperada OPV",
+        "capturado": "2026-09-18T06:38:08-05:00"
+      },
+      {
+        "titulo": "Cinco naciones apoyan recortar el gasto futuro de la UE y España presenta propuestas",
+        "url": "https://es.finance.yahoo.com/noticias/pa%C3%ADses-defienden-menor-crecimiento-presupuesto-102123305.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Cinco países defienden un menor crecimiento del próximo presupuesto de la UE y España aporta ideas",
+        "capturado": "2026-09-18T06:38:08-05:00"
+      },
+      {
+        "titulo": "La circulación en el estrecho de Ormuz cae frente al promedio de los diez días previos",
+        "url": "https://es.finance.yahoo.com/noticias/tr%C3%A1fico-estrecho-ormuz-sit%C3%BAa-debajo-092942744.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "El tráfico en el estrecho de Ormuz se sitúa por debajo de la media de los últimos 10 días",
+        "capturado": "2026-09-18T06:38:08-05:00"
+      },
+      {
+        "titulo": "El jefe de Gobierno luso expone medidas contra la carestía sin modificar el IVA",
+        "url": "https://es.finance.yahoo.com/noticias/ministro-portugu%C3%A9s-detalla-plan-aumento-081055986.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El primer ministro portugués detalla un plan contra el aumento del coste de la vida, sin tocar IVA",
+        "capturado": "2026-09-18T06:38:08-05:00"
+      },
       {
         "titulo": "Mercados asiáticos al alza imitando a Wall Street a la vez que baja el crudo",
         "url": "https://es.finance.yahoo.com/noticias/bolsas-asi%C3%A1ticas-siguen-subida-wall-055542054.html",
@@ -419,70 +483,6 @@
         "medio": "MT Newswires",
         "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos ante la casi segura decisión de la Reserva Federal de endurecer su política monetaria y la caída del precio del petróleo crudo.",
         "capturado": "2026-09-16T15:23:14-05:00"
-      },
-      {
-        "titulo": "Meloni elimina tributo vehicular para casi todos los carros previo a los comicios",
-        "url": "https://es.finance.yahoo.com/noticias/meloni-suprime-impuesto-circulaci%C3%B3n-mayor%C3%ADa-175257656.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Meloni suprime impuesto de circulación para mayoría de autos a medida que se acercan las elecciones",
-        "capturado": "2026-09-16T15:23:14-05:00"
-      },
-      {
-        "titulo": "Contratos de futuro del maíz caen previo a conocerse datos de cosecha en USA",
-        "url": "https://es.finance.yahoo.com/noticias/futuros-ma%C3%ADz-bajan-espera-resultados-173546204.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Los futuros del maíz bajan a la espera de resultados de cosecha EEUU",
-        "capturado": "2026-09-16T15:23:14-05:00"
-      },
-      {
-        "titulo": "Standard Chartered proyecta Arbitrum en 10 dólares para 2030 y explica su base",
-        "url": "https://es.finance.yahoo.com/noticias/standard-chartered-ve-arbitrum-arb-173000720.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Standard Chartered ve a Arbitrum (ARB) en $10 para 2030: ¿En qué se basa el pronóstico?",
-        "capturado": "2026-09-16T15:23:14-05:00"
-      },
-      {
-        "titulo": "Ministra de Economía alemana propone recortar el IVA al combustible por un tiempo",
-        "url": "https://es.finance.yahoo.com/noticias/ministra-econom%C3%ADa-alemana-aboga-reducci%C3%B3n-163927496.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Ministra de Economía alemana aboga por una reducción temporal del IVA al combustible",
-        "capturado": "2026-09-16T12:29:45-05:00"
-      },
-      {
-        "titulo": "Santander tumba fallo de tribunal británico por 677 millones de libras sobre seguros",
-        "url": "https://es.finance.yahoo.com/noticias/correcci%C3%B3n-actualizaci%C3%B3n-santander-logra-anulaci%C3%B3n-162219126.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Corrección: Actualización: Santander logra la anulación de la sentencia del Tribunal Superior del Reino Unido por 677 millones de libras esterlinas relativa a la venta fraudulenta de seguros de protección de pagos.",
-        "capturado": "2026-09-16T12:29:45-05:00"
-      },
-      {
-        "titulo": "Gasolina barata de TotalEnergies genera controversia entre rivales en territorio francés",
-        "url": "https://es.finance.yahoo.com/noticias/francia-combustible-rebajado-totalenergies-dispara-160222429.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El combustible rebajado de TotalEnergies dispara la polémica entre los competidores en Francia",
-        "capturado": "2026-09-16T12:29:45-05:00"
-      },
-      {
-        "titulo": "Motivos por los que firma alemana de IA cambia su sede principal a su país de origen",
-        "url": "https://es.finance.yahoo.com/noticias/emergente-empresa-alemana-ia-traslada-143900988.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Por qué esta emergente empresa alemana de IA traslada su matriz de Estados Unidos a Alemania",
-        "capturado": "2026-09-16T12:29:45-05:00"
-      },
-      {
-        "titulo": "Start-up italiana de IA física alcanza valoración de 1.700 millones de dólares y es unicornio",
-        "url": "https://es.finance.yahoo.com/noticias/exein-convierte-unicornio-start-up-150414574.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Exein se convierte en unicornio, la start-up italiana de IA física vale 1.700 millones de dólares",
-        "capturado": "2026-09-16T12:29:45-05:00"
       }
     ]
   }
