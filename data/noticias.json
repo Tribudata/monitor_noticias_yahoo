@@ -1,9 +1,49 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-18T13:55:06-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-09-18T16:26:31-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Variedad de resultados en la bolsa de EE. UU. y retorno del bono del Tesoro al 5%",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-203756584.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos, mientras que el rendimiento de los bonos del Tesoro de referencia vuelve a superar el 5%.",
+        "capturado": "2026-09-18T16:26:31-05:00"
+      },
+      {
+        "titulo": "Lemon sale del mercado brasileño por un entorno regulatorio desfavorable",
+        "url": "https://es.finance.yahoo.com/noticias/plataforma-criptomonedas-lemon-abandona-brasil-203000288.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "La plataforma de criptomonedas Lemon abandona Brasil ante condiciones regulatorias adversas",
+        "capturado": "2026-09-18T16:26:31-05:00"
+      },
+      {
+        "titulo": "Bolsa de EE. UU. mixta y bono del Tesoro al borde de máximos de 19 años por tasas",
+        "url": "https://es.finance.yahoo.com/noticias/%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-resultados-202248364.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los índices bursátiles estadounidenses presentan resultados mixtos esta semana, ya que el rendimiento de los bonos del Tesoro de referencia cotiza cerca de su máximo de 19 años tras la subida de tipos de interés de la Reserva Federal.",
+        "capturado": "2026-09-18T16:26:31-05:00"
+      },
+      {
+        "titulo": "XRP trepa 7% tras superar tropiezo de la CLARITY Act y busca mantener la marcha",
+        "url": "https://es.finance.yahoo.com/noticias/xrp-supera-fracaso-clarity-act-200700028.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "XRP supera el fracaso de la CLARITY Act y se dispara 7%: ¿Podrá mantener el ritmo?",
+        "capturado": "2026-09-18T16:26:31-05:00"
+      },
+      {
+        "titulo": "Investigadores obtienen 6500 dólares al vulnerar OpenAI usando Claude de Anthropic",
+        "url": "https://es.finance.yahoo.com/noticias/investigadores-ganan-6-500-hackear-145712899.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Investigadores ganan $6,500 tras hackear OpenAI con Claude de Anthropic",
+        "capturado": "2026-09-18T16:26:31-05:00"
+      },
       {
         "titulo": "Ventas externas agro Argentina alcanzarían tope de 42.200 millones de dólares en periodo 26/27: Bolsa Rosario",
         "url": "https://es.finance.yahoo.com/noticias/exportaciones-agro-argentina-tocar-r%C3%A9cord-184733313.html",
@@ -443,46 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "El Banco de Inglaterra mantiene tipos en 3,75%, la inflación alcanza máximo de 5 meses",
         "capturado": "2026-09-17T07:42:30-05:00"
-      },
-      {
-        "titulo": "Jefa de gobierno nipona conserva al titular de Hacienda en reestructuración estatal",
-        "url": "https://es.finance.yahoo.com/noticias/ministra-jap%C3%B3n-mantiene-ministro-econom%C3%ADa-111729817.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Primera ministra de Japón mantiene al ministro de Economía en reorganización del Gobierno",
-        "capturado": "2026-09-17T07:42:30-05:00"
-      },
-      {
-        "titulo": "Analistas respaldan la rebaja del IRPF en Portugal aunque advierten riesgos de deterioro",
-        "url": "https://es.finance.yahoo.com/noticias/recorte-irpf-portugal-expertos-apoyan-060925127.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Recorte del IRPF en Portugal: expertos apoyan las medidas pero alertan de un posible empeoramiento",
-        "capturado": "2026-09-17T02:13:48-05:00"
-      },
-      {
-        "titulo": "Armin Papperger, titular de Rheinmetall, asegura que la llegada de robots es inminente",
-        "url": "https://es.finance.yahoo.com/noticias/jefe-rheinmetall-papperger-robots-llegar%C3%A1n-052548709.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Armin Papperger, presidente de Rheinmetall: \"Los robots llegarán\"",
-        "capturado": "2026-09-17T02:13:48-05:00"
-      },
-      {
-        "titulo": "Conflicto en Irán elevaría en 8.500 millones de dólares el costo para la industria española",
-        "url": "https://es.finance.yahoo.com/noticias/guerra-ir%C3%A1n-elevar-8-500-064034943.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "La guerra en Irán podría elevar en 8.500 millones de dólares el gasto de la industria española",
-        "capturado": "2026-09-17T02:13:48-05:00"
-      },
-      {
-        "titulo": "GE Vernova y Vineyard Wind resuelven litigio judicial por parque eólico en Nueva Inglaterra",
-        "url": "https://es.finance.yahoo.com/noticias/ge-vernova-vineyard-wind-zanjan-061025640.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "GE Vernova y Vineyard Wind zanjan su disputa legal sobre el parque eólico de Nueva Inglaterra",
-        "capturado": "2026-09-17T02:13:48-05:00"
       }
     ]
   }
