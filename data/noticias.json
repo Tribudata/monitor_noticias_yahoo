@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-17T18:23:47-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-09-17T20:23:01-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Designan a Carlos Augusto Suárez como presidente de junta directiva de Ecopetrol",
+        "url": "https://es.finance.yahoo.com/noticias/nombran-carlos-augusto-su%C3%A1rez-presidente-004650920.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Nombran a Carlos Augusto Suárez como presidente de junta directiva de colombiano Ecopetrol",
+        "capturado": "2026-09-17T20:23:01-05:00"
+      },
       {
         "titulo": "Wall Street avanza y tecnológicas repuntan tras baja de bonos por promesa de la Fed contra la inflación",
         "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-213219823.html",
@@ -474,14 +482,6 @@
         "resumen": "",
         "medio": "MT Newswires",
         "titulo_fuente": "Los futuros de las acciones estadounidenses suben antes de la apertura del mercado mientras los operadores esperan la decisión de la Reserva Federal sobre las tasas de interés.",
-        "capturado": "2026-09-16T07:43:33-05:00"
-      },
-      {
-        "titulo": "Ucrania comienza siembra de trigo de invierno pese a sequía y proyecta área menor",
-        "url": "https://es.finance.yahoo.com/noticias/ucrania-inicia-siembra-trigo-invierno-114131429.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Ucrania inicia siembra del trigo de invierno a pesar de la sequía, prevé una superficie menor",
         "capturado": "2026-09-16T07:43:33-05:00"
       }
     ]
