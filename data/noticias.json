@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-18T06:38:08-05:00",
+  "actualizado": "2026-09-18T10:55:45-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Perspectivas de la cumbre Trump Xi entre tasas y un trato de 30.000 millones",
+        "url": "https://es.finance.yahoo.com/noticias/esperar-cumbre-trump-xi-aranceles-150538653.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Qué esperar de la cumbre Trump Xi, de los aranceles a un posible acuerdo de 30.000 millones",
+        "capturado": "2026-09-18T10:55:45-05:00"
+      },
+      {
+        "titulo": "Ucrania analiza priorizar venta externa de bienes agrícolas más costosos según ministro",
+        "url": "https://es.finance.yahoo.com/noticias/ucrania-eval%C3%BAa-prioridad-exportaci%C3%B3n-productos-145628680.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Ucrania evalúa dar prioridad a exportación a productos agrícolas de mayor valor, dice ministro",
+        "capturado": "2026-09-18T10:55:45-05:00"
+      },
+      {
+        "titulo": "Plaza cambiaria de Argentina persiste estable y banco central baja paso de compras",
+        "url": "https://es.finance.yahoo.com/noticias/mercado-cambiario-argentino-equilibrado-banco-145249897.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Mercado cambiario argentino sigue equilibrado, banco central disminuye ritmo de compras",
+        "capturado": "2026-09-18T10:55:45-05:00"
+      },
+      {
+        "titulo": "Bitcoin a 100000 dólares en el año venidero VanEck señala el detonante principal",
+        "url": "https://es.finance.yahoo.com/noticias/bitcoin-100-000-a%C3%B1o-vaneck-144900916.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿Bitcoin a $100,000 el próximo año? VanEck revela el catalizador clave",
+        "capturado": "2026-09-18T10:55:45-05:00"
+      },
+      {
+        "titulo": "Un tercio del suelo ucraniano padece falta de humedad y frena la siembra dice ministro",
+        "url": "https://es.finance.yahoo.com/noticias/tercio-territorio-ucrania-sufre-escasez-144035761.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Un tercio del territorio de Ucrania sufre escasez de humedad, lo que retrasa la siembra: ministro",
+        "capturado": "2026-09-18T10:55:45-05:00"
+      },
+      {
+        "titulo": "Wall Street baja y tasa del bono estadounidense vuelve a rondar el 5 por ciento",
+        "url": "https://es.finance.yahoo.com/noticias/wall-street-cae-rendimiento-treasury-142807975.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Wall Street cae y rendimiento de Treasury se acerca otra vez al 5%",
+        "capturado": "2026-09-18T10:55:45-05:00"
+      },
+      {
+        "titulo": "La asiática Sinograin retoma ventas masivas de soya previo a encuentro de Trump y Xi",
+        "url": "https://es.finance.yahoo.com/noticias/china-sinograin-reanuda-ventas-escala-141159048.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "La china Sinograin reanuda ventas a gran escala de soja antes de cumbre entre Trump y Xi",
+        "capturado": "2026-09-18T10:55:45-05:00"
+      },
+      {
+        "titulo": "Alzas históricas del diésel en Estados Unidos afectan al agro y coste de comida subiría",
+        "url": "https://es.finance.yahoo.com/noticias/precios-r%C3%A9cord-di%C3%A9sel-eeuu-golpean-133922055.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Precios récord del diésel en EEUU golpean a agricultores; valor de los alimentos podría subir",
+        "capturado": "2026-09-18T10:55:45-05:00"
+      },
       {
         "titulo": "Taskent alista firmas para bolsas mundiales en medio de nueva tendencia de OPI",
         "url": "https://es.finance.yahoo.com/noticias/ola-salidas-bolsa-taskent-prepara-111832354.html",
@@ -419,70 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "Anthropic es rentable, si ignoras el costo de crear Claude",
         "capturado": "2026-09-16T18:09:49-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE UU bajan y tasas de bonos trepan por alza de tasas de la Fed tras tres años",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-210828454.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen y los rendimientos de los bonos del Tesoro se disparan tras la subida de tipos de interés de la Fed por primera vez en más de tres años",
-        "capturado": "2026-09-16T18:09:49-05:00"
-      },
-      {
-        "titulo": "Ánimo de edificadores de casas en EE UU baja en septiembre a piso de 12 meses",
-        "url": "https://es.finance.yahoo.com/noticias/confianza-constructores-viviendas-eeuu-cae-202736624.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Confianza de constructores de viviendas EEUU cae en septiembre a mínimo en 12 meses",
-        "capturado": "2026-09-16T18:09:49-05:00"
-      },
-      {
-        "titulo": "Bitcoin gana al oro como el refugio idóneo frente a la devaluación, afirma Raoul Pal",
-        "url": "https://es.finance.yahoo.com/noticias/bitcoin-supera-oro-verdadera-cobertura-201500646.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Bitcoin supera al oro como la verdadera cobertura contra la devaluación, dice Raoul Pal",
-        "capturado": "2026-09-16T18:09:49-05:00"
-      },
-      {
-        "titulo": "La Fed incrementa las tasas por primera vez desde 2023 con decisión unánime que reta a Trump",
-        "url": "https://es.finance.yahoo.com/noticias/fed-sube-tipos-2023-votaci%C3%B3n-182754433.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La Fed sube los tipos por primera vez desde 2023 con un voto unánime que desafía a Trump",
-        "capturado": "2026-09-16T15:23:14-05:00"
-      },
-      {
-        "titulo": "Celsius entabla demanda contra BitMEX reclamando 6360 Bitcoin extraviados",
-        "url": "https://es.finance.yahoo.com/noticias/celsius-demanda-bitmex-6-360-185100467.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Celsius demanda a BitMEX por 6,360 Bitcoin perdidos",
-        "capturado": "2026-09-16T15:23:14-05:00"
-      },
-      {
-        "titulo": "La Fed eleva tipos para frenar la inflación ignorando las presiones de Trump",
-        "url": "https://es.finance.yahoo.com/noticias/fed-sube-tasas-contener-inflaci%C3%B3n-181652903.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Fed sube tasas para contener la inflación pese a las presiones de Trump",
-        "capturado": "2026-09-16T15:23:14-05:00"
-      },
-      {
-        "titulo": "La Fed asciende al 4 por ciento mientras 16 miembros siguen deliberando",
-        "url": "https://es.finance.yahoo.com/noticias/fed-sube-4-16-funcionarios-180435861.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "La Fed sube a 4%: ¿Por qué 16 funcionarios aún no han terminado?",
-        "capturado": "2026-09-16T15:23:14-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE UU mixtas por inminente endurecimiento monetario de la Reserva Federal y caída del crudo",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-175406509.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos ante la casi segura decisión de la Reserva Federal de endurecer su política monetaria y la caída del precio del petróleo crudo.",
-        "capturado": "2026-09-16T15:23:14-05:00"
       }
     ]
   }
