@@ -1,9 +1,49 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-17T20:23:01-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-18T01:21:14-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Mercados asiáticos al alza imitando a Wall Street a la vez que baja el crudo",
+        "url": "https://es.finance.yahoo.com/noticias/bolsas-asi%C3%A1ticas-siguen-subida-wall-055542054.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Las bolsas asiáticas siguen la subida de Wall Street mientras cae el precio del petróleo",
+        "capturado": "2026-09-18T01:21:14-05:00"
+      },
+      {
+        "titulo": "El extenso trayecto a la vejez: Qué duración tiene la mesada de los europeos",
+        "url": "https://es.finance.yahoo.com/noticias/a%C3%B1os-previstos-jubilaci%C3%B3n-cu%C3%A1nto-tiempo-041503189.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El largo camino hacia la jubilación: ¿Durante cuánto tiempo cobran una pensión los europeos?",
+        "capturado": "2026-09-18T01:21:14-05:00"
+      },
+      {
+        "titulo": "Entidad nipona eleva tipos a pico de tres décadas con un par de disensos",
+        "url": "https://es.finance.yahoo.com/noticias/banco-jap%C3%B3n-sube-tasas-inter%C3%A9s-054351286.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "El Banco de Japón sube las tasas de interés a su nivel más alto en 31 años con dos votos en contra",
+        "capturado": "2026-09-18T01:21:14-05:00"
+      },
+      {
+        "titulo": "Banco central japonés incrementa tasas a máximo de 31 años para contener alza de precios",
+        "url": "https://es.finance.yahoo.com/noticias/banco-central-jap%C3%B3n-eleva-tipo-051610473.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El Banco de Japón sube los tipos al máximo de 31 años para frenar la inflación",
+        "capturado": "2026-09-18T01:21:14-05:00"
+      },
+      {
+        "titulo": "LVMH vende a Marc Jacobs y la marca queda bajo mando de Estados Unidos",
+        "url": "https://es.finance.yahoo.com/noticias/lvmh-vende-marc-jacobs-pasa-084923061.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "LVMH se desprende de Marc Jacobs, que pasa a control estadounidense",
+        "capturado": "2026-09-18T01:21:14-05:00"
+      },
       {
         "titulo": "Designan a Carlos Augusto Suárez como presidente de junta directiva de Ecopetrol",
         "url": "https://es.finance.yahoo.com/noticias/nombran-carlos-augusto-su%C3%A1rez-presidente-004650920.html",
@@ -443,46 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "Exein se convierte en unicornio, la start-up italiana de IA física vale 1.700 millones de dólares",
         "capturado": "2026-09-16T12:29:45-05:00"
-      },
-      {
-        "titulo": "El máximo representante de la ONU advierte acerca de los peligros de la IA",
-        "url": "https://es.finance.yahoo.com/noticias/secretario-general-onu-voz-alarma-153657608.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "El secretario general de la ONU da la voz de alarma sobre los riesgos de la IA",
-        "capturado": "2026-09-16T12:29:45-05:00"
-      },
-      {
-        "titulo": "Las existencias empresariales estadounidenses aumentan por encima de lo estimado en julio",
-        "url": "https://es.finance.yahoo.com/noticias/inventarios-empresas-eeuu-suben-previsto-152222310.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Los inventarios de las empresas de EEUU suben más de lo previsto en julio",
-        "capturado": "2026-09-16T12:29:45-05:00"
-      },
-      {
-        "titulo": "Subsidiaria de la turca Can2 Termik hará proyecto petrolero de 400 millones de dólares en Venezuela",
-        "url": "https://es.finance.yahoo.com/noticias/filial-turca-can2-termik-desarrollar%C3%A1-150308999.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Filial de turca Can2 Termik desarrollará proyecto petrolero de 400 millones de dólares en Venezuela",
-        "capturado": "2026-09-16T12:29:45-05:00"
-      },
-      {
-        "titulo": "Santander consigue revocar el fallo del Tribunal Superior británico por 677 millones de libras sobre PPI",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-santander-logra-anulaci%C3%B3n-sentencia-115842181.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Santander logra la anulación de la sentencia del Tribunal Superior del Reino Unido por 677 millones de libras esterlinas relativa a la venta fraudulenta de seguros de protección de pagos (PPI).",
-        "capturado": "2026-09-16T07:43:33-05:00"
-      },
-      {
-        "titulo": "Acciones de EE. UU. al alza antes de abrir por expectativa sobre tasas de la Reserva Federal",
-        "url": "https://es.finance.yahoo.com/noticias/futuros-acciones-estadounidenses-suben-apertura-115303805.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los futuros de las acciones estadounidenses suben antes de la apertura del mercado mientras los operadores esperan la decisión de la Reserva Federal sobre las tasas de interés.",
-        "capturado": "2026-09-16T07:43:33-05:00"
       }
     ]
   }
