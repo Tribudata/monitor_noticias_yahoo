@@ -1,9 +1,33 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-19T16:18:56-05:00",
+  "actualizado": "2026-09-19T18:20:38-05:00",
   "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Charles Hoskinson afirma que las criptomonedas absorberán la inteligencia artificial y explica el motivo",
+        "url": "https://es.finance.yahoo.com/noticias/charles-hoskinson-criptomonedas-absorber%C3%A1n-ia-215000810.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Charles Hoskinson: las criptomonedas absorberán la IA: ¿Cuál es su razonamiento?",
+        "capturado": "2026-09-19T18:20:38-05:00"
+      },
+      {
+        "titulo": "Ya se puede bajar sin costo la versión para computador de The Legend of Zelda Twilight Princess con mejoras",
+        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-port-pc-the-170913826.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Descarga gratis el port para PC de The Legend of Zelda Twilight Princess, que incluye modo aleatorio que cambia todo de lugar, mejoras gráficas y de rendimiento",
+        "capturado": "2026-09-19T18:20:38-05:00"
+      },
+      {
+        "titulo": "Musk contesta a Cathie Wood tras pronosticar diez billones en entradas para Starship",
+        "url": "https://es.finance.yahoo.com/noticias/cathie-wood-ve-10-billones-170014665.html",
+        "resumen": "",
+        "medio": "Benzinga Espana",
+        "titulo_fuente": "Cathie Wood ve 10 billones en ingresos para Starship: Musk responde",
+        "capturado": "2026-09-19T18:20:38-05:00"
+      },
       {
         "titulo": "Elon Musk afirma que la IA duplicará el avance de EE UU: ¿Es viable?",
         "url": "https://es.finance.yahoo.com/noticias/elon-musk-ia-duplicar%C3%A1-crecimiento-193900567.html",
@@ -459,30 +483,6 @@
         "medio": "Tarreo",
         "titulo_fuente": "Emulador de PS5 muestra por primera vez 22 minutos de Demon’s Souls Remake en 4K sin crashear y Astro Bot corriendo a 60 FPS en PC",
         "capturado": "2026-09-17T18:23:47-05:00"
-      },
-      {
-        "titulo": "Esquema de sobornos para revivir médicos en Wardogs resalta como novedad mecánica actual",
-        "url": "https://es-us.noticias.yahoo.com/sistema-sobornos-m%C3%A9dicos-te-revivan-173839078.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Sistema de sobornos para que los médicos te revivan en Wardogs destaca como una de las mecánicas más innovadoras recientemente",
-        "capturado": "2026-09-17T18:23:47-05:00"
-      },
-      {
-        "titulo": "Jim Cramer anticipa subida del 40 por ciento en títulos de Palantir y cuestiona postura de Wall Street",
-        "url": "https://es.finance.yahoo.com/noticias/jim-cramer-pronostica-rally-40-195900402.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Jim Cramer pronostica rally del 40% para las acciones de Palantir: ¿Está de acuerdo Wall Street?",
-        "capturado": "2026-09-17T15:31:15-05:00"
-      },
-      {
-        "titulo": "Patrón gráfico actual en XRP no se registraba hace trece años",
-        "url": "https://es.finance.yahoo.com/noticias/se%C3%B1al-gr%C3%A1fico-xrp-ve%C3%ADa-13-183600948.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Esta señal en el gráfico de XRP no se veía desde hace 13 años",
-        "capturado": "2026-09-17T15:31:15-05:00"
       }
     ]
   }
