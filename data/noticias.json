@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-19T11:15:20-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-19T13:42:46-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Dos nuevos acontecimientos impulsan el proceso de Anthropic rumbo a su salida a bolsa",
+        "url": "https://es.finance.yahoo.com/noticias/camino-anthropic-ipo-atrae-2-172800790.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "El camino de Anthropic hacia la IPO atrae 2 nuevos desarrollos",
+        "capturado": "2026-09-19T13:42:46-05:00"
+      },
+      {
+        "titulo": "Valor Mortis saldrá el 13 de octubre con descuento y parches gratis sin preventa previa",
+        "url": "https://es-us.noticias.yahoo.com/valor-mortis-lanzar%C3%A1-13-octubre-135255219.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Valor Mortis se lanzará el 13 de octubre a precio rebajado para competir contra los grandes lanzamientos del año, sin preventa y con actualizaciones gratuitas confirmadas",
+        "capturado": "2026-09-19T13:42:46-05:00"
+      },
       {
         "titulo": "Cual fondo indexado cripto captó más capital esta semana? No fue Bitcoin, tampoco Ethereum",
         "url": "https://es.finance.yahoo.com/noticias/cu%C3%A1l-etf-criptomonedas-atrajo-dinero-151700552.html",
@@ -466,22 +482,6 @@
         "resumen": "",
         "medio": "BeInCrypto",
         "titulo_fuente": "S&P Global compra al auditor detrás de la mayoría de las stablecoins: ¿Por qué ahora y por qué dos veces?",
-        "capturado": "2026-09-17T15:31:15-05:00"
-      },
-      {
-        "titulo": "Estados Unidos habilita nuevamente su puerto principal a la entrada de ganado vivo procedente de México",
-        "url": "https://es.finance.yahoo.com/noticias/ee-uu-reabre-puerto-importaciones-165758453.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "EE.UU. reabre su mayor puerto para las importaciones de ganado vivo desde México",
-        "capturado": "2026-09-17T15:31:15-05:00"
-      },
-      {
-        "titulo": "Gobierno estadounidense analiza modificar normas antimonopolio frente a amenazas recientes de la inteligencia artificial",
-        "url": "https://es.finance.yahoo.com/noticias/ee-uu-eval%C3%BAa-actualizar-reglas-165603972.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "EE.UU. evalúa actualizar reglas antimonopolio ante los nuevos riesgos de la IA",
         "capturado": "2026-09-17T15:31:15-05:00"
       }
     ]
