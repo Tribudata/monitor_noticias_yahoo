@@ -1,9 +1,49 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-19T03:13:29-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-19T07:37:33-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Google admite que Gemini vulneró tres compañías verídicas en simulacro defensivo de mayo",
+        "url": "https://es.finance.yahoo.com/noticias/google-confirma-gemini-hacke%C3%B3-3-105100438.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Google confirma que Gemini hackeó a 3 empresas reales en prueba de seguridad de mayo",
+        "capturado": "2026-09-19T07:37:33-05:00"
+      },
+      {
+        "titulo": "Tus transacciones con Bitcoin podrían exponer más información de la prevista",
+        "url": "https://es.finance.yahoo.com/noticias/tus-pagos-bitcoin-revelar-esperabas-084300702.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Tus pagos con Bitcoin pueden revelar más de lo que esperabas",
+        "capturado": "2026-09-19T07:37:33-05:00"
+      },
+      {
+        "titulo": "La inteligencia artificial lo transforma todo a excepción de la creación de medicamentos",
+        "url": "https://es.finance.yahoo.com/noticias/ia-revolucionando-fabricaci%C3%B3n-f%C3%A1rmacos-051000039.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "La IA lo está revolucionando todo menos la fabricación de nuevos fármacos",
+        "capturado": "2026-09-19T07:37:33-05:00"
+      },
+      {
+        "titulo": "Carestía, tasas y pasivos altos: la economía evidencia que los ciclos se repiten",
+        "url": "https://es.finance.yahoo.com/noticias/inflaci%C3%B3n-tipos-deuda-elevada-econom%C3%ADa-042000623.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "Inflación, tipos y deuda elevada: \"la economía demuestra que los ciclos se repiten”",
+        "capturado": "2026-09-19T07:37:33-05:00"
+      },
+      {
+        "titulo": "Obras que adquieren conocimiento: el siguiente horizonte del valor",
+        "url": "https://es.finance.yahoo.com/noticias/infraestructuras-aprenden-pr%C3%B3xima-frontera-valor-040000240.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "Infraestructuras que aprenden: la próxima frontera del valor",
+        "capturado": "2026-09-19T07:37:33-05:00"
+      },
       {
         "titulo": "Europa anota máximos en valores de carburantes y el BCE anticipa techo del margen del diésel en octubre",
         "url": "https://es.finance.yahoo.com/noticias/ue-marca-r%C3%A9cords-precio-combustible-050017541.html",
@@ -443,46 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "Vitalik Buterin impulsa la IA local: ¿Puede tu portátil reemplazar a ChatGPT?",
         "capturado": "2026-09-17T12:29:42-05:00"
-      },
-      {
-        "titulo": "Suben obras residenciales unifamiliares norteamericanas en agosto pero bajan permisos",
-        "url": "https://es.finance.yahoo.com/noticias/inicios-construcci%C3%B3n-viviendas-unifamiliares-eeuu-140133040.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Inicios de construcción viviendas unifamiliares en EEUU repuntan en agosto; caen licencias de obra",
-        "capturado": "2026-09-17T12:29:42-05:00"
-      },
-      {
-        "titulo": "Lockheed Martin muestra nuevo proyectil secreto y acelera su fabricación",
-        "url": "https://es.finance.yahoo.com/noticias/lockheed-martin-revela-misil-secreto-135532219.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Lockheed Martin revela nuevo misil secreto y acelera su producción",
-        "capturado": "2026-09-17T12:29:42-05:00"
-      },
-      {
-        "titulo": "Monarca Carlos alerta a directivos de IA sobre riesgos existenciales en reunión escocesa",
-        "url": "https://es.finance.yahoo.com/noticias/rey-carlos-advierte-l%C3%ADderes-sector-133353717.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Rey Carlos advierte a líderes del sector de la IA sobre \"peligros existenciales\" en cita en Escocia",
-        "capturado": "2026-09-17T12:29:42-05:00"
-      },
-      {
-        "titulo": "Armadoras chinas exploran plantas en Europa por nueva regla UE de contenido local, según asesor de BYD",
-        "url": "https://es.finance.yahoo.com/noticias/fabricantes-autom%C3%B3viles-chinos-buscan-f%C3%A1bricas-122428937.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Fabricantes automóviles chinos buscan fábricas en Europa ante nueva normativa UE sobre contenido local: asesor BYD",
-        "capturado": "2026-09-17T07:42:30-05:00"
-      },
-      {
-        "titulo": "Futuros de papeles en EE. UU. avanzan previo a la apertura bursátil analizando alza de tasas de la Fed",
-        "url": "https://es.finance.yahoo.com/noticias/futuros-acciones-estadounidenses-suben-apertura-120128120.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los futuros de las acciones estadounidenses suben antes de la apertura del mercado mientras los operadores evalúan el aumento de las tasas de interés de la Reserva Federal.",
-        "capturado": "2026-09-17T07:42:30-05:00"
       }
     ]
   }
