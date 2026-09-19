@@ -1,9 +1,33 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-18T18:30:17-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-18T22:24:32-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "CoinShares advierte tope para Bitcoin bajo los 80000 dólares por causas analizadas",
+        "url": "https://es.finance.yahoo.com/noticias/coinshares-ve-bitcoin-limitado-debajo-220800547.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "CoinShares ve a Bitcoin limitado por debajo de $80,000: ¿Por qué?",
+        "capturado": "2026-09-18T22:24:32-05:00"
+      },
+      {
+        "titulo": "Emulador RPCS3 para PC eleva hasta 37 por ciento los FPS tras corregir fallo de NVIDIA",
+        "url": "https://es-us.noticias.yahoo.com/rpcs3-emulador-ps3-pc-mejora-203954440.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "RPCS3, el emulador de PS3 para PC, mejora hasta un 37% los FPS al corregir bug de NVIDIA que limitaba sus GPUs desde las GTX hasta las RTX 5090",
+        "capturado": "2026-09-18T22:24:32-05:00"
+      },
+      {
+        "titulo": "Trump anuncia veto de entrada a la Casa Blanca para CNN, MSNBC y Politico",
+        "url": "https://es.finance.yahoo.com/noticias/trump-prohibir%C3%A1-acceso-cnn-msnow-192453860.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Trump dice prohibirá acceso de CNN, MSNOW y Politico a la Casa Blanca",
+        "capturado": "2026-09-18T22:24:32-05:00"
+      },
       {
         "titulo": "La RX 9070 GRE vale su precio oficial y supera en velocidad a la RTX 5060 Ti que es $280 dólares más costosa",
         "url": "https://es-us.noticias.yahoo.com/rx-9070-gre-%C3%BAnica-tarjeta-184715391.html",
@@ -458,30 +482,6 @@
         "resumen": "",
         "medio": "BeInCrypto",
         "titulo_fuente": "OpenAI rechaza premio matemáticas de $1 millón de Justin Sun",
-        "capturado": "2026-09-17T07:42:30-05:00"
-      },
-      {
-        "titulo": "Fuga de información en Revolut afecta a 700 usuarios y exige pago extorsivo de 3 millones de dólares",
-        "url": "https://es.finance.yahoo.com/noticias/fraude-revolut-hackers-obtienen-datos-100609729.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Revolut, víctima de un robo de datos: 700 clientes afectados y un rescate de 3 millones de dólares",
-        "capturado": "2026-09-17T07:42:30-05:00"
-      },
-      {
-        "titulo": "Canadá definirá por cuenta propia sus alianzas estratégicas, afirma Carney",
-        "url": "https://es.finance.yahoo.com/noticias/carney-canad%C3%A1-decidir%C3%A1-al%C3%ADa-112256483.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Carney dice que Canadá decidirá por sí misma con quién se alía",
-        "capturado": "2026-09-17T07:42:30-05:00"
-      },
-      {
-        "titulo": "Subsecretario germano pide fijar acciones ante la entrada de vehículos híbridos chinos",
-        "url": "https://es.finance.yahoo.com/noticias/vicecanciller-alem%C3%A1n-insta-adoptar-medidas-112027095.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Vicecanciller alemán insta a adoptar medidas contra las importaciones de autos híbridos chinos",
         "capturado": "2026-09-17T07:42:30-05:00"
       }
     ]
