@@ -1,9 +1,33 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-19T13:42:46-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-09-19T16:18:56-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Elon Musk afirma que la IA duplicará el avance de EE UU: ¿Es viable?",
+        "url": "https://es.finance.yahoo.com/noticias/elon-musk-ia-duplicar%C3%A1-crecimiento-193900567.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Elon Musk dice que la IA duplicará el crecimiento de EEUU: ¿Es posible?",
+        "capturado": "2026-09-19T16:18:56-05:00"
+      },
+      {
+        "titulo": "Trump anuncia que designará un nuevo consejero en inteligencia artificial",
+        "url": "https://es.finance.yahoo.com/noticias/trump-nombrar%C3%A1-asesor-materia-inteligencia-192344425.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Trump dice que nombrará a un nuevo asesor en materia de inteligencia artificial",
+        "capturado": "2026-09-19T16:18:56-05:00"
+      },
+      {
+        "titulo": "Bolivia quita ayudas al valor del diésel para frenar el desabastecimiento",
+        "url": "https://es.finance.yahoo.com/noticias/bolivia-elimina-subsidios-precio-di%C3%A9sel-185715252.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Bolivia elimina subsidios a precio del diésel para combatir desabastecimiento",
+        "capturado": "2026-09-19T16:18:56-05:00"
+      },
       {
         "titulo": "Dos nuevos acontecimientos impulsan el proceso de Anthropic rumbo a su salida a bolsa",
         "url": "https://es.finance.yahoo.com/noticias/camino-anthropic-ipo-atrae-2-172800790.html",
@@ -458,30 +482,6 @@
         "resumen": "",
         "medio": "BeInCrypto",
         "titulo_fuente": "Esta señal en el gráfico de XRP no se veía desde hace 13 años",
-        "capturado": "2026-09-17T15:31:15-05:00"
-      },
-      {
-        "titulo": "Bolsa de EE UU avanza y tasas de bonos bajan tras promesa de la Fed de frenar alza de precios",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-175650092.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben mientras que los rendimientos de los bonos del Tesoro caen después de que la Reserva Federal reafirmara su compromiso de controlar la inflación.",
-        "capturado": "2026-09-17T15:31:15-05:00"
-      },
-      {
-        "titulo": "Founders Metals compra porción sin regalías en yacimiento de oro Antino en Surinam",
-        "url": "https://es.finance.yahoo.com/noticias/founders-metals-adquiere-participaci%C3%B3n-libre-172933006.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Founders Metals adquiere una participación libre de regalías en el proyecto aurífero Antino en Surinam.",
-        "capturado": "2026-09-17T15:31:15-05:00"
-      },
-      {
-        "titulo": "S&P Global adquiere a auditor clave de criptomonedas estables: razones del movimiento y su magnitud",
-        "url": "https://es.finance.yahoo.com/noticias/s-p-global-compra-auditor-171400471.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "S&P Global compra al auditor detrás de la mayoría de las stablecoins: ¿Por qué ahora y por qué dos veces?",
         "capturado": "2026-09-17T15:31:15-05:00"
       }
     ]
