@@ -1,9 +1,49 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-19T07:37:33-05:00",
+  "actualizado": "2026-09-19T11:15:20-05:00",
   "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Cual fondo indexado cripto captó más capital esta semana? No fue Bitcoin, tampoco Ethereum",
+        "url": "https://es.finance.yahoo.com/noticias/cu%C3%A1l-etf-criptomonedas-atrajo-dinero-151700552.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿Cuál ETF de criptomonedas atrajo más dinero esta semana? No fue Bitcoin, ni Ethereum",
+        "capturado": "2026-09-19T11:15:20-05:00"
+      },
+      {
+        "titulo": "Francia calcula que el pasivo llegará a un máximo en 2026, cerca del 120 por ciento del PIB",
+        "url": "https://es.finance.yahoo.com/noticias/francia-prev%C3%A9-deuda-alcance-r%C3%A9cord-150154285.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Francia prevé que la deuda alcance un récord en 2026, en casi el 120% del PIB",
+        "capturado": "2026-09-19T11:15:20-05:00"
+      },
+      {
+        "titulo": "El FMI avisa a la UE que la IA fomentaría la expansión, mas empeoraría la disparidad",
+        "url": "https://es.finance.yahoo.com/noticias/fmi-advierte-ue-ia-impulsar-141434197.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "El FMI advierte a la UE de que la IA podría impulsar el crecimiento, pero agravar la desigualdad",
+        "capturado": "2026-09-19T11:15:20-05:00"
+      },
+      {
+        "titulo": "Diez jornadas que transformaron el curso de la inteligencia artificial",
+        "url": "https://es.finance.yahoo.com/noticias/diez-d%C3%ADas-cambiaron-rumbo-inteligencia-140205751.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Diez días que cambiaron el rumbo de la inteligencia artificial",
+        "capturado": "2026-09-19T11:15:20-05:00"
+      },
+      {
+        "titulo": "Kevin OLeary expone lo que aparta a Bitcoin de alcanzar 1 millón de dólares",
+        "url": "https://es.finance.yahoo.com/noticias/kevin-oleary-revela-separa-bitcoin-130300249.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Kevin O'Leary revela lo que separa a Bitcoin de $1 millón",
+        "capturado": "2026-09-19T11:15:20-05:00"
+      },
       {
         "titulo": "Google admite que Gemini vulneró tres compañías verídicas en simulacro defensivo de mayo",
         "url": "https://es.finance.yahoo.com/noticias/google-confirma-gemini-hacke%C3%B3-3-105100438.html",
@@ -443,46 +483,6 @@
         "medio": "Bloomberg",
         "titulo_fuente": "EE.UU. evalúa actualizar reglas antimonopolio ante los nuevos riesgos de la IA",
         "capturado": "2026-09-17T15:31:15-05:00"
-      },
-      {
-        "titulo": "ETFs repuntan mientras los títulos de EE UU ganan terreno pasada la medianoche",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-suben-medida-170803265.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa suben a medida que las acciones estadounidenses avanzan después del mediodía.",
-        "capturado": "2026-09-17T12:29:42-05:00"
-      },
-      {
-        "titulo": "Colocación de $500 millones de SBF aún persigue a Anthropic",
-        "url": "https://es.finance.yahoo.com/noticias/inversi%C3%B3n-500-millones-sbf-persigue-155200441.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Inversión de $500 millones de SBF todavía persigue a Anthropic",
-        "capturado": "2026-09-17T12:29:42-05:00"
-      },
-      {
-        "titulo": "ExxonMobil dialoga para volver a Venezuela y pretende rescatar dos grandes yacimientos",
-        "url": "https://es.finance.yahoo.com/noticias/exxonmobil-negocia-regreso-venezuela-busca-152659909.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "ExxonMobil negocia regreso a Venezuela y busca recuperar dos enormes campos petroleros",
-        "capturado": "2026-09-17T12:29:42-05:00"
-      },
-      {
-        "titulo": "Mercado de valores argentino toma respiro tras subida de tasa en EE UU",
-        "url": "https://es.finance.yahoo.com/noticias/plaza-financiera-argentina-oxigena-alza-145239706.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Plaza financiera argentina se oxigena tras alza de tasa estadounidense",
-        "capturado": "2026-09-17T12:29:42-05:00"
-      },
-      {
-        "titulo": "Vitalik Buterin fomenta la IA local: ¿Puede tu computador suplir a ChatGPT?",
-        "url": "https://es.finance.yahoo.com/noticias/vitalik-buterin-impulsa-ia-local-142700801.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Vitalik Buterin impulsa la IA local: ¿Puede tu portátil reemplazar a ChatGPT?",
-        "capturado": "2026-09-17T12:29:42-05:00"
       }
     ]
   }
