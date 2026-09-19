@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-18T22:24:32-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-09-19T03:13:29-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Europa anota máximos en valores de carburantes y el BCE anticipa techo del margen del diésel en octubre",
+        "url": "https://es.finance.yahoo.com/noticias/ue-marca-r%C3%A9cords-precio-combustible-050017541.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "La UE marca récords en el precio del combustible, el BCE prevé pico del margen del diésel en octubre",
+        "capturado": "2026-09-19T03:13:29-05:00"
+      },
       {
         "titulo": "CoinShares advierte tope para Bitcoin bajo los 80000 dólares por causas analizadas",
         "url": "https://es.finance.yahoo.com/noticias/coinshares-ve-bitcoin-limitado-debajo-220800547.html",
@@ -474,14 +482,6 @@
         "resumen": "",
         "medio": "MT Newswires",
         "titulo_fuente": "Los futuros de las acciones estadounidenses suben antes de la apertura del mercado mientras los operadores evalúan el aumento de las tasas de interés de la Reserva Federal.",
-        "capturado": "2026-09-17T07:42:30-05:00"
-      },
-      {
-        "titulo": "OpenAI declina galardón matemático de un millón de dólares ofrecido por Justin Sun",
-        "url": "https://es.finance.yahoo.com/noticias/openai-rechaza-premio-matem%C3%A1ticas-1-114800949.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "OpenAI rechaza premio matemáticas de $1 millón de Justin Sun",
         "capturado": "2026-09-17T07:42:30-05:00"
       }
     ]
