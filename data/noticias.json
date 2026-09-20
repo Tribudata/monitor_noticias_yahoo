@@ -1,9 +1,33 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-19T20:24:17-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-20T01:42:38-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Precio por tener un hijo en Europa y sitios con mejores precios en artículos básicos",
+        "url": "https://es.finance.yahoo.com/noticias/coste-beb%C3%A9-europa-d%C3%B3nde-baratos-050026765.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El coste de tener un bebé en Europa, dónde son más baratos los productos esenciales",
+        "capturado": "2026-09-20T01:42:38-05:00"
+      },
+      {
+        "titulo": "NVIDIA rechaza garantía de RTX 5090 por borrar serie con uso y descarta caja o factura",
+        "url": "https://es-us.noticias.yahoo.com/nvidia-niega-garant%C3%ADa-rtx-5090-003255539.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "NVIDIA niega la garantía de una RTX 5090 porque el número de serie se borró con el uso normal y no acepta la caja ni la factura como alternativa",
+        "capturado": "2026-09-20T01:42:38-05:00"
+      },
+      {
+        "titulo": "Beta del World of Warcraft supera previsiones de Blizzard con cifras nunca antes vistas",
+        "url": "https://es-us.noticias.yahoo.com/beta-world-of-warcraft-resultando-231016704.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Beta de World of Warcraft está resultando mucho más popular de lo que Blizzard esperaba: “los números más locos que he visto en 17 años trabajando”",
+        "capturado": "2026-09-20T01:42:38-05:00"
+      },
       {
         "titulo": "Causas del repentino interés de los bancos en las stablecoins y su relevancia potencial para usted",
         "url": "https://es.finance.yahoo.com/noticias/bancos-repentinamente-quieren-stablecoins-ser-232600676.html",
@@ -459,30 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "LVMH se desprende de Marc Jacobs, que pasa a control estadounidense",
         "capturado": "2026-09-18T01:21:14-05:00"
-      },
-      {
-        "titulo": "Designan a Carlos Augusto Suárez como presidente de junta directiva de Ecopetrol",
-        "url": "https://es.finance.yahoo.com/noticias/nombran-carlos-augusto-su%C3%A1rez-presidente-004650920.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Nombran a Carlos Augusto Suárez como presidente de junta directiva de colombiano Ecopetrol",
-        "capturado": "2026-09-17T20:23:01-05:00"
-      },
-      {
-        "titulo": "Wall Street avanza y tecnológicas repuntan tras baja de bonos por promesa de la Fed contra la inflación",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-213219823.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben y las grandes tecnológicas repuntan después de que el compromiso de la Fed de controlar la inflación hiciera caer los rendimientos de los bonos del Tesoro",
-        "capturado": "2026-09-17T18:23:47-05:00"
-      },
-      {
-        "titulo": "Fondos cotizados de Bitcoin superarían al oro por triple, según experto: efectos para la cotización",
-        "url": "https://es.finance.yahoo.com/noticias/etf-spot-bitcoin-triplicar-oro-212200051.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Los ETF spot de Bitcoin podrían triplicar al oro, según analista: ¿Qué significa para el precio de BTC?",
-        "capturado": "2026-09-17T18:23:47-05:00"
       }
     ]
   }
