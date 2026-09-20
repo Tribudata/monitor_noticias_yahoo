@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-19T18:20:38-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-09-19T20:24:17-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Causas del repentino interés de los bancos en las stablecoins y su relevancia potencial para usted",
+        "url": "https://es.finance.yahoo.com/noticias/bancos-repentinamente-quieren-stablecoins-ser-232600676.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿Por qué los bancos repentinamente quieren stablecoins y por qué eso podría ser importante para ti?",
+        "capturado": "2026-09-19T20:24:17-05:00"
+      },
       {
         "titulo": "Charles Hoskinson afirma que las criptomonedas absorberán la inteligencia artificial y explica el motivo",
         "url": "https://es.finance.yahoo.com/noticias/charles-hoskinson-criptomonedas-absorber%C3%A1n-ia-215000810.html",
@@ -474,14 +482,6 @@
         "resumen": "",
         "medio": "BeInCrypto",
         "titulo_fuente": "Los ETF spot de Bitcoin podrían triplicar al oro, según analista: ¿Qué significa para el precio de BTC?",
-        "capturado": "2026-09-17T18:23:47-05:00"
-      },
-      {
-        "titulo": "Emulador de PS5 exhibe por vez inicial Demon's Souls Remake en 4K y Astro Bot a 60 FPS en PC",
-        "url": "https://es-us.noticias.yahoo.com/emulador-ps5-muestra-22-minutos-181429997.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Emulador de PS5 muestra por primera vez 22 minutos de Demon’s Souls Remake en 4K sin crashear y Astro Bot corriendo a 60 FPS en PC",
         "capturado": "2026-09-17T18:23:47-05:00"
       }
     ]
