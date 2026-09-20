@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-20T13:57:41-05:00",
+  "actualizado": "2026-09-20T16:23:24-05:00",
   "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Seis Premios Nobel de Economía contra Ripple por el tributo en California",
+        "url": "https://es.finance.yahoo.com/noticias/seis-premios-nobel-econom%C3%ADa-vs-185700446.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Seis Premios Nobel de Economía vs. Ripple: la pelea por el impuesto californiano",
+        "capturado": "2026-09-20T16:23:24-05:00"
+      },
       {
         "titulo": "Balance de la semana sobre criptoactivos y Bitcoin en América Latina y España del 20 de septiembre",
         "url": "https://es.finance.yahoo.com/noticias/resumen-semanal-bitcoin-criptomonedas-espa%C3%B1a-163800645.html",
@@ -474,14 +482,6 @@
         "resumen": "",
         "medio": "Reuters",
         "titulo_fuente": "Cinco países defienden un menor crecimiento del próximo presupuesto de la UE y España aporta ideas",
-        "capturado": "2026-09-18T06:38:08-05:00"
-      },
-      {
-        "titulo": "La circulación en el estrecho de Ormuz cae frente al promedio de los diez días previos",
-        "url": "https://es.finance.yahoo.com/noticias/tr%C3%A1fico-estrecho-ormuz-sit%C3%BAa-debajo-092942744.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "El tráfico en el estrecho de Ormuz se sitúa por debajo de la media de los últimos 10 días",
         "capturado": "2026-09-18T06:38:08-05:00"
       }
     ]
