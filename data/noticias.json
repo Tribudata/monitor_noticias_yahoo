@@ -1,9 +1,33 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-20T01:42:38-05:00",
+  "actualizado": "2026-09-20T07:02:49-05:00",
   "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Dónde se encuentran en verdad los dólares de América Latina",
+        "url": "https://es.finance.yahoo.com/noticias/d%C3%B3nde-residen-realmente-d%C3%B3lares-latinoam%C3%A9rica-091100105.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿Dónde residen realmente los dólares de Latinoamérica?",
+        "capturado": "2026-09-20T07:02:49-05:00"
+      },
+      {
+        "titulo": "Las empresas cotizadas de España adaptan su precio al 4% del bono y así se halla",
+        "url": "https://es.finance.yahoo.com/noticias/cotizadas-espa%C3%B1olas-ajustan-valoraci%C3%B3n-4-043000146.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "Las cotizadas españolas ajustan valoración al 4% del bono ¿cómo se calcula?",
+        "capturado": "2026-09-20T07:02:49-05:00"
+      },
+      {
+        "titulo": "La inteligencia artificial arranca donde finaliza el algoritmo",
+        "url": "https://es.finance.yahoo.com/noticias/inteligencia-artificial-empieza-termina-algoritmo-040000790.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "La inteligencia artificial empieza donde termina el algoritmo",
+        "capturado": "2026-09-20T07:02:49-05:00"
+      },
       {
         "titulo": "Precio por tener un hijo en Europa y sitios con mejores precios en artículos básicos",
         "url": "https://es.finance.yahoo.com/noticias/coste-beb%C3%A9-europa-d%C3%B3nde-baratos-050026765.html",
@@ -458,30 +482,6 @@
         "resumen": "",
         "medio": "Euronews",
         "titulo_fuente": "El largo camino hacia la jubilación: ¿Durante cuánto tiempo cobran una pensión los europeos?",
-        "capturado": "2026-09-18T01:21:14-05:00"
-      },
-      {
-        "titulo": "Entidad nipona eleva tipos a pico de tres décadas con un par de disensos",
-        "url": "https://es.finance.yahoo.com/noticias/banco-jap%C3%B3n-sube-tasas-inter%C3%A9s-054351286.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "El Banco de Japón sube las tasas de interés a su nivel más alto en 31 años con dos votos en contra",
-        "capturado": "2026-09-18T01:21:14-05:00"
-      },
-      {
-        "titulo": "Banco central japonés incrementa tasas a máximo de 31 años para contener alza de precios",
-        "url": "https://es.finance.yahoo.com/noticias/banco-central-jap%C3%B3n-eleva-tipo-051610473.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El Banco de Japón sube los tipos al máximo de 31 años para frenar la inflación",
-        "capturado": "2026-09-18T01:21:14-05:00"
-      },
-      {
-        "titulo": "LVMH vende a Marc Jacobs y la marca queda bajo mando de Estados Unidos",
-        "url": "https://es.finance.yahoo.com/noticias/lvmh-vende-marc-jacobs-pasa-084923061.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "LVMH se desprende de Marc Jacobs, que pasa a control estadounidense",
         "capturado": "2026-09-18T01:21:14-05:00"
       }
     ]
