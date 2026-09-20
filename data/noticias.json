@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-20T11:22:43-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-09-20T13:57:41-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Balance de la semana sobre criptoactivos y Bitcoin en América Latina y España del 20 de septiembre",
+        "url": "https://es.finance.yahoo.com/noticias/resumen-semanal-bitcoin-criptomonedas-espa%C3%B1a-163800645.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Resumen semanal de Bitcoin y criptomonedas: España y América Latina – 20 de septiembre",
+        "capturado": "2026-09-20T13:57:41-05:00"
+      },
       {
         "titulo": "Venezolanos interesados asisten a curso de capacitación en criptomonedas",
         "url": "https://es.finance.yahoo.com/noticias/entusiastas-venezolanos-participan-taller-formativo-140900862.html",
@@ -474,14 +482,6 @@
         "resumen": "",
         "medio": "Reuters",
         "titulo_fuente": "El tráfico en el estrecho de Ormuz se sitúa por debajo de la media de los últimos 10 días",
-        "capturado": "2026-09-18T06:38:08-05:00"
-      },
-      {
-        "titulo": "El jefe de Gobierno luso expone medidas contra la carestía sin modificar el IVA",
-        "url": "https://es.finance.yahoo.com/noticias/ministro-portugu%C3%A9s-detalla-plan-aumento-081055986.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El primer ministro portugués detalla un plan contra el aumento del coste de la vida, sin tocar IVA",
         "capturado": "2026-09-18T06:38:08-05:00"
       }
     ]
