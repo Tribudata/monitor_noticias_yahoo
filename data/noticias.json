@@ -1,9 +1,41 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-20T20:22:16-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-21T01:48:21-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "El gran interrogante: Puede un fenómeno viral volverse una firma mundial",
+        "url": "https://es.finance.yahoo.com/noticias/pregunta-sensaci%C3%B3n-viral-convertirse-marca-041550215.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "The Big Question: ¿Puede una sensación viral convertirse en una marca global?",
+        "capturado": "2026-09-21T01:48:21-05:00"
+      },
+      {
+        "titulo": "Los pasivos galos van hacia su punto más elevado desde 1978",
+        "url": "https://es.finance.yahoo.com/noticias/deuda-francia-encamina-nivel-alto-034536762.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "La deuda de Francia se encamina a su nivel más alto desde 1978",
+        "capturado": "2026-09-21T01:48:21-05:00"
+      },
+      {
+        "titulo": "Por qué razón Disney cuenta con un lugar de competencia consolidado",
+        "url": "https://es.finance.yahoo.com/noticias/disney-posici%C3%B3n-competitiva-establecida-231000258.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "¿Por qué Disney tiene una posición competitiva establecida?",
+        "capturado": "2026-09-21T01:48:21-05:00"
+      },
+      {
+        "titulo": "Se alista Michael Saylor para adquirir mayor cantidad de Bitcoin",
+        "url": "https://es.finance.yahoo.com/noticias/michael-saylor-prepara-comprar-bitcoin-230000528.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "¿Michael Saylor se prepara para comprar más Bitcoin?",
+        "capturado": "2026-09-21T01:48:21-05:00"
+      },
       {
         "titulo": "EE. UU. inicia carrera cuántica con 215 millones de dólares y surgen dudas sobre el impacto en Bitcoin",
         "url": "https://es.finance.yahoo.com/noticias/eeuu-lanza-carrera-cu%C3%A1ntica-215-233600073.html",
@@ -451,38 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Precios récord del diésel en EEUU golpean a agricultores; valor de los alimentos podría subir",
         "capturado": "2026-09-18T10:55:45-05:00"
-      },
-      {
-        "titulo": "Taskent alista firmas para bolsas mundiales en medio de nueva tendencia de OPI",
-        "url": "https://es.finance.yahoo.com/noticias/ola-salidas-bolsa-taskent-prepara-111832354.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Nueva ola de salidas a bolsa, Taskent prepara empresas para los mercados globales",
-        "capturado": "2026-09-18T06:38:08-05:00"
-      },
-      {
-        "titulo": "Wall Street al alza por caída del crudo y auge tecnológico; Asia sube y Europa cae",
-        "url": "https://es.finance.yahoo.com/noticias/bajada-precios-petr%C3%B3leo-repunte-tecnol%C3%B3gico-111414894.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "La bajada de los precios del petróleo y el repunte tecnológico impulsan a Wall Street antes de la apertura; Asia sube, Europa baja.",
-        "capturado": "2026-09-18T06:38:08-05:00"
-      },
-      {
-        "titulo": "Rusia asume dominio sobre bienes de Nestlé y firmas galas",
-        "url": "https://es.finance.yahoo.com/noticias/rusia-toma-control-activos-nestl%C3%A9-102024506.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Rusia toma el control de activos de Nestlé y empresas francesas",
-        "capturado": "2026-09-18T06:38:08-05:00"
-      },
-      {
-        "titulo": "Travala de Binance sube cerca del 100 por ciento por causas explicadas",
-        "url": "https://es.finance.yahoo.com/noticias/travala-ava-respaldada-binance-dispara-103800360.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Travala (AVA) respaldada por Binance, se dispara casi 100%: te contamos por qué",
-        "capturado": "2026-09-18T06:38:08-05:00"
       }
     ]
   }
