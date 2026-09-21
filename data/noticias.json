@@ -1,9 +1,57 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-21T14:05:31-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-09-21T17:44:03-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "AMD llega a un valor bursátil de $1 billón y tres causas explican la ausencia de NVIDIA en el auge de la IA",
+        "url": "https://es.finance.yahoo.com/noticias/amd-alcanza-capitalizaci%C3%B3n-mercado-1-214700952.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "AMD alcanza una capitalización de mercado de $1 billón: Top 3 razones por las que NVIDIA se quedó fuera del rally de IA",
+        "capturado": "2026-09-21T17:44:03-05:00"
+      },
+      {
+        "titulo": "Reporte: El sector tecnológico y de servicios de comunicación sube las bolsas en EE. UU. ante la caída del petróleo y los bonos",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-pesos-pesados-servicios-comunicaci%C3%B3n-210945431.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los pesos pesados de los servicios de comunicación y la tecnología impulsan al alza los índices bursátiles estadounidenses mientras el petróleo crudo cae junto con los rendimientos de los bonos del Tesoro.",
+        "capturado": "2026-09-21T17:44:03-05:00"
+      },
+      {
+        "titulo": "Aumenta la renta de habitaciones en España por los elevados costos en los alquileres de apartamentos",
+        "url": "https://es.finance.yahoo.com/noticias/alquiler-habitaciones-crece-espa%C3%B1a-impulsado-201707986.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El alquiler de habitaciones crece en España impulsado por los altos precios de los arrendamientos de piso",
+        "capturado": "2026-09-21T17:44:03-05:00"
+      },
+      {
+        "titulo": "OpenAI y Anthropic evaluaron test de IA cruzados y el líder de Palantir afirma que una quizá jamás debute en bolsa",
+        "url": "https://es.finance.yahoo.com/noticias/openai-anthropic-consideraron-pruebas-ia-202000763.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "OpenAI y Anthropic consideraron pruebas de IA mutuas: el CEO de Palantir dice que una puede que nunca salga a bolsa",
+        "capturado": "2026-09-21T17:44:03-05:00"
+      },
+      {
+        "titulo": "Polo asciende a huracán y pone en riesgo zonas vacacionales de la costa pacífica mexicana",
+        "url": "https://es.finance.yahoo.com/noticias/polo-convierte-hurac%C3%A1n-amenaza-localidades-194026574.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Polo se convierte en huracán y amenaza a localidades turísticas del Pacífico mexicano",
+        "capturado": "2026-09-21T17:44:03-05:00"
+      },
+      {
+        "titulo": "Musalem afirma que el banco central estadounidense requeriría más subidas de tipos para frenar la inflación",
+        "url": "https://es.finance.yahoo.com/noticias/musalem-fed-necesitar-alzas-tasas-191805553.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Musalem dice que la Fed podría necesitar más alzas de tasas para frenar la inflación",
+        "capturado": "2026-09-21T17:44:03-05:00"
+      },
       {
         "titulo": "Principales 3 liberaciones de tokens en la cuarta semana de septiembre de 2026",
         "url": "https://es.finance.yahoo.com/noticias/top-3-desbloqueos-tokens-4ta-185500203.html",
@@ -435,54 +483,6 @@
         "medio": "Tarreo",
         "titulo_fuente": "RPCS3, el emulador de PS3 para PC, mejora hasta un 37% los FPS al corregir bug de NVIDIA que limitaba sus GPUs desde las GTX hasta las RTX 5090",
         "capturado": "2026-09-18T22:24:32-05:00"
-      },
-      {
-        "titulo": "Trump anuncia veto de entrada a la Casa Blanca para CNN, MSNBC y Politico",
-        "url": "https://es.finance.yahoo.com/noticias/trump-prohibir%C3%A1-acceso-cnn-msnow-192453860.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Trump dice prohibirá acceso de CNN, MSNOW y Politico a la Casa Blanca",
-        "capturado": "2026-09-18T22:24:32-05:00"
-      },
-      {
-        "titulo": "La RX 9070 GRE vale su precio oficial y supera en velocidad a la RTX 5060 Ti que es $280 dólares más costosa",
-        "url": "https://es-us.noticias.yahoo.com/rx-9070-gre-%C3%BAnica-tarjeta-184715391.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "La RX 9070 GRE es la única tarjeta gráfica disponible bajo su precio oficial y encima es más rápida que la RTX 5060 Ti que cuesta $280 dólares más",
-        "capturado": "2026-09-18T18:30:17-05:00"
-      },
-      {
-        "titulo": "Variedad de resultados en la bolsa de EE. UU. y retorno del bono del Tesoro al 5%",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-203756584.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos, mientras que el rendimiento de los bonos del Tesoro de referencia vuelve a superar el 5%.",
-        "capturado": "2026-09-18T16:26:31-05:00"
-      },
-      {
-        "titulo": "Lemon sale del mercado brasileño por un entorno regulatorio desfavorable",
-        "url": "https://es.finance.yahoo.com/noticias/plataforma-criptomonedas-lemon-abandona-brasil-203000288.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "La plataforma de criptomonedas Lemon abandona Brasil ante condiciones regulatorias adversas",
-        "capturado": "2026-09-18T16:26:31-05:00"
-      },
-      {
-        "titulo": "Bolsa de EE. UU. mixta y bono del Tesoro al borde de máximos de 19 años por tasas",
-        "url": "https://es.finance.yahoo.com/noticias/%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-resultados-202248364.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los índices bursátiles estadounidenses presentan resultados mixtos esta semana, ya que el rendimiento de los bonos del Tesoro de referencia cotiza cerca de su máximo de 19 años tras la subida de tipos de interés de la Reserva Federal.",
-        "capturado": "2026-09-18T16:26:31-05:00"
-      },
-      {
-        "titulo": "XRP trepa 7% tras superar tropiezo de la CLARITY Act y busca mantener la marcha",
-        "url": "https://es.finance.yahoo.com/noticias/xrp-supera-fracaso-clarity-act-200700028.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "XRP supera el fracaso de la CLARITY Act y se dispara 7%: ¿Podrá mantener el ritmo?",
-        "capturado": "2026-09-18T16:26:31-05:00"
       }
     ]
   }
