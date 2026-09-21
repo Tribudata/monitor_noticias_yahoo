@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-21T01:48:21-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-09-21T08:40:09-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Fondos cotizados y futuros accionarios avanzan este lunes al comenzar la jornada y el crudo desciende",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-suben-futuros-132324597.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa suben y los futuros de renta variable repuntan el lunes antes de la apertura del mercado, mientras que los precios del petróleo bajan.",
+        "capturado": "2026-09-21T08:40:09-05:00"
+      },
+      {
+        "titulo": "Apertura de mercados: la baja en la cotización petrolera estimula los futuros accionarios en EE UU",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-ca%C3%ADda-precio-petr%C3%B3leo-impulsa-124934131.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: La caída del precio del petróleo impulsa los futuros de las acciones estadounidenses antes de la apertura del mercado.",
+        "capturado": "2026-09-21T08:40:09-05:00"
+      },
+      {
+        "titulo": "El BCE presenta Pontes para saldar activos tokenizados mediante fondos del banco central",
+        "url": "https://es.finance.yahoo.com/noticias/bce-lanza-pontes-liquidar-activos-124006131.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El BCE lanza \"Pontes\" para liquidar activos tokenizados en dinero del banco central",
+        "capturado": "2026-09-21T08:40:09-05:00"
+      },
+      {
+        "titulo": "Qatar rechaza gasoducto alterno a Ormuz y replantea la estrategia de su fondo soberano",
+        "url": "https://es.finance.yahoo.com/noticias/catar-descarta-gasoducto-alternativo-hormuz-115441948.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Qatar descarta un gasoducto alternativo a Ormuz y redefine la estrategia de su fondo soberano",
+        "capturado": "2026-09-21T08:40:09-05:00"
+      },
+      {
+        "titulo": "Merz asegura contar con el apoyo de la CDU para mantenerse como canciller de Alemania",
+        "url": "https://es.finance.yahoo.com/noticias/merz-afirma-respaldo-cdu-seguir-122655964.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Merz afirma tener respaldo del CDU para seguir como canciller de Alemania",
+        "capturado": "2026-09-21T08:40:09-05:00"
+      },
+      {
+        "titulo": "MicroStrategy retoma sus adquisiciones tras quince días al comprar 950 Bitcoin",
+        "url": "https://es.finance.yahoo.com/noticias/microstrategy-termina-pausa-semanas-compra-121459437.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "MicroStrategy termina una pausa de dos semanas con la compra de 950 Bitcoin: ¿se está desacelerando su motor de compras?",
+        "capturado": "2026-09-21T08:40:09-05:00"
+      },
+      {
+        "titulo": "Diálogo favorable entre Estados Unidos y China según informe matutino",
+        "url": "https://es.finance.yahoo.com/noticias/negociaciones-constructivas-eeuu-china-morning-120832700.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Negociaciones constructivas EEUU-China: Morning Briefing Español",
+        "capturado": "2026-09-21T08:40:09-05:00"
+      },
+      {
+        "titulo": "Dan Ives ve un ochenta por ciento de opciones en la unión entre Tesla y SpaceX",
+        "url": "https://es.finance.yahoo.com/noticias/ives-pone-fusi%C3%B3n-tesla-spacex-120300032.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Dan Ives pone la fusión de Tesla y SpaceX con un 80% de probabilidad: ¿Se convertirá en la empresa más grande del mundo?",
+        "capturado": "2026-09-21T08:40:09-05:00"
+      },
       {
         "titulo": "El gran interrogante: Puede un fenómeno viral volverse una firma mundial",
         "url": "https://es.finance.yahoo.com/noticias/pregunta-sensaci%C3%B3n-viral-convertirse-marca-041550215.html",
@@ -419,70 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "El CEO de Palantir dice que Anthropic quiere la nacionalización de la IA para evitar demandas",
         "capturado": "2026-09-18T13:55:06-05:00"
-      },
-      {
-        "titulo": "Perspectivas de la cumbre Trump Xi entre tasas y un trato de 30.000 millones",
-        "url": "https://es.finance.yahoo.com/noticias/esperar-cumbre-trump-xi-aranceles-150538653.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Qué esperar de la cumbre Trump Xi, de los aranceles a un posible acuerdo de 30.000 millones",
-        "capturado": "2026-09-18T10:55:45-05:00"
-      },
-      {
-        "titulo": "Ucrania analiza priorizar venta externa de bienes agrícolas más costosos según ministro",
-        "url": "https://es.finance.yahoo.com/noticias/ucrania-eval%C3%BAa-prioridad-exportaci%C3%B3n-productos-145628680.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Ucrania evalúa dar prioridad a exportación a productos agrícolas de mayor valor, dice ministro",
-        "capturado": "2026-09-18T10:55:45-05:00"
-      },
-      {
-        "titulo": "Plaza cambiaria de Argentina persiste estable y banco central baja paso de compras",
-        "url": "https://es.finance.yahoo.com/noticias/mercado-cambiario-argentino-equilibrado-banco-145249897.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Mercado cambiario argentino sigue equilibrado, banco central disminuye ritmo de compras",
-        "capturado": "2026-09-18T10:55:45-05:00"
-      },
-      {
-        "titulo": "Bitcoin a 100000 dólares en el año venidero VanEck señala el detonante principal",
-        "url": "https://es.finance.yahoo.com/noticias/bitcoin-100-000-a%C3%B1o-vaneck-144900916.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿Bitcoin a $100,000 el próximo año? VanEck revela el catalizador clave",
-        "capturado": "2026-09-18T10:55:45-05:00"
-      },
-      {
-        "titulo": "Un tercio del suelo ucraniano padece falta de humedad y frena la siembra dice ministro",
-        "url": "https://es.finance.yahoo.com/noticias/tercio-territorio-ucrania-sufre-escasez-144035761.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Un tercio del territorio de Ucrania sufre escasez de humedad, lo que retrasa la siembra: ministro",
-        "capturado": "2026-09-18T10:55:45-05:00"
-      },
-      {
-        "titulo": "Wall Street baja y tasa del bono estadounidense vuelve a rondar el 5 por ciento",
-        "url": "https://es.finance.yahoo.com/noticias/wall-street-cae-rendimiento-treasury-142807975.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Wall Street cae y rendimiento de Treasury se acerca otra vez al 5%",
-        "capturado": "2026-09-18T10:55:45-05:00"
-      },
-      {
-        "titulo": "La asiática Sinograin retoma ventas masivas de soya previo a encuentro de Trump y Xi",
-        "url": "https://es.finance.yahoo.com/noticias/china-sinograin-reanuda-ventas-escala-141159048.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "La china Sinograin reanuda ventas a gran escala de soja antes de cumbre entre Trump y Xi",
-        "capturado": "2026-09-18T10:55:45-05:00"
-      },
-      {
-        "titulo": "Alzas históricas del diésel en Estados Unidos afectan al agro y coste de comida subiría",
-        "url": "https://es.finance.yahoo.com/noticias/precios-r%C3%A9cord-di%C3%A9sel-eeuu-golpean-133922055.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Precios récord del diésel en EEUU golpean a agricultores; valor de los alimentos podría subir",
-        "capturado": "2026-09-18T10:55:45-05:00"
       }
     ]
   }
