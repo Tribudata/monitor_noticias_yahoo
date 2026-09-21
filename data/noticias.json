@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-21T08:40:09-05:00",
+  "actualizado": "2026-09-21T14:05:31-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Principales 3 liberaciones de tokens en la cuarta semana de septiembre de 2026",
+        "url": "https://es.finance.yahoo.com/noticias/top-3-desbloqueos-tokens-4ta-185500203.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Top 3 desbloqueos de tokens: 4ta semana de septiembre de 2026",
+        "capturado": "2026-09-21T14:05:31-05:00"
+      },
+      {
+        "titulo": "Paramount alcanza pacto con California y más estados por integración con Warner Bros según Bloomberg News",
+        "url": "https://es.finance.yahoo.com/noticias/paramount-llega-acuerdo-california-estados-185446384.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Paramount llega a acuerdo con California y otros estados sobre fusión con Warner Bros: Bloomberg News",
+        "capturado": "2026-09-21T14:05:31-05:00"
+      },
+      {
+        "titulo": "Riyadh incrementa venta externa de crudo vía golfo Pérsico tras atentado a tubo según cifras",
+        "url": "https://es.finance.yahoo.com/noticias/arabia-saudita-eleva-exportaci%C3%B3n-petr%C3%B3leo-181105634.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Arabia Saudita eleva exportación de petróleo por el golfo Pérsico tras ataque a oleoducto: datos",
+        "capturado": "2026-09-21T14:05:31-05:00"
+      },
+      {
+        "titulo": "Modificación: Bolsas de EE. UU. suben por alza de grandes tecnológicas y de comunicación con crudo a la baja",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-avanzan-180405537.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses avanzan gracias al repunte de los gigantes de los servicios de comunicación y la tecnología en medio de la caída del petróleo crudo.",
+        "capturado": "2026-09-21T14:05:31-05:00"
+      },
+      {
+        "titulo": "OpenAI pide a Estados Unidos encabezar iniciativas globales para crear estándares tecnológicos",
+        "url": "https://es.finance.yahoo.com/noticias/openai-insta-eeuu-liderar-esfuerzos-173322639.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "OpenAI insta a EEUU a liderar los esfuerzos mundiales para desarrollar normas técnicas",
+        "capturado": "2026-09-21T14:05:31-05:00"
+      },
+      {
+        "titulo": "Fraudes con inteligencia artificial crecen en criptomonedas y KuCoin lanza un protocolo de seguridad",
+        "url": "https://es.finance.yahoo.com/noticias/estafas-ia-aumentan-mundo-cripto-173200725.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Las estafas con IA aumentan en el mundo cripto: KuCoin apuesta por un nuevo estándar de seguridad",
+        "capturado": "2026-09-21T14:05:31-05:00"
+      },
+      {
+        "titulo": "Lula afirma que Brasil aprovechará el cupo sobrante para exportar carne bovina uruguaya a China",
+        "url": "https://es.finance.yahoo.com/noticias/lula-brasil-usar%C3%A1-excedente-cuota-172950235.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Lula dice que Brasil usará excedente de cuota de exportación de carne de vacuno de Uruguay a China",
+        "capturado": "2026-09-21T14:05:31-05:00"
+      },
+      {
+        "titulo": "La agencia FAA cancela varios vuelos en el oriente de EE UU por fallas en las comunicaciones",
+        "url": "https://es.finance.yahoo.com/noticias/faa-suspende-vuelos-costa-eeuu-171640389.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "La FAA suspende algunos vuelos en la costa este de EEUU debido a problemas de comunicación",
+        "capturado": "2026-09-21T14:05:31-05:00"
+      },
       {
         "titulo": "Fondos cotizados y futuros accionarios avanzan este lunes al comenzar la jornada y el crudo desciende",
         "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-suben-futuros-132324597.html",
@@ -419,70 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "XRP supera el fracaso de la CLARITY Act y se dispara 7%: ¿Podrá mantener el ritmo?",
         "capturado": "2026-09-18T16:26:31-05:00"
-      },
-      {
-        "titulo": "Investigadores obtienen 6500 dólares al vulnerar OpenAI usando Claude de Anthropic",
-        "url": "https://es.finance.yahoo.com/noticias/investigadores-ganan-6-500-hackear-145712899.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Investigadores ganan $6,500 tras hackear OpenAI con Claude de Anthropic",
-        "capturado": "2026-09-18T16:26:31-05:00"
-      },
-      {
-        "titulo": "Ventas externas agro Argentina alcanzarían tope de 42.200 millones de dólares en periodo 26/27: Bolsa Rosario",
-        "url": "https://es.finance.yahoo.com/noticias/exportaciones-agro-argentina-tocar-r%C3%A9cord-184733313.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Exportaciones agro Argentina podrían tocar récord de 42.200 million $ en ciclo 26/27: Bolsa Rosario",
-        "capturado": "2026-09-18T13:55:06-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE. UU. retroceden al tiempo que tasa de bonos del Tesoro vuelve a pico de casi 19 años",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-175248454.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen mientras que el rendimiento de los bonos del Tesoro de referencia se acerca nuevamente a su nivel más alto en casi 19 años.",
-        "capturado": "2026-09-18T13:55:06-05:00"
-      },
-      {
-        "titulo": "Piratas informáticos contagian 30.000 aparatos y hurtan 11 millones de dólares de monederos virtuales",
-        "url": "https://es.finance.yahoo.com/noticias/hackers-infectan-30-000-dispositivos-173300453.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Hackers infectan 30,000 dispositivos y roban $11 millones de wallets de criptomonedas",
-        "capturado": "2026-09-18T13:55:06-05:00"
-      },
-      {
-        "titulo": "Armadoras piden a Trump excluir a marcas de carros chinas previo a junta con Xi",
-        "url": "https://es.finance.yahoo.com/noticias/automotrices-instan-trump-mantener-fabricantes-172039323.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Automotrices instan a Trump a mantener fuera a fabricantes de autos chinos antes de reunión con Xi",
-        "capturado": "2026-09-18T13:55:06-05:00"
-      },
-      {
-        "titulo": "Fondos cotizados y títulos accionarios de Estados Unidos descienden pasada la mitad del día",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-acciones-estadounidenses-171826025.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa y las acciones estadounidenses bajan tras el mediodía.",
-        "capturado": "2026-09-18T13:55:06-05:00"
-      },
-      {
-        "titulo": "La primera actriz de inteligencia artificial del mundo falla en vivo con Piers Morgan y pasa al chino",
-        "url": "https://es.finance.yahoo.com/noticias/actriz-ia-mundo-falla-vivo-162711623.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "«La ‘primera actriz de IA del mundo’ tiene fallos en vivo con Piers Morgan y cambia al chino»",
-        "capturado": "2026-09-18T13:55:06-05:00"
-      },
-      {
-        "titulo": "El director ejecutivo de Palantir afirma que Anthropic busca la nacionalización de la IA para huir de demandas",
-        "url": "https://es.finance.yahoo.com/noticias/ceo-palantir-anthropic-nacionalizaci%C3%B3n-ia-161400875.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "El CEO de Palantir dice que Anthropic quiere la nacionalización de la IA para evitar demandas",
-        "capturado": "2026-09-18T13:55:06-05:00"
       }
     ]
   }
