@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-20T18:21:23-05:00",
+  "actualizado": "2026-09-20T20:22:16-05:00",
   "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "EE. UU. inicia carrera cuántica con 215 millones de dólares y surgen dudas sobre el impacto en Bitcoin",
+        "url": "https://es.finance.yahoo.com/noticias/eeuu-lanza-carrera-cu%C3%A1ntica-215-233600073.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "EEUU lanza carrera cuántica por $215 millones: ¿Debería preocuparse Bitcoin?",
+        "capturado": "2026-09-20T20:22:16-05:00"
+      },
       {
         "titulo": "Binance Wallet ofrecerá acceso previo a OPI próximamente bajo una condición",
         "url": "https://es.finance.yahoo.com/noticias/pronto-podr%C3%A1s-obtener-exposici%C3%B3n-pre-212200369.html",
@@ -474,14 +482,6 @@
         "resumen": "",
         "medio": "BeInCrypto",
         "titulo_fuente": "Travala (AVA) respaldada por Binance, se dispara casi 100%: te contamos por qué",
-        "capturado": "2026-09-18T06:38:08-05:00"
-      },
-      {
-        "titulo": "Revolut evalúa doble cotización en Londres y Nueva York en su esperada OPI",
-        "url": "https://es.finance.yahoo.com/noticias/revolut-baraja-cotizar-york-londres-102645214.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Revolut baraja cotizar a la vez en Nueva York y Londres en su esperada OPV",
         "capturado": "2026-09-18T06:38:08-05:00"
       }
     ]
