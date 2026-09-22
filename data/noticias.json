@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-21T17:44:03-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-09-21T20:27:16-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Perspectiva USD/JPY: el yen vigila el soporte de 152 ante el inminente endurecimiento del Banco de Japón",
+        "url": "https://es.finance.yahoo.com/noticias/pron%C3%B3stico-usd-jpy-yen-pone-230800768.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Pronóstico del USD/JPY: el yen pone en foco el soporte en 152 mientras se avecina un endurecimiento del Banco de Japón",
+        "capturado": "2026-09-21T20:27:16-05:00"
+      },
+      {
+        "titulo": "OpenAI pide a Estados Unidos encabezar las normas mundiales para la inteligencia artificial avanzada",
+        "url": "https://es.finance.yahoo.com/noticias/openai-insta-ee-uu-liderar-195135485.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "OpenAI insta a EE.UU. a liderar estándares internacionales para la IA avanzada",
+        "capturado": "2026-09-21T20:27:16-05:00"
+      },
       {
         "titulo": "AMD llega a un valor bursátil de $1 billón y tres causas explican la ausencia de NVIDIA en el auge de la IA",
         "url": "https://es.finance.yahoo.com/noticias/amd-alcanza-capitalizaci%C3%B3n-mercado-1-214700952.html",
@@ -467,22 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "La UE marca récords en el precio del combustible, el BCE prevé pico del margen del diésel en octubre",
         "capturado": "2026-09-19T03:13:29-05:00"
-      },
-      {
-        "titulo": "CoinShares advierte tope para Bitcoin bajo los 80000 dólares por causas analizadas",
-        "url": "https://es.finance.yahoo.com/noticias/coinshares-ve-bitcoin-limitado-debajo-220800547.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "CoinShares ve a Bitcoin limitado por debajo de $80,000: ¿Por qué?",
-        "capturado": "2026-09-18T22:24:32-05:00"
-      },
-      {
-        "titulo": "Emulador RPCS3 para PC eleva hasta 37 por ciento los FPS tras corregir fallo de NVIDIA",
-        "url": "https://es-us.noticias.yahoo.com/rpcs3-emulador-ps3-pc-mejora-203954440.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "RPCS3, el emulador de PS3 para PC, mejora hasta un 37% los FPS al corregir bug de NVIDIA que limitaba sus GPUs desde las GTX hasta las RTX 5090",
-        "capturado": "2026-09-18T22:24:32-05:00"
       }
     ]
   }
