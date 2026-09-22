@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-22T01:40:58-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-09-22T07:23:12-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Acciones de EE UU operan sin cambios previos a la apertura y crudo baja por diplomacia con Irán",
+        "url": "https://es.finance.yahoo.com/noticias/futuros-acciones-estadounidenses-mantienen-pr%C3%A1cticamente-115703957.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los futuros de las acciones estadounidenses se mantienen prácticamente estables antes de la apertura, mientras los precios del petróleo caen en medio del optimismo por la diplomacia en el conflicto entre Estados Unidos e Irán.",
+        "capturado": "2026-09-22T07:23:12-05:00"
+      },
+      {
+        "titulo": "Zúrich encabeza el riesgo de burbuja en el sector inmobiliario según indicador de UBS",
+        "url": "https://es.finance.yahoo.com/noticias/%C3%ADndice-ubs-muestra-riesgo-burbuja-114508609.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "El índice de UBS muestra el mayor riesgo de burbuja inmobiliaria en Zúrich.",
+        "capturado": "2026-09-22T07:23:12-05:00"
+      },
+      {
+        "titulo": "Lluvias intensas amenazan con aplazar la recolección de maíz y oleaginosas ucranianas",
+        "url": "https://es.finance.yahoo.com/noticias/fuertes-lluvias-retrasar-cosecha-semillas-114441009.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Fuertes lluvias podrían retrasar cosecha de semillas oleaginosas y maíz en Ucrania, según agricultores",
+        "capturado": "2026-09-22T07:23:12-05:00"
+      },
+      {
+        "titulo": "Wall Street sube impulsado por crudo pese a pausa tecnológica; bolsas de Asia y Europa avanzan",
+        "url": "https://es.finance.yahoo.com/noticias/repunte-tecnol%C3%B3gico-detiene-petr%C3%B3leo-blando-110942785.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "El repunte tecnológico se detiene, pero el petróleo blando impulsa a Wall Street antes de la apertura; Asia y Europa registran ganancias.",
+        "capturado": "2026-09-22T07:23:12-05:00"
+      },
+      {
+        "titulo": "Binance aporta 100 millones de dólares a Circle y surgen dudas sobre reacción accionaria",
+        "url": "https://es.finance.yahoo.com/noticias/binance-invierte-100-millones-circle-110812380.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Binance invierte $100 millones en Circle: ¿cómo reaccionarás las acciones?",
+        "capturado": "2026-09-22T07:23:12-05:00"
+      },
+      {
+        "titulo": "Arrendar un apartamento de un cuarto en Portugal vale 200 euros más que el sueldo básico",
+        "url": "https://es.finance.yahoo.com/noticias/alquilar-piso-t1-portugal-cuesta-102528294.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Alquilar un piso de una habitación en Portugal cuesta 200 euros más que el salario mínimo",
+        "capturado": "2026-09-22T07:23:12-05:00"
+      },
+      {
+        "titulo": "Las regulaciones de acumuladores hechos en Europa encarecen en 2.100 euros los carros eléctricos",
+        "url": "https://es.finance.yahoo.com/noticias/normas-bater%C3%ADas-made-in-europe-091518499.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Las normas de baterías 'Made in Europe' encarecen 2.100 euros los coches eléctricos",
+        "capturado": "2026-09-22T07:23:12-05:00"
+      },
+      {
+        "titulo": "República Checa acota las ganancias del combustible y reduce el tributo al diésel",
+        "url": "https://es.finance.yahoo.com/noticias/chequia-limita-m%C3%A1rgenes-combustible-baja-093730232.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Chequia limita los márgenes del combustible y baja el impuesto al diésel",
+        "capturado": "2026-09-22T07:23:12-05:00"
+      },
       {
         "titulo": "Unión Europea y Filipinas logran pacto relevante para un acuerdo comercial",
         "url": "https://es.finance.yahoo.com/noticias/ue-filipinas-alcanzan-acuerdo-sustancial-054348639.html",
@@ -419,70 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Trump dice que nombrará a un nuevo asesor en materia de inteligencia artificial",
         "capturado": "2026-09-19T16:18:56-05:00"
-      },
-      {
-        "titulo": "Bolivia quita ayudas al valor del diésel para frenar el desabastecimiento",
-        "url": "https://es.finance.yahoo.com/noticias/bolivia-elimina-subsidios-precio-di%C3%A9sel-185715252.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Bolivia elimina subsidios a precio del diésel para combatir desabastecimiento",
-        "capturado": "2026-09-19T16:18:56-05:00"
-      },
-      {
-        "titulo": "Dos nuevos acontecimientos impulsan el proceso de Anthropic rumbo a su salida a bolsa",
-        "url": "https://es.finance.yahoo.com/noticias/camino-anthropic-ipo-atrae-2-172800790.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "El camino de Anthropic hacia la IPO atrae 2 nuevos desarrollos",
-        "capturado": "2026-09-19T13:42:46-05:00"
-      },
-      {
-        "titulo": "Valor Mortis saldrá el 13 de octubre con descuento y parches gratis sin preventa previa",
-        "url": "https://es-us.noticias.yahoo.com/valor-mortis-lanzar%C3%A1-13-octubre-135255219.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Valor Mortis se lanzará el 13 de octubre a precio rebajado para competir contra los grandes lanzamientos del año, sin preventa y con actualizaciones gratuitas confirmadas",
-        "capturado": "2026-09-19T13:42:46-05:00"
-      },
-      {
-        "titulo": "Cual fondo indexado cripto captó más capital esta semana? No fue Bitcoin, tampoco Ethereum",
-        "url": "https://es.finance.yahoo.com/noticias/cu%C3%A1l-etf-criptomonedas-atrajo-dinero-151700552.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿Cuál ETF de criptomonedas atrajo más dinero esta semana? No fue Bitcoin, ni Ethereum",
-        "capturado": "2026-09-19T11:15:20-05:00"
-      },
-      {
-        "titulo": "Francia calcula que el pasivo llegará a un máximo en 2026, cerca del 120 por ciento del PIB",
-        "url": "https://es.finance.yahoo.com/noticias/francia-prev%C3%A9-deuda-alcance-r%C3%A9cord-150154285.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Francia prevé que la deuda alcance un récord en 2026, en casi el 120% del PIB",
-        "capturado": "2026-09-19T11:15:20-05:00"
-      },
-      {
-        "titulo": "El FMI avisa a la UE que la IA fomentaría la expansión, mas empeoraría la disparidad",
-        "url": "https://es.finance.yahoo.com/noticias/fmi-advierte-ue-ia-impulsar-141434197.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "El FMI advierte a la UE de que la IA podría impulsar el crecimiento, pero agravar la desigualdad",
-        "capturado": "2026-09-19T11:15:20-05:00"
-      },
-      {
-        "titulo": "Diez jornadas que transformaron el curso de la inteligencia artificial",
-        "url": "https://es.finance.yahoo.com/noticias/diez-d%C3%ADas-cambiaron-rumbo-inteligencia-140205751.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Diez días que cambiaron el rumbo de la inteligencia artificial",
-        "capturado": "2026-09-19T11:15:20-05:00"
-      },
-      {
-        "titulo": "Kevin OLeary expone lo que aparta a Bitcoin de alcanzar 1 millón de dólares",
-        "url": "https://es.finance.yahoo.com/noticias/kevin-oleary-revela-separa-bitcoin-130300249.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Kevin O'Leary revela lo que separa a Bitcoin de $1 millón",
-        "capturado": "2026-09-19T11:15:20-05:00"
       }
     ]
   }
