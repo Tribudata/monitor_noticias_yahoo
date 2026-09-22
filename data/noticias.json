@@ -1,9 +1,57 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-22T15:22:30-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-09-22T18:09:20-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Goldman Sachs y Deutsche Bank coinciden en que la subida del S&P 500 sigue",
+        "url": "https://es.finance.yahoo.com/noticias/goldman-sachs-deutsche-bank-acuerdo-223800902.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Goldman Sachs y Deutsche Bank están de acuerdo: el rally del S&P 500 no ha terminado",
+        "capturado": "2026-09-22T18:09:20-05:00"
+      },
+      {
+        "titulo": "Trump respalda vetar ventas externas de diésel con precios en máximos",
+        "url": "https://es.finance.yahoo.com/noticias/trump-apoya-prohibici%C3%B3n-exportaci%C3%B3n-di%C3%A9sel-214408867.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Trump apoya una prohibición a la exportación de diésel mientras los precios alcanzan récords",
+        "capturado": "2026-09-22T18:09:20-05:00"
+      },
+      {
+        "titulo": "Director ejecutivo de Strategy afirma que Jamie Dimon apoya el bitcóin en secreto",
+        "url": "https://es.finance.yahoo.com/noticias/ceo-strategy-jamie-dimon-bitcoiner-212300623.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "CEO de Strategy dice que Jamie Dimon es bitcoiner en privado",
+        "capturado": "2026-09-22T18:09:20-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE UU cierran mixtas y bajan tasas de bonos del Tesoro y petróleo",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-cierran-210204600.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses cierran con resultados mixtos, mientras que los rendimientos de los bonos del Tesoro retroceden junto con el petróleo crudo.",
+        "capturado": "2026-09-22T18:09:20-05:00"
+      },
+      {
+        "titulo": "OpenAI y Anthropic presentan nuevas versiones de inteligencia artificial",
+        "url": "https://es.finance.yahoo.com/noticias/openai-anthropic-lanzan-modelos-ia-204948637.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "OpenAI y Anthropic lanzan nuevos modelos de IA: conozca los detalles",
+        "capturado": "2026-09-22T18:09:20-05:00"
+      },
+      {
+        "titulo": "ADA llega a un pico de cuatro meses tras integrar x402 para pagos de agentes de inteligencia artificial",
+        "url": "https://es.finance.yahoo.com/noticias/cardano-habilita-pagos-agentes-ia-194900111.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Cardano habilita pagos de agentes de IA con x402: ADA alcanza un máximo de 4 meses",
+        "capturado": "2026-09-22T18:09:20-05:00"
+      },
       {
         "titulo": "Según reporte patrimonial, Trump negoció acciones de SpaceX de Musk en julio",
         "url": "https://es.finance.yahoo.com/noticias/trump-compr%C3%B3-vendi%C3%B3-acciones-spacex-192307191.html",
@@ -435,54 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "Resumen semanal de Bitcoin y criptomonedas: España y América Latina – 20 de septiembre",
         "capturado": "2026-09-20T13:57:41-05:00"
-      },
-      {
-        "titulo": "Venezolanos interesados asisten a curso de capacitación en criptomonedas",
-        "url": "https://es.finance.yahoo.com/noticias/entusiastas-venezolanos-participan-taller-formativo-140900862.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Entusiastas venezolanos participan en taller formativo sobre criptomonedas",
-        "capturado": "2026-09-20T11:22:43-05:00"
-      },
-      {
-        "titulo": "La caída de las criptomonedas anticipa el mañana? Los hutíes atacan Riad, Trump evalúa medidas contra Irán",
-        "url": "https://es.finance.yahoo.com/noticias/ca%C3%ADda-criptomonedas-anticipo-ma%C3%B1ana-hut%C3%ADes-114300564.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿La caída de las criptomonedas es un anticipo para mañana? Los hutíes apuntan a Riad, Trump considera acciones sobre Irán",
-        "capturado": "2026-09-20T11:22:43-05:00"
-      },
-      {
-        "titulo": "Dónde se encuentran en verdad los dólares de América Latina",
-        "url": "https://es.finance.yahoo.com/noticias/d%C3%B3nde-residen-realmente-d%C3%B3lares-latinoam%C3%A9rica-091100105.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿Dónde residen realmente los dólares de Latinoamérica?",
-        "capturado": "2026-09-20T07:02:49-05:00"
-      },
-      {
-        "titulo": "Las empresas cotizadas de España adaptan su precio al 4% del bono y así se halla",
-        "url": "https://es.finance.yahoo.com/noticias/cotizadas-espa%C3%B1olas-ajustan-valoraci%C3%B3n-4-043000146.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "Las cotizadas españolas ajustan valoración al 4% del bono ¿cómo se calcula?",
-        "capturado": "2026-09-20T07:02:49-05:00"
-      },
-      {
-        "titulo": "La inteligencia artificial arranca donde finaliza el algoritmo",
-        "url": "https://es.finance.yahoo.com/noticias/inteligencia-artificial-empieza-termina-algoritmo-040000790.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "La inteligencia artificial empieza donde termina el algoritmo",
-        "capturado": "2026-09-20T07:02:49-05:00"
-      },
-      {
-        "titulo": "Precio por tener un hijo en Europa y sitios con mejores precios en artículos básicos",
-        "url": "https://es.finance.yahoo.com/noticias/coste-beb%C3%A9-europa-d%C3%B3nde-baratos-050026765.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El coste de tener un bebé en Europa, dónde son más baratos los productos esenciales",
-        "capturado": "2026-09-20T01:42:38-05:00"
       }
     ]
   }
