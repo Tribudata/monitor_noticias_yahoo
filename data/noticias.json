@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-22T12:09:22-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-22T15:22:30-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Según reporte patrimonial, Trump negoció acciones de SpaceX de Musk en julio",
+        "url": "https://es.finance.yahoo.com/noticias/trump-compr%C3%B3-vendi%C3%B3-acciones-spacex-192307191.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Trump compró y vendió acciones de SpaceX, la empresa de Musk, en julio, según declaración patrimonial",
+        "capturado": "2026-09-22T15:22:30-05:00"
+      },
+      {
+        "titulo": "A la espera de cita entre EE. UU. y China, futuros de soja operan estables",
+        "url": "https://es.finance.yahoo.com/noticias/futuros-soja-cotizan-estables-espera-183521393.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Futuros de la soja cotizan estables a la espera de la cumbre entre EEUU y China",
+        "capturado": "2026-09-22T15:22:30-05:00"
+      },
+      {
+        "titulo": "Trump afirma que hubo un encuentro muy productivo entre EE. UU. e Irán en NY",
+        "url": "https://es.finance.yahoo.com/noticias/trump-ee-uu-ir%C3%A1n-sostuvieron-180831978.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Trump dice que EE.UU. e Irán sostuvieron una reunión “muy productiva” en Nueva York",
+        "capturado": "2026-09-22T15:22:30-05:00"
+      },
+      {
+        "titulo": "Medio día bursátil en Estados Unidos muestra indicadores mixtos",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-175933469.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos a media jornada.",
+        "capturado": "2026-09-22T15:22:30-05:00"
+      },
+      {
+        "titulo": "Apple crea un dispositivo de seguimiento físico para rivalizar con Whoop",
+        "url": "https://es.finance.yahoo.com/noticias/apple-desarrolla-monitor-actividad-f%C3%ADsica-172937568.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Apple desarrolla un monitor de actividad física para competir con Whoop",
+        "capturado": "2026-09-22T15:22:30-05:00"
+      },
+      {
+        "titulo": "Barkin de la Fed señala estabilización económica y alerta por la inflación",
+        "url": "https://es.finance.yahoo.com/noticias/barkin-fed-econom%C3%ADa-consolid%C3%A1ndose-advierte-171951844.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Barkin, de la Fed, dice que economía podría estar consolidándose y advierte sobre inflación",
+        "capturado": "2026-09-22T15:22:30-05:00"
+      },
+      {
+        "titulo": "Meta evalúa un asistente humano para Muse su flamante agente de IA",
+        "url": "https://es.finance.yahoo.com/noticias/meta-probando-conserje-humano-agente-171328743.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Meta está probando un \"conserje humano\" para su nuevo agente de IA personal, Muse",
+        "capturado": "2026-09-22T15:22:30-05:00"
+      },
+      {
+        "titulo": "ETFs al alza y mercado accionario de EE UU mixto pasada la mitad del día",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-suben-bolsa-estadounidense-171035624.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados suben, mientras que la bolsa estadounidense presenta resultados mixtos tras el mediodía",
+        "capturado": "2026-09-22T15:22:30-05:00"
+      },
       {
         "titulo": "Acciones de EE UU operan sin cambios previos a la apertura y crudo baja por diplomacia con Irán",
         "url": "https://es.finance.yahoo.com/noticias/futuros-acciones-estadounidenses-mantienen-pr%C3%A1cticamente-115703957.html",
@@ -419,70 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "El coste de tener un bebé en Europa, dónde son más baratos los productos esenciales",
         "capturado": "2026-09-20T01:42:38-05:00"
-      },
-      {
-        "titulo": "NVIDIA rechaza garantía de RTX 5090 por borrar serie con uso y descarta caja o factura",
-        "url": "https://es-us.noticias.yahoo.com/nvidia-niega-garant%C3%ADa-rtx-5090-003255539.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "NVIDIA niega la garantía de una RTX 5090 porque el número de serie se borró con el uso normal y no acepta la caja ni la factura como alternativa",
-        "capturado": "2026-09-20T01:42:38-05:00"
-      },
-      {
-        "titulo": "Beta del World of Warcraft supera previsiones de Blizzard con cifras nunca antes vistas",
-        "url": "https://es-us.noticias.yahoo.com/beta-world-of-warcraft-resultando-231016704.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Beta de World of Warcraft está resultando mucho más popular de lo que Blizzard esperaba: “los números más locos que he visto en 17 años trabajando”",
-        "capturado": "2026-09-20T01:42:38-05:00"
-      },
-      {
-        "titulo": "Causas del repentino interés de los bancos en las stablecoins y su relevancia potencial para usted",
-        "url": "https://es.finance.yahoo.com/noticias/bancos-repentinamente-quieren-stablecoins-ser-232600676.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿Por qué los bancos repentinamente quieren stablecoins y por qué eso podría ser importante para ti?",
-        "capturado": "2026-09-19T20:24:17-05:00"
-      },
-      {
-        "titulo": "Charles Hoskinson afirma que las criptomonedas absorberán la inteligencia artificial y explica el motivo",
-        "url": "https://es.finance.yahoo.com/noticias/charles-hoskinson-criptomonedas-absorber%C3%A1n-ia-215000810.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Charles Hoskinson: las criptomonedas absorberán la IA: ¿Cuál es su razonamiento?",
-        "capturado": "2026-09-19T18:20:38-05:00"
-      },
-      {
-        "titulo": "Ya se puede bajar sin costo la versión para computador de The Legend of Zelda Twilight Princess con mejoras",
-        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-port-pc-the-170913826.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Descarga gratis el port para PC de The Legend of Zelda Twilight Princess, que incluye modo aleatorio que cambia todo de lugar, mejoras gráficas y de rendimiento",
-        "capturado": "2026-09-19T18:20:38-05:00"
-      },
-      {
-        "titulo": "Musk contesta a Cathie Wood tras pronosticar diez billones en entradas para Starship",
-        "url": "https://es.finance.yahoo.com/noticias/cathie-wood-ve-10-billones-170014665.html",
-        "resumen": "",
-        "medio": "Benzinga Espana",
-        "titulo_fuente": "Cathie Wood ve 10 billones en ingresos para Starship: Musk responde",
-        "capturado": "2026-09-19T18:20:38-05:00"
-      },
-      {
-        "titulo": "Elon Musk afirma que la IA duplicará el avance de EE UU: ¿Es viable?",
-        "url": "https://es.finance.yahoo.com/noticias/elon-musk-ia-duplicar%C3%A1-crecimiento-193900567.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Elon Musk dice que la IA duplicará el crecimiento de EEUU: ¿Es posible?",
-        "capturado": "2026-09-19T16:18:56-05:00"
-      },
-      {
-        "titulo": "Trump anuncia que designará un nuevo consejero en inteligencia artificial",
-        "url": "https://es.finance.yahoo.com/noticias/trump-nombrar%C3%A1-asesor-materia-inteligencia-192344425.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Trump dice que nombrará a un nuevo asesor en materia de inteligencia artificial",
-        "capturado": "2026-09-19T16:18:56-05:00"
       }
     ]
   }
