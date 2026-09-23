@@ -1,9 +1,33 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-22T18:09:20-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-09-22T20:39:03-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "B3 introduce futuros de Bitcoin en dólares y diversifica sus opciones bursátiles",
+        "url": "https://es.finance.yahoo.com/noticias/b3-lanza-futuros-bitcoin-usd-232700689.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "B3 lanza futuros de Bitcoin en USD y amplía estrategias en la bolsa",
+        "capturado": "2026-09-22T20:39:03-05:00"
+      },
+      {
+        "titulo": "NVIDIA señala que la inteligencia artificial aumentará las pagas de oficios manuales por encima de 100000 dólares",
+        "url": "https://es-us.noticias.yahoo.com/olv%C3%ADdese-t%C3%ADtulo-universitario-nvidia-afirma-202346721.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "“Olvídese del título universitario”: NVIDIA afirma que la IA elevará los sueldos de trabajadores de oficios tradicionales por sobre los 100.000 dólares al año",
+        "capturado": "2026-09-22T20:39:03-05:00"
+      },
+      {
+        "titulo": "World of Warcraft avisa que sancionará con el cierre definitivo a quienes adquieran oro con dinero real",
+        "url": "https://es-us.noticias.yahoo.com/world-of-warcraft-advierte-jugadores-195429197.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "World of Warcraft advierte que los jugadores que compren oro con dinero real perderán sus cuentas de forma permanente",
+        "capturado": "2026-09-22T20:39:03-05:00"
+      },
       {
         "titulo": "Goldman Sachs y Deutsche Bank coinciden en que la subida del S&P 500 sigue",
         "url": "https://es.finance.yahoo.com/noticias/goldman-sachs-deutsche-bank-acuerdo-223800902.html",
@@ -459,30 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "EEUU lanza carrera cuántica por $215 millones: ¿Debería preocuparse Bitcoin?",
         "capturado": "2026-09-20T20:22:16-05:00"
-      },
-      {
-        "titulo": "Binance Wallet ofrecerá acceso previo a OPI próximamente bajo una condición",
-        "url": "https://es.finance.yahoo.com/noticias/pronto-podr%C3%A1s-obtener-exposici%C3%B3n-pre-212200369.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Pronto podrás obtener exposición pre-IPO en Binance Wallet, pero hay una condición",
-        "capturado": "2026-09-20T18:21:23-05:00"
-      },
-      {
-        "titulo": "Seis Premios Nobel de Economía contra Ripple por el tributo en California",
-        "url": "https://es.finance.yahoo.com/noticias/seis-premios-nobel-econom%C3%ADa-vs-185700446.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Seis Premios Nobel de Economía vs. Ripple: la pelea por el impuesto californiano",
-        "capturado": "2026-09-20T16:23:24-05:00"
-      },
-      {
-        "titulo": "Balance de la semana sobre criptoactivos y Bitcoin en América Latina y España del 20 de septiembre",
-        "url": "https://es.finance.yahoo.com/noticias/resumen-semanal-bitcoin-criptomonedas-espa%C3%B1a-163800645.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Resumen semanal de Bitcoin y criptomonedas: España y América Latina – 20 de septiembre",
-        "capturado": "2026-09-20T13:57:41-05:00"
       }
     ]
   }
