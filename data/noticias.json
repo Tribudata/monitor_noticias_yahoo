@@ -1,9 +1,41 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-23T12:44:18-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-09-23T16:09:42-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "El proyecto gasífero Syrius en Colombia entraría en la estrategia 2027-2031 de Petrobras",
+        "url": "https://es.finance.yahoo.com/noticias/petrobras-incluir-proyecto-gas-syrius-193747464.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Petrobras podría incluir proyecto de gas Syrius en Colombia en su plan de negocios 2027-2031",
+        "capturado": "2026-09-23T16:09:42-05:00"
+      },
+      {
+        "titulo": "Viceministro de Energía ve viable replicar en Colombia el modelo argentino de incentivo a inversiones",
+        "url": "https://es.finance.yahoo.com/noticias/modelo-est%C3%ADmulo-inversiones-argentina-ser-191428471.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Modelo de estímulo a inversiones de Argentina podría ser fácilmente aplicable en Colombia: Viceministro de Energía",
+        "capturado": "2026-09-23T16:09:42-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE UU bajan a mitad de rueda por la subida en los retornos de los bonos del Tesoro",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-175045067.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen a media jornada en medio del aumento de los rendimientos de los bonos del Tesoro.",
+        "capturado": "2026-09-23T16:09:42-05:00"
+      },
+      {
+        "titulo": "Descarga gratis Pokémon FireRed y LeafGreen para PC con juego en línea, mods y pantalla ancha, 22 años después de su lanzamiento en Game Boy Advance",
+        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-pok%C3%A9mon-firered-leafgreen-161901416.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Descarga gratis Pokémon FireRed y LeafGreen para PC con juego en línea, mods y pantalla ancha, 22 años después de su lanzamiento en Game Boy Advance",
+        "capturado": "2026-09-23T16:09:42-05:00"
+      },
       {
         "titulo": "Acciones y fondos cotizados de EE UU bajan pasada la una de la tarde",
         "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-acciones-estadounidenses-171556356.html",
@@ -450,38 +482,6 @@
         "resumen": "",
         "medio": "MT Newswires",
         "titulo_fuente": "Actualización: Los pesos pesados de los servicios de comunicación y la tecnología impulsan al alza los índices bursátiles estadounidenses mientras el petróleo crudo cae junto con los rendimientos de los bonos del Tesoro.",
-        "capturado": "2026-09-21T17:44:03-05:00"
-      },
-      {
-        "titulo": "Aumenta la renta de habitaciones en España por los elevados costos en los alquileres de apartamentos",
-        "url": "https://es.finance.yahoo.com/noticias/alquiler-habitaciones-crece-espa%C3%B1a-impulsado-201707986.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El alquiler de habitaciones crece en España impulsado por los altos precios de los arrendamientos de piso",
-        "capturado": "2026-09-21T17:44:03-05:00"
-      },
-      {
-        "titulo": "OpenAI y Anthropic evaluaron test de IA cruzados y el líder de Palantir afirma que una quizá jamás debute en bolsa",
-        "url": "https://es.finance.yahoo.com/noticias/openai-anthropic-consideraron-pruebas-ia-202000763.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "OpenAI y Anthropic consideraron pruebas de IA mutuas: el CEO de Palantir dice que una puede que nunca salga a bolsa",
-        "capturado": "2026-09-21T17:44:03-05:00"
-      },
-      {
-        "titulo": "Polo asciende a huracán y pone en riesgo zonas vacacionales de la costa pacífica mexicana",
-        "url": "https://es.finance.yahoo.com/noticias/polo-convierte-hurac%C3%A1n-amenaza-localidades-194026574.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Polo se convierte en huracán y amenaza a localidades turísticas del Pacífico mexicano",
-        "capturado": "2026-09-21T17:44:03-05:00"
-      },
-      {
-        "titulo": "Musalem afirma que el banco central estadounidense requeriría más subidas de tipos para frenar la inflación",
-        "url": "https://es.finance.yahoo.com/noticias/musalem-fed-necesitar-alzas-tasas-191805553.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Musalem dice que la Fed podría necesitar más alzas de tasas para frenar la inflación",
         "capturado": "2026-09-21T17:44:03-05:00"
       }
     ]
