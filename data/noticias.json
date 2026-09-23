@@ -1,9 +1,57 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-23T16:09:42-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-09-23T18:51:55-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Líder interina de Venezuela asegura comicios pero sin fijar día",
+        "url": "https://es.finance.yahoo.com/noticias/presidenta-encargada-venezuela-promete-elecciones-234010774.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Presidenta encargada de Venezuela promete elecciones, sin ofrecer fecha",
+        "capturado": "2026-09-23T18:51:55-05:00"
+      },
+      {
+        "titulo": "Fujimori impulsa nuevo programa forestal peruano por 300 millones de dólares",
+        "url": "https://es.finance.yahoo.com/noticias/fujimori-anuncia-relanzamiento-plan-reforestaci%C3%B3n-234051892.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Fujimori anuncia relanzamiento plan de reforestación en Perú con inversión de 300 millones de dólares",
+        "capturado": "2026-09-23T18:51:55-05:00"
+      },
+      {
+        "titulo": "De qué forma evoluciona el comercio de criptomonedas con inteligencia artificial y sin aranceles",
+        "url": "https://es.finance.yahoo.com/noticias/cambiando-trading-cripto-cero-comisiones-233500298.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿Cómo está cambiando el trading cripto con cero comisiones e IA?",
+        "capturado": "2026-09-23T18:51:55-05:00"
+      },
+      {
+        "titulo": "Inversores ejecutan jugadas históricas contra el crudo bajará de 70 dólares",
+        "url": "https://es.finance.yahoo.com/noticias/traders-realizan-apuestas-r%C3%A9cord-petr%C3%B3leo-220800746.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Traders realizan apuestas récord contra el petróleo: ¿Caerá por debajo de $70?",
+        "capturado": "2026-09-23T18:51:55-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE UU bajan porque el auge privado eleva tasas de bonos y apuestas de alza de la Fed",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-retroceden-211145889.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses retroceden a medida que el espectacular crecimiento del sector privado impulsa los rendimientos de los bonos del Tesoro y las apuestas de la Reserva Federal a una subida de tipos.",
+        "capturado": "2026-09-23T18:51:55-05:00"
+      },
+      {
+        "titulo": "Ledger ya incluye balances privados de Zcash y surge la duda de si impulsará el alza de ZEC",
+        "url": "https://es.finance.yahoo.com/noticias/ledger-a%C3%B1ade-saldos-privados-zcash-204100869.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Ledger por fin añade saldos privados de Zcash: ¿Ampliará el rally de ZEC?",
+        "capturado": "2026-09-23T18:51:55-05:00"
+      },
       {
         "titulo": "El proyecto gasífero Syrius en Colombia entraría en la estrategia 2027-2031 de Petrobras",
         "url": "https://es.finance.yahoo.com/noticias/petrobras-incluir-proyecto-gas-syrius-193747464.html",
@@ -435,54 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "Impulsada por la IA, AMD entra en el selecto club de fabricantes de chips del billón de dólares",
         "capturado": "2026-09-22T01:40:58-05:00"
-      },
-      {
-        "titulo": "Fondos de inversión españoles incrementan su apuesta por grandes transacciones inmobiliarias en 2026",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-inversi%C3%B3n-espa%C3%B1a-elevan-apuesta-040009871.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Los fondos de inversión en España elevan su apuesta por las principales operaciones inmobiliarias en 2026",
-        "capturado": "2026-09-22T01:40:58-05:00"
-      },
-      {
-        "titulo": "Jugadores denuncian ante Blizzard un bot de IA que derrotó a profesionales con estrategias extrañas",
-        "url": "https://es-us.noticias.yahoo.com/bot-ia-invadi%C3%B3-ladder-oficial-011332594.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Bot de IA invadió el ladder oficial de StarCraft por decisión propia y destruyó a pros con tácticas absurdas: jugadores reportaron la cuenta para que Blizzard la elimine",
-        "capturado": "2026-09-22T01:40:58-05:00"
-      },
-      {
-        "titulo": "Perspectiva USD/JPY: el yen vigila el soporte de 152 ante el inminente endurecimiento del Banco de Japón",
-        "url": "https://es.finance.yahoo.com/noticias/pron%C3%B3stico-usd-jpy-yen-pone-230800768.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Pronóstico del USD/JPY: el yen pone en foco el soporte en 152 mientras se avecina un endurecimiento del Banco de Japón",
-        "capturado": "2026-09-21T20:27:16-05:00"
-      },
-      {
-        "titulo": "OpenAI pide a Estados Unidos encabezar las normas mundiales para la inteligencia artificial avanzada",
-        "url": "https://es.finance.yahoo.com/noticias/openai-insta-ee-uu-liderar-195135485.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "OpenAI insta a EE.UU. a liderar estándares internacionales para la IA avanzada",
-        "capturado": "2026-09-21T20:27:16-05:00"
-      },
-      {
-        "titulo": "AMD llega a un valor bursátil de $1 billón y tres causas explican la ausencia de NVIDIA en el auge de la IA",
-        "url": "https://es.finance.yahoo.com/noticias/amd-alcanza-capitalizaci%C3%B3n-mercado-1-214700952.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "AMD alcanza una capitalización de mercado de $1 billón: Top 3 razones por las que NVIDIA se quedó fuera del rally de IA",
-        "capturado": "2026-09-21T17:44:03-05:00"
-      },
-      {
-        "titulo": "Reporte: El sector tecnológico y de servicios de comunicación sube las bolsas en EE. UU. ante la caída del petróleo y los bonos",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-pesos-pesados-servicios-comunicaci%C3%B3n-210945431.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los pesos pesados de los servicios de comunicación y la tecnología impulsan al alza los índices bursátiles estadounidenses mientras el petróleo crudo cae junto con los rendimientos de los bonos del Tesoro.",
-        "capturado": "2026-09-21T17:44:03-05:00"
       }
     ]
   }
