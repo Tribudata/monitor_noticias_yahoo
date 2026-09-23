@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-23T07:55:16-05:00",
+  "actualizado": "2026-09-23T12:44:18-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Acciones y fondos cotizados de EE UU bajan pasada la una de la tarde",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-acciones-estadounidenses-171556356.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa y las acciones estadounidenses caen después del mediodía.",
+        "capturado": "2026-09-23T12:44:18-05:00"
+      },
+      {
+        "titulo": "Datos señalan caída de compradores de trigo ruso por parálisis mercante en mar Negro",
+        "url": "https://es.finance.yahoo.com/noticias/rusia-compradores-trigo-estancamiento-comercio-171523513.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Rusia cuenta con menos compradores de trigo por estancamiento de comercio en mar Negro, muestran datos",
+        "capturado": "2026-09-23T12:44:18-05:00"
+      },
+      {
+        "titulo": "Campaña presidencial francesa gira en torno a carestía y crisis de combustibles",
+        "url": "https://es.finance.yahoo.com/noticias/francia-precios-combustible-alza-enfado-164158030.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Francia, la crisis del combustible y los altos precios marcan la campaña presidencial",
+        "capturado": "2026-09-23T12:44:18-05:00"
+      },
+      {
+        "titulo": "Un estudio indica que el incremento de carburantes vale 270 millones diarios a la UE",
+        "url": "https://es.finance.yahoo.com/noticias/alza-combustibles-cuesta-ue-270-142357309.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El alza de los combustibles cuesta a la UE 270 millones diarios, según un informe",
+        "capturado": "2026-09-23T12:44:18-05:00"
+      },
+      {
+        "titulo": "Bessent dialogará con He sobre pendientes previos a la cita Trump-Xi",
+        "url": "https://es.finance.yahoo.com/noticias/bessent-reunir%C3%A1-chino-tratar-asuntos-155303035.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Bessent se reunirá con chino He para tratar \"asuntos pendientes\" antes de cumbre Trump-Xi",
+        "capturado": "2026-09-23T12:44:18-05:00"
+      },
+      {
+        "titulo": "India agiliza tratos comerciales con México y Canadá frente a aranceles de Trump",
+        "url": "https://es.finance.yahoo.com/noticias/india-acelera-negociaciones-comerciales-m%C3%A9xico-145226246.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "India acelera negociaciones comerciales con México y Canadá ante aranceles de Trump",
+        "capturado": "2026-09-23T12:44:18-05:00"
+      },
+      {
+        "titulo": "Barr de la Fed señala que posiblemente se requerirán nuevas subidas de tasas",
+        "url": "https://es.finance.yahoo.com/noticias/barr-fed-probablemente-necesarias-alzas-144109629.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Barr de la Fed dice que probablemente serán necesarias nuevas alzas de tasas",
+        "capturado": "2026-09-23T12:44:18-05:00"
+      },
+      {
+        "titulo": "El ritmo de expansión empresarial en EE.UU. supera el de más de cinco años",
+        "url": "https://es.finance.yahoo.com/noticias/actividad-empresarial-ee-uu-crece-141019872.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Actividad empresarial de EE.UU. crece al ritmo más rápido en más de cinco años",
+        "capturado": "2026-09-23T12:44:18-05:00"
+      },
       {
         "titulo": "Apertura a la baja en futuros de acciones en EE. UU. a la espera de diálogos con Irán según operadores",
         "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-futuros-acciones-estadounidenses-registran-124858954.html",
@@ -419,70 +483,6 @@
         "medio": "Bloomberg",
         "titulo_fuente": "Musalem dice que la Fed podría necesitar más alzas de tasas para frenar la inflación",
         "capturado": "2026-09-21T17:44:03-05:00"
-      },
-      {
-        "titulo": "Principales 3 liberaciones de tokens en la cuarta semana de septiembre de 2026",
-        "url": "https://es.finance.yahoo.com/noticias/top-3-desbloqueos-tokens-4ta-185500203.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Top 3 desbloqueos de tokens: 4ta semana de septiembre de 2026",
-        "capturado": "2026-09-21T14:05:31-05:00"
-      },
-      {
-        "titulo": "Paramount alcanza pacto con California y más estados por integración con Warner Bros según Bloomberg News",
-        "url": "https://es.finance.yahoo.com/noticias/paramount-llega-acuerdo-california-estados-185446384.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Paramount llega a acuerdo con California y otros estados sobre fusión con Warner Bros: Bloomberg News",
-        "capturado": "2026-09-21T14:05:31-05:00"
-      },
-      {
-        "titulo": "Riyadh incrementa venta externa de crudo vía golfo Pérsico tras atentado a tubo según cifras",
-        "url": "https://es.finance.yahoo.com/noticias/arabia-saudita-eleva-exportaci%C3%B3n-petr%C3%B3leo-181105634.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Arabia Saudita eleva exportación de petróleo por el golfo Pérsico tras ataque a oleoducto: datos",
-        "capturado": "2026-09-21T14:05:31-05:00"
-      },
-      {
-        "titulo": "Modificación: Bolsas de EE. UU. suben por alza de grandes tecnológicas y de comunicación con crudo a la baja",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-avanzan-180405537.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses avanzan gracias al repunte de los gigantes de los servicios de comunicación y la tecnología en medio de la caída del petróleo crudo.",
-        "capturado": "2026-09-21T14:05:31-05:00"
-      },
-      {
-        "titulo": "OpenAI pide a Estados Unidos encabezar iniciativas globales para crear estándares tecnológicos",
-        "url": "https://es.finance.yahoo.com/noticias/openai-insta-eeuu-liderar-esfuerzos-173322639.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "OpenAI insta a EEUU a liderar los esfuerzos mundiales para desarrollar normas técnicas",
-        "capturado": "2026-09-21T14:05:31-05:00"
-      },
-      {
-        "titulo": "Fraudes con inteligencia artificial crecen en criptomonedas y KuCoin lanza un protocolo de seguridad",
-        "url": "https://es.finance.yahoo.com/noticias/estafas-ia-aumentan-mundo-cripto-173200725.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Las estafas con IA aumentan en el mundo cripto: KuCoin apuesta por un nuevo estándar de seguridad",
-        "capturado": "2026-09-21T14:05:31-05:00"
-      },
-      {
-        "titulo": "Lula afirma que Brasil aprovechará el cupo sobrante para exportar carne bovina uruguaya a China",
-        "url": "https://es.finance.yahoo.com/noticias/lula-brasil-usar%C3%A1-excedente-cuota-172950235.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Lula dice que Brasil usará excedente de cuota de exportación de carne de vacuno de Uruguay a China",
-        "capturado": "2026-09-21T14:05:31-05:00"
-      },
-      {
-        "titulo": "La agencia FAA cancela varios vuelos en el oriente de EE UU por fallas en las comunicaciones",
-        "url": "https://es.finance.yahoo.com/noticias/faa-suspende-vuelos-costa-eeuu-171640389.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "La FAA suspende algunos vuelos en la costa este de EEUU debido a problemas de comunicación",
-        "capturado": "2026-09-21T14:05:31-05:00"
       }
     ]
   }
