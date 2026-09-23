@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-23T02:25:08-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-23T07:55:16-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Apertura a la baja en futuros de acciones en EE. UU. a la espera de diálogos con Irán según operadores",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-futuros-acciones-estadounidenses-registran-124858954.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los futuros sobre acciones estadounidenses registran un ligero descenso antes de la apertura, mientras los operadores esperan novedades sobre las negociaciones entre EE. UU. e Irán",
+        "capturado": "2026-09-23T07:55:16-05:00"
+      },
+      {
+        "titulo": "Makhlouf advierte intervención del BCE ante posibles efectos de segunda ronda sobre la inflación",
+        "url": "https://es.finance.yahoo.com/noticias/bce-volver-intervenir-producen-efectos-122949062.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "BCE tendrá que volver a intervenir si se producen efectos de segunda ronda en la inflación: Makhlouf",
+        "capturado": "2026-09-23T07:55:16-05:00"
+      },
+      {
+        "titulo": "Ejecutivo de IGU prevé escasez de gas global prolongada por conflicto en Irán según precios",
+        "url": "https://es.finance.yahoo.com/noticias/precios-mercado-mundial-gas-estiman-121941402.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Precios del mercado mundial del gas estiman escasez prolongada por guerra en Irán, dice ejecutivo de IGU",
+        "capturado": "2026-09-23T07:55:16-05:00"
+      },
+      {
+        "titulo": "Morning Briefing Español reporta encuentro entre Trump y Xi para tratar temas sobre Ormuz",
+        "url": "https://es.finance.yahoo.com/noticias/trump-recibe-xi-di%C3%A1logo-ormuz-121014677.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Trump recibe a Xi; diálogo sobre Ormuz: Morning Briefing Español",
+        "capturado": "2026-09-23T07:55:16-05:00"
+      },
+      {
+        "titulo": "Director ejecutivo de Strive proyecta alza indefinida del Bitcoin ante crisis de deuda en dólares",
+        "url": "https://es.finance.yahoo.com/noticias/ceo-strive-bitcoin-subir-infinito-120200937.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "CEO de Strive: Bitcoin podría “subir hasta el infinito”, mientras la crisis de deuda en dólares empeora",
+        "capturado": "2026-09-23T07:55:16-05:00"
+      },
+      {
+        "titulo": "Acciones de EE UU muestran leve descenso previo a la apertura a la espera de diálogos entre EE UU e Irán",
+        "url": "https://es.finance.yahoo.com/noticias/futuros-acciones-estadounidenses-registran-ligera-115549632.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los futuros de las acciones estadounidenses registran una ligera caída antes de la apertura del mercado, mientras los operadores esperan novedades en las conversaciones entre Estados Unidos e Irán.",
+        "capturado": "2026-09-23T07:55:16-05:00"
+      },
+      {
+        "titulo": "Conagra señala que la IA transforma la selección de snacks en Estados Unidos",
+        "url": "https://es.finance.yahoo.com/noticias/ia-cambiando-forma-estadounidenses-eligen-115414815.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "La IA está cambiando la forma en que los estadounidenses eligen los aperitivos, según Conagra",
+        "capturado": "2026-09-23T07:55:16-05:00"
+      },
+      {
+        "titulo": "Bandas externas de precipitaciones del huracán Polo alcanzan el litoral mexicano",
+        "url": "https://es.finance.yahoo.com/noticias/bandas-exteriores-lluvia-hurac%C3%A1n-polo-114852408.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Bandas exteriores de lluvia del huracán Polo llegan a la costa de México",
+        "capturado": "2026-09-23T07:55:16-05:00"
+      },
       {
         "titulo": "Documento revela que EE. UU. aportará 7.000 millones para minería y energía en Argentina",
         "url": "https://es.finance.yahoo.com/noticias/eeuu-financiar%C3%A1-proyectos-mineros-energ%C3%A9ticos-061937785.html",
@@ -419,70 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "La FAA suspende algunos vuelos en la costa este de EEUU debido a problemas de comunicación",
         "capturado": "2026-09-21T14:05:31-05:00"
-      },
-      {
-        "titulo": "Fondos cotizados y futuros accionarios avanzan este lunes al comenzar la jornada y el crudo desciende",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-suben-futuros-132324597.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa suben y los futuros de renta variable repuntan el lunes antes de la apertura del mercado, mientras que los precios del petróleo bajan.",
-        "capturado": "2026-09-21T08:40:09-05:00"
-      },
-      {
-        "titulo": "Apertura de mercados: la baja en la cotización petrolera estimula los futuros accionarios en EE UU",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-ca%C3%ADda-precio-petr%C3%B3leo-impulsa-124934131.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: La caída del precio del petróleo impulsa los futuros de las acciones estadounidenses antes de la apertura del mercado.",
-        "capturado": "2026-09-21T08:40:09-05:00"
-      },
-      {
-        "titulo": "El BCE presenta Pontes para saldar activos tokenizados mediante fondos del banco central",
-        "url": "https://es.finance.yahoo.com/noticias/bce-lanza-pontes-liquidar-activos-124006131.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El BCE lanza \"Pontes\" para liquidar activos tokenizados en dinero del banco central",
-        "capturado": "2026-09-21T08:40:09-05:00"
-      },
-      {
-        "titulo": "Qatar rechaza gasoducto alterno a Ormuz y replantea la estrategia de su fondo soberano",
-        "url": "https://es.finance.yahoo.com/noticias/catar-descarta-gasoducto-alternativo-hormuz-115441948.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Qatar descarta un gasoducto alternativo a Ormuz y redefine la estrategia de su fondo soberano",
-        "capturado": "2026-09-21T08:40:09-05:00"
-      },
-      {
-        "titulo": "Merz asegura contar con el apoyo de la CDU para mantenerse como canciller de Alemania",
-        "url": "https://es.finance.yahoo.com/noticias/merz-afirma-respaldo-cdu-seguir-122655964.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Merz afirma tener respaldo del CDU para seguir como canciller de Alemania",
-        "capturado": "2026-09-21T08:40:09-05:00"
-      },
-      {
-        "titulo": "MicroStrategy retoma sus adquisiciones tras quince días al comprar 950 Bitcoin",
-        "url": "https://es.finance.yahoo.com/noticias/microstrategy-termina-pausa-semanas-compra-121459437.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "MicroStrategy termina una pausa de dos semanas con la compra de 950 Bitcoin: ¿se está desacelerando su motor de compras?",
-        "capturado": "2026-09-21T08:40:09-05:00"
-      },
-      {
-        "titulo": "Diálogo favorable entre Estados Unidos y China según informe matutino",
-        "url": "https://es.finance.yahoo.com/noticias/negociaciones-constructivas-eeuu-china-morning-120832700.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Negociaciones constructivas EEUU-China: Morning Briefing Español",
-        "capturado": "2026-09-21T08:40:09-05:00"
-      },
-      {
-        "titulo": "Dan Ives ve un ochenta por ciento de opciones en la unión entre Tesla y SpaceX",
-        "url": "https://es.finance.yahoo.com/noticias/ives-pone-fusi%C3%B3n-tesla-spacex-120300032.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Dan Ives pone la fusión de Tesla y SpaceX con un 80% de probabilidad: ¿Se convertirá en la empresa más grande del mundo?",
-        "capturado": "2026-09-21T08:40:09-05:00"
       }
     ]
   }
