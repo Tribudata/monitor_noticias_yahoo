@@ -1,9 +1,49 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-22T20:39:03-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-09-23T02:25:08-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Documento revela que EE. UU. aportará 7.000 millones para minería y energía en Argentina",
+        "url": "https://es.finance.yahoo.com/noticias/eeuu-financiar%C3%A1-proyectos-mineros-energ%C3%A9ticos-061937785.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "EEUU financiará proyectos mineros y energéticos en Argentina con 7.000 millones, según documento",
+        "capturado": "2026-09-23T02:25:08-05:00"
+      },
+      {
+        "titulo": "Europa eludiría una gran falta de queroseno, mas los terminales aéreos menores continúan amenazados",
+        "url": "https://es.finance.yahoo.com/noticias/europa-evitar-escasez-queroseno-aeropuertos-053025657.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Europa podría evitar escasez mayor de queroseno, pero los aeropuertos pequeños siguen en riesgo",
+        "capturado": "2026-09-23T02:25:08-05:00"
+      },
+      {
+        "titulo": "Dificultad generacional: jóvenes de Europa se quedan sin la posibilidad de adquirir vivienda",
+        "url": "https://es.finance.yahoo.com/noticias/j%C3%B3venes-europeos-acceso-vivienda-comprar-043046195.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Crisis generacional: los jóvenes europeos se quedan sin poder acceder a una vivienda",
+        "capturado": "2026-09-23T02:25:08-05:00"
+      },
+      {
+        "titulo": "Petróleo baja su valor luego de acercamiento diplomático entre Estados Unidos e Irán en la ONU",
+        "url": "https://es.finance.yahoo.com/noticias/petr%C3%B3leo-cae-debajo-100-d%C3%B3lares-053912509.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El precio del petróleo cae tras el acercamiento entre Estados Unidos e Irán en la ONU",
+        "capturado": "2026-09-23T02:25:08-05:00"
+      },
+      {
+        "titulo": "AMD reduce de 80 GB a 1,7 GB la memoria para vegetación en ray tracing y permite sobre 25.000 plantas",
+        "url": "https://es-us.noticias.yahoo.com/amd-baja-80-gb-1-225434516.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "AMD baja de 80 GB a solo 1,7 GB la memoria que necesita el ray tracing para mostrar vegetación, haciendo posible escenas con más de 25.000 plantas sin perder rendimiento",
+        "capturado": "2026-09-23T02:25:08-05:00"
+      },
       {
         "titulo": "B3 introduce futuros de Bitcoin en dólares y diversifica sus opciones bursátiles",
         "url": "https://es.finance.yahoo.com/noticias/b3-lanza-futuros-bitcoin-usd-232700689.html",
@@ -443,46 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "Dan Ives pone la fusión de Tesla y SpaceX con un 80% de probabilidad: ¿Se convertirá en la empresa más grande del mundo?",
         "capturado": "2026-09-21T08:40:09-05:00"
-      },
-      {
-        "titulo": "El gran interrogante: Puede un fenómeno viral volverse una firma mundial",
-        "url": "https://es.finance.yahoo.com/noticias/pregunta-sensaci%C3%B3n-viral-convertirse-marca-041550215.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "The Big Question: ¿Puede una sensación viral convertirse en una marca global?",
-        "capturado": "2026-09-21T01:48:21-05:00"
-      },
-      {
-        "titulo": "Los pasivos galos van hacia su punto más elevado desde 1978",
-        "url": "https://es.finance.yahoo.com/noticias/deuda-francia-encamina-nivel-alto-034536762.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La deuda de Francia se encamina a su nivel más alto desde 1978",
-        "capturado": "2026-09-21T01:48:21-05:00"
-      },
-      {
-        "titulo": "Por qué razón Disney cuenta con un lugar de competencia consolidado",
-        "url": "https://es.finance.yahoo.com/noticias/disney-posici%C3%B3n-competitiva-establecida-231000258.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "¿Por qué Disney tiene una posición competitiva establecida?",
-        "capturado": "2026-09-21T01:48:21-05:00"
-      },
-      {
-        "titulo": "Se alista Michael Saylor para adquirir mayor cantidad de Bitcoin",
-        "url": "https://es.finance.yahoo.com/noticias/michael-saylor-prepara-comprar-bitcoin-230000528.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "¿Michael Saylor se prepara para comprar más Bitcoin?",
-        "capturado": "2026-09-21T01:48:21-05:00"
-      },
-      {
-        "titulo": "EE. UU. inicia carrera cuántica con 215 millones de dólares y surgen dudas sobre el impacto en Bitcoin",
-        "url": "https://es.finance.yahoo.com/noticias/eeuu-lanza-carrera-cu%C3%A1ntica-215-233600073.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "EEUU lanza carrera cuántica por $215 millones: ¿Debería preocuparse Bitcoin?",
-        "capturado": "2026-09-20T20:22:16-05:00"
       }
     ]
   }
