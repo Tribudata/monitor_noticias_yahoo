@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-24T13:33:50-05:00",
+  "actualizado": "2026-09-24T17:00:14-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Wall Street termina con variaciones diversas por subida del crudo y tono restrictivo de la Fed en bonos",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-cierran-211839131.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses cierran con resultados mixtos, ya que el alza del petróleo crudo y el discurso restrictivo de la Reserva Federal impulsan al alza los rendimientos de los bonos del Tesoro.",
+        "capturado": "2026-09-24T17:00:14-05:00"
+      },
+      {
+        "titulo": "Informe: Ciberataque a la plataforma Bitget supera los 170 millones de dólares",
+        "url": "https://es.finance.yahoo.com/noticias/reporta-exchange-bitget-hackeado-170-205821818.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Reporte: Hackean el exchange Bitget por más de 170 millones de dólares",
+        "capturado": "2026-09-24T17:00:14-05:00"
+      },
+      {
+        "titulo": "Banco Mundial avala 200 millones de dólares en créditos extra para Colombia por sismo",
+        "url": "https://es.finance.yahoo.com/noticias/banco-mundial-aprueba-200-millones-203847855.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Banco Mundial aprueba 200 millones de dólares de financiación adicional a Colombia para atender terremoto",
+        "capturado": "2026-09-24T17:00:14-05:00"
+      },
+      {
+        "titulo": "Partidarios de Trump aumentan presión sobre el director de Anthropic, Dario Amodei",
+        "url": "https://es.finance.yahoo.com/noticias/aliados-trump-escalan-presi%C3%B3n-ceo-201900070.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Aliados de Trump escalan presión contra el CEO de Anthropic, Dario Amodei: ¿Por qué?",
+        "capturado": "2026-09-24T17:00:14-05:00"
+      },
+      {
+        "titulo": "El MIT detalla las posibles consecuencias tras el colapso de la burbuja de la inteligencia artificial",
+        "url": "https://es.finance.yahoo.com/noticias/mit-explica-suceder-burbuja-ia-201900341.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "MIT explica qué podría suceder cuando la burbuja de la IA estalle",
+        "capturado": "2026-09-24T17:00:14-05:00"
+      },
+      {
+        "titulo": "Joaquín Gutiérrez asume la presidencia de la compañía petrolera nacional Ecopetrol",
+        "url": "https://es.finance.yahoo.com/noticias/nombran-presidente-conglomerado-energ%C3%A9tico-colombiano-193705780.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Nombran como presidente de conglomerado energético colombiano Ecopetrol a Joaquín Gutiérrez",
+        "capturado": "2026-09-24T17:00:14-05:00"
+      },
+      {
+        "titulo": "Un estudio señala que las declaraciones y entrevistas del BCE agitan los mercados al igual que sus medidas",
+        "url": "https://es.finance.yahoo.com/noticias/discursos-entrevistas-bce-mueven-mercados-190617051.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Los discursos y entrevistas del BCE mueven los mercados como las decisiones, según un estudio",
+        "capturado": "2026-09-24T17:00:14-05:00"
+      },
+      {
+        "titulo": "XRP exhibe tres indicios positivos previo a un octubre tradicionalmente flojo",
+        "url": "https://es.finance.yahoo.com/noticias/xrp-muestra-3-se%C3%B1ales-alcistas-190100564.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "XRP muestra 3 señales alcistas antes de un octubre históricamente débil",
+        "capturado": "2026-09-24T17:00:14-05:00"
+      },
       {
         "titulo": "Bolsas de EE. UU. a la baja, tasa del bono a 30 años en máximo de 20 años y crudo al alza",
         "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-175735733.html",
@@ -419,70 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "Goldman Sachs y Deutsche Bank están de acuerdo: el rally del S&P 500 no ha terminado",
         "capturado": "2026-09-22T18:09:20-05:00"
-      },
-      {
-        "titulo": "Trump respalda vetar ventas externas de diésel con precios en máximos",
-        "url": "https://es.finance.yahoo.com/noticias/trump-apoya-prohibici%C3%B3n-exportaci%C3%B3n-di%C3%A9sel-214408867.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Trump apoya una prohibición a la exportación de diésel mientras los precios alcanzan récords",
-        "capturado": "2026-09-22T18:09:20-05:00"
-      },
-      {
-        "titulo": "Director ejecutivo de Strategy afirma que Jamie Dimon apoya el bitcóin en secreto",
-        "url": "https://es.finance.yahoo.com/noticias/ceo-strategy-jamie-dimon-bitcoiner-212300623.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "CEO de Strategy dice que Jamie Dimon es bitcoiner en privado",
-        "capturado": "2026-09-22T18:09:20-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE UU cierran mixtas y bajan tasas de bonos del Tesoro y petróleo",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-cierran-210204600.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses cierran con resultados mixtos, mientras que los rendimientos de los bonos del Tesoro retroceden junto con el petróleo crudo.",
-        "capturado": "2026-09-22T18:09:20-05:00"
-      },
-      {
-        "titulo": "OpenAI y Anthropic presentan nuevas versiones de inteligencia artificial",
-        "url": "https://es.finance.yahoo.com/noticias/openai-anthropic-lanzan-modelos-ia-204948637.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "OpenAI y Anthropic lanzan nuevos modelos de IA: conozca los detalles",
-        "capturado": "2026-09-22T18:09:20-05:00"
-      },
-      {
-        "titulo": "ADA llega a un pico de cuatro meses tras integrar x402 para pagos de agentes de inteligencia artificial",
-        "url": "https://es.finance.yahoo.com/noticias/cardano-habilita-pagos-agentes-ia-194900111.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Cardano habilita pagos de agentes de IA con x402: ADA alcanza un máximo de 4 meses",
-        "capturado": "2026-09-22T18:09:20-05:00"
-      },
-      {
-        "titulo": "Según reporte patrimonial, Trump negoció acciones de SpaceX de Musk en julio",
-        "url": "https://es.finance.yahoo.com/noticias/trump-compr%C3%B3-vendi%C3%B3-acciones-spacex-192307191.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Trump compró y vendió acciones de SpaceX, la empresa de Musk, en julio, según declaración patrimonial",
-        "capturado": "2026-09-22T15:22:30-05:00"
-      },
-      {
-        "titulo": "A la espera de cita entre EE. UU. y China, futuros de soja operan estables",
-        "url": "https://es.finance.yahoo.com/noticias/futuros-soja-cotizan-estables-espera-183521393.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Futuros de la soja cotizan estables a la espera de la cumbre entre EEUU y China",
-        "capturado": "2026-09-22T15:22:30-05:00"
-      },
-      {
-        "titulo": "Trump afirma que hubo un encuentro muy productivo entre EE. UU. e Irán en NY",
-        "url": "https://es.finance.yahoo.com/noticias/trump-ee-uu-ir%C3%A1n-sostuvieron-180831978.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Trump dice que EE.UU. e Irán sostuvieron una reunión “muy productiva” en Nueva York",
-        "capturado": "2026-09-22T15:22:30-05:00"
       }
     ]
   }
