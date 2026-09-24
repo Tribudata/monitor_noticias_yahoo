@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-23T18:51:55-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-09-23T22:25:29-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Kast asegura que el restablecimiento de vínculos con Venezuela irá paso a paso",
+        "url": "https://es.finance.yahoo.com/noticias/chileno-kast-reactivaci%C3%B3n-relaciones-venezuela-001207149.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Chileno Kast dice reactivación de relaciones con Venezuela avanzará \"paso a paso\"",
+        "capturado": "2026-09-23T22:25:29-05:00"
+      },
+      {
+        "titulo": "Iniciativa para jugar PS5 en PC sin emulación revela progresos y saldrá con un título listo",
+        "url": "https://es-us.noticias.yahoo.com/proyecto-ejecutar-juegos-ps5-pc-222315541.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Proyecto para ejecutar juegos de PS5 en PC sin emulación muestra sus primeros avances y se lanzará cuando al menos un título corra completo",
+        "capturado": "2026-09-23T22:25:29-05:00"
+      },
       {
         "titulo": "Líder interina de Venezuela asegura comicios pero sin fijar día",
         "url": "https://es.finance.yahoo.com/noticias/presidenta-encargada-venezuela-promete-elecciones-234010774.html",
@@ -466,22 +482,6 @@
         "resumen": "",
         "medio": "Euronews",
         "titulo_fuente": "Los impuestos a los carburantes en Europa al detalle: qué país grava más la gasolina",
-        "capturado": "2026-09-22T01:40:58-05:00"
-      },
-      {
-        "titulo": "Pericia financiera de la City londinense se vincula con las reformas de inversión de Taskent",
-        "url": "https://es.finance.yahoo.com/noticias/experiencia-financiera-city-londres-acerca-040242867.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La experiencia financiera de la City de Londres se acerca a las reformas de inversión de Taskent",
-        "capturado": "2026-09-22T01:40:58-05:00"
-      },
-      {
-        "titulo": "Impulsada por inteligencia artificial, AMD ingresa al exclusivo grupo de fabricantes de chips de un billón de dólares",
-        "url": "https://es.finance.yahoo.com/noticias/amd-entra-selecto-club-fabricantes-050205398.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Impulsada por la IA, AMD entra en el selecto club de fabricantes de chips del billón de dólares",
         "capturado": "2026-09-22T01:40:58-05:00"
       }
     ]
