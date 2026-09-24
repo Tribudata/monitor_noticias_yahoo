@@ -1,9 +1,65 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-23T22:25:29-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-09-24T03:40:45-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Sustraen 20 millones de dólares en XRP a miles de billeteras físicas",
+        "url": "https://es.finance.yahoo.com/noticias/20-millones-xrp-robados-miles-074600026.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "$20 millones en XRP son robados de miles de hardware wallets",
+        "capturado": "2026-09-24T03:40:45-05:00"
+      },
+      {
+        "titulo": "Binance incluye a Hyperliquid con tres pares al contado desde hoy",
+        "url": "https://es.finance.yahoo.com/noticias/binance-lista-hyperliquid-hype-3-074623957.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Binance lista Hyperliquid (HYPE) con 3 pares spot que se activan hoy",
+        "capturado": "2026-09-24T03:40:45-05:00"
+      },
+      {
+        "titulo": "La UE registra topes en hidrocarburos y el BCE avizora pico del diésel",
+        "url": "https://es.finance.yahoo.com/noticias/ue-marca-r%C3%A9cords-precio-combustible-050017541.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "La UE marca récords en el precio del combustible, el BCE prevé pico del margen del diésel en octubre",
+        "capturado": "2026-09-24T03:40:45-05:00"
+      },
+      {
+        "titulo": "Bolsas presentan comportamiento mixto por altibajos de crudo y deuda USA",
+        "url": "https://es.finance.yahoo.com/noticias/mercados-muestran-mixtos-volatilidad-petr%C3%B3leo-061308641.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Los mercados se muestran mixtos ante la volatilidad del petróleo y la deuda estadounidense",
+        "capturado": "2026-09-24T03:40:45-05:00"
+      },
+      {
+        "titulo": "Washington y Pekín extienden pausa arancelaria y pactan buscar un tratado",
+        "url": "https://es.finance.yahoo.com/noticias/eeuu-china-acuerdan-prorrogar-tregua-055810858.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "EEUU y China acuerdan prorrogar la tregua comercial y trabajar en un acuerdo más amplio",
+        "capturado": "2026-09-24T03:40:45-05:00"
+      },
+      {
+        "titulo": "El encarecimiento energético en Europa eleva hasta 87% diez petroleras hacia 2026",
+        "url": "https://es.finance.yahoo.com/noticias/crisis-combustible-europa-dispara-87-040205974.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "La crisis de combustible en Europa dispara hasta un 87% estas 10 petroleras en 2026",
+        "capturado": "2026-09-24T03:40:45-05:00"
+      },
+      {
+        "titulo": "Turkish Airlines pacta con Boeing la adquisición de hasta 150 aeronaves 737 MAX",
+        "url": "https://es.finance.yahoo.com/noticias/turkish-airlines-encarga-150-aviones-044919884.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Turkish Airlines acuerda con Boeing la compra de hasta 150 aviones 737 MAX",
+        "capturado": "2026-09-24T03:40:45-05:00"
+      },
       {
         "titulo": "Kast asegura que el restablecimiento de vínculos con Venezuela irá paso a paso",
         "url": "https://es.finance.yahoo.com/noticias/chileno-kast-reactivaci%C3%B3n-relaciones-venezuela-001207149.html",
@@ -427,62 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Fuertes lluvias podrían retrasar cosecha de semillas oleaginosas y maíz en Ucrania, según agricultores",
         "capturado": "2026-09-22T07:23:12-05:00"
-      },
-      {
-        "titulo": "Wall Street sube impulsado por crudo pese a pausa tecnológica; bolsas de Asia y Europa avanzan",
-        "url": "https://es.finance.yahoo.com/noticias/repunte-tecnol%C3%B3gico-detiene-petr%C3%B3leo-blando-110942785.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "El repunte tecnológico se detiene, pero el petróleo blando impulsa a Wall Street antes de la apertura; Asia y Europa registran ganancias.",
-        "capturado": "2026-09-22T07:23:12-05:00"
-      },
-      {
-        "titulo": "Binance aporta 100 millones de dólares a Circle y surgen dudas sobre reacción accionaria",
-        "url": "https://es.finance.yahoo.com/noticias/binance-invierte-100-millones-circle-110812380.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Binance invierte $100 millones en Circle: ¿cómo reaccionarás las acciones?",
-        "capturado": "2026-09-22T07:23:12-05:00"
-      },
-      {
-        "titulo": "Arrendar un apartamento de un cuarto en Portugal vale 200 euros más que el sueldo básico",
-        "url": "https://es.finance.yahoo.com/noticias/alquilar-piso-t1-portugal-cuesta-102528294.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Alquilar un piso de una habitación en Portugal cuesta 200 euros más que el salario mínimo",
-        "capturado": "2026-09-22T07:23:12-05:00"
-      },
-      {
-        "titulo": "Las regulaciones de acumuladores hechos en Europa encarecen en 2.100 euros los carros eléctricos",
-        "url": "https://es.finance.yahoo.com/noticias/normas-bater%C3%ADas-made-in-europe-091518499.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Las normas de baterías 'Made in Europe' encarecen 2.100 euros los coches eléctricos",
-        "capturado": "2026-09-22T07:23:12-05:00"
-      },
-      {
-        "titulo": "República Checa acota las ganancias del combustible y reduce el tributo al diésel",
-        "url": "https://es.finance.yahoo.com/noticias/chequia-limita-m%C3%A1rgenes-combustible-baja-093730232.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Chequia limita los márgenes del combustible y baja el impuesto al diésel",
-        "capturado": "2026-09-22T07:23:12-05:00"
-      },
-      {
-        "titulo": "Unión Europea y Filipinas logran pacto relevante para un acuerdo comercial",
-        "url": "https://es.finance.yahoo.com/noticias/ue-filipinas-alcanzan-acuerdo-sustancial-054348639.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "La UE y Filipinas alcanzan un \"acuerdo sustancial\" para un tratado de libre comercio",
-        "capturado": "2026-09-22T01:40:58-05:00"
-      },
-      {
-        "titulo": "Tributos a los combustibles en Europa: nación con mayor gravamen a la gasolina",
-        "url": "https://es.finance.yahoo.com/noticias/impuestos-carburantes-europa-pa%C3%ADs-grava-035947904.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Los impuestos a los carburantes en Europa al detalle: qué país grava más la gasolina",
-        "capturado": "2026-09-22T01:40:58-05:00"
       }
     ]
   }
