@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-24T09:03:23-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-24T13:33:50-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Bolsas de EE. UU. a la baja, tasa del bono a 30 años en máximo de 20 años y crudo al alza",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-175735733.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen mientras que el rendimiento de los bonos del Tesoro a 30 años alcanza su nivel más alto en dos décadas y el petróleo crudo extiende sus ganancias.",
+        "capturado": "2026-09-24T13:33:50-05:00"
+      },
+      {
+        "titulo": "ETP con desempeño variado y títulos de EE. UU. en descenso pasado el mediodía",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-presentan-resultados-171353649.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa presentan resultados mixtos; las acciones estadounidenses caen tras el mediodía.",
+        "capturado": "2026-09-24T13:33:50-05:00"
+      },
+      {
+        "titulo": "Bentley presenta su carro eléctrico inicial y apunta a ser su referencia más económica",
+        "url": "https://es.finance.yahoo.com/noticias/bentley-lanza-coche-el%C3%A9ctrico-ser-141016109.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Bentley lanza su primer coche eléctrico: podría ser su modelo más barato",
+        "capturado": "2026-09-24T13:33:50-05:00"
+      },
+      {
+        "titulo": "Deuda oculta del FC Barcelona: solicita 300 millones de euros más y adeuda 2.6 mil millones",
+        "url": "https://es.finance.yahoo.com/noticias/factura-oculta-fc-barcelona-pide-162000170.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "La factura oculta del FC Barcelona: pide €300 millones más y ya debe €2.6 mil millones",
+        "capturado": "2026-09-24T13:33:50-05:00"
+      },
+      {
+        "titulo": "Europa deja de percibir 120.000 millones de euros anuales en inversión, de acuerdo con estudio",
+        "url": "https://es.finance.yahoo.com/noticias/europa-pierde-a%C3%B1o-120-000-152347025.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Europa pierde cada año 120.000 millones de euros de inversión, según un informe",
+        "capturado": "2026-09-24T13:33:50-05:00"
+      },
+      {
+        "titulo": "Sigue la caída del mercado de bonos y el retorno a 30 años en EE. UU. trepa a pico desde 2004",
+        "url": "https://es.finance.yahoo.com/noticias/desplome-mercado-bonos-contin%C3%BAa-rendimiento-145629597.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "El desplome del mercado de bonos continúa y rendimiento a 30 años en EEUU sube a máximo desde 2004",
+        "capturado": "2026-09-24T13:33:50-05:00"
+      },
+      {
+        "titulo": "El director ejecutivo de Anthropic advierte a la ONU que la IA representaría peligro humano",
+        "url": "https://es.finance.yahoo.com/noticias/ceo-anthropic-lanza-advertencia-onu-145400437.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "El CEO de Anthropic lanza otra advertencia, ahora a la ONU: “La IA podría ser un riesgo para la humanidad”",
+        "capturado": "2026-09-24T13:33:50-05:00"
+      },
+      {
+        "titulo": "Tendencia a la baja impera en los mercados financieros de Argentina",
+        "url": "https://es.finance.yahoo.com/noticias/sesgo-descendente-predomina-mercados-financieros-143937916.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Sesgo descendente predomina en mercados financieros de Argentina",
+        "capturado": "2026-09-24T13:33:50-05:00"
+      },
       {
         "titulo": "Sustraen 20 millones de dólares en XRP a miles de billeteras físicas",
         "url": "https://es.finance.yahoo.com/noticias/20-millones-xrp-robados-miles-074600026.html",
@@ -419,70 +483,6 @@
         "medio": "Bloomberg",
         "titulo_fuente": "Trump dice que EE.UU. e Irán sostuvieron una reunión “muy productiva” en Nueva York",
         "capturado": "2026-09-22T15:22:30-05:00"
-      },
-      {
-        "titulo": "Medio día bursátil en Estados Unidos muestra indicadores mixtos",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-175933469.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos a media jornada.",
-        "capturado": "2026-09-22T15:22:30-05:00"
-      },
-      {
-        "titulo": "Apple crea un dispositivo de seguimiento físico para rivalizar con Whoop",
-        "url": "https://es.finance.yahoo.com/noticias/apple-desarrolla-monitor-actividad-f%C3%ADsica-172937568.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Apple desarrolla un monitor de actividad física para competir con Whoop",
-        "capturado": "2026-09-22T15:22:30-05:00"
-      },
-      {
-        "titulo": "Barkin de la Fed señala estabilización económica y alerta por la inflación",
-        "url": "https://es.finance.yahoo.com/noticias/barkin-fed-econom%C3%ADa-consolid%C3%A1ndose-advierte-171951844.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Barkin, de la Fed, dice que economía podría estar consolidándose y advierte sobre inflación",
-        "capturado": "2026-09-22T15:22:30-05:00"
-      },
-      {
-        "titulo": "Meta evalúa un asistente humano para Muse su flamante agente de IA",
-        "url": "https://es.finance.yahoo.com/noticias/meta-probando-conserje-humano-agente-171328743.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Meta está probando un \"conserje humano\" para su nuevo agente de IA personal, Muse",
-        "capturado": "2026-09-22T15:22:30-05:00"
-      },
-      {
-        "titulo": "ETFs al alza y mercado accionario de EE UU mixto pasada la mitad del día",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-suben-bolsa-estadounidense-171035624.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados suben, mientras que la bolsa estadounidense presenta resultados mixtos tras el mediodía",
-        "capturado": "2026-09-22T15:22:30-05:00"
-      },
-      {
-        "titulo": "Acciones de EE UU operan sin cambios previos a la apertura y crudo baja por diplomacia con Irán",
-        "url": "https://es.finance.yahoo.com/noticias/futuros-acciones-estadounidenses-mantienen-pr%C3%A1cticamente-115703957.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los futuros de las acciones estadounidenses se mantienen prácticamente estables antes de la apertura, mientras los precios del petróleo caen en medio del optimismo por la diplomacia en el conflicto entre Estados Unidos e Irán.",
-        "capturado": "2026-09-22T07:23:12-05:00"
-      },
-      {
-        "titulo": "Zúrich encabeza el riesgo de burbuja en el sector inmobiliario según indicador de UBS",
-        "url": "https://es.finance.yahoo.com/noticias/%C3%ADndice-ubs-muestra-riesgo-burbuja-114508609.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "El índice de UBS muestra el mayor riesgo de burbuja inmobiliaria en Zúrich.",
-        "capturado": "2026-09-22T07:23:12-05:00"
-      },
-      {
-        "titulo": "Lluvias intensas amenazan con aplazar la recolección de maíz y oleaginosas ucranianas",
-        "url": "https://es.finance.yahoo.com/noticias/fuertes-lluvias-retrasar-cosecha-semillas-114441009.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Fuertes lluvias podrían retrasar cosecha de semillas oleaginosas y maíz en Ucrania, según agricultores",
-        "capturado": "2026-09-22T07:23:12-05:00"
       }
     ]
   }
