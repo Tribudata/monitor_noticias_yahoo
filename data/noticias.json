@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-25T00:53:20-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-25T06:17:26-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Pasivos europeos bajan luego de transacciones y préstamos para vivienda estadounidenses llegan a cima con Trump",
+        "url": "https://es.finance.yahoo.com/noticias/deuda-europea-cede-ventas-hipotecas-091004722.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "La deuda europea cede tras las ventas, las hipotecas en EE.UU. marcan máximos con Trump",
+        "capturado": "2026-09-25T06:17:26-05:00"
+      },
+      {
+        "titulo": "Enagás conserva su consejo de sostener y Berenberg sigue prudente frente al ciclo inversor en hidrógeno y pago",
+        "url": "https://es.finance.yahoo.com/noticias/enag%C3%A1s-mantiene-recomendaci%C3%B3n-mantener-berenberg-104226227.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Enagás mantiene su recomendación de \"mantener\" mientras Berenberg se mantiene \"cauteloso\" respecto al momento de la inversión en hidrógeno y la remuneración.",
+        "capturado": "2026-09-25T06:17:26-05:00"
+      },
+      {
+        "titulo": "Causas por las cuales Tether retorna USDT a Bitcoin según pista brindada por Morgan Stanley",
+        "url": "https://es.finance.yahoo.com/noticias/tether-llevando-usdt-regreso-bitcoin-103800457.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿Por qué Tether está llevando USDT de regreso a Bitcoin? Morgan Stanley da una pista",
+        "capturado": "2026-09-25T06:17:26-05:00"
+      },
+      {
+        "titulo": "ArcelorMittal reporta déficit de mil millones de dólares y frena labores en Ucrania tras bombardeos con misiles",
+        "url": "https://es.finance.yahoo.com/noticias/arcelormittal-anuncia-p%C3%A9rdida-1-000-094729549.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "ArcelorMittal anuncia una pérdida de 1.000 millones de dólares y suspende sus operaciones en Ucrania tras los ataques con misiles.",
+        "capturado": "2026-09-25T06:17:26-05:00"
+      },
+      {
+        "titulo": "Robert Kiyosaki señala que estas tres expresiones condenan a la pobreza a las personas",
+        "url": "https://es.finance.yahoo.com/noticias/robert-kiyosaki-3-frases-mantienen-091600719.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Robert Kiyosaki: estas 3 frases mantienen a las personas pobres",
+        "capturado": "2026-09-25T06:17:26-05:00"
+      },
+      {
+        "titulo": "Precio por criar un hijo en Europa: lugares con artículos básicos más económicos",
+        "url": "https://es.finance.yahoo.com/noticias/coste-beb%C3%A9-europa-d%C3%B3nde-baratos-050026765.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El coste de tener un bebé en Europa: ¿Dónde son más baratos los productos esenciales?",
+        "capturado": "2026-09-25T06:17:26-05:00"
+      },
+      {
+        "titulo": "Naciones europeas con ventajas tributarias superiores y la posición de España",
+        "url": "https://es.finance.yahoo.com/noticias/pa%C3%ADses-ofrecen-mejores-condiciones-fiscales-055230571.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "¿Qué países europeos ofrecen mejores condiciones fiscales y por qué España está entre los últimos?",
+        "capturado": "2026-09-25T06:17:26-05:00"
+      },
+      {
+        "titulo": "Estrategias estatales en Europa para mitigar el alza de la gasolina",
+        "url": "https://es.finance.yahoo.com/noticias/gobiernos-europeos-intentan-aliviar-impacto-065240938.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Las recetas de los gobiernos europeos para aliviar el encarecimiento del combustible",
+        "capturado": "2026-09-25T06:17:26-05:00"
+      },
       {
         "titulo": "BHP afirma que trabajos en Escondida chilena vuelven tras revisiones por incidente",
         "url": "https://es.finance.yahoo.com/noticias/bhp-labores-chilena-escondida-reanudan-000754577.html",
@@ -419,70 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "La IA está cambiando la forma en que los estadounidenses eligen los aperitivos, según Conagra",
         "capturado": "2026-09-23T07:55:16-05:00"
-      },
-      {
-        "titulo": "Bandas externas de precipitaciones del huracán Polo alcanzan el litoral mexicano",
-        "url": "https://es.finance.yahoo.com/noticias/bandas-exteriores-lluvia-hurac%C3%A1n-polo-114852408.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Bandas exteriores de lluvia del huracán Polo llegan a la costa de México",
-        "capturado": "2026-09-23T07:55:16-05:00"
-      },
-      {
-        "titulo": "Documento revela que EE. UU. aportará 7.000 millones para minería y energía en Argentina",
-        "url": "https://es.finance.yahoo.com/noticias/eeuu-financiar%C3%A1-proyectos-mineros-energ%C3%A9ticos-061937785.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "EEUU financiará proyectos mineros y energéticos en Argentina con 7.000 millones, según documento",
-        "capturado": "2026-09-23T02:25:08-05:00"
-      },
-      {
-        "titulo": "Europa eludiría una gran falta de queroseno, mas los terminales aéreos menores continúan amenazados",
-        "url": "https://es.finance.yahoo.com/noticias/europa-evitar-escasez-queroseno-aeropuertos-053025657.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Europa podría evitar escasez mayor de queroseno, pero los aeropuertos pequeños siguen en riesgo",
-        "capturado": "2026-09-23T02:25:08-05:00"
-      },
-      {
-        "titulo": "Dificultad generacional: jóvenes de Europa se quedan sin la posibilidad de adquirir vivienda",
-        "url": "https://es.finance.yahoo.com/noticias/j%C3%B3venes-europeos-acceso-vivienda-comprar-043046195.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Crisis generacional: los jóvenes europeos se quedan sin poder acceder a una vivienda",
-        "capturado": "2026-09-23T02:25:08-05:00"
-      },
-      {
-        "titulo": "Petróleo baja su valor luego de acercamiento diplomático entre Estados Unidos e Irán en la ONU",
-        "url": "https://es.finance.yahoo.com/noticias/petr%C3%B3leo-cae-debajo-100-d%C3%B3lares-053912509.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El precio del petróleo cae tras el acercamiento entre Estados Unidos e Irán en la ONU",
-        "capturado": "2026-09-23T02:25:08-05:00"
-      },
-      {
-        "titulo": "AMD reduce de 80 GB a 1,7 GB la memoria para vegetación en ray tracing y permite sobre 25.000 plantas",
-        "url": "https://es-us.noticias.yahoo.com/amd-baja-80-gb-1-225434516.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "AMD baja de 80 GB a solo 1,7 GB la memoria que necesita el ray tracing para mostrar vegetación, haciendo posible escenas con más de 25.000 plantas sin perder rendimiento",
-        "capturado": "2026-09-23T02:25:08-05:00"
-      },
-      {
-        "titulo": "B3 introduce futuros de Bitcoin en dólares y diversifica sus opciones bursátiles",
-        "url": "https://es.finance.yahoo.com/noticias/b3-lanza-futuros-bitcoin-usd-232700689.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "B3 lanza futuros de Bitcoin en USD y amplía estrategias en la bolsa",
-        "capturado": "2026-09-22T20:39:03-05:00"
-      },
-      {
-        "titulo": "NVIDIA señala que la inteligencia artificial aumentará las pagas de oficios manuales por encima de 100000 dólares",
-        "url": "https://es-us.noticias.yahoo.com/olv%C3%ADdese-t%C3%ADtulo-universitario-nvidia-afirma-202346721.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "“Olvídese del título universitario”: NVIDIA afirma que la IA elevará los sueldos de trabajadores de oficios tradicionales por sobre los 100.000 dólares al año",
-        "capturado": "2026-09-22T20:39:03-05:00"
       }
     ]
   }
