@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-24T17:00:14-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-09-24T19:40:26-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "BHP afirma que trabajos en Escondida chilena vuelven tras revisiones por incidente",
+        "url": "https://es.finance.yahoo.com/noticias/bhp-labores-chilena-escondida-reanudan-000754577.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "BHP dice labores en chilena Escondida se reanudan a medida que avanzan evaluaciones tras accidente",
+        "capturado": "2026-09-24T19:40:26-05:00"
+      },
+      {
+        "titulo": "Usuarios de Revolut padecen otro robo de información: el segundo en 30 días",
+        "url": "https://es.finance.yahoo.com/noticias/clientes-revolut-sufren-filtraci%C3%B3n-datos-224611652.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Clientes de Revolut sufren nueva filtración de datos: la segunda en un mes",
+        "capturado": "2026-09-24T19:40:26-05:00"
+      },
       {
         "titulo": "Wall Street termina con variaciones diversas por subida del crudo y tono restrictivo de la Fed en bonos",
         "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-cierran-211839131.html",
@@ -467,22 +483,6 @@
         "medio": "Tarreo",
         "titulo_fuente": "“Olvídese del título universitario”: NVIDIA afirma que la IA elevará los sueldos de trabajadores de oficios tradicionales por sobre los 100.000 dólares al año",
         "capturado": "2026-09-22T20:39:03-05:00"
-      },
-      {
-        "titulo": "World of Warcraft avisa que sancionará con el cierre definitivo a quienes adquieran oro con dinero real",
-        "url": "https://es-us.noticias.yahoo.com/world-of-warcraft-advierte-jugadores-195429197.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "World of Warcraft advierte que los jugadores que compren oro con dinero real perderán sus cuentas de forma permanente",
-        "capturado": "2026-09-22T20:39:03-05:00"
-      },
-      {
-        "titulo": "Goldman Sachs y Deutsche Bank coinciden en que la subida del S&P 500 sigue",
-        "url": "https://es.finance.yahoo.com/noticias/goldman-sachs-deutsche-bank-acuerdo-223800902.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Goldman Sachs y Deutsche Bank están de acuerdo: el rally del S&P 500 no ha terminado",
-        "capturado": "2026-09-22T18:09:20-05:00"
       }
     ]
   }
