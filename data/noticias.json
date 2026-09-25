@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-25T06:17:26-05:00",
+  "actualizado": "2026-09-25T10:52:46-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "El mercado bursátil argentino prolonga su tendencia a la baja por sexta jornada seguida",
+        "url": "https://es.finance.yahoo.com/noticias/bolsa-argentina-mantiene-racha-negativa-144517200.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Bolsa de Argentina mantiene racha negativa por sexta sesión consecutiva",
+        "capturado": "2026-09-25T10:52:46-05:00"
+      },
+      {
+        "titulo": "Greer anuncia que este lunes se revelarán pormenores de los diálogos comerciales entre EE UU y China",
+        "url": "https://es.finance.yahoo.com/noticias/greer-lunes-conocer%C3%A1n-detalles-negociaciones-135836372.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Greer dice que el lunes se conocerán detalles sobre negociaciones comerciales entre EEUU y China",
+        "capturado": "2026-09-25T10:52:46-05:00"
+      },
+      {
+        "titulo": "Balance semanal de Bitcoin y criptomonedas al 25 de septiembre",
+        "url": "https://es.finance.yahoo.com/noticias/resumen-semanal-bitcoin-criptomonedas-25-132500661.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Resumen semanal de Bitcoin y criptomonedas: 25 de septiembre",
+        "capturado": "2026-09-25T10:52:46-05:00"
+      },
+      {
+        "titulo": "Suben los ETF y futuros accionarios antes de abrir el viernes, al tiempo que trepan los bonos y cae el crudo",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-futuros-renta-132448323.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa y los futuros de renta variable subieron antes de la apertura del viernes, mientras que los rendimientos de los bonos del Tesoro aumentaron y los precios del petróleo cayeron.",
+        "capturado": "2026-09-25T10:52:46-05:00"
+      },
+      {
+        "titulo": "Aumentan con fuerza los pedidos de bienes de capital subyacentes en EE UU durante agosto",
+        "url": "https://es.finance.yahoo.com/noticias/pedidos-bienes-capital-subyacentes-eeuu-131631737.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Los pedidos de bienes de capital subyacentes en EEUU se disparan en agosto",
+        "capturado": "2026-09-25T10:52:46-05:00"
+      },
+      {
+        "titulo": "Acciones de EE. UU. al alza antes de abrir por bonos altos y petróleo a la baja",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-futuros-acciones-estadounidenses-suben-131552059.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los futuros de las acciones estadounidenses suben antes de la apertura del mercado, ya que los rendimientos de los bonos del Tesoro se mantienen elevados y los precios del petróleo bajan.",
+        "capturado": "2026-09-25T10:52:46-05:00"
+      },
+      {
+        "titulo": "Ethereum quiebra pauta anual pero el gráfico muestra una alerta",
+        "url": "https://es.finance.yahoo.com/noticias/ethereum-rompe-patr%C3%B3n-a%C3%B1o-gr%C3%A1fico-120100741.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Ethereum rompe patrón de un año, pero el gráfico aún tiene una advertencia",
+        "capturado": "2026-09-25T10:52:46-05:00"
+      },
+      {
+        "titulo": "Acciones de EE. UU. suben previo a la apertura con bonos al alza y petróleo a la baja",
+        "url": "https://es.finance.yahoo.com/noticias/futuros-acciones-estadounidenses-suben-apertura-115359471.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los futuros de las acciones estadounidenses suben antes de la apertura del mercado, mientras que los rendimientos de los bonos del Tesoro continúan aumentando y los precios del petróleo bajan.",
+        "capturado": "2026-09-25T10:52:46-05:00"
+      },
       {
         "titulo": "Pasivos europeos bajan luego de transacciones y préstamos para vivienda estadounidenses llegan a cima con Trump",
         "url": "https://es.finance.yahoo.com/noticias/deuda-europea-cede-ventas-hipotecas-091004722.html",
@@ -419,70 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Barr de la Fed dice que probablemente serán necesarias nuevas alzas de tasas",
         "capturado": "2026-09-23T12:44:18-05:00"
-      },
-      {
-        "titulo": "El ritmo de expansión empresarial en EE.UU. supera el de más de cinco años",
-        "url": "https://es.finance.yahoo.com/noticias/actividad-empresarial-ee-uu-crece-141019872.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Actividad empresarial de EE.UU. crece al ritmo más rápido en más de cinco años",
-        "capturado": "2026-09-23T12:44:18-05:00"
-      },
-      {
-        "titulo": "Apertura a la baja en futuros de acciones en EE. UU. a la espera de diálogos con Irán según operadores",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-futuros-acciones-estadounidenses-registran-124858954.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los futuros sobre acciones estadounidenses registran un ligero descenso antes de la apertura, mientras los operadores esperan novedades sobre las negociaciones entre EE. UU. e Irán",
-        "capturado": "2026-09-23T07:55:16-05:00"
-      },
-      {
-        "titulo": "Makhlouf advierte intervención del BCE ante posibles efectos de segunda ronda sobre la inflación",
-        "url": "https://es.finance.yahoo.com/noticias/bce-volver-intervenir-producen-efectos-122949062.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "BCE tendrá que volver a intervenir si se producen efectos de segunda ronda en la inflación: Makhlouf",
-        "capturado": "2026-09-23T07:55:16-05:00"
-      },
-      {
-        "titulo": "Ejecutivo de IGU prevé escasez de gas global prolongada por conflicto en Irán según precios",
-        "url": "https://es.finance.yahoo.com/noticias/precios-mercado-mundial-gas-estiman-121941402.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Precios del mercado mundial del gas estiman escasez prolongada por guerra en Irán, dice ejecutivo de IGU",
-        "capturado": "2026-09-23T07:55:16-05:00"
-      },
-      {
-        "titulo": "Morning Briefing Español reporta encuentro entre Trump y Xi para tratar temas sobre Ormuz",
-        "url": "https://es.finance.yahoo.com/noticias/trump-recibe-xi-di%C3%A1logo-ormuz-121014677.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Trump recibe a Xi; diálogo sobre Ormuz: Morning Briefing Español",
-        "capturado": "2026-09-23T07:55:16-05:00"
-      },
-      {
-        "titulo": "Director ejecutivo de Strive proyecta alza indefinida del Bitcoin ante crisis de deuda en dólares",
-        "url": "https://es.finance.yahoo.com/noticias/ceo-strive-bitcoin-subir-infinito-120200937.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "CEO de Strive: Bitcoin podría “subir hasta el infinito”, mientras la crisis de deuda en dólares empeora",
-        "capturado": "2026-09-23T07:55:16-05:00"
-      },
-      {
-        "titulo": "Acciones de EE UU muestran leve descenso previo a la apertura a la espera de diálogos entre EE UU e Irán",
-        "url": "https://es.finance.yahoo.com/noticias/futuros-acciones-estadounidenses-registran-ligera-115549632.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los futuros de las acciones estadounidenses registran una ligera caída antes de la apertura del mercado, mientras los operadores esperan novedades en las conversaciones entre Estados Unidos e Irán.",
-        "capturado": "2026-09-23T07:55:16-05:00"
-      },
-      {
-        "titulo": "Conagra señala que la IA transforma la selección de snacks en Estados Unidos",
-        "url": "https://es.finance.yahoo.com/noticias/ia-cambiando-forma-estadounidenses-eligen-115414815.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "La IA está cambiando la forma en que los estadounidenses eligen los aperitivos, según Conagra",
-        "capturado": "2026-09-23T07:55:16-05:00"
       }
     ]
   }
