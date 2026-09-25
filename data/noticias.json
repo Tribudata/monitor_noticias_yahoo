@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-25T10:52:46-05:00",
+  "actualizado": "2026-09-25T14:51:53-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "A los multimillonarios les preocupa la carestía y evalúan alternativas de inversión",
+        "url": "https://es.finance.yahoo.com/noticias/ultrarricos-temen-inflaci%C3%B3n-comprando-185700633.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Los ultrarricos temen la inflación: ¿Qué están comprando?",
+        "capturado": "2026-09-25T14:51:53-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE UU al alza y petróleo a la baja por propuesta iraní sobre el estrecho de Ormuz",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-181716287.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben mientras el petróleo crudo cae tras el plan condicional de Irán para reabrir el paso de Ormuz.",
+        "capturado": "2026-09-25T14:51:53-05:00"
+      },
+      {
+        "titulo": "Contratapa en los precios del trigo ante la mirada puesta en negociaciones del mar Negro",
+        "url": "https://es.finance.yahoo.com/noticias/futuros-trigo-bajan-atenci%C3%B3n-centra-180200866.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Los futuros del trigo bajan mientras la atención se centra en la diplomacia del mar Negro",
+        "capturado": "2026-09-25T14:51:53-05:00"
+      },
+      {
+        "titulo": "JPMorgan eleva meta para Meta tras alza del 30 por ciento y se indaga su continuidad",
+        "url": "https://es.finance.yahoo.com/noticias/acciones-meta-seguir%C3%A1n-subiendo-rally-173800456.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿Las acciones de Meta seguirán subiendo tras rally del 30%? JPMorgan sube precio objetivo",
+        "capturado": "2026-09-25T14:51:53-05:00"
+      },
+      {
+        "titulo": "Trump descarta que el ministro Bessent vaya a liderar su estrategia de inteligencia artificial",
+        "url": "https://es.finance.yahoo.com/noticias/trump-secretario-tesoro-bessent-zar-172820118.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Trump dice que el secretario del Tesoro Bessent no será su \"zar de la IA\"",
+        "capturado": "2026-09-25T14:51:53-05:00"
+      },
+      {
+        "titulo": "Wall Street alaba el sinceramiento fiscal colombiano pero hay dudas sobre las metas",
+        "url": "https://es.finance.yahoo.com/noticias/w-street-aplaude-sinceramiento-fiscal-172657793.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "W.Street aplaude \"sinceramiento\" fiscal de Colombia, pero algunos son escépticos sobre cumplimiento de objetivos",
+        "capturado": "2026-09-25T14:51:53-05:00"
+      },
+      {
+        "titulo": "Cofundador de Zcash respalda Shielded Bitcoin y mantiene su proyección anual para ZEC",
+        "url": "https://es.finance.yahoo.com/noticias/cofundador-zcash-apoya-shielded-bitcoin-164200920.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Cofundador de Zcash apoya Shielded Bitcoin y dice que su objetivo de ZEC para fin de año sigue vigente",
+        "capturado": "2026-09-25T14:51:53-05:00"
+      },
+      {
+        "titulo": "Tribunal estadounidense ratifica veto a Anthropic en la lista negra del Pentágono",
+        "url": "https://es.finance.yahoo.com/noticias/corte-apelaciones-eeuu-confirma-inclusi%C3%B3n-163933782.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Corte de apelaciones de EEUU confirma la inclusión de Anthropic en lista negra del Pentágono",
+        "capturado": "2026-09-25T14:51:53-05:00"
+      },
       {
         "titulo": "El mercado bursátil argentino prolonga su tendencia a la baja por sexta jornada seguida",
         "url": "https://es.finance.yahoo.com/noticias/bolsa-argentina-mantiene-racha-negativa-144517200.html",
@@ -419,70 +483,6 @@
         "medio": "MT Newswires",
         "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen a media jornada en medio del aumento de los rendimientos de los bonos del Tesoro.",
         "capturado": "2026-09-23T16:09:42-05:00"
-      },
-      {
-        "titulo": "Descarga gratis Pokémon FireRed y LeafGreen para PC con juego en línea, mods y pantalla ancha, 22 años después de su lanzamiento en Game Boy Advance",
-        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-pok%C3%A9mon-firered-leafgreen-161901416.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Descarga gratis Pokémon FireRed y LeafGreen para PC con juego en línea, mods y pantalla ancha, 22 años después de su lanzamiento en Game Boy Advance",
-        "capturado": "2026-09-23T16:09:42-05:00"
-      },
-      {
-        "titulo": "Acciones y fondos cotizados de EE UU bajan pasada la una de la tarde",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-acciones-estadounidenses-171556356.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa y las acciones estadounidenses caen después del mediodía.",
-        "capturado": "2026-09-23T12:44:18-05:00"
-      },
-      {
-        "titulo": "Datos señalan caída de compradores de trigo ruso por parálisis mercante en mar Negro",
-        "url": "https://es.finance.yahoo.com/noticias/rusia-compradores-trigo-estancamiento-comercio-171523513.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Rusia cuenta con menos compradores de trigo por estancamiento de comercio en mar Negro, muestran datos",
-        "capturado": "2026-09-23T12:44:18-05:00"
-      },
-      {
-        "titulo": "Campaña presidencial francesa gira en torno a carestía y crisis de combustibles",
-        "url": "https://es.finance.yahoo.com/noticias/francia-precios-combustible-alza-enfado-164158030.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Francia, la crisis del combustible y los altos precios marcan la campaña presidencial",
-        "capturado": "2026-09-23T12:44:18-05:00"
-      },
-      {
-        "titulo": "Un estudio indica que el incremento de carburantes vale 270 millones diarios a la UE",
-        "url": "https://es.finance.yahoo.com/noticias/alza-combustibles-cuesta-ue-270-142357309.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El alza de los combustibles cuesta a la UE 270 millones diarios, según un informe",
-        "capturado": "2026-09-23T12:44:18-05:00"
-      },
-      {
-        "titulo": "Bessent dialogará con He sobre pendientes previos a la cita Trump-Xi",
-        "url": "https://es.finance.yahoo.com/noticias/bessent-reunir%C3%A1-chino-tratar-asuntos-155303035.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Bessent se reunirá con chino He para tratar \"asuntos pendientes\" antes de cumbre Trump-Xi",
-        "capturado": "2026-09-23T12:44:18-05:00"
-      },
-      {
-        "titulo": "India agiliza tratos comerciales con México y Canadá frente a aranceles de Trump",
-        "url": "https://es.finance.yahoo.com/noticias/india-acelera-negociaciones-comerciales-m%C3%A9xico-145226246.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "India acelera negociaciones comerciales con México y Canadá ante aranceles de Trump",
-        "capturado": "2026-09-23T12:44:18-05:00"
-      },
-      {
-        "titulo": "Barr de la Fed señala que posiblemente se requerirán nuevas subidas de tasas",
-        "url": "https://es.finance.yahoo.com/noticias/barr-fed-probablemente-necesarias-alzas-144109629.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Barr de la Fed dice que probablemente serán necesarias nuevas alzas de tasas",
-        "capturado": "2026-09-23T12:44:18-05:00"
       }
     ]
   }
