@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-25T14:51:53-05:00",
+  "actualizado": "2026-09-25T18:06:42-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Tribunal estadounidense revela empleo de Claude en la aprehensión de Maduro",
+        "url": "https://es.finance.yahoo.com/noticias/corte-eeuu-expone-uso-claude-220514714.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Corte de EEUU expone uso de Claude en la captura de Maduro",
+        "capturado": "2026-09-25T18:06:42-05:00"
+      },
+      {
+        "titulo": "Auge del cobre: récords históricos sobresalen durante 2026",
+        "url": "https://es.finance.yahoo.com/noticias/cobre-oro-m%C3%A1ximos-hist%C3%B3ricos-destacan-214500517.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿El cobre es el nuevo oro? Máximos históricos destacan en 2026",
+        "capturado": "2026-09-25T18:06:42-05:00"
+      },
+      {
+        "titulo": "Lula veta las apuestas digitales en territorio brasileño durante la contienda electoral",
+        "url": "https://es.finance.yahoo.com/noticias/lula-proh%C3%ADbe-apuestas-l%C3%ADnea-brasil-213548120.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Lula prohíbe las apuestas en línea en Brasil en medio de la campaña electoral",
+        "capturado": "2026-09-25T18:06:42-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE UU repuntan y crudo retrocede por propuesta de Irán para abrir Ormuz",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-204115219.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben mientras el petróleo crudo cae tras el plan condicional de Irán para reabrir el paso de Ormuz.",
+        "capturado": "2026-09-25T18:06:42-05:00"
+      },
+      {
+        "titulo": "UE avizora crisis energética y exhorta a naciones a evaluar recortar el consumo",
+        "url": "https://es.finance.yahoo.com/noticias/ue-advierte-crisis-precios-energ%C3%ADa-204035300.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "La UE advierte de crisis de precios de la energía y pide a países que consideren reducir la demanda",
+        "capturado": "2026-09-25T18:06:42-05:00"
+      },
+      {
+        "titulo": "Wall Street avanzó esta semana por impulso de las tecnológicas e Irán plantea reabrir el estrecho de Ormuz",
+        "url": "https://es.finance.yahoo.com/noticias/%C3%ADndices-burs%C3%A1tiles-estadounidenses-subieron-semana-202553466.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los índices bursátiles estadounidenses subieron esta semana impulsados por el alza de las grandes tecnológicas, mientras que Irán propone la reapertura condicional del estrecho de Ormuz.",
+        "capturado": "2026-09-25T18:06:42-05:00"
+      },
+      {
+        "titulo": "Litecoin alcanza pico de ocho meses en pleno récord de ETF y busca rebasar los 75 dólares",
+        "url": "https://es.finance.yahoo.com/noticias/litecoin-registra-m%C3%A1ximo-8-meses-202300632.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Litecoin registra máximo de 8 meses en medio del récord dene ETF: ¿Podrá superar los $75?",
+        "capturado": "2026-09-25T18:06:42-05:00"
+      },
+      {
+        "titulo": "Strategy presenta iniciativa para otorgar dividendos diarios a quienes invierten",
+        "url": "https://es.finance.yahoo.com/noticias/strategy-lanza-propuesta-pagar-dividendos-193300161.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Strategy lanza propuesta para pagar dividendos diarios a sus inversores",
+        "capturado": "2026-09-25T18:06:42-05:00"
+      },
       {
         "titulo": "A los multimillonarios les preocupa la carestía y evalúan alternativas de inversión",
         "url": "https://es.finance.yahoo.com/noticias/ultrarricos-temen-inflaci%C3%B3n-comprando-185700633.html",
@@ -419,70 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Presidenta encargada de Venezuela promete elecciones, sin ofrecer fecha",
         "capturado": "2026-09-23T18:51:55-05:00"
-      },
-      {
-        "titulo": "Fujimori impulsa nuevo programa forestal peruano por 300 millones de dólares",
-        "url": "https://es.finance.yahoo.com/noticias/fujimori-anuncia-relanzamiento-plan-reforestaci%C3%B3n-234051892.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Fujimori anuncia relanzamiento plan de reforestación en Perú con inversión de 300 millones de dólares",
-        "capturado": "2026-09-23T18:51:55-05:00"
-      },
-      {
-        "titulo": "De qué forma evoluciona el comercio de criptomonedas con inteligencia artificial y sin aranceles",
-        "url": "https://es.finance.yahoo.com/noticias/cambiando-trading-cripto-cero-comisiones-233500298.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿Cómo está cambiando el trading cripto con cero comisiones e IA?",
-        "capturado": "2026-09-23T18:51:55-05:00"
-      },
-      {
-        "titulo": "Inversores ejecutan jugadas históricas contra el crudo bajará de 70 dólares",
-        "url": "https://es.finance.yahoo.com/noticias/traders-realizan-apuestas-r%C3%A9cord-petr%C3%B3leo-220800746.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Traders realizan apuestas récord contra el petróleo: ¿Caerá por debajo de $70?",
-        "capturado": "2026-09-23T18:51:55-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE UU bajan porque el auge privado eleva tasas de bonos y apuestas de alza de la Fed",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-retroceden-211145889.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses retroceden a medida que el espectacular crecimiento del sector privado impulsa los rendimientos de los bonos del Tesoro y las apuestas de la Reserva Federal a una subida de tipos.",
-        "capturado": "2026-09-23T18:51:55-05:00"
-      },
-      {
-        "titulo": "Ledger ya incluye balances privados de Zcash y surge la duda de si impulsará el alza de ZEC",
-        "url": "https://es.finance.yahoo.com/noticias/ledger-a%C3%B1ade-saldos-privados-zcash-204100869.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Ledger por fin añade saldos privados de Zcash: ¿Ampliará el rally de ZEC?",
-        "capturado": "2026-09-23T18:51:55-05:00"
-      },
-      {
-        "titulo": "El proyecto gasífero Syrius en Colombia entraría en la estrategia 2027-2031 de Petrobras",
-        "url": "https://es.finance.yahoo.com/noticias/petrobras-incluir-proyecto-gas-syrius-193747464.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Petrobras podría incluir proyecto de gas Syrius en Colombia en su plan de negocios 2027-2031",
-        "capturado": "2026-09-23T16:09:42-05:00"
-      },
-      {
-        "titulo": "Viceministro de Energía ve viable replicar en Colombia el modelo argentino de incentivo a inversiones",
-        "url": "https://es.finance.yahoo.com/noticias/modelo-est%C3%ADmulo-inversiones-argentina-ser-191428471.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Modelo de estímulo a inversiones de Argentina podría ser fácilmente aplicable en Colombia: Viceministro de Energía",
-        "capturado": "2026-09-23T16:09:42-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE UU bajan a mitad de rueda por la subida en los retornos de los bonos del Tesoro",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-175045067.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen a media jornada en medio del aumento de los rendimientos de los bonos del Tesoro.",
-        "capturado": "2026-09-23T16:09:42-05:00"
       }
     ]
   }
