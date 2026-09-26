@@ -1,9 +1,49 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-26T07:19:58-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-09-26T11:35:14-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Cuba mantiene su apertura a conversar con EE UU para resolver asuntos bilaterales",
+        "url": "https://es.finance.yahoo.com/noticias/cuba-dispuesta-di%C3%A1logo-estados-unidos-161948376.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Cuba sigue dispuesta a diálogo con Estados Unidos para solucionar diferencias bilaterales",
+        "capturado": "2026-09-26T11:35:14-05:00"
+      },
+      {
+        "titulo": "Brasil extiende el subsidio al diésel actual por la inestabilidad del crudo",
+        "url": "https://es.finance.yahoo.com/noticias/brasil-prorroga-subvenci%C3%B3n-gas%C3%B3leo-nivel-155526452.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Brasil prorroga subvención al gasóleo en su nivel actual, alegando volatilidad precios del petróleo",
+        "capturado": "2026-09-26T11:35:14-05:00"
+      },
+      {
+        "titulo": "Trump descarta cese al fuego con Irán: efecto en Bitcoin y petróleo",
+        "url": "https://es.finance.yahoo.com/noticias/trump-rechaza-alto-fuego-ir%C3%A1n-141900725.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Trump rechaza alto el fuego con Irán: impacto en Bitcoin el petróleo",
+        "capturado": "2026-09-26T11:35:14-05:00"
+      },
+      {
+        "titulo": "Mandataria interina de Venezuela regresa de EE UU sin pactos ni fecha electoral",
+        "url": "https://es.finance.yahoo.com/noticias/presidenta-encargada-venezuela-vuelve-eeuu-132706613.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Presidenta encargada de Venezuela vuelve de EEUU sin acuerdos ni fecha para elecciones",
+        "capturado": "2026-09-26T11:35:14-05:00"
+      },
+      {
+        "titulo": "Huracán Polo categoría 5 acecha la costa mexicana y tocaría tierra el lunes",
+        "url": "https://es.finance.yahoo.com/noticias/hurac%C3%A1n-polo-categor%C3%ADa-5-amenaza-130605915.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Huracán Polo, de categoría 5, amenaza la costa de México; se prevé que toque tierra el lunes",
+        "capturado": "2026-09-26T11:35:14-05:00"
+      },
       {
         "titulo": "El descontento por el costo de vida en Brasil debilita la opción de reelección de Lula",
         "url": "https://es.finance.yahoo.com/noticias/brasil-frustraci%C3%B3n-costo-vida-socava-121231798.html",
@@ -443,46 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "La factura oculta del FC Barcelona: pide €300 millones más y ya debe €2.6 mil millones",
         "capturado": "2026-09-24T13:33:50-05:00"
-      },
-      {
-        "titulo": "Europa deja de percibir 120.000 millones de euros anuales en inversión, de acuerdo con estudio",
-        "url": "https://es.finance.yahoo.com/noticias/europa-pierde-a%C3%B1o-120-000-152347025.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Europa pierde cada año 120.000 millones de euros de inversión, según un informe",
-        "capturado": "2026-09-24T13:33:50-05:00"
-      },
-      {
-        "titulo": "Sigue la caída del mercado de bonos y el retorno a 30 años en EE. UU. trepa a pico desde 2004",
-        "url": "https://es.finance.yahoo.com/noticias/desplome-mercado-bonos-contin%C3%BAa-rendimiento-145629597.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "El desplome del mercado de bonos continúa y rendimiento a 30 años en EEUU sube a máximo desde 2004",
-        "capturado": "2026-09-24T13:33:50-05:00"
-      },
-      {
-        "titulo": "El director ejecutivo de Anthropic advierte a la ONU que la IA representaría peligro humano",
-        "url": "https://es.finance.yahoo.com/noticias/ceo-anthropic-lanza-advertencia-onu-145400437.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "El CEO de Anthropic lanza otra advertencia, ahora a la ONU: “La IA podría ser un riesgo para la humanidad”",
-        "capturado": "2026-09-24T13:33:50-05:00"
-      },
-      {
-        "titulo": "Tendencia a la baja impera en los mercados financieros de Argentina",
-        "url": "https://es.finance.yahoo.com/noticias/sesgo-descendente-predomina-mercados-financieros-143937916.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Sesgo descendente predomina en mercados financieros de Argentina",
-        "capturado": "2026-09-24T13:33:50-05:00"
-      },
-      {
-        "titulo": "Sustraen 20 millones de dólares en XRP a miles de billeteras físicas",
-        "url": "https://es.finance.yahoo.com/noticias/20-millones-xrp-robados-miles-074600026.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "$20 millones en XRP son robados de miles de hardware wallets",
-        "capturado": "2026-09-24T03:40:45-05:00"
       }
     ]
   }
