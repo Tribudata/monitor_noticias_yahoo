@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-26T11:35:14-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-09-26T14:32:19-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Grandes inversores adquieren 724 millones de dólares en XRP y los ETF completan once semanas con ingresos",
+        "url": "https://es.finance.yahoo.com/noticias/ballenas-compran-724-millones-xrp-164700217.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Ballenas compran $724 millones en XRP mientras los ETF registran 11 semanas consecutivas de entradas",
+        "capturado": "2026-09-26T14:32:19-05:00"
+      },
       {
         "titulo": "Cuba mantiene su apertura a conversar con EE UU para resolver asuntos bilaterales",
         "url": "https://es.finance.yahoo.com/noticias/cuba-dispuesta-di%C3%A1logo-estados-unidos-161948376.html",
@@ -474,14 +482,6 @@
         "resumen": "",
         "medio": "Euronews",
         "titulo_fuente": "Bentley lanza su primer coche eléctrico: podría ser su modelo más barato",
-        "capturado": "2026-09-24T13:33:50-05:00"
-      },
-      {
-        "titulo": "Deuda oculta del FC Barcelona: solicita 300 millones de euros más y adeuda 2.6 mil millones",
-        "url": "https://es.finance.yahoo.com/noticias/factura-oculta-fc-barcelona-pide-162000170.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "La factura oculta del FC Barcelona: pide €300 millones más y ya debe €2.6 mil millones",
         "capturado": "2026-09-24T13:33:50-05:00"
       }
     ]
