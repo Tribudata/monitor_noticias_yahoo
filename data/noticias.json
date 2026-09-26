@@ -1,9 +1,65 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-26T02:06:50-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-26T07:19:58-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "El descontento por el costo de vida en Brasil debilita la opción de reelección de Lula",
+        "url": "https://es.finance.yahoo.com/noticias/brasil-frustraci%C3%B3n-costo-vida-socava-121231798.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "En Brasil, la frustración por el costo de la vida socava las posibilidades de reelección de Lula",
+        "capturado": "2026-09-26T07:19:58-05:00"
+      },
+      {
+        "titulo": "Grayscale lanza ETF de Zcash con pagos quincenales y explica su funcionamiento",
+        "url": "https://es.finance.yahoo.com/noticias/grayscale-presenta-etf-zcash-paga-120300035.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Grayscale presenta ETF de Zcash que paga cada 2 semanas: ¿Cómo funciona?",
+        "capturado": "2026-09-26T07:19:58-05:00"
+      },
+      {
+        "titulo": "Ethereum presenta tres indicadores positivos en cadena y aquí se detallan",
+        "url": "https://es.finance.yahoo.com/noticias/ethereum-muestra-3-se%C3%B1ales-on-105500910.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Ethereum muestra 3 señales on-chain alcistas: descubra cuáles son",
+        "capturado": "2026-09-26T07:19:58-05:00"
+      },
+      {
+        "titulo": "Comparativa de la profundidad de mercado de LBank frente al top 6 de criptomonedas",
+        "url": "https://es.finance.yahoo.com/noticias/profundidad-mercado-lbank-compara-top-084200849.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Profundidad de mercado de LBank: ¿Cómo se compara el top 6 exchanges de criptomonedas?",
+        "capturado": "2026-09-26T07:19:58-05:00"
+      },
+      {
+        "titulo": "Momento en que cesará el alza bursátil y el retorno constante del mercado",
+        "url": "https://es.finance.yahoo.com/noticias/cu%C3%A1ndo-dejar%C3%A1n-subir-bolsas-mercado-050000686.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "¿Cuándo dejarán de subir las bolsas? “El mercado acaba volviendo siempre a lo mismo…”",
+        "capturado": "2026-09-26T07:19:58-05:00"
+      },
+      {
+        "titulo": "Desacuerdo en la banca central por la inflación: Fed, BCE y Japón alzan tasas y el Banco de Inglaterra aguarda",
+        "url": "https://es.finance.yahoo.com/noticias/inflaci%C3%B3n-divide-bancos-centrales-fed-043000463.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "La inflación divide a los bancos centrales: por qué la Fed, el BCE y Japón suben tipos mientras el Banco de Inglaterra espera",
+        "capturado": "2026-09-26T07:19:58-05:00"
+      },
+      {
+        "titulo": "El ascenso semanal del Ibex 35 no cambia la tendencia a la baja previa",
+        "url": "https://es.finance.yahoo.com/noticias/ibex-35-subida-semanal-altera-041000540.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "Ibex 35: la subida semanal no altera el proceso correctivo de las últimas semanas",
+        "capturado": "2026-09-26T07:19:58-05:00"
+      },
       {
         "titulo": "Razones del aumento de compras de vehículos eléctricos chinos en Noruega a pesar de las dudas",
         "url": "https://es.finance.yahoo.com/noticias/noruegos-compran-coches-el%C3%A9ctricos-chinos-050045803.html",
@@ -427,62 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "$20 millones en XRP son robados de miles de hardware wallets",
         "capturado": "2026-09-24T03:40:45-05:00"
-      },
-      {
-        "titulo": "Binance incluye a Hyperliquid con tres pares al contado desde hoy",
-        "url": "https://es.finance.yahoo.com/noticias/binance-lista-hyperliquid-hype-3-074623957.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Binance lista Hyperliquid (HYPE) con 3 pares spot que se activan hoy",
-        "capturado": "2026-09-24T03:40:45-05:00"
-      },
-      {
-        "titulo": "La UE registra topes en hidrocarburos y el BCE avizora pico del diésel",
-        "url": "https://es.finance.yahoo.com/noticias/ue-marca-r%C3%A9cords-precio-combustible-050017541.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La UE marca récords en el precio del combustible, el BCE prevé pico del margen del diésel en octubre",
-        "capturado": "2026-09-24T03:40:45-05:00"
-      },
-      {
-        "titulo": "Bolsas presentan comportamiento mixto por altibajos de crudo y deuda USA",
-        "url": "https://es.finance.yahoo.com/noticias/mercados-muestran-mixtos-volatilidad-petr%C3%B3leo-061308641.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Los mercados se muestran mixtos ante la volatilidad del petróleo y la deuda estadounidense",
-        "capturado": "2026-09-24T03:40:45-05:00"
-      },
-      {
-        "titulo": "Washington y Pekín extienden pausa arancelaria y pactan buscar un tratado",
-        "url": "https://es.finance.yahoo.com/noticias/eeuu-china-acuerdan-prorrogar-tregua-055810858.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "EEUU y China acuerdan prorrogar la tregua comercial y trabajar en un acuerdo más amplio",
-        "capturado": "2026-09-24T03:40:45-05:00"
-      },
-      {
-        "titulo": "El encarecimiento energético en Europa eleva hasta 87% diez petroleras hacia 2026",
-        "url": "https://es.finance.yahoo.com/noticias/crisis-combustible-europa-dispara-87-040205974.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La crisis de combustible en Europa dispara hasta un 87% estas 10 petroleras en 2026",
-        "capturado": "2026-09-24T03:40:45-05:00"
-      },
-      {
-        "titulo": "Turkish Airlines pacta con Boeing la adquisición de hasta 150 aeronaves 737 MAX",
-        "url": "https://es.finance.yahoo.com/noticias/turkish-airlines-encarga-150-aviones-044919884.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Turkish Airlines acuerda con Boeing la compra de hasta 150 aviones 737 MAX",
-        "capturado": "2026-09-24T03:40:45-05:00"
-      },
-      {
-        "titulo": "Kast asegura que el restablecimiento de vínculos con Venezuela irá paso a paso",
-        "url": "https://es.finance.yahoo.com/noticias/chileno-kast-reactivaci%C3%B3n-relaciones-venezuela-001207149.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Chileno Kast dice reactivación de relaciones con Venezuela avanzará \"paso a paso\"",
-        "capturado": "2026-09-23T22:25:29-05:00"
       }
     ]
   }
