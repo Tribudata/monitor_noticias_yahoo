@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-25T18:06:42-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-09-25T20:48:18-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Tres criptomonedas alternativas para seguir de cerca este fin de semana del 26 y 27 de septiembre",
+        "url": "https://es.finance.yahoo.com/noticias/top-3-altcoins-observar-semana-230800117.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Top 3 altcoins a observar este fin de semana | 26-27 de septiembre",
+        "capturado": "2026-09-25T20:48:18-05:00"
+      },
       {
         "titulo": "Tribunal estadounidense revela empleo de Claude en la aprehensión de Maduro",
         "url": "https://es.finance.yahoo.com/noticias/corte-eeuu-expone-uso-claude-220514714.html",
@@ -475,14 +483,6 @@
         "medio": "Tarreo",
         "titulo_fuente": "Proyecto para ejecutar juegos de PS5 en PC sin emulación muestra sus primeros avances y se lanzará cuando al menos un título corra completo",
         "capturado": "2026-09-23T22:25:29-05:00"
-      },
-      {
-        "titulo": "Líder interina de Venezuela asegura comicios pero sin fijar día",
-        "url": "https://es.finance.yahoo.com/noticias/presidenta-encargada-venezuela-promete-elecciones-234010774.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Presidenta encargada de Venezuela promete elecciones, sin ofrecer fecha",
-        "capturado": "2026-09-23T18:51:55-05:00"
       }
     ]
   }
