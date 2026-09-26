@@ -1,9 +1,33 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-26T14:32:19-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-26T17:24:09-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Claude halla inédito sistema de enzimas ignorado por especialistas y su utilidad es un misterio",
+        "url": "https://es.finance.yahoo.com/noticias/claude-sistema-enzimas-novedoso-expertos-213600144.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Claude encuentra sistema de enzimas novedoso que los expertos pasaron por alto, y nadie sabe para qué sirve",
+        "capturado": "2026-09-26T17:24:09-05:00"
+      },
+      {
+        "titulo": "Pekín y Washington pactan charlas de IA y bajar aranceles en medio de viaje de Xi",
+        "url": "https://es.finance.yahoo.com/noticias/china-eeuu-acuerdan-entablar-di%C3%A1logo-194803367.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "China y EEUU acuerdan entablar diálogo sobre IA y reducir aranceles durante visita de Xi",
+        "capturado": "2026-09-26T17:24:09-05:00"
+      },
+      {
+        "titulo": "La SEC precisa las nuevas normas aplicables al staking de Ethereum",
+        "url": "https://es.finance.yahoo.com/noticias/sec-aclara-reglas-staking-ethereum-191100589.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "La SEC aclara nuevas reglas para el staking de Ethereum",
+        "capturado": "2026-09-26T17:24:09-05:00"
+      },
       {
         "titulo": "Grandes inversores adquieren 724 millones de dólares en XRP y los ETF completan once semanas con ingresos",
         "url": "https://es.finance.yahoo.com/noticias/ballenas-compran-724-millones-xrp-164700217.html",
@@ -459,30 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "XRP muestra 3 señales alcistas antes de un octubre históricamente débil",
         "capturado": "2026-09-24T17:00:14-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE. UU. a la baja, tasa del bono a 30 años en máximo de 20 años y crudo al alza",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-175735733.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen mientras que el rendimiento de los bonos del Tesoro a 30 años alcanza su nivel más alto en dos décadas y el petróleo crudo extiende sus ganancias.",
-        "capturado": "2026-09-24T13:33:50-05:00"
-      },
-      {
-        "titulo": "ETP con desempeño variado y títulos de EE. UU. en descenso pasado el mediodía",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-presentan-resultados-171353649.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa presentan resultados mixtos; las acciones estadounidenses caen tras el mediodía.",
-        "capturado": "2026-09-24T13:33:50-05:00"
-      },
-      {
-        "titulo": "Bentley presenta su carro eléctrico inicial y apunta a ser su referencia más económica",
-        "url": "https://es.finance.yahoo.com/noticias/bentley-lanza-coche-el%C3%A9ctrico-ser-141016109.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Bentley lanza su primer coche eléctrico: podría ser su modelo más barato",
-        "capturado": "2026-09-24T13:33:50-05:00"
       }
     ]
   }
