@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-25T20:48:18-05:00",
+  "actualizado": "2026-09-26T02:06:50-05:00",
   "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Razones del aumento de compras de vehículos eléctricos chinos en Noruega a pesar de las dudas",
+        "url": "https://es.finance.yahoo.com/noticias/noruegos-compran-coches-el%C3%A9ctricos-chinos-050045803.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Por qué los noruegos compran más coches eléctricos chinos pese al creciente escepticismo",
+        "capturado": "2026-09-26T02:06:50-05:00"
+      },
       {
         "titulo": "Tres criptomonedas alternativas para seguir de cerca este fin de semana del 26 y 27 de septiembre",
         "url": "https://es.finance.yahoo.com/noticias/top-3-altcoins-observar-semana-230800117.html",
@@ -474,14 +482,6 @@
         "resumen": "",
         "medio": "Reuters",
         "titulo_fuente": "Chileno Kast dice reactivación de relaciones con Venezuela avanzará \"paso a paso\"",
-        "capturado": "2026-09-23T22:25:29-05:00"
-      },
-      {
-        "titulo": "Iniciativa para jugar PS5 en PC sin emulación revela progresos y saldrá con un título listo",
-        "url": "https://es-us.noticias.yahoo.com/proyecto-ejecutar-juegos-ps5-pc-222315541.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Proyecto para ejecutar juegos de PS5 en PC sin emulación muestra sus primeros avances y se lanzará cuando al menos un título corra completo",
         "capturado": "2026-09-23T22:25:29-05:00"
       }
     ]
