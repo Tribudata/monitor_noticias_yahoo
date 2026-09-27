@@ -1,9 +1,65 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-27T01:18:50-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-09-27T07:18:32-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Director de Sharplink afirma que inteligencia artificial borraría 1,4 billones en Wall Street",
+        "url": "https://es.finance.yahoo.com/noticias/ia-eliminar-1-4-billones-113800794.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "IA podría eliminar $1.4 billones en comisiones de Wall Street, según el CEO de Sharplink",
+        "capturado": "2026-09-27T07:18:32-05:00"
+      },
+      {
+        "titulo": "Protección en criptomonedas abarca ahora tanto las billeteras como la dirección del usuario",
+        "url": "https://es.finance.yahoo.com/noticias/seguridad-cripto-extiende-all%C3%A1-wallets-090600214.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "La seguridad cripto ahora se extiende más allá de las wallets hasta la dirección del cliente",
+        "capturado": "2026-09-27T07:18:32-05:00"
+      },
+      {
+        "titulo": "Fidelity califica de inversión fallida el negocio relacionado con inteligencia artificial",
+        "url": "https://es.finance.yahoo.com/noticias/fidelity-comercio-ia-dinero-muerto-050000726.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "Fidelity: el comercio de IA es dinero muerto",
+        "capturado": "2026-09-27T07:18:32-05:00"
+      },
+      {
+        "titulo": "Modelo de economía colaborativa resultó ser un completo fracaso",
+        "url": "https://es.finance.yahoo.com/noticias/econom%C3%ADa-colaborativa-termin%C3%B3-fiasco-050000838.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "La economía colaborativa terminó siendo un fiasco",
+        "capturado": "2026-09-27T07:18:32-05:00"
+      },
+      {
+        "titulo": "Cuál será la siguiente meta alcanzable para Bitcoin",
+        "url": "https://es.finance.yahoo.com/noticias/cu%C3%A1l-objetivo-bitcoin-050000069.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "¿Cuál es el próximo objetivo de Bitcoin?",
+        "capturado": "2026-09-27T07:18:32-05:00"
+      },
+      {
+        "titulo": "Tecnología con rigor operativo para transformar la construcción",
+        "url": "https://es.finance.yahoo.com/noticias/innovar-construcci%C3%B3n-tecnolog%C3%ADa-disciplina-ejecuci%C3%B3n-040000390.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "Innovar en la construcción: tecnología con disciplina de ejecución",
+        "capturado": "2026-09-27T07:18:32-05:00"
+      },
+      {
+        "titulo": "SteamOS opera en PC y equipos Android ARM como opción barata a la Steam Deck",
+        "url": "https://es-us.noticias.yahoo.com/steamos-corre-pc-dispositivos-android-232107875.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "SteamOS ya corre en PC y dispositivos Android con ARM, una alternativa más económica a la Steam Deck",
+        "capturado": "2026-09-27T07:18:32-05:00"
+      },
       {
         "titulo": "Alimentos y salario mínimo, el impacto en la capacidad de compra europea",
         "url": "https://es.finance.yahoo.com/noticias/precios-alimentos-salario-m%C3%ADnimo-d%C3%B3nde-050051522.html",
@@ -427,62 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "El coste de tener un bebé en Europa: ¿Dónde son más baratos los productos esenciales?",
         "capturado": "2026-09-25T06:17:26-05:00"
-      },
-      {
-        "titulo": "Naciones europeas con ventajas tributarias superiores y la posición de España",
-        "url": "https://es.finance.yahoo.com/noticias/pa%C3%ADses-ofrecen-mejores-condiciones-fiscales-055230571.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "¿Qué países europeos ofrecen mejores condiciones fiscales y por qué España está entre los últimos?",
-        "capturado": "2026-09-25T06:17:26-05:00"
-      },
-      {
-        "titulo": "Estrategias estatales en Europa para mitigar el alza de la gasolina",
-        "url": "https://es.finance.yahoo.com/noticias/gobiernos-europeos-intentan-aliviar-impacto-065240938.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Las recetas de los gobiernos europeos para aliviar el encarecimiento del combustible",
-        "capturado": "2026-09-25T06:17:26-05:00"
-      },
-      {
-        "titulo": "BHP afirma que trabajos en Escondida chilena vuelven tras revisiones por incidente",
-        "url": "https://es.finance.yahoo.com/noticias/bhp-labores-chilena-escondida-reanudan-000754577.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "BHP dice labores en chilena Escondida se reanudan a medida que avanzan evaluaciones tras accidente",
-        "capturado": "2026-09-24T19:40:26-05:00"
-      },
-      {
-        "titulo": "Usuarios de Revolut padecen otro robo de información: el segundo en 30 días",
-        "url": "https://es.finance.yahoo.com/noticias/clientes-revolut-sufren-filtraci%C3%B3n-datos-224611652.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Clientes de Revolut sufren nueva filtración de datos: la segunda en un mes",
-        "capturado": "2026-09-24T19:40:26-05:00"
-      },
-      {
-        "titulo": "Wall Street termina con variaciones diversas por subida del crudo y tono restrictivo de la Fed en bonos",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-cierran-211839131.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses cierran con resultados mixtos, ya que el alza del petróleo crudo y el discurso restrictivo de la Reserva Federal impulsan al alza los rendimientos de los bonos del Tesoro.",
-        "capturado": "2026-09-24T17:00:14-05:00"
-      },
-      {
-        "titulo": "Informe: Ciberataque a la plataforma Bitget supera los 170 millones de dólares",
-        "url": "https://es.finance.yahoo.com/noticias/reporta-exchange-bitget-hackeado-170-205821818.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Reporte: Hackean el exchange Bitget por más de 170 millones de dólares",
-        "capturado": "2026-09-24T17:00:14-05:00"
-      },
-      {
-        "titulo": "Banco Mundial avala 200 millones de dólares en créditos extra para Colombia por sismo",
-        "url": "https://es.finance.yahoo.com/noticias/banco-mundial-aprueba-200-millones-203847855.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Banco Mundial aprueba 200 millones de dólares de financiación adicional a Colombia para atender terremoto",
-        "capturado": "2026-09-24T17:00:14-05:00"
       }
     ]
   }
