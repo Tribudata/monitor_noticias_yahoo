@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-27T15:18:04-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-09-27T18:16:02-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Bill Gates se une a las advertencias sobre regulaciones de seguridad ante la inteligencia artificial",
+        "url": "https://es.finance.yahoo.com/noticias/bill-gates-suma-llamados-medidas-220930341.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Bill Gates se suma a los llamados sobre medidas de protección frente a la IA",
+        "capturado": "2026-09-27T18:16:02-05:00"
+      },
+      {
+        "titulo": "THORChain rechaza congelar fondos asociados al ataque cibernético a Bitget",
+        "url": "https://es.finance.yahoo.com/noticias/thorchain-niega-bloquear-activos-vinculados-205900037.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "THORChain se niega a bloquear activos vinculados al hack de Bitget",
+        "capturado": "2026-09-27T18:16:02-05:00"
+      },
       {
         "titulo": "Se enciende señal de Fidelity sobre Bitcoin a $100,000 y estos son los datos",
         "url": "https://es.finance.yahoo.com/noticias/bitcoin-100-000-activa-se%C3%B1al-184000641.html",
@@ -467,22 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "Ethereum rompe patrón de un año, pero el gráfico aún tiene una advertencia",
         "capturado": "2026-09-25T10:52:46-05:00"
-      },
-      {
-        "titulo": "Acciones de EE. UU. suben previo a la apertura con bonos al alza y petróleo a la baja",
-        "url": "https://es.finance.yahoo.com/noticias/futuros-acciones-estadounidenses-suben-apertura-115359471.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los futuros de las acciones estadounidenses suben antes de la apertura del mercado, mientras que los rendimientos de los bonos del Tesoro continúan aumentando y los precios del petróleo bajan.",
-        "capturado": "2026-09-25T10:52:46-05:00"
-      },
-      {
-        "titulo": "Pasivos europeos bajan luego de transacciones y préstamos para vivienda estadounidenses llegan a cima con Trump",
-        "url": "https://es.finance.yahoo.com/noticias/deuda-europea-cede-ventas-hipotecas-091004722.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La deuda europea cede tras las ventas, las hipotecas en EE.UU. marcan máximos con Trump",
-        "capturado": "2026-09-25T06:17:26-05:00"
       }
     ]
   }
