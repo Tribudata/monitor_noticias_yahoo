@@ -1,9 +1,41 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-27T07:18:32-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-09-27T12:09:19-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Combustibles altos en Italia, Socar igualmente frena y acota las tarifas en las estaciones IP",
+        "url": "https://es.finance.yahoo.com/noticias/carburantes-caros-italia-socar-interviene-160054762.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Carburantes caros en Italia, Socar también interviene y limita los precios en la red IP",
+        "capturado": "2026-09-27T12:09:19-05:00"
+      },
+      {
+        "titulo": "Balance semanal de Bitcoin y activos digitales: España e Hispanoamérica – 27 de septiembre",
+        "url": "https://es.finance.yahoo.com/noticias/resumen-semanal-bitcoin-criptomonedas-espa%C3%B1a-161700161.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Resumen semanal de Bitcoin y criptomonedas: España y América Latina – 27 de septiembre",
+        "capturado": "2026-09-27T12:09:19-05:00"
+      },
+      {
+        "titulo": "Ciclón Polo de nivel 3 amaga el litoral mexicano; prevén impacto en tierra el día lunes",
+        "url": "https://es.finance.yahoo.com/noticias/hurac%C3%A1n-polo-categor%C3%ADa-3-amenaza-161147648.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Huracán Polo, de categoría 3, amenaza la costa de México; se espera que toque tierra el lunes",
+        "capturado": "2026-09-27T12:09:19-05:00"
+      },
+      {
+        "titulo": "Fondos cotizados de Dogecoin logran máxima marca semanal tras aviso de Bitwise y avizoran alza",
+        "url": "https://es.finance.yahoo.com/noticias/etf-dogecoin-alcanzan-r%C3%A9cord-semanal-135500429.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "ETF de Dogecoin alcanzan récord semanal tras anuncio de Bitwise: ¿Reaccionará el precio?",
+        "capturado": "2026-09-27T12:09:19-05:00"
+      },
       {
         "titulo": "Director de Sharplink afirma que inteligencia artificial borraría 1,4 billones en Wall Street",
         "url": "https://es.finance.yahoo.com/noticias/ia-eliminar-1-4-billones-113800794.html",
@@ -450,38 +482,6 @@
         "resumen": "",
         "medio": "MT Newswires",
         "titulo_fuente": "Enagás mantiene su recomendación de \"mantener\" mientras Berenberg se mantiene \"cauteloso\" respecto al momento de la inversión en hidrógeno y la remuneración.",
-        "capturado": "2026-09-25T06:17:26-05:00"
-      },
-      {
-        "titulo": "Causas por las cuales Tether retorna USDT a Bitcoin según pista brindada por Morgan Stanley",
-        "url": "https://es.finance.yahoo.com/noticias/tether-llevando-usdt-regreso-bitcoin-103800457.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿Por qué Tether está llevando USDT de regreso a Bitcoin? Morgan Stanley da una pista",
-        "capturado": "2026-09-25T06:17:26-05:00"
-      },
-      {
-        "titulo": "ArcelorMittal reporta déficit de mil millones de dólares y frena labores en Ucrania tras bombardeos con misiles",
-        "url": "https://es.finance.yahoo.com/noticias/arcelormittal-anuncia-p%C3%A9rdida-1-000-094729549.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "ArcelorMittal anuncia una pérdida de 1.000 millones de dólares y suspende sus operaciones en Ucrania tras los ataques con misiles.",
-        "capturado": "2026-09-25T06:17:26-05:00"
-      },
-      {
-        "titulo": "Robert Kiyosaki señala que estas tres expresiones condenan a la pobreza a las personas",
-        "url": "https://es.finance.yahoo.com/noticias/robert-kiyosaki-3-frases-mantienen-091600719.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Robert Kiyosaki: estas 3 frases mantienen a las personas pobres",
-        "capturado": "2026-09-25T06:17:26-05:00"
-      },
-      {
-        "titulo": "Precio por criar un hijo en Europa: lugares con artículos básicos más económicos",
-        "url": "https://es.finance.yahoo.com/noticias/coste-beb%C3%A9-europa-d%C3%B3nde-baratos-050026765.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El coste de tener un bebé en Europa: ¿Dónde son más baratos los productos esenciales?",
         "capturado": "2026-09-25T06:17:26-05:00"
       }
     ]
