@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-27T12:09:19-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-09-27T15:18:04-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Se enciende señal de Fidelity sobre Bitcoin a $100,000 y estos son los datos",
+        "url": "https://es.finance.yahoo.com/noticias/bitcoin-100-000-activa-se%C3%B1al-184000641.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿Bitcoin a $100,000? Se activa señal de Fidelity: detalles",
+        "capturado": "2026-09-27T15:18:04-05:00"
+      },
       {
         "titulo": "Combustibles altos en Italia, Socar igualmente frena y acota las tarifas en las estaciones IP",
         "url": "https://es.finance.yahoo.com/noticias/carburantes-caros-italia-socar-interviene-160054762.html",
@@ -474,14 +482,6 @@
         "resumen": "",
         "medio": "Euronews",
         "titulo_fuente": "La deuda europea cede tras las ventas, las hipotecas en EE.UU. marcan máximos con Trump",
-        "capturado": "2026-09-25T06:17:26-05:00"
-      },
-      {
-        "titulo": "Enagás conserva su consejo de sostener y Berenberg sigue prudente frente al ciclo inversor en hidrógeno y pago",
-        "url": "https://es.finance.yahoo.com/noticias/enag%C3%A1s-mantiene-recomendaci%C3%B3n-mantener-berenberg-104226227.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Enagás mantiene su recomendación de \"mantener\" mientras Berenberg se mantiene \"cauteloso\" respecto al momento de la inversión en hidrógeno y la remuneración.",
         "capturado": "2026-09-25T06:17:26-05:00"
       }
     ]
