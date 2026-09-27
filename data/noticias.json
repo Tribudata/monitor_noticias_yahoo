@@ -1,9 +1,33 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-26T17:24:09-05:00",
+  "actualizado": "2026-09-26T19:46:48-05:00",
   "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Cronología del hack de Bitget: Cómo su plataforma avaló un hurto de 387 millones de dólares",
+        "url": "https://es.finance.yahoo.com/noticias/cronolog%C3%ADa-hack-bitget-sistema-aprob%C3%B3-230900297.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Cronología del hack de Bitget: ¿Cómo su propio sistema aprobó un robo de $387 millones?",
+        "capturado": "2026-09-26T19:46:48-05:00"
+      },
+      {
+        "titulo": "ETF al contado de Bitcoin suman un récord de 2.390 millones de dólares: Causas de esta demanda",
+        "url": "https://es.finance.yahoo.com/noticias/etf-spot-bitcoin-atraen-r%C3%A9cord-221800911.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "ETF spot de Bitcoin atraen récord de $2.39 mil millones: ¿Qué hay detrás de esta demanda?",
+        "capturado": "2026-09-26T19:46:48-05:00"
+      },
+      {
+        "titulo": "Michael Burry invierte en Ero Copper frente al crecimiento de centros de datos",
+        "url": "https://es.finance.yahoo.com/noticias/michael-burry-apuesta-ero-copper-170017717.html",
+        "resumen": "",
+        "medio": "Benzinga Espana",
+        "titulo_fuente": "Michael Burry apuesta por Ero Copper ante el auge de centros de datos",
+        "capturado": "2026-09-26T19:46:48-05:00"
+      },
       {
         "titulo": "Claude halla inédito sistema de enzimas ignorado por especialistas y su utilidad es un misterio",
         "url": "https://es.finance.yahoo.com/noticias/claude-sistema-enzimas-novedoso-expertos-213600144.html",
@@ -458,30 +482,6 @@
         "resumen": "",
         "medio": "BeInCrypto",
         "titulo_fuente": "MIT explica qué podría suceder cuando la burbuja de la IA estalle",
-        "capturado": "2026-09-24T17:00:14-05:00"
-      },
-      {
-        "titulo": "Joaquín Gutiérrez asume la presidencia de la compañía petrolera nacional Ecopetrol",
-        "url": "https://es.finance.yahoo.com/noticias/nombran-presidente-conglomerado-energ%C3%A9tico-colombiano-193705780.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Nombran como presidente de conglomerado energético colombiano Ecopetrol a Joaquín Gutiérrez",
-        "capturado": "2026-09-24T17:00:14-05:00"
-      },
-      {
-        "titulo": "Un estudio señala que las declaraciones y entrevistas del BCE agitan los mercados al igual que sus medidas",
-        "url": "https://es.finance.yahoo.com/noticias/discursos-entrevistas-bce-mueven-mercados-190617051.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Los discursos y entrevistas del BCE mueven los mercados como las decisiones, según un estudio",
-        "capturado": "2026-09-24T17:00:14-05:00"
-      },
-      {
-        "titulo": "XRP exhibe tres indicios positivos previo a un octubre tradicionalmente flojo",
-        "url": "https://es.finance.yahoo.com/noticias/xrp-muestra-3-se%C3%B1ales-alcistas-190100564.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "XRP muestra 3 señales alcistas antes de un octubre históricamente débil",
         "capturado": "2026-09-24T17:00:14-05:00"
       }
     ]
