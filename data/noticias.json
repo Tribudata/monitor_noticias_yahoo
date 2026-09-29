@@ -1,9 +1,49 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-29T15:08:05-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-09-29T18:53:09-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "El índice de escasez de XRP en Binance indica una variación relevante en la oferta de la criptomoneda",
+        "url": "https://es.finance.yahoo.com/noticias/xrp-binance-scarcity-index-se%C3%B1ala-225400050.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "El XRP Binance Scarcity Index señala un cambio importante en el suministro del token",
+        "capturado": "2026-09-29T18:53:09-05:00"
+      },
+      {
+        "titulo": "Grayscale clasifica cuatro criptodivisas de utilidad real como activos digitales",
+        "url": "https://es.finance.yahoo.com/noticias/grayscale-nombra-4-criptomonedas-uso-214800163.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Grayscale nombra 4 criptomonedas con uso real como monedas digitales",
+        "capturado": "2026-09-29T18:53:09-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE UU retroceden tras insistencia de Michael Barr en alzas de tasas y menor confianza",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-204555477.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen mientras Michael Barr reitera nuevas subidas de tipos de interés en medio de la menguante confianza del consumidor.",
+        "capturado": "2026-09-29T18:53:09-05:00"
+      },
+      {
+        "titulo": "JPMorgan da a conocer umbral de precio clave para los mineros de Bitcoin",
+        "url": "https://es.finance.yahoo.com/noticias/jpmorgan-revela-nivel-precio-cr%C3%ADtico-202600318.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "JPMorgan revela nivel de precio crítico para los mineros de Bitcoin",
+        "capturado": "2026-09-29T18:53:09-05:00"
+      },
+      {
+        "titulo": "Compañías tecnológicas lograrán conformidad comunitaria frente a centros de datos según Trump",
+        "url": "https://es.finance.yahoo.com/noticias/trump-recibir%C3%A1-l%C3%ADderes-anthropic-nvidia-152102139.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Empresas tecnológicas harán que comunidades estén satisfechas con centros de datos: Trump",
+        "capturado": "2026-09-29T18:53:09-05:00"
+      },
       {
         "titulo": "Variación: Los retornos de los bonos del Tesoro de EE. UU. caen por empleo mixto y menor demanda en subastas",
         "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-rendimientos-bonos-tesoro-estadounidense-195107255.html",
@@ -443,46 +483,6 @@
         "medio": "Tarreo",
         "titulo_fuente": "SteamOS ya corre en PC y dispositivos Android con ARM, una alternativa más económica a la Steam Deck",
         "capturado": "2026-09-27T07:18:32-05:00"
-      },
-      {
-        "titulo": "Alimentos y salario mínimo, el impacto en la capacidad de compra europea",
-        "url": "https://es.finance.yahoo.com/noticias/precios-alimentos-salario-m%C3%ADnimo-d%C3%B3nde-050051522.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Precios de los alimentos y salario mínimo, dónde aguanta el poder adquisitivo en Europa",
-        "capturado": "2026-09-27T01:18:50-05:00"
-      },
-      {
-        "titulo": "GTA Liberty City Stories disponible sin costo para PC con DirectX 12 y soporte para periféricos",
-        "url": "https://es-us.noticias.yahoo.com/gta-liberty-city-stories-llega-180159987.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "GTA Liberty City Stories llega gratis a PC compatible con DirectX 12, widescreen y soporte nativo para teclado y mouse",
-        "capturado": "2026-09-27T01:18:50-05:00"
-      },
-      {
-        "titulo": "Cronología del hack de Bitget: Cómo su plataforma avaló un hurto de 387 millones de dólares",
-        "url": "https://es.finance.yahoo.com/noticias/cronolog%C3%ADa-hack-bitget-sistema-aprob%C3%B3-230900297.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Cronología del hack de Bitget: ¿Cómo su propio sistema aprobó un robo de $387 millones?",
-        "capturado": "2026-09-26T19:46:48-05:00"
-      },
-      {
-        "titulo": "ETF al contado de Bitcoin suman un récord de 2.390 millones de dólares: Causas de esta demanda",
-        "url": "https://es.finance.yahoo.com/noticias/etf-spot-bitcoin-atraen-r%C3%A9cord-221800911.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "ETF spot de Bitcoin atraen récord de $2.39 mil millones: ¿Qué hay detrás de esta demanda?",
-        "capturado": "2026-09-26T19:46:48-05:00"
-      },
-      {
-        "titulo": "Michael Burry invierte en Ero Copper frente al crecimiento de centros de datos",
-        "url": "https://es.finance.yahoo.com/noticias/michael-burry-apuesta-ero-copper-170017717.html",
-        "resumen": "",
-        "medio": "Benzinga Espana",
-        "titulo_fuente": "Michael Burry apuesta por Ero Copper ante el auge de centros de datos",
-        "capturado": "2026-09-26T19:46:48-05:00"
       }
     ]
   }
