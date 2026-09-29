@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-28T17:25:01-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-09-28T21:10:54-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "EXCLUSIVA-Anthropic señala que la inteligencia artificial traería peligros vitales globales en su folleto OPI",
+        "url": "https://es.finance.yahoo.com/noticias/exclusiva-anthropic-advierte-ia-suponer-004000524.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "EXCLUSIVA-Anthropic advierte de que la IA podría suponer \"riesgos existenciales para la humanidad\" en su prospecto de OPI",
+        "capturado": "2026-09-28T21:10:54-05:00"
+      },
+      {
+        "titulo": "EXCLUSIVA-Documento de OPI de Anthropic muestra ambiciosa perspectiva sobre inteligencia artificial y alza de costos",
+        "url": "https://es.finance.yahoo.com/noticias/exclusiva-prospecto-salida-bolsa-anthropic-001436430.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "EXCLUSIVA-Prospecto de salida a bolsa de Anthropic revela visión ambiciosa sobre la IA, crecientes costos",
+        "capturado": "2026-09-28T21:10:54-05:00"
+      },
       {
         "titulo": "Argentina iniciará arbitraje contra Reino Unido para frenar extracción de crudo en Islas Malvinas",
         "url": "https://es.finance.yahoo.com/noticias/argentina-iniciar%C3%A1-arbitraje-reino-unido-213404168.html",
@@ -466,22 +482,6 @@
         "resumen": "",
         "medio": "MT Newswires",
         "titulo_fuente": "Los índices bursátiles estadounidenses subieron esta semana impulsados por el alza de las grandes tecnológicas, mientras que Irán propone la reapertura condicional del estrecho de Ormuz.",
-        "capturado": "2026-09-25T18:06:42-05:00"
-      },
-      {
-        "titulo": "Litecoin alcanza pico de ocho meses en pleno récord de ETF y busca rebasar los 75 dólares",
-        "url": "https://es.finance.yahoo.com/noticias/litecoin-registra-m%C3%A1ximo-8-meses-202300632.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Litecoin registra máximo de 8 meses en medio del récord dene ETF: ¿Podrá superar los $75?",
-        "capturado": "2026-09-25T18:06:42-05:00"
-      },
-      {
-        "titulo": "Strategy presenta iniciativa para otorgar dividendos diarios a quienes invierten",
-        "url": "https://es.finance.yahoo.com/noticias/strategy-lanza-propuesta-pagar-dividendos-193300161.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Strategy lanza propuesta para pagar dividendos diarios a sus inversores",
         "capturado": "2026-09-25T18:06:42-05:00"
       }
     ]
