@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-28T21:10:54-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-09-29T03:53:00-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Rumores del mercado: UniCredit, Commerzbank, Santander e ING planean lanzar ETF propios",
+        "url": "https://es.finance.yahoo.com/noticias/rumores-mercado-unicredit-commerzbank-santander-084056644.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Rumores del mercado: UniCredit, Commerzbank, Santander e ING planean lanzar ETF propios.",
+        "capturado": "2026-09-29T03:53:00-05:00"
+      },
+      {
+        "titulo": "El IPC en España trepa al 4,9% en septiembre debido al alza en los combustibles",
+        "url": "https://es.finance.yahoo.com/noticias/inflaci%C3%B3n-espa%C3%B1a-dispara-4-9-080801863.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "La inflación en España se dispara hasta el 4,9% en septiembre por el encarecimiento de los carburantes",
+        "capturado": "2026-09-29T03:53:00-05:00"
+      },
+      {
+        "titulo": "Binance Research resalta el factor que diferencia los repuntes sólidos de los débiles en Bitcoin",
+        "url": "https://es.finance.yahoo.com/noticias/binance-research-destaca-elemento-separa-075100292.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Binance Research destaca elemento que separa los fuertes rallies de Bitcoin de los débiles",
+        "capturado": "2026-09-29T03:53:00-05:00"
+      },
+      {
+        "titulo": "La firma china Gotion destina 1.100 millones de euros a una fábrica de baterías de Volkswagen en España",
+        "url": "https://es.finance.yahoo.com/noticias/china-gotion-invierte-1-100-064947008.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "La china Gotion invierte 1.100 millones de euros en una planta de baterías de Volkswagen en España",
+        "capturado": "2026-09-29T03:53:00-05:00"
+      },
+      {
+        "titulo": "El emisor australiano eleva los tipos y advierte sobre la posibilidad de futuros incrementos",
+        "url": "https://es.finance.yahoo.com/noticias/banco-central-australia-sube-tasas-064745725.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "El banco central de Australia sube las tasas y señala el riesgo de nuevas subidas",
+        "capturado": "2026-09-29T03:53:00-05:00"
+      },
+      {
+        "titulo": "Compañías del viejo continente en problemas por culpa de las elevadas tasas de interés",
+        "url": "https://es.finance.yahoo.com/noticias/empresas-europeas-apuros-sufre-altos-061619255.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Las empresas europeas, en apuros: quién sufre más por los altos tipos de interés",
+        "capturado": "2026-09-29T03:53:00-05:00"
+      },
+      {
+        "titulo": "Alza en la cotización del crudo y liquidación de títulos agitan las plazas globales",
+        "url": "https://es.finance.yahoo.com/noticias/precio-petr%C3%B3leo-sube-venta-masiva-060706103.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El precio del petróleo sube y la venta masiva de bonos sacude los mercados mundiales",
+        "capturado": "2026-09-29T03:53:00-05:00"
+      },
+      {
+        "titulo": "Cinco millones de autómatas operan en plantas mientras baja el furor por los humanoides",
+        "url": "https://es.finance.yahoo.com/noticias/millones-robots-trabajan-f%C3%A1bricas-fiebre-044806348.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Cinco millones de robots trabajan ya en fábricas mientras la fiebre por los humanoides se enfría",
+        "capturado": "2026-09-29T03:53:00-05:00"
+      },
       {
         "titulo": "EXCLUSIVA-Anthropic señala que la inteligencia artificial traería peligros vitales globales en su folleto OPI",
         "url": "https://es.finance.yahoo.com/noticias/exclusiva-anthropic-advierte-ia-suponer-004000524.html",
@@ -419,70 +483,6 @@
         "medio": "Estrategias de inversión",
         "titulo_fuente": "Ibex 35: la subida semanal no altera el proceso correctivo de las últimas semanas",
         "capturado": "2026-09-26T07:19:58-05:00"
-      },
-      {
-        "titulo": "Razones del aumento de compras de vehículos eléctricos chinos en Noruega a pesar de las dudas",
-        "url": "https://es.finance.yahoo.com/noticias/noruegos-compran-coches-el%C3%A9ctricos-chinos-050045803.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Por qué los noruegos compran más coches eléctricos chinos pese al creciente escepticismo",
-        "capturado": "2026-09-26T02:06:50-05:00"
-      },
-      {
-        "titulo": "Tres criptomonedas alternativas para seguir de cerca este fin de semana del 26 y 27 de septiembre",
-        "url": "https://es.finance.yahoo.com/noticias/top-3-altcoins-observar-semana-230800117.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Top 3 altcoins a observar este fin de semana | 26-27 de septiembre",
-        "capturado": "2026-09-25T20:48:18-05:00"
-      },
-      {
-        "titulo": "Tribunal estadounidense revela empleo de Claude en la aprehensión de Maduro",
-        "url": "https://es.finance.yahoo.com/noticias/corte-eeuu-expone-uso-claude-220514714.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Corte de EEUU expone uso de Claude en la captura de Maduro",
-        "capturado": "2026-09-25T18:06:42-05:00"
-      },
-      {
-        "titulo": "Auge del cobre: récords históricos sobresalen durante 2026",
-        "url": "https://es.finance.yahoo.com/noticias/cobre-oro-m%C3%A1ximos-hist%C3%B3ricos-destacan-214500517.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿El cobre es el nuevo oro? Máximos históricos destacan en 2026",
-        "capturado": "2026-09-25T18:06:42-05:00"
-      },
-      {
-        "titulo": "Lula veta las apuestas digitales en territorio brasileño durante la contienda electoral",
-        "url": "https://es.finance.yahoo.com/noticias/lula-proh%C3%ADbe-apuestas-l%C3%ADnea-brasil-213548120.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Lula prohíbe las apuestas en línea en Brasil en medio de la campaña electoral",
-        "capturado": "2026-09-25T18:06:42-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE UU repuntan y crudo retrocede por propuesta de Irán para abrir Ormuz",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-204115219.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben mientras el petróleo crudo cae tras el plan condicional de Irán para reabrir el paso de Ormuz.",
-        "capturado": "2026-09-25T18:06:42-05:00"
-      },
-      {
-        "titulo": "UE avizora crisis energética y exhorta a naciones a evaluar recortar el consumo",
-        "url": "https://es.finance.yahoo.com/noticias/ue-advierte-crisis-precios-energ%C3%ADa-204035300.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "La UE advierte de crisis de precios de la energía y pide a países que consideren reducir la demanda",
-        "capturado": "2026-09-25T18:06:42-05:00"
-      },
-      {
-        "titulo": "Wall Street avanzó esta semana por impulso de las tecnológicas e Irán plantea reabrir el estrecho de Ormuz",
-        "url": "https://es.finance.yahoo.com/noticias/%C3%ADndices-burs%C3%A1tiles-estadounidenses-subieron-semana-202553466.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los índices bursátiles estadounidenses subieron esta semana impulsados por el alza de las grandes tecnológicas, mientras que Irán propone la reapertura condicional del estrecho de Ormuz.",
-        "capturado": "2026-09-25T18:06:42-05:00"
       }
     ]
   }
