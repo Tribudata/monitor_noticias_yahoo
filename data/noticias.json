@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-29T10:24:02-05:00",
+  "actualizado": "2026-09-29T15:08:05-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Variación: Los retornos de los bonos del Tesoro de EE. UU. caen por empleo mixto y menor demanda en subastas",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-rendimientos-bonos-tesoro-estadounidense-195107255.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los rendimientos de los bonos del Tesoro estadounidense bajan en medio de un panorama laboral mixto y una menor demanda en las subastas gubernamentales.",
+        "capturado": "2026-09-29T15:08:05-05:00"
+      },
+      {
+        "titulo": "Atico Mining consigue créditos por 95 millones de dólares para la iniciativa La Plata en Ecuador",
+        "url": "https://es.finance.yahoo.com/noticias/atico-mining-obtiene-financiamiento-95-194726777.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Atico Mining obtiene financiamiento de $95 millones para el proyecto La Plata en Ecuador",
+        "capturado": "2026-09-29T15:08:05-05:00"
+      },
+      {
+        "titulo": "Williams, de la Reserva Federal, estima que el efecto de la energía en la inflación descenderá",
+        "url": "https://es.finance.yahoo.com/noticias/williams-fed-prev%C3%A9-impacto-sector-193616327.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Williams, de la Fed, prevé que impacto del sector energético en la inflación vaya disminuyendo",
+        "capturado": "2026-09-29T15:08:05-05:00"
+      },
+      {
+        "titulo": "Stellantis detendrá cuatro plantas galas por días debido a escasez de componentes",
+        "url": "https://es.finance.yahoo.com/noticias/stellantis-parar%C3%A1-4-f%C3%A1bricas-francesas-184832767.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Stellantis parará 4 fábricas francesas varios días por falta de suministros",
+        "capturado": "2026-09-29T15:08:05-05:00"
+      },
+      {
+        "titulo": "Williams no percibe prisa para el siguiente incremento de tipos de interés de la Fed",
+        "url": "https://es.finance.yahoo.com/noticias/williams-ve-urgencia-pr%C3%B3xima-alza-184610412.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Williams no ve urgencia para próxima alza de tasas de la Fed",
+        "capturado": "2026-09-29T15:08:05-05:00"
+      },
+      {
+        "titulo": "El rendimiento de los títulos del Tesoro de EE UU a 30 años llega a su pico en 24 años por empleo mixto y baja demanda",
+        "url": "https://es.finance.yahoo.com/noticias/rentabilidad-bonos-tesoro-estadounidense-30-180738127.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "La rentabilidad de los bonos del Tesoro estadounidense a 30 años alcanza su nivel más alto en 24 años en medio de un panorama laboral dispar y una menor demanda en las subastas gubernamentales.",
+        "capturado": "2026-09-29T15:08:05-05:00"
+      },
+      {
+        "titulo": "Barr, funcionario de la Fed, considera probables nuevas subidas de tasas para frenar la inflación",
+        "url": "https://es.finance.yahoo.com/noticias/barr-fed-ve-probable-necesarias-175246866.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Barr, de la Fed, ve probable que sean necesarias más alzas de tasas para frenar la inflación",
+        "capturado": "2026-09-29T15:08:05-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE UU bajan a mitad de la sesión por caída en la confianza del consumidor y tensiones geopolíticas",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-173858156.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen a media jornada debido al desplome de la confianza del consumidor en medio de las crecientes tensiones geopolíticas.",
+        "capturado": "2026-09-29T15:08:05-05:00"
+      },
       {
         "titulo": "Incertidumbre de inversionistas afecta transacciones de activos argentinos",
         "url": "https://es.finance.yahoo.com/noticias/dudas-inversoras-invaden-negocios-activos-144848844.html",
@@ -419,70 +483,6 @@
         "medio": "Benzinga Espana",
         "titulo_fuente": "Michael Burry apuesta por Ero Copper ante el auge de centros de datos",
         "capturado": "2026-09-26T19:46:48-05:00"
-      },
-      {
-        "titulo": "Claude halla inédito sistema de enzimas ignorado por especialistas y su utilidad es un misterio",
-        "url": "https://es.finance.yahoo.com/noticias/claude-sistema-enzimas-novedoso-expertos-213600144.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Claude encuentra sistema de enzimas novedoso que los expertos pasaron por alto, y nadie sabe para qué sirve",
-        "capturado": "2026-09-26T17:24:09-05:00"
-      },
-      {
-        "titulo": "Pekín y Washington pactan charlas de IA y bajar aranceles en medio de viaje de Xi",
-        "url": "https://es.finance.yahoo.com/noticias/china-eeuu-acuerdan-entablar-di%C3%A1logo-194803367.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "China y EEUU acuerdan entablar diálogo sobre IA y reducir aranceles durante visita de Xi",
-        "capturado": "2026-09-26T17:24:09-05:00"
-      },
-      {
-        "titulo": "La SEC precisa las nuevas normas aplicables al staking de Ethereum",
-        "url": "https://es.finance.yahoo.com/noticias/sec-aclara-reglas-staking-ethereum-191100589.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "La SEC aclara nuevas reglas para el staking de Ethereum",
-        "capturado": "2026-09-26T17:24:09-05:00"
-      },
-      {
-        "titulo": "Grandes inversores adquieren 724 millones de dólares en XRP y los ETF completan once semanas con ingresos",
-        "url": "https://es.finance.yahoo.com/noticias/ballenas-compran-724-millones-xrp-164700217.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Ballenas compran $724 millones en XRP mientras los ETF registran 11 semanas consecutivas de entradas",
-        "capturado": "2026-09-26T14:32:19-05:00"
-      },
-      {
-        "titulo": "Cuba mantiene su apertura a conversar con EE UU para resolver asuntos bilaterales",
-        "url": "https://es.finance.yahoo.com/noticias/cuba-dispuesta-di%C3%A1logo-estados-unidos-161948376.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Cuba sigue dispuesta a diálogo con Estados Unidos para solucionar diferencias bilaterales",
-        "capturado": "2026-09-26T11:35:14-05:00"
-      },
-      {
-        "titulo": "Brasil extiende el subsidio al diésel actual por la inestabilidad del crudo",
-        "url": "https://es.finance.yahoo.com/noticias/brasil-prorroga-subvenci%C3%B3n-gas%C3%B3leo-nivel-155526452.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Brasil prorroga subvención al gasóleo en su nivel actual, alegando volatilidad precios del petróleo",
-        "capturado": "2026-09-26T11:35:14-05:00"
-      },
-      {
-        "titulo": "Trump descarta cese al fuego con Irán: efecto en Bitcoin y petróleo",
-        "url": "https://es.finance.yahoo.com/noticias/trump-rechaza-alto-fuego-ir%C3%A1n-141900725.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Trump rechaza alto el fuego con Irán: impacto en Bitcoin el petróleo",
-        "capturado": "2026-09-26T11:35:14-05:00"
-      },
-      {
-        "titulo": "Mandataria interina de Venezuela regresa de EE UU sin pactos ni fecha electoral",
-        "url": "https://es.finance.yahoo.com/noticias/presidenta-encargada-venezuela-vuelve-eeuu-132706613.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Presidenta encargada de Venezuela vuelve de EEUU sin acuerdos ni fecha para elecciones",
-        "capturado": "2026-09-26T11:35:14-05:00"
       }
     ]
   }
