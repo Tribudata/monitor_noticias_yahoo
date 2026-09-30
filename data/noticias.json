@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-29T23:15:53-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-09-30T05:39:10-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "DeepSeek y Huawei se asocian para crear software de desarrollo de chips",
+        "url": "https://es.finance.yahoo.com/noticias/deepseek-al%C3%ADa-huawei-desarrollar-herramientas-102029466.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "DeepSeek se alía con Huawei para desarrollar herramientas de programación de chips",
+        "capturado": "2026-09-30T05:39:10-05:00"
+      },
+      {
+        "titulo": "Estados Unidos indagará a plataformas de criptomonedas por uso de info privilegiada",
+        "url": "https://es.finance.yahoo.com/noticias/eeuu-investigar%C3%A1-exchanges-criptomonedas-insider-091500886.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "EEUU investigará exchanges de criptomonedas por insider trading",
+        "capturado": "2026-09-30T05:39:10-05:00"
+      },
+      {
+        "titulo": "China advierte respuesta ante posibles sanciones comerciales de la Unión Europea",
+        "url": "https://es.finance.yahoo.com/noticias/china-promete-responder-ue-adopta-080148921.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "China promete responder si la UE adopta medidas dirigidas contra el comercio chino",
+        "capturado": "2026-09-30T05:39:10-05:00"
+      },
+      {
+        "titulo": "China aplica arancel del 55% a la carne bovina de Brasil al cumplirse el cupo",
+        "url": "https://es.finance.yahoo.com/noticias/china-a%C3%B1ade-arancel-55-carne-075211118.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "China añade el arancel del 55% a la carne de vacuno brasileña al alcanzarse la cuota de importación",
+        "capturado": "2026-09-30T05:39:10-05:00"
+      },
+      {
+        "titulo": "Donald Trump y magnates tecnológicos pactan acuerdo sobre inteligencia artificial",
+        "url": "https://es.finance.yahoo.com/noticias/donald-trump-l%C3%ADderes-tecnol%C3%B3gicos-firman-074800281.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Donald Trump y líderes tecnológicos firman acuerdo sobre IA: ¿Qué establece?",
+        "capturado": "2026-09-30T05:39:10-05:00"
+      },
+      {
+        "titulo": "EEUU analizará topes arancelarios en el tratado comercial sobre la indagación del exceso de capacidad",
+        "url": "https://es.finance.yahoo.com/noticias/eeuu-estudiar%C3%A1-l%C3%ADmites-arancelarios-acuerdo-074505731.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "EEUU estudiará límites arancelarios en el acuerdo comercial sobre la investigación del exceso de capacidad",
+        "capturado": "2026-09-30T05:39:10-05:00"
+      },
+      {
+        "titulo": "Exclusiva: Alemania protege una sección de la Bolsa de Fráncfort frente al control financiero de la UE",
+        "url": "https://es.finance.yahoo.com/noticias/exclusiva-alemania-protege-partes-deutsche-063947980.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Exclusiva: Alemania blinda parte de la Bolsa de Fráncfort ante la supervisión financiera de la UE",
+        "capturado": "2026-09-30T05:39:10-05:00"
+      },
+      {
+        "titulo": "Carburantes arriba de los 2 euros: Quién asumirá el costo mayor en Portugal",
+        "url": "https://es.finance.yahoo.com/noticias/combustibles-encima-2-euros-pagar%C3%A1-060816404.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Combustibles por encima de los 2 euros: ¿Quién pagará la factura más alta en Portugal?",
+        "capturado": "2026-09-30T05:39:10-05:00"
+      },
       {
         "titulo": "El índice de escasez de XRP en Binance indica una variación relevante en la oferta de la criptomoneda",
         "url": "https://es.finance.yahoo.com/noticias/xrp-binance-scarcity-index-se%C3%B1ala-225400050.html",
@@ -419,70 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Huracán Polo, de categoría 3, amenaza la costa de México; se espera que toque tierra el lunes",
         "capturado": "2026-09-27T12:09:19-05:00"
-      },
-      {
-        "titulo": "Fondos cotizados de Dogecoin logran máxima marca semanal tras aviso de Bitwise y avizoran alza",
-        "url": "https://es.finance.yahoo.com/noticias/etf-dogecoin-alcanzan-r%C3%A9cord-semanal-135500429.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "ETF de Dogecoin alcanzan récord semanal tras anuncio de Bitwise: ¿Reaccionará el precio?",
-        "capturado": "2026-09-27T12:09:19-05:00"
-      },
-      {
-        "titulo": "Director de Sharplink afirma que inteligencia artificial borraría 1,4 billones en Wall Street",
-        "url": "https://es.finance.yahoo.com/noticias/ia-eliminar-1-4-billones-113800794.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "IA podría eliminar $1.4 billones en comisiones de Wall Street, según el CEO de Sharplink",
-        "capturado": "2026-09-27T07:18:32-05:00"
-      },
-      {
-        "titulo": "Protección en criptomonedas abarca ahora tanto las billeteras como la dirección del usuario",
-        "url": "https://es.finance.yahoo.com/noticias/seguridad-cripto-extiende-all%C3%A1-wallets-090600214.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "La seguridad cripto ahora se extiende más allá de las wallets hasta la dirección del cliente",
-        "capturado": "2026-09-27T07:18:32-05:00"
-      },
-      {
-        "titulo": "Fidelity califica de inversión fallida el negocio relacionado con inteligencia artificial",
-        "url": "https://es.finance.yahoo.com/noticias/fidelity-comercio-ia-dinero-muerto-050000726.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "Fidelity: el comercio de IA es dinero muerto",
-        "capturado": "2026-09-27T07:18:32-05:00"
-      },
-      {
-        "titulo": "Modelo de economía colaborativa resultó ser un completo fracaso",
-        "url": "https://es.finance.yahoo.com/noticias/econom%C3%ADa-colaborativa-termin%C3%B3-fiasco-050000838.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "La economía colaborativa terminó siendo un fiasco",
-        "capturado": "2026-09-27T07:18:32-05:00"
-      },
-      {
-        "titulo": "Cuál será la siguiente meta alcanzable para Bitcoin",
-        "url": "https://es.finance.yahoo.com/noticias/cu%C3%A1l-objetivo-bitcoin-050000069.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "¿Cuál es el próximo objetivo de Bitcoin?",
-        "capturado": "2026-09-27T07:18:32-05:00"
-      },
-      {
-        "titulo": "Tecnología con rigor operativo para transformar la construcción",
-        "url": "https://es.finance.yahoo.com/noticias/innovar-construcci%C3%B3n-tecnolog%C3%ADa-disciplina-ejecuci%C3%B3n-040000390.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "Innovar en la construcción: tecnología con disciplina de ejecución",
-        "capturado": "2026-09-27T07:18:32-05:00"
-      },
-      {
-        "titulo": "SteamOS opera en PC y equipos Android ARM como opción barata a la Steam Deck",
-        "url": "https://es-us.noticias.yahoo.com/steamos-corre-pc-dispositivos-android-232107875.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "SteamOS ya corre en PC y dispositivos Android con ARM, una alternativa más económica a la Steam Deck",
-        "capturado": "2026-09-27T07:18:32-05:00"
       }
     ]
   }
