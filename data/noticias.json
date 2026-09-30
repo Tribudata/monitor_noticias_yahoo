@@ -1,9 +1,65 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-30T11:40:54-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-09-30T16:13:50-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Google lanza Gemini 4, su IA principal, luego de meses de demora",
+        "url": "https://es.finance.yahoo.com/noticias/google-anuncia-modelo-insignia-ia-201520910.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Google anuncia su modelo insignia de IA, Gemini 4, tras meses de retrasos",
+        "capturado": "2026-09-30T16:13:50-05:00"
+      },
+      {
+        "titulo": "El BAII ratifica en Doha su meta de paliar la brecha global de inversión en obras",
+        "url": "https://es.finance.yahoo.com/noticias/aiib-reafirma-doha-compromiso-cerrar-173426208.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El BAII reafirma en Doha su compromiso de cerrar déficit global de financiación de infraestructuras",
+        "capturado": "2026-09-30T16:13:50-05:00"
+      },
+      {
+        "titulo": "Air France-KLM y Lufthansa ya presentaron sus ofertas definitivas por TAP",
+        "url": "https://es.finance.yahoo.com/noticias/tap-air-france-klm-lufthansa-180909550.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "TAP: Air France-KLM y Lufthansa ya han entregado sus propuestas finales",
+        "capturado": "2026-09-30T16:13:50-05:00"
+      },
+      {
+        "titulo": "Superintendencia halla fallas, mas no ilegalidad de la Fed en obra de la era Powell",
+        "url": "https://es.finance.yahoo.com/noticias/regulador-detecta-deficiencias-conducta-indebida-173120664.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Regulador detecta deficiencias, pero no conducta indebida de la Fed en proyecto de renovación de la era Powell",
+        "capturado": "2026-09-30T16:13:50-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE. UU. operan mixtas al variar los bonos por gasto al alza e inflación moderada",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-registran-172230748.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses registran resultados mixtos, ya que el aumento del gasto y los datos de inflación moderados provocan movimientos dispares en los rendimientos de los bonos del Tesoro",
+        "capturado": "2026-09-30T16:13:50-05:00"
+      },
+      {
+        "titulo": "Aumentan los fondos cotizados en bolsa y los papeles norteamericanos muestran balance desigual a mitad de jornada",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-suben-acciones-171614143.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa suben, las acciones estadounidenses presentan resultados mixtos tras la media jornada.",
+        "capturado": "2026-09-30T16:13:50-05:00"
+      },
+      {
+        "titulo": "Demanda y expectativas de precios serán fundamentales para la siguiente resolución del BCE según Schnabel",
+        "url": "https://es.finance.yahoo.com/noticias/expectativas-precios-demanda-clave-pr%C3%B3xima-164943235.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Expectativas de precios y la demanda serán clave para la próxima decisión del BCE: Schnabel",
+        "capturado": "2026-09-30T16:13:50-05:00"
+      },
       {
         "titulo": "La FTC abre indagación a grandes de la inteligencia artificial como Anthropic y OpenAI",
         "url": "https://es.finance.yahoo.com/noticias/ftc-inicia-investigaci%C3%B3n-gigantes-ia-155612646.html",
@@ -427,62 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "EEUU aprueba normas menos estrictas de ahorro de combustible",
         "capturado": "2026-09-28T17:25:01-05:00"
-      },
-      {
-        "titulo": "Cook, integrante de la Fed, pronostica mayores presiones de inflación",
-        "url": "https://es.finance.yahoo.com/noticias/cook-fed-prev%C3%A9-presiones-inflacionarias-175519031.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Cook, de la Fed, prevé más presiones inflacionarias",
-        "capturado": "2026-09-28T17:25:01-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE. UU. bajan a mitad de jornada y suben tasas de bonos por tensión con Irán",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-173859046.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen a media jornada mientras suben los rendimientos de los bonos del Tesoro en medio del estancamiento entre Estados Unidos e Irán.",
-        "capturado": "2026-09-28T17:25:01-05:00"
-      },
-      {
-        "titulo": "Venezuela recupera 791.000 dólares en criptomonedas hurtadas tras fraude informático",
-        "url": "https://es.finance.yahoo.com/noticias/venezuela-recupera-791-000-criptomonedas-075500919.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Venezuela recupera $791,000 en criptomonedas robadas tras estafa digital",
-        "capturado": "2026-09-28T03:17:30-05:00"
-      },
-      {
-        "titulo": "El área tecnológica encabeza las mejores remuneraciones y la generación de empleo en Portugal",
-        "url": "https://es.finance.yahoo.com/noticias/d%C3%B3nde-cobra-mejores-oportunidades-empleo-061607479.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El sector tecnológico lidera los salarios más altos y la creación de empleo en Portugal",
-        "capturado": "2026-09-28T03:17:30-05:00"
-      },
-      {
-        "titulo": "La expansión de las ganancias industriales chinas frena aún más en el mes de agosto",
-        "url": "https://es.finance.yahoo.com/noticias/crecimiento-beneficios-industriales-china-ralentiza-071824407.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "El crecimiento de los beneficios industriales de China se ralentiza aún más en agosto",
-        "capturado": "2026-09-28T03:17:30-05:00"
-      },
-      {
-        "titulo": "El valor del crudo aumenta luego de que Trump desestimara el alto el fuego con Irán",
-        "url": "https://es.finance.yahoo.com/noticias/precio-petr%C3%B3leo-sube-rechazo-trump-054755342.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El precio del petróleo sube tras el rechazo de Trump a la tregua iraní",
-        "capturado": "2026-09-28T03:17:30-05:00"
-      },
-      {
-        "titulo": "China bajará los aranceles a bienes agrícolas estadounidenses, exceptuando la soja",
-        "url": "https://es.finance.yahoo.com/noticias/china-reducir%C3%A1-aranceles-productos-agr%C3%ADcolas-061602925.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "China reducirá los aranceles sobre productos agrícolas de EEUU, pero no sobre la soja",
-        "capturado": "2026-09-28T03:17:30-05:00"
       }
     ]
   }
