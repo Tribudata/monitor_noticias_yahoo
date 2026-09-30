@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-30T05:39:10-05:00",
+  "actualizado": "2026-09-30T11:40:54-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "La FTC abre indagación a grandes de la inteligencia artificial como Anthropic y OpenAI",
+        "url": "https://es.finance.yahoo.com/noticias/ftc-inicia-investigaci%C3%B3n-gigantes-ia-155612646.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "La FTC inicia investigación a gigantes de la IA, incluidos Anthropic y OpenAI",
+        "capturado": "2026-09-30T11:40:54-05:00"
+      },
+      {
+        "titulo": "Tripulación previene desastre y realiza aterrizaje forzoso de avión de Flydubai en Arabia Saudita",
+        "url": "https://es.finance.yahoo.com/noticias/tripulaci%C3%B3n-evita-cat%C3%A1strofe-aterriza-vuelo-153204901.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Tripulación evita catástrofe y aterriza vuelo de Flydubai de emergencia en Arabia Saudita",
+        "capturado": "2026-09-30T11:40:54-05:00"
+      },
+      {
+        "titulo": "Precipitaciones asociadas a El Niño alejan los temores sobre los cultivos de Argentina",
+        "url": "https://es.finance.yahoo.com/noticias/lluvias-vinculadas-ni%C3%B1o-despejan-temores-151230880.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Lluvias vinculadas a El Niño despejan temores sobre cosechas de Argentina",
+        "capturado": "2026-09-30T11:40:54-05:00"
+      },
+      {
+        "titulo": "Medicamento mixto en pruebas de Lilly vence a Zepbound en estudio clínico de adelgazamiento",
+        "url": "https://es.finance.yahoo.com/noticias/f%C3%A1rmaco-combinado-experimental-lilly-supera-144602207.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Fármaco combinado experimental de Lilly supera a Zepbound en ensayo clínico para pérdida de peso",
+        "capturado": "2026-09-30T11:40:54-05:00"
+      },
+      {
+        "titulo": "Bolsas y mercados de valores de Argentina finalizan un septiembre difícil",
+        "url": "https://es.finance.yahoo.com/noticias/mercados-financieros-argentina-cierran-septiembre-144534652.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Mercados financieros de Argentina cierran un septiembre complejo",
+        "capturado": "2026-09-30T11:40:54-05:00"
+      },
+      {
+        "titulo": "Fondos cotizados de Ethereum frenan racha de siete días con ingresos positivos y los de Bitcoin continúan adquiriendo",
+        "url": "https://es.finance.yahoo.com/noticias/etf-ethereum-rompen-racha-7-144100937.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "ETF de Ethereum rompen racha de 7 días de entradas mientras los fondos de Bitcoin siguen comprando",
+        "capturado": "2026-09-30T11:40:54-05:00"
+      },
+      {
+        "titulo": "Directivos petroleros inquietos por ausencia de componente esencial para crecer en Venezuela: energía eléctrica",
+        "url": "https://es.finance.yahoo.com/noticias/ejecutivos-petroleros-preocupados-falta-pieza-143629994.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Ejecutivos petroleros preocupados sobre falta de pieza clave para expandirse en Venezuela: electricidad",
+        "capturado": "2026-09-30T11:40:54-05:00"
+      },
+      {
+        "titulo": "El plan de BMW: reducción de personal, inteligencia artificial y inversión de 2.000 millones en Fabricado en Alemania",
+        "url": "https://es.finance.yahoo.com/noticias/estrategia-bmw-recortes-empleo-ia-141006614.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "La estrategia de BMW: recortes de empleo, IA y apuesta de 2.000 millones en 'Made in Germany'",
+        "capturado": "2026-09-30T11:40:54-05:00"
+      },
       {
         "titulo": "DeepSeek y Huawei se asocian para crear software de desarrollo de chips",
         "url": "https://es.finance.yahoo.com/noticias/deepseek-al%C3%ADa-huawei-desarrollar-herramientas-102029466.html",
@@ -419,70 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "China reducirá los aranceles sobre productos agrícolas de EEUU, pero no sobre la soja",
         "capturado": "2026-09-28T03:17:30-05:00"
-      },
-      {
-        "titulo": "Mandatario colombiano ordenó gestiones con el FMI para hallar solución al bache fiscal",
-        "url": "https://es.finance.yahoo.com/noticias/presidente-colombia-instrucciones-conversaciones-fmi-015506828.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Presidente de Colombia dio instrucciones para conversaciones con el FMI para buscar salida a crisis fiscal",
-        "capturado": "2026-09-28T03:17:30-05:00"
-      },
-      {
-        "titulo": "Volverá a presentarse la tendencia a la baja de Alphabet vista en 2022",
-        "url": "https://es.finance.yahoo.com/noticias/repetir%C3%A1-escenario-bajista-alphabet-2022-014000071.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "¿Se repetirá el escenario bajista de Alphabet en 2022?",
-        "capturado": "2026-09-28T03:17:30-05:00"
-      },
-      {
-        "titulo": "Bill Gates se une a las advertencias sobre regulaciones de seguridad ante la inteligencia artificial",
-        "url": "https://es.finance.yahoo.com/noticias/bill-gates-suma-llamados-medidas-220930341.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Bill Gates se suma a los llamados sobre medidas de protección frente a la IA",
-        "capturado": "2026-09-27T18:16:02-05:00"
-      },
-      {
-        "titulo": "THORChain rechaza congelar fondos asociados al ataque cibernético a Bitget",
-        "url": "https://es.finance.yahoo.com/noticias/thorchain-niega-bloquear-activos-vinculados-205900037.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "THORChain se niega a bloquear activos vinculados al hack de Bitget",
-        "capturado": "2026-09-27T18:16:02-05:00"
-      },
-      {
-        "titulo": "Se enciende señal de Fidelity sobre Bitcoin a $100,000 y estos son los datos",
-        "url": "https://es.finance.yahoo.com/noticias/bitcoin-100-000-activa-se%C3%B1al-184000641.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿Bitcoin a $100,000? Se activa señal de Fidelity: detalles",
-        "capturado": "2026-09-27T15:18:04-05:00"
-      },
-      {
-        "titulo": "Combustibles altos en Italia, Socar igualmente frena y acota las tarifas en las estaciones IP",
-        "url": "https://es.finance.yahoo.com/noticias/carburantes-caros-italia-socar-interviene-160054762.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Carburantes caros en Italia, Socar también interviene y limita los precios en la red IP",
-        "capturado": "2026-09-27T12:09:19-05:00"
-      },
-      {
-        "titulo": "Balance semanal de Bitcoin y activos digitales: España e Hispanoamérica – 27 de septiembre",
-        "url": "https://es.finance.yahoo.com/noticias/resumen-semanal-bitcoin-criptomonedas-espa%C3%B1a-161700161.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Resumen semanal de Bitcoin y criptomonedas: España y América Latina – 27 de septiembre",
-        "capturado": "2026-09-27T12:09:19-05:00"
-      },
-      {
-        "titulo": "Ciclón Polo de nivel 3 amaga el litoral mexicano; prevén impacto en tierra el día lunes",
-        "url": "https://es.finance.yahoo.com/noticias/hurac%C3%A1n-polo-categor%C3%ADa-3-amenaza-161147648.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Huracán Polo, de categoría 3, amenaza la costa de México; se espera que toque tierra el lunes",
-        "capturado": "2026-09-27T12:09:19-05:00"
       }
     ]
   }
