@@ -1,9 +1,65 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-01T09:14:47-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-10-01T14:41:53-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Pentágono analiza despachar un tercer portaaviones a Medio Oriente por crisis con Irán",
+        "url": "https://es.finance.yahoo.com/noticias/pent%C3%A1gono-eval%C3%BAa-enviar-tercer-portaaviones-184220677.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Pentágono evalúa enviar un tercer portaaviones a Medio Oriente ante tensión con Irán",
+        "capturado": "2026-10-01T14:41:53-05:00"
+      },
+      {
+        "titulo": "José Sevilla deja la presidencia de Unicaja y se aparta de la institución",
+        "url": "https://es.finance.yahoo.com/noticias/jos%C3%A9-sevilla-dimite-presidente-unicaja-183144483.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "José Sevilla dimite como presidente de Unicaja y renuncia a seguir en la entidad",
+        "capturado": "2026-10-01T14:41:53-05:00"
+      },
+      {
+        "titulo": "Kashkari de la Fed anticipa más subidas de tipos sin definir si actuará este mes",
+        "url": "https://es.finance.yahoo.com/noticias/kashkari-fed-prev%C3%A9-alzas-tasas-182907983.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Kashkari, de la Fed, prevé más alzas de tasas, pero no tiene claro si es necesario actuar este mes",
+        "capturado": "2026-10-01T14:41:53-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE UU al alza al caer rendimiento de bonos y diluirse alzas de tipos de la Fed",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-181953304.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben a medida que bajan los rendimientos de los bonos del Tesoro y se desvanecen las expectativas de subida de tipos de la Reserva Federal tras los datos del sector manufacturero y del mercado laboral.",
+        "capturado": "2026-10-01T14:41:53-05:00"
+      },
+      {
+        "titulo": "Jefferson señala que la Fed tardaría en definir su siguiente medida sobre tasas",
+        "url": "https://es.finance.yahoo.com/noticias/fed-tomar-tiempo-pr%C3%B3xima-decisi%C3%B3n-180208232.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "La Fed podría tomar un tiempo antes de la próxima decisión sobre tasas de interés: Jefferson",
+        "capturado": "2026-10-01T14:41:53-05:00"
+      },
+      {
+        "titulo": "Globant recurre a la IA para transformarse luego de caer un 80% su valor bursátil",
+        "url": "https://es.finance.yahoo.com/noticias/globant-apuesta-ia-reinventarse-perder-171748159.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Globant apuesta por IA para reinventarse tras perder 80% de su valor de mercado",
+        "capturado": "2026-10-01T14:41:53-05:00"
+      },
+      {
+        "titulo": "Los ETF muestran balances variados y los títulos de EE UU retroceden pasada la tarde",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-presentan-resultados-171345100.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa presentan resultados mixtos y las acciones estadounidenses caen tras el mediodía.",
+        "capturado": "2026-10-01T14:41:53-05:00"
+      },
       {
         "titulo": "EEUU detiene envío de piezas de aeronaves a China; Trump busca ventaja negociadora, aseguran fuentes",
         "url": "https://es.finance.yahoo.com/noticias/eeuu-frena-exportaciones-partes-aviones-135412152.html",
@@ -427,62 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "La deuda pública francesa se dispara hasta el 119 % del PIB",
         "capturado": "2026-09-29T10:24:02-05:00"
-      },
-      {
-        "titulo": "La AIE evaluaría liberar más reservas de crudo por el fuerte invierno europeo",
-        "url": "https://es.finance.yahoo.com/noticias/aie-considerar-liberaciones-reservas-petr%C3%B3leo-144802996.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La AIE podría considerar nuevas liberaciones de reservas de petróleo ante el duro invierno en Europa",
-        "capturado": "2026-09-29T10:24:02-05:00"
-      },
-      {
-        "titulo": "Philippe, aspirante presidencial francés, sugiere postergar jubilación y ahorro forzoso",
-        "url": "https://es.finance.yahoo.com/noticias/candidato-presidencia-francia-philippe-propone-131656994.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Candidato a la presidencia de Francia, Philippe, propone retrasar edad de jubilación y ahorro obligatorio",
-        "capturado": "2026-09-29T10:24:02-05:00"
-      },
-      {
-        "titulo": "ETFs y futuros accionarios avanzaron el martes previo a la apertura bursátil evaluando el auge tecnológico",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-futuros-renta-131149283.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa y los futuros de renta variable subieron el martes antes de la apertura del mercado, mientras los inversores analizan el repunte del sector tecnológico.",
-        "capturado": "2026-09-29T10:24:02-05:00"
-      },
-      {
-        "titulo": "Funcionario anuncia diálogo de delegado de Putin en EE UU sobre el conflicto ucraniano y energía",
-        "url": "https://es.finance.yahoo.com/noticias/enviado-putin-conversa-eeuu-guerra-130058786.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Enviado de Putin conversa en EEUU sobre guerra en Ucrania e iniciativas energéticas: funcionario",
-        "capturado": "2026-09-29T10:24:02-05:00"
-      },
-      {
-        "titulo": "Alza leve en futuros de acciones de EE UU previo a la apertura por altos bonos y estancamiento con Irán",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-futuros-acciones-estadounidenses-suben-125440549.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los futuros de las acciones estadounidenses suben ligeramente antes de la apertura del mercado en medio de los elevados rendimientos de los bonos del Tesoro y la falta de avances en las conversaciones entre Estados Unidos e Irán.",
-        "capturado": "2026-09-29T10:24:02-05:00"
-      },
-      {
-        "titulo": "La fiebre del oro de las baterías: así es como la energía crea un nuevo mercado en Italia",
-        "url": "https://es.finance.yahoo.com/noticias/fiebre-oro-bater%C3%ADas-energ%C3%ADa-crea-124257335.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La fiebre del oro de las baterías: así es como la energía crea un nuevo mercado en Italia",
-        "capturado": "2026-09-29T10:24:02-05:00"
-      },
-      {
-        "titulo": "Rumores del mercado: UniCredit, Commerzbank, Santander e ING planean lanzar ETF propios",
-        "url": "https://es.finance.yahoo.com/noticias/rumores-mercado-unicredit-commerzbank-santander-084056644.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Rumores del mercado: UniCredit, Commerzbank, Santander e ING planean lanzar ETF propios.",
-        "capturado": "2026-09-29T03:53:00-05:00"
       }
     ]
   }
