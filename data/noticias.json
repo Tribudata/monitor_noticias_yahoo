@@ -1,9 +1,65 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-09-30T16:13:50-05:00",
+  "actualizado": "2026-09-30T19:41:39-05:00",
   "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Aparece un indicio determinante sobre un posible incremento de tasas de la Fed en octubre",
+        "url": "https://es.finance.yahoo.com/noticias/subir%C3%A1-fed-tasas-inter%C3%A9s-octubre-230500576.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿Subirá la Fed las tasas de interés en octubre? Una señal clave aparece",
+        "capturado": "2026-09-30T19:41:39-05:00"
+      },
+      {
+        "titulo": "Trump comunica capital surcoreano por 200.000 millones de dólares para iniciativas en EE UU",
+        "url": "https://es.finance.yahoo.com/noticias/trump-anuncia-inversi%C3%B3n-surcoreana-200-220044225.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Trump anuncia inversión surcoreana de 200.000 millones de dólares en proyectos en EEUU",
+        "capturado": "2026-09-30T19:41:39-05:00"
+      },
+      {
+        "titulo": "Hyperliquid emite hoy 3,7 millones de criptomonedas y esto afecta su cotización",
+        "url": "https://es.finance.yahoo.com/noticias/hyperliquid-libera-3-7-millones-212900421.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Hyperliquid libera 3.7 millones de tokens hoy: impacto en el precio",
+        "capturado": "2026-09-30T19:41:39-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE UU con desempeño variado y bonos del Tesoro presionan tras mayor consumo e inflación baja",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-211043690.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos mientras los rendimientos de los bonos del Tesoro ejercen presión tras un aumento del gasto de los consumidores que acompaña a una inflación moderada.",
+        "capturado": "2026-09-30T19:41:39-05:00"
+      },
+      {
+        "titulo": "La inteligencia artificial de Micron se expande y sus ventas aumentan un 379%",
+        "url": "https://es.finance.yahoo.com/noticias/auge-ia-micron-crece-ingresos-203843034.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "El auge de la IA de Micron crece aún más mientras los ingresos se disparan un 379%",
+        "capturado": "2026-09-30T19:41:39-05:00"
+      },
+      {
+        "titulo": "Según registros, el oro a tres meses vivirá su anualidad más inestable desde 1982",
+        "url": "https://es.finance.yahoo.com/noticias/oro-3-meses-a%C3%B1o-vol%C3%A1til-201000828.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "El oro está a 3 meses de tener su año más volátil desde 1982, según datos",
+        "capturado": "2026-09-30T19:41:39-05:00"
+      },
+      {
+        "titulo": "Mercado Bitcoin elige siete activos digitales para el mes de octubre de 2026",
+        "url": "https://es.finance.yahoo.com/noticias/mercado-bitcoin-selecciona-7-criptomonedas-185800848.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Mercado Bitcoin selecciona 7 criptomonedas para octubre de 2026",
+        "capturado": "2026-09-30T19:41:39-05:00"
+      },
       {
         "titulo": "Google lanza Gemini 4, su IA principal, luego de meses de demora",
         "url": "https://es.finance.yahoo.com/noticias/google-anuncia-modelo-insignia-ia-201520910.html",
@@ -427,62 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "EXCLUSIVA-Anthropic advierte de que la IA podría suponer \"riesgos existenciales para la humanidad\" en su prospecto de OPI",
         "capturado": "2026-09-28T21:10:54-05:00"
-      },
-      {
-        "titulo": "EXCLUSIVA-Documento de OPI de Anthropic muestra ambiciosa perspectiva sobre inteligencia artificial y alza de costos",
-        "url": "https://es.finance.yahoo.com/noticias/exclusiva-prospecto-salida-bolsa-anthropic-001436430.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "EXCLUSIVA-Prospecto de salida a bolsa de Anthropic revela visión ambiciosa sobre la IA, crecientes costos",
-        "capturado": "2026-09-28T21:10:54-05:00"
-      },
-      {
-        "titulo": "Argentina iniciará arbitraje contra Reino Unido para frenar extracción de crudo en Islas Malvinas",
-        "url": "https://es.finance.yahoo.com/noticias/argentina-iniciar%C3%A1-arbitraje-reino-unido-213404168.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Argentina dice iniciará arbitraje contra Reino Unido para detener explotación petrolera en Islas Malvinas",
-        "capturado": "2026-09-28T17:25:01-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE.UU. bajan por estancamiento con Irán; la Fed prevé alza de tasas e inflación",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-202125229.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen al estancarse las conversaciones con Irán; el gobernador de la Reserva Federal apunta a un aumento de las tasas de interés y la inflación.",
-        "capturado": "2026-09-28T17:25:01-05:00"
-      },
-      {
-        "titulo": "TotalEnergies eleva recompras y anuncia más pagos con crudo a 100 dólares",
-        "url": "https://es.finance.yahoo.com/noticias/totalenergies-aumenta-recompras-promete-dividendos-141129030.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "TotalEnergies aumenta las recompras y promete más dividendos con el petróleo a 100 dólares",
-        "capturado": "2026-09-28T17:25:01-05:00"
-      },
-      {
-        "titulo": "Fuentes indican que Colombia dialogó con el FMI sobre un posible acuerdo",
-        "url": "https://es.finance.yahoo.com/noticias/colombia-conversaciones-funcionarios-fmi-eventual-185338604.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Colombia ha tenido conversaciones con funcionarios del FMI sobre eventual acuerdo: fuentes",
-        "capturado": "2026-09-28T17:25:01-05:00"
-      },
-      {
-        "titulo": "Lisa Cook, de la Fed, avisa que auge de la IA podría elevar la inflación",
-        "url": "https://es.finance.yahoo.com/noticias/lisa-cook-fed-advierte-auge-181626032.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Lisa Cook, de la Fed, advierte que el auge de la IA podría aumentar las presiones inflacionarias",
-        "capturado": "2026-09-28T17:25:01-05:00"
-      },
-      {
-        "titulo": "Estados Unidos avala regulaciones más flexibles para el consumo de combustible",
-        "url": "https://es.finance.yahoo.com/noticias/eeuu-aprueba-normas-estrictas-ahorro-175730698.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "EEUU aprueba normas menos estrictas de ahorro de combustible",
-        "capturado": "2026-09-28T17:25:01-05:00"
       }
     ]
   }
