@@ -1,9 +1,65 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-01T14:41:53-05:00",
+  "actualizado": "2026-10-01T18:42:32-05:00",
   "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Elon Musk vuelve a Washington pese al episodio DOGE",
+        "url": "https://es.finance.yahoo.com/noticias/elon-musk-regresa-washington-saga-231300140.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Elon Musk regresa a Washington a pesar de la saga DOGE",
+        "capturado": "2026-10-01T18:42:32-05:00"
+      },
+      {
+        "titulo": "La SEC reconoce retraso ante Bitcoin y plantea normas de custodia",
+        "url": "https://es.finance.yahoo.com/noticias/sec-admite-regulaci%C3%B3n-quedado-atr%C3%A1s-220436266.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "La SEC admite que la regulación se ha quedado atrás respecto a Bitcoin y propone nuevas reglas de custodia",
+        "capturado": "2026-10-01T18:42:32-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE. UU. al alza mientras bonos caen desde máximos de 20 años",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-212442221.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben ligeramente a medida que los rendimientos de los bonos del Tesoro caen desde su nivel más alto en dos décadas tras la caída de las expectativas de subida de tipos de la Reserva Federal en octubre.",
+        "capturado": "2026-10-01T18:42:32-05:00"
+      },
+      {
+        "titulo": "Reguladores señalan que Binance aprovecha vacíos legales en Europa",
+        "url": "https://es.finance.yahoo.com/noticias/binance-usa-vac%C3%ADos-legales-operar-210600775.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Binance usa vacíos legales para operar en Europa: esto dicen los reguladores",
+        "capturado": "2026-10-01T18:42:32-05:00"
+      },
+      {
+        "titulo": "Funcionarios de la Fed moderan previsiones de alza de tasas en octubre",
+        "url": "https://es.finance.yahoo.com/noticias/autoridades-fed-enfr%C3%ADan-expectativas-subida-202032485.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Autoridades de la Fed enfrían las expectativas de una subida de tasas en octubre",
+        "capturado": "2026-10-01T18:42:32-05:00"
+      },
+      {
+        "titulo": "Wall Street sube al tiempo que los Treasuries repuntan y bajan miedos sobre tipos",
+        "url": "https://es.finance.yahoo.com/noticias/acciones-ee-uu-suben-pese-111652872.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Wall Street avanza mientras Treasuries rebotan y alivian temores por las tasas",
+        "capturado": "2026-10-01T18:42:32-05:00"
+      },
+      {
+        "titulo": "Rendimientos de bonos de EE UU caen desde topes históricos al bajar la presión de la Fed",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-rendimientos-bonos-tesoro-estadounidense-195459302.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los rendimientos de los bonos del Tesoro estadounidense se desploman desde máximos de varias décadas a medida que disminuyen las expectativas de endurecimiento de la política monetaria de la Reserva Federal en octubre.",
+        "capturado": "2026-10-01T18:42:32-05:00"
+      },
       {
         "titulo": "Pentágono analiza despachar un tercer portaaviones a Medio Oriente por crisis con Irán",
         "url": "https://es.finance.yahoo.com/noticias/pent%C3%A1gono-eval%C3%BAa-enviar-tercer-portaaviones-184220677.html",
@@ -427,62 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Williams, de la Fed, prevé que impacto del sector energético en la inflación vaya disminuyendo",
         "capturado": "2026-09-29T15:08:05-05:00"
-      },
-      {
-        "titulo": "Stellantis detendrá cuatro plantas galas por días debido a escasez de componentes",
-        "url": "https://es.finance.yahoo.com/noticias/stellantis-parar%C3%A1-4-f%C3%A1bricas-francesas-184832767.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Stellantis parará 4 fábricas francesas varios días por falta de suministros",
-        "capturado": "2026-09-29T15:08:05-05:00"
-      },
-      {
-        "titulo": "Williams no percibe prisa para el siguiente incremento de tipos de interés de la Fed",
-        "url": "https://es.finance.yahoo.com/noticias/williams-ve-urgencia-pr%C3%B3xima-alza-184610412.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Williams no ve urgencia para próxima alza de tasas de la Fed",
-        "capturado": "2026-09-29T15:08:05-05:00"
-      },
-      {
-        "titulo": "El rendimiento de los títulos del Tesoro de EE UU a 30 años llega a su pico en 24 años por empleo mixto y baja demanda",
-        "url": "https://es.finance.yahoo.com/noticias/rentabilidad-bonos-tesoro-estadounidense-30-180738127.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "La rentabilidad de los bonos del Tesoro estadounidense a 30 años alcanza su nivel más alto en 24 años en medio de un panorama laboral dispar y una menor demanda en las subastas gubernamentales.",
-        "capturado": "2026-09-29T15:08:05-05:00"
-      },
-      {
-        "titulo": "Barr, funcionario de la Fed, considera probables nuevas subidas de tasas para frenar la inflación",
-        "url": "https://es.finance.yahoo.com/noticias/barr-fed-ve-probable-necesarias-175246866.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Barr, de la Fed, ve probable que sean necesarias más alzas de tasas para frenar la inflación",
-        "capturado": "2026-09-29T15:08:05-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE UU bajan a mitad de la sesión por caída en la confianza del consumidor y tensiones geopolíticas",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-173858156.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen a media jornada debido al desplome de la confianza del consumidor en medio de las crecientes tensiones geopolíticas.",
-        "capturado": "2026-09-29T15:08:05-05:00"
-      },
-      {
-        "titulo": "Incertidumbre de inversionistas afecta transacciones de activos argentinos",
-        "url": "https://es.finance.yahoo.com/noticias/dudas-inversoras-invaden-negocios-activos-144848844.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Dudas inversoras invaden negocios de activos de Argentina",
-        "capturado": "2026-09-29T10:24:02-05:00"
-      },
-      {
-        "titulo": "El endeudamiento público de Francia trepa hasta el 119 por ciento del PIB",
-        "url": "https://es.finance.yahoo.com/noticias/deuda-p%C3%BAblica-francesa-dispara-119-144819406.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La deuda pública francesa se dispara hasta el 119 % del PIB",
-        "capturado": "2026-09-29T10:24:02-05:00"
       }
     ]
   }
