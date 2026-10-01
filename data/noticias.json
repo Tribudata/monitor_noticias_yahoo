@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-01T01:54:07-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-01T09:14:47-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "EEUU detiene envío de piezas de aeronaves a China; Trump busca ventaja negociadora, aseguran fuentes",
+        "url": "https://es.finance.yahoo.com/noticias/eeuu-frena-exportaciones-partes-aviones-135412152.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "EEUU frena exportaciones de partes de aviones a China, Trump busca ventaja en negociaciones, dicen fuentes",
+        "capturado": "2026-10-01T09:14:47-05:00"
+      },
+      {
+        "titulo": "Autoridades de la UE interpelan a Binance por sus actividades europeas sin la debida licencia",
+        "url": "https://es.finance.yahoo.com/noticias/supervisores-ue-cuestionan-binance-operaciones-120433209.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Los reguladores de la UE cuestionan a Binance por sus operaciones europeas sin licencia",
+        "capturado": "2026-10-01T09:14:47-05:00"
+      },
+      {
+        "titulo": "ETP y futuros accionarios avanzan el jueves en la apertura tras evaluar los datos de Micron",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-futuros-acciones-132230467.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa y los futuros de acciones subieron el jueves antes de la apertura del mercado, mientras los operadores analizaban los resultados del cuarto trimestre fiscal de Micron.",
+        "capturado": "2026-10-01T09:14:47-05:00"
+      },
+      {
+        "titulo": "Alza continua en combustibles: el gasóleo comunitario alcanza máximo histórico de 2,24 euros por litro",
+        "url": "https://es.finance.yahoo.com/noticias/respiro-gasolineras-di%C3%A9sel-ue-marca-125708807.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Sin respiro en las gasolineras: el diésel de la UE marca récord en 2,24 €/litro",
+        "capturado": "2026-10-01T09:14:47-05:00"
+      },
+      {
+        "titulo": "Modificación: Futuros bursátiles en EEUU ascienden previo a la apertura tras revisar cuentas de Micron",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-futuros-acciones-estadounidenses-suben-125420891.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los futuros de las acciones estadounidenses suben antes de la apertura del mercado mientras los operadores analizan los resultados del cuarto trimestre fiscal de Micron.",
+        "capturado": "2026-10-01T09:14:47-05:00"
+      },
+      {
+        "titulo": "RBC modifica precio objetivo y pronósticos de Banco Santander previo al tercer trimestre y sigue aconsejando compra",
+        "url": "https://es.finance.yahoo.com/noticias/rbc-ajusta-precio-objetivo-estimaciones-122959901.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "RBC ajusta el precio objetivo y las estimaciones para Banco Santander antes de la publicación de los resultados del tercer trimestre; mantiene la recomendación de \"rendimiento superior\".",
+        "capturado": "2026-10-01T09:14:47-05:00"
+      },
+      {
+        "titulo": "Experto Mielke señala que cotizaciones globales de aceites vegetales alzarían por menor disponibilidad",
+        "url": "https://es.finance.yahoo.com/noticias/precios-mundiales-aceites-vegetales-subir-121717688.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Precios mundiales de aceites vegetales podrían subir por una menor oferta, dice analista Mielke",
+        "capturado": "2026-10-01T09:14:47-05:00"
+      },
+      {
+        "titulo": "Contratos de futuros en EE UU avanzan previo a la rueda bursátil evaluando balances trimestrales de Micron",
+        "url": "https://es.finance.yahoo.com/noticias/futuros-acciones-estadounidenses-suben-apertura-120914058.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los futuros de las acciones estadounidenses suben antes de la apertura del mercado mientras los operadores analizan los resultados del cuarto trimestre fiscal de Micron.",
+        "capturado": "2026-10-01T09:14:47-05:00"
+      },
       {
         "titulo": "Aparece un indicio determinante sobre un posible incremento de tasas de la Fed en octubre",
         "url": "https://es.finance.yahoo.com/noticias/subir%C3%A1-fed-tasas-inter%C3%A9s-octubre-230500576.html",
@@ -419,70 +483,6 @@
         "medio": "MT Newswires",
         "titulo_fuente": "Rumores del mercado: UniCredit, Commerzbank, Santander e ING planean lanzar ETF propios.",
         "capturado": "2026-09-29T03:53:00-05:00"
-      },
-      {
-        "titulo": "El IPC en España trepa al 4,9% en septiembre debido al alza en los combustibles",
-        "url": "https://es.finance.yahoo.com/noticias/inflaci%C3%B3n-espa%C3%B1a-dispara-4-9-080801863.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La inflación en España se dispara hasta el 4,9% en septiembre por el encarecimiento de los carburantes",
-        "capturado": "2026-09-29T03:53:00-05:00"
-      },
-      {
-        "titulo": "Binance Research resalta el factor que diferencia los repuntes sólidos de los débiles en Bitcoin",
-        "url": "https://es.finance.yahoo.com/noticias/binance-research-destaca-elemento-separa-075100292.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Binance Research destaca elemento que separa los fuertes rallies de Bitcoin de los débiles",
-        "capturado": "2026-09-29T03:53:00-05:00"
-      },
-      {
-        "titulo": "La firma china Gotion destina 1.100 millones de euros a una fábrica de baterías de Volkswagen en España",
-        "url": "https://es.finance.yahoo.com/noticias/china-gotion-invierte-1-100-064947008.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "La china Gotion invierte 1.100 millones de euros en una planta de baterías de Volkswagen en España",
-        "capturado": "2026-09-29T03:53:00-05:00"
-      },
-      {
-        "titulo": "El emisor australiano eleva los tipos y advierte sobre la posibilidad de futuros incrementos",
-        "url": "https://es.finance.yahoo.com/noticias/banco-central-australia-sube-tasas-064745725.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "El banco central de Australia sube las tasas y señala el riesgo de nuevas subidas",
-        "capturado": "2026-09-29T03:53:00-05:00"
-      },
-      {
-        "titulo": "Compañías del viejo continente en problemas por culpa de las elevadas tasas de interés",
-        "url": "https://es.finance.yahoo.com/noticias/empresas-europeas-apuros-sufre-altos-061619255.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Las empresas europeas, en apuros: quién sufre más por los altos tipos de interés",
-        "capturado": "2026-09-29T03:53:00-05:00"
-      },
-      {
-        "titulo": "Alza en la cotización del crudo y liquidación de títulos agitan las plazas globales",
-        "url": "https://es.finance.yahoo.com/noticias/precio-petr%C3%B3leo-sube-venta-masiva-060706103.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El precio del petróleo sube y la venta masiva de bonos sacude los mercados mundiales",
-        "capturado": "2026-09-29T03:53:00-05:00"
-      },
-      {
-        "titulo": "Cinco millones de autómatas operan en plantas mientras baja el furor por los humanoides",
-        "url": "https://es.finance.yahoo.com/noticias/millones-robots-trabajan-f%C3%A1bricas-fiebre-044806348.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Cinco millones de robots trabajan ya en fábricas mientras la fiebre por los humanoides se enfría",
-        "capturado": "2026-09-29T03:53:00-05:00"
-      },
-      {
-        "titulo": "EXCLUSIVA-Anthropic señala que la inteligencia artificial traería peligros vitales globales en su folleto OPI",
-        "url": "https://es.finance.yahoo.com/noticias/exclusiva-anthropic-advierte-ia-suponer-004000524.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "EXCLUSIVA-Anthropic advierte de que la IA podría suponer \"riesgos existenciales para la humanidad\" en su prospecto de OPI",
-        "capturado": "2026-09-28T21:10:54-05:00"
       }
     ]
   }
