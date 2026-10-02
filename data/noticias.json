@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-02T05:39:44-05:00",
+  "actualizado": "2026-10-02T11:30:44-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Gobierno francés proyecta 1 % de expansión en 2027 y analistas debaten",
+        "url": "https://es.finance.yahoo.com/noticias/gobierno-franc%C3%A9s-prev%C3%A9-crecimiento-1-130053114.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El Gobierno francés prevé un crecimiento del 1 % en 2027: ¿Qué opinan los expertos?",
+        "capturado": "2026-10-02T11:30:44-05:00"
+      },
+      {
+        "titulo": "Bolsa de Argentina negocia de forma selectiva atenta al exterior",
+        "url": "https://es.finance.yahoo.com/noticias/plaza-financiera-argentina-opera-selectividad-150610622.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Plaza financiera argentina opera con selectividad y seguimiento externo",
+        "capturado": "2026-10-02T11:30:44-05:00"
+      },
+      {
+        "titulo": "USDT vuelve a Bitcoin tras una década y analizan su impacto",
+        "url": "https://es.finance.yahoo.com/noticias/usdt-regresa-bitcoin-10-a%C3%B1os-145700958.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "USDT regresa a Bitcoin después de 10 años: ¿Qué significa para los usuarios?",
+        "capturado": "2026-10-02T11:30:44-05:00"
+      },
+      {
+        "titulo": "Es el turno de Brasil en un año electoral clave con la mira en EE UU",
+        "url": "https://es.finance.yahoo.com/noticias/toca-brasil-a%C3%B1o-electoral-repercusi%C3%B3n-143553178.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Ahora le toca a Brasil, en un año electoral de gran repercusión y con EEUU en la mira",
+        "capturado": "2026-10-02T11:30:44-05:00"
+      },
+      {
+        "titulo": "Bonos de EE UU caen desde máximos de 20 años y bajan apuestas de tasas",
+        "url": "https://es.finance.yahoo.com/noticias/rendimientos-bonos-tesoro-estadounidense-extienden-140944492.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los rendimientos de los bonos del Tesoro estadounidense extienden sus caídas desde máximos de dos décadas, mientras que las expectativas de una subida de tipos por parte de la Reserva Federal en octubre se desploman tras un informe de empleo desalentador.",
+        "capturado": "2026-10-02T11:30:44-05:00"
+      },
+      {
+        "titulo": "Balance de la semana sobre Bitcoin y criptomonedas del 2 de octubre",
+        "url": "https://es.finance.yahoo.com/noticias/resumen-semanal-bitcoin-criptomonedas-2-133900007.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Resumen semanal de Bitcoin y criptomonedas: 2 de octubre",
+        "capturado": "2026-10-02T11:30:44-05:00"
+      },
+      {
+        "titulo": "Especulación financiera: Galp Energia evaluaría alternativas para sus activos renovables",
+        "url": "https://es.finance.yahoo.com/noticias/rumores-mercado-galp-energia-explorando-133032806.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Rumores del mercado: Se dice que Galp Energia está explorando opciones para activos de energía renovable.",
+        "capturado": "2026-10-02T11:30:44-05:00"
+      },
+      {
+        "titulo": "Lograría la apertura de nuevas reservas estratégicas europeas disminuir el precio del diésel",
+        "url": "https://es.finance.yahoo.com/noticias/liberaci%C3%B3n-reservas-emergencia-europa-abaratar-130257612.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "¿Puede la liberación de más reservas de emergencia de Europa abaratar el diésel?",
+        "capturado": "2026-10-02T11:30:44-05:00"
+      },
       {
         "titulo": "Paros en Portugal provocan cierre de colegios, servicios parciales y anulación de vuelos",
         "url": "https://es.finance.yahoo.com/noticias/escuelas-cerradas-servicios-medio-gas-102959349.html",
@@ -419,70 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "La estrategia de BMW: recortes de empleo, IA y apuesta de 2.000 millones en 'Made in Germany'",
         "capturado": "2026-09-30T11:40:54-05:00"
-      },
-      {
-        "titulo": "DeepSeek y Huawei se asocian para crear software de desarrollo de chips",
-        "url": "https://es.finance.yahoo.com/noticias/deepseek-al%C3%ADa-huawei-desarrollar-herramientas-102029466.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "DeepSeek se alía con Huawei para desarrollar herramientas de programación de chips",
-        "capturado": "2026-09-30T05:39:10-05:00"
-      },
-      {
-        "titulo": "Estados Unidos indagará a plataformas de criptomonedas por uso de info privilegiada",
-        "url": "https://es.finance.yahoo.com/noticias/eeuu-investigar%C3%A1-exchanges-criptomonedas-insider-091500886.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "EEUU investigará exchanges de criptomonedas por insider trading",
-        "capturado": "2026-09-30T05:39:10-05:00"
-      },
-      {
-        "titulo": "China advierte respuesta ante posibles sanciones comerciales de la Unión Europea",
-        "url": "https://es.finance.yahoo.com/noticias/china-promete-responder-ue-adopta-080148921.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "China promete responder si la UE adopta medidas dirigidas contra el comercio chino",
-        "capturado": "2026-09-30T05:39:10-05:00"
-      },
-      {
-        "titulo": "China aplica arancel del 55% a la carne bovina de Brasil al cumplirse el cupo",
-        "url": "https://es.finance.yahoo.com/noticias/china-a%C3%B1ade-arancel-55-carne-075211118.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "China añade el arancel del 55% a la carne de vacuno brasileña al alcanzarse la cuota de importación",
-        "capturado": "2026-09-30T05:39:10-05:00"
-      },
-      {
-        "titulo": "Donald Trump y magnates tecnológicos pactan acuerdo sobre inteligencia artificial",
-        "url": "https://es.finance.yahoo.com/noticias/donald-trump-l%C3%ADderes-tecnol%C3%B3gicos-firman-074800281.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Donald Trump y líderes tecnológicos firman acuerdo sobre IA: ¿Qué establece?",
-        "capturado": "2026-09-30T05:39:10-05:00"
-      },
-      {
-        "titulo": "EEUU analizará topes arancelarios en el tratado comercial sobre la indagación del exceso de capacidad",
-        "url": "https://es.finance.yahoo.com/noticias/eeuu-estudiar%C3%A1-l%C3%ADmites-arancelarios-acuerdo-074505731.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "EEUU estudiará límites arancelarios en el acuerdo comercial sobre la investigación del exceso de capacidad",
-        "capturado": "2026-09-30T05:39:10-05:00"
-      },
-      {
-        "titulo": "Exclusiva: Alemania protege una sección de la Bolsa de Fráncfort frente al control financiero de la UE",
-        "url": "https://es.finance.yahoo.com/noticias/exclusiva-alemania-protege-partes-deutsche-063947980.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Exclusiva: Alemania blinda parte de la Bolsa de Fráncfort ante la supervisión financiera de la UE",
-        "capturado": "2026-09-30T05:39:10-05:00"
-      },
-      {
-        "titulo": "Carburantes arriba de los 2 euros: Quién asumirá el costo mayor en Portugal",
-        "url": "https://es.finance.yahoo.com/noticias/combustibles-encima-2-euros-pagar%C3%A1-060816404.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Combustibles por encima de los 2 euros: ¿Quién pagará la factura más alta en Portugal?",
-        "capturado": "2026-09-30T05:39:10-05:00"
       }
     ]
   }
