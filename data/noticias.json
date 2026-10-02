@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-02T11:30:44-05:00",
+  "actualizado": "2026-10-02T16:10:44-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "FDA de Estados Unidos archiva caso sobre parásito en lechuga y halla origen del brote en planta de México",
+        "url": "https://es.finance.yahoo.com/noticias/fda-eeuu-cierra-investigaci%C3%B3n-par%C3%A1sito-203419498.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "FDA de EEUU cierra investigación sobre parásito de lechuga y vincula brote con planta en México",
+        "capturado": "2026-10-02T16:10:44-05:00"
+      },
+      {
+        "titulo": "Bolsa de valores en Estados Unidos avanza al frenar datos flojos de empleo las tasas altas de la FED",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-202543208.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben a medida que las cifras negativas de empleo no agrícola moderan las perspectivas de política monetaria restrictiva de la Reserva Federal.",
+        "capturado": "2026-10-02T16:10:44-05:00"
+      },
+      {
+        "titulo": "Bolsas de Estados Unidos cierran mixtas por altos bonos del Tesoro y menor previsión de alza de tasas",
+        "url": "https://es.finance.yahoo.com/noticias/%C3%ADndices-burs%C3%A1tiles-estadounidenses-cerraron-resultados-202356617.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los índices bursátiles estadounidenses cerraron con resultados mixtos esta semana, ya que los rendimientos de los bonos del Tesoro se acercaron a su nivel más alto en dos décadas, mientras que las expectativas de una subida de tipos en octubre se desplomaron.",
+        "capturado": "2026-10-02T16:10:44-05:00"
+      },
+      {
+        "titulo": "Vocero afirma que Departamento de Justicia de EE UU no abrirá causa penal contra el exjefe de la Fed Powell",
+        "url": "https://es.finance.yahoo.com/noticias/departamento-justicia-eeuu-reabrir%C3%A1-investigaci%C3%B3n-200513811.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Departamento Justicia EEUU no reabrirá investigación penal sobre expresidente Fed Powell: portavoz",
+        "capturado": "2026-10-02T16:10:44-05:00"
+      },
+      {
+        "titulo": "Bonos de EE UU en máximos de 20 años y Logan, de la Fed, apoya tasas altas pese a flojo reporte laboral",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-rendimientos-bonos-tesoro-estadounidense-195133762.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los rendimientos de los bonos del Tesoro estadounidense se sitúan cerca de máximos de dos décadas, mientras que Logan, de la Reserva Federal, se muestra favorable a tasas más altas tras un informe de empleo desalentador.",
+        "capturado": "2026-10-02T16:10:44-05:00"
+      },
+      {
+        "titulo": "Red Blast de Ethereum suspende actividades: ¿Quién maneja los últimos $51 millones de los clientes?",
+        "url": "https://es.finance.yahoo.com/noticias/red-blast-ethereum-cesa-operaciones-191100273.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "La red Blast de Ethereum cesa operaciones: ¿Quién controla los últimos $51 millones de los usuarios?",
+        "capturado": "2026-10-02T16:10:44-05:00"
+      },
+      {
+        "titulo": "Corporación ambiental colombiana da licencia al proyecto Bucare de Ecopetrol para fase productiva",
+        "url": "https://es.finance.yahoo.com/noticias/autoridad-ambiental-colombia-otorga-licencia-190319561.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Autoridad ambiental de Colombia otorga licencia a proyecto Bucare, de Ecopetrol, permitiendo avance a etapa de producción",
+        "capturado": "2026-10-02T16:10:44-05:00"
+      },
+      {
+        "titulo": "Sistemas de IA y bots producen la mayor parte del tráfico en la red: ¿Cómo afectan las acciones viales?",
+        "url": "https://es.finance.yahoo.com/noticias/agentes-ia-bots-generan-tr%C3%A1fico-174600189.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Agentes de IA y bots generan la mayor parte del tráfico web: ¿Cómo impactan en las acciones de infraestructura?",
+        "capturado": "2026-10-02T16:10:44-05:00"
+      },
       {
         "titulo": "Gobierno francés proyecta 1 % de expansión en 2027 y analistas debaten",
         "url": "https://es.finance.yahoo.com/noticias/gobierno-franc%C3%A9s-prev%C3%A9-crecimiento-1-130053114.html",
@@ -419,70 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Expectativas de precios y la demanda serán clave para la próxima decisión del BCE: Schnabel",
         "capturado": "2026-09-30T16:13:50-05:00"
-      },
-      {
-        "titulo": "La FTC abre indagación a grandes de la inteligencia artificial como Anthropic y OpenAI",
-        "url": "https://es.finance.yahoo.com/noticias/ftc-inicia-investigaci%C3%B3n-gigantes-ia-155612646.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "La FTC inicia investigación a gigantes de la IA, incluidos Anthropic y OpenAI",
-        "capturado": "2026-09-30T11:40:54-05:00"
-      },
-      {
-        "titulo": "Tripulación previene desastre y realiza aterrizaje forzoso de avión de Flydubai en Arabia Saudita",
-        "url": "https://es.finance.yahoo.com/noticias/tripulaci%C3%B3n-evita-cat%C3%A1strofe-aterriza-vuelo-153204901.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Tripulación evita catástrofe y aterriza vuelo de Flydubai de emergencia en Arabia Saudita",
-        "capturado": "2026-09-30T11:40:54-05:00"
-      },
-      {
-        "titulo": "Precipitaciones asociadas a El Niño alejan los temores sobre los cultivos de Argentina",
-        "url": "https://es.finance.yahoo.com/noticias/lluvias-vinculadas-ni%C3%B1o-despejan-temores-151230880.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Lluvias vinculadas a El Niño despejan temores sobre cosechas de Argentina",
-        "capturado": "2026-09-30T11:40:54-05:00"
-      },
-      {
-        "titulo": "Medicamento mixto en pruebas de Lilly vence a Zepbound en estudio clínico de adelgazamiento",
-        "url": "https://es.finance.yahoo.com/noticias/f%C3%A1rmaco-combinado-experimental-lilly-supera-144602207.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Fármaco combinado experimental de Lilly supera a Zepbound en ensayo clínico para pérdida de peso",
-        "capturado": "2026-09-30T11:40:54-05:00"
-      },
-      {
-        "titulo": "Bolsas y mercados de valores de Argentina finalizan un septiembre difícil",
-        "url": "https://es.finance.yahoo.com/noticias/mercados-financieros-argentina-cierran-septiembre-144534652.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Mercados financieros de Argentina cierran un septiembre complejo",
-        "capturado": "2026-09-30T11:40:54-05:00"
-      },
-      {
-        "titulo": "Fondos cotizados de Ethereum frenan racha de siete días con ingresos positivos y los de Bitcoin continúan adquiriendo",
-        "url": "https://es.finance.yahoo.com/noticias/etf-ethereum-rompen-racha-7-144100937.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "ETF de Ethereum rompen racha de 7 días de entradas mientras los fondos de Bitcoin siguen comprando",
-        "capturado": "2026-09-30T11:40:54-05:00"
-      },
-      {
-        "titulo": "Directivos petroleros inquietos por ausencia de componente esencial para crecer en Venezuela: energía eléctrica",
-        "url": "https://es.finance.yahoo.com/noticias/ejecutivos-petroleros-preocupados-falta-pieza-143629994.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Ejecutivos petroleros preocupados sobre falta de pieza clave para expandirse en Venezuela: electricidad",
-        "capturado": "2026-09-30T11:40:54-05:00"
-      },
-      {
-        "titulo": "El plan de BMW: reducción de personal, inteligencia artificial y inversión de 2.000 millones en Fabricado en Alemania",
-        "url": "https://es.finance.yahoo.com/noticias/estrategia-bmw-recortes-empleo-ia-141006614.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La estrategia de BMW: recortes de empleo, IA y apuesta de 2.000 millones en 'Made in Germany'",
-        "capturado": "2026-09-30T11:40:54-05:00"
       }
     ]
   }
