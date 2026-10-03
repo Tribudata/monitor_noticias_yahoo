@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-02T19:37:05-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-03T01:04:01-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Continúa el alza en los costos habitacionales europeos: naciones punteras y causas",
+        "url": "https://es.finance.yahoo.com/noticias/precios-vivienda-siguen-subiendo-europa-050054959.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Los precios de la vivienda siguen subiendo en Europa: qué países lideran las subidas y por qué",
+        "capturado": "2026-10-03T01:04:01-05:00"
+      },
+      {
+        "titulo": "Fiscalía norteamericana descartó reabrir proceso penal al líder de la Fed Jerome Powell",
+        "url": "https://es.finance.yahoo.com/noticias/departamento-justicia-ee-uu-reabrir%C3%A1-191219439.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Departamento de Justicia de EE.UU. no reabrirá investigación penal contra Jerome Powell",
+        "capturado": "2026-10-03T01:04:01-05:00"
+      },
       {
         "titulo": "Tres altcoins para seguir de cerca este fin de semana del 3 al 4 de octubre",
         "url": "https://es.finance.yahoo.com/noticias/top-3-altcoins-observar-semana-203800930.html",
@@ -466,22 +482,6 @@
         "resumen": "",
         "medio": "Reuters",
         "titulo_fuente": "Regulador detecta deficiencias, pero no conducta indebida de la Fed en proyecto de renovación de la era Powell",
-        "capturado": "2026-09-30T16:13:50-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE. UU. operan mixtas al variar los bonos por gasto al alza e inflación moderada",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-registran-172230748.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses registran resultados mixtos, ya que el aumento del gasto y los datos de inflación moderados provocan movimientos dispares en los rendimientos de los bonos del Tesoro",
-        "capturado": "2026-09-30T16:13:50-05:00"
-      },
-      {
-        "titulo": "Aumentan los fondos cotizados en bolsa y los papeles norteamericanos muestran balance desigual a mitad de jornada",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-suben-acciones-171614143.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa suben, las acciones estadounidenses presentan resultados mixtos tras la media jornada.",
         "capturado": "2026-09-30T16:13:50-05:00"
       }
     ]
