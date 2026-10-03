@@ -1,9 +1,41 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-03T01:04:01-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-03T06:53:39-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "NVIDIA alcanza récord histórico y Wall Street calcula un alza potencial de hasta 99 por ciento",
+        "url": "https://es.finance.yahoo.com/noticias/nvidia-registra-m%C3%A1ximo-hist%C3%B3rico-wall-103500161.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "NVIDIA registra máximo histórico: Wall Street aún ve hasta 99% de potencial alcista",
+        "capturado": "2026-10-03T06:53:39-05:00"
+      },
+      {
+        "titulo": "Bitcoin quiebra una tendencia de 13 años y surge la duda sobre el porvenir",
+        "url": "https://es.finance.yahoo.com/noticias/bitcoin-rompe-patr%C3%B3n-13-a%C3%B1os-084600879.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Bitcoin rompe un patrón de 13 años: ¿Qué sigue?",
+        "capturado": "2026-10-03T06:53:39-05:00"
+      },
+      {
+        "titulo": "Los meses de octubre en la Bolsa muestran volatilidad y marcados contrastes sin ser negativos",
+        "url": "https://es.finance.yahoo.com/noticias/octubres-bolsa-vol%C3%A1tiles-fuertes-contrastes-054000290.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "Los octubres en Bolsa son volátiles, de fuertes contrastes, pero no malos",
+        "capturado": "2026-10-03T06:53:39-05:00"
+      },
+      {
+        "titulo": "El Ibex 35 mantendrá su buen desempeño al despejarse el panorama y conserva margen de crecimiento",
+        "url": "https://es.finance.yahoo.com/noticias/ibex-35-seguir-disipen-nubes-053000661.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "\"El Ibex 35 lo puede seguir haciendo muy bien cuando se disipen las nubes. Todavía le queda recorrido\"",
+        "capturado": "2026-10-03T06:53:39-05:00"
+      },
       {
         "titulo": "Continúa el alza en los costos habitacionales europeos: naciones punteras y causas",
         "url": "https://es.finance.yahoo.com/noticias/precios-vivienda-siguen-subiendo-europa-050054959.html",
@@ -451,38 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "Mercado Bitcoin selecciona 7 criptomonedas para octubre de 2026",
         "capturado": "2026-09-30T19:41:39-05:00"
-      },
-      {
-        "titulo": "Google lanza Gemini 4, su IA principal, luego de meses de demora",
-        "url": "https://es.finance.yahoo.com/noticias/google-anuncia-modelo-insignia-ia-201520910.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Google anuncia su modelo insignia de IA, Gemini 4, tras meses de retrasos",
-        "capturado": "2026-09-30T16:13:50-05:00"
-      },
-      {
-        "titulo": "El BAII ratifica en Doha su meta de paliar la brecha global de inversión en obras",
-        "url": "https://es.finance.yahoo.com/noticias/aiib-reafirma-doha-compromiso-cerrar-173426208.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El BAII reafirma en Doha su compromiso de cerrar déficit global de financiación de infraestructuras",
-        "capturado": "2026-09-30T16:13:50-05:00"
-      },
-      {
-        "titulo": "Air France-KLM y Lufthansa ya presentaron sus ofertas definitivas por TAP",
-        "url": "https://es.finance.yahoo.com/noticias/tap-air-france-klm-lufthansa-180909550.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "TAP: Air France-KLM y Lufthansa ya han entregado sus propuestas finales",
-        "capturado": "2026-09-30T16:13:50-05:00"
-      },
-      {
-        "titulo": "Superintendencia halla fallas, mas no ilegalidad de la Fed en obra de la era Powell",
-        "url": "https://es.finance.yahoo.com/noticias/regulador-detecta-deficiencias-conducta-indebida-173120664.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Regulador detecta deficiencias, pero no conducta indebida de la Fed en proyecto de renovación de la era Powell",
-        "capturado": "2026-09-30T16:13:50-05:00"
       }
     ]
   }
