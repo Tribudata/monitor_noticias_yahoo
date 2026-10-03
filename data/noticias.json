@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-02T16:10:44-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-10-02T19:37:05-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Tres altcoins para seguir de cerca este fin de semana del 3 al 4 de octubre",
+        "url": "https://es.finance.yahoo.com/noticias/top-3-altcoins-observar-semana-203800930.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Top 3 altcoins a observar este fin de semana | 3-4 de octubre",
+        "capturado": "2026-10-02T19:37:05-05:00"
+      },
       {
         "titulo": "FDA de Estados Unidos archiva caso sobre parásito en lechuga y halla origen del brote en planta de México",
         "url": "https://es.finance.yahoo.com/noticias/fda-eeuu-cierra-investigaci%C3%B3n-par%C3%A1sito-203419498.html",
@@ -474,14 +482,6 @@
         "resumen": "",
         "medio": "MT Newswires",
         "titulo_fuente": "Los fondos cotizados en bolsa suben, las acciones estadounidenses presentan resultados mixtos tras la media jornada.",
-        "capturado": "2026-09-30T16:13:50-05:00"
-      },
-      {
-        "titulo": "Demanda y expectativas de precios serán fundamentales para la siguiente resolución del BCE según Schnabel",
-        "url": "https://es.finance.yahoo.com/noticias/expectativas-precios-demanda-clave-pr%C3%B3xima-164943235.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Expectativas de precios y la demanda serán clave para la próxima decisión del BCE: Schnabel",
         "capturado": "2026-09-30T16:13:50-05:00"
       }
     ]
