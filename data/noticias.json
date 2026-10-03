@@ -1,9 +1,33 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-03T10:48:31-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-03T14:01:20-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Por esta razón el valor del cobre capta la atención con miras a octubre",
+        "url": "https://es.finance.yahoo.com/noticias/precio-cobre-atrae-atenci%C3%B3n-cara-175300113.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "El precio del cobre atrae la atención de cara a octubre: esta es la razón",
+        "capturado": "2026-10-03T14:01:20-05:00"
+      },
+      {
+        "titulo": "Rival de Ripple (XRP) sería el nuevo Zar de IA en la Casa Blanca",
+        "url": "https://es.finance.yahoo.com/noticias/n%C3%A9mesis-ripple-xrp-ser-zar-163000165.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Némesis de Ripple (XRP) podría ser el nuevo “Zar de IA” en la Casa Blanca: detalles",
+        "capturado": "2026-10-03T14:01:20-05:00"
+      },
+      {
+        "titulo": "Jim Cramer emite alerta dirigida a los inversionistas en octubre",
+        "url": "https://es.finance.yahoo.com/noticias/jim-cramer-lanza-advertencia-inversores-160200023.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Jim Cramer lanza advertencia para los inversores en octubre",
+        "capturado": "2026-10-03T14:01:20-05:00"
+      },
       {
         "titulo": "El ETF de Zcash cedió más de 93 millones de dólares esta semana y causa dudas sobre el rally de ZEC",
         "url": "https://es.finance.yahoo.com/noticias/etf-zcash-perdi%C3%B3-93-millones-143800901.html",
@@ -459,30 +483,6 @@
         "medio": "MT Newswires",
         "titulo_fuente": "Los futuros de las acciones estadounidenses suben antes de la apertura del mercado mientras los operadores analizan los resultados del cuarto trimestre fiscal de Micron.",
         "capturado": "2026-10-01T09:14:47-05:00"
-      },
-      {
-        "titulo": "Aparece un indicio determinante sobre un posible incremento de tasas de la Fed en octubre",
-        "url": "https://es.finance.yahoo.com/noticias/subir%C3%A1-fed-tasas-inter%C3%A9s-octubre-230500576.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿Subirá la Fed las tasas de interés en octubre? Una señal clave aparece",
-        "capturado": "2026-09-30T19:41:39-05:00"
-      },
-      {
-        "titulo": "Trump comunica capital surcoreano por 200.000 millones de dólares para iniciativas en EE UU",
-        "url": "https://es.finance.yahoo.com/noticias/trump-anuncia-inversi%C3%B3n-surcoreana-200-220044225.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Trump anuncia inversión surcoreana de 200.000 millones de dólares en proyectos en EEUU",
-        "capturado": "2026-09-30T19:41:39-05:00"
-      },
-      {
-        "titulo": "Hyperliquid emite hoy 3,7 millones de criptomonedas y esto afecta su cotización",
-        "url": "https://es.finance.yahoo.com/noticias/hyperliquid-libera-3-7-millones-212900421.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Hyperliquid libera 3.7 millones de tokens hoy: impacto en el precio",
-        "capturado": "2026-09-30T19:41:39-05:00"
       }
     ]
   }
