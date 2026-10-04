@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-03T20:49:42-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-04T02:49:13-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Fuera de Europa queda el sitio ideal para el retiro internacional, aunque 6 de 10 sí se ubican allí",
+        "url": "https://es.finance.yahoo.com/noticias/jubilarse-extranjero-europa-6-10-050050753.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El mejor lugar para jubilarse en el extranjero ya no está en Europa, pero 6 de los 10 primeros sí",
+        "capturado": "2026-10-04T02:49:13-05:00"
+      },
+      {
+        "titulo": "El emulador KyTyPS5 logra que Astro’s Playroom corra a 60 FPS estables en PC al superar el límite del CPU",
+        "url": "https://es-us.noticias.yahoo.com/astro-s-playroom-corre-60-164158044.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Astro’s Playroom ya corre a 60 FPS estables en PC con el emulador de PS5 KyTyPS5, que eliminó el cuello de botella del procesador",
+        "capturado": "2026-10-04T02:49:13-05:00"
+      },
       {
         "titulo": "Comicios en Brasil: Postura de los aspirantes acerca de los activos digitales",
         "url": "https://es.finance.yahoo.com/noticias/elecciones-brasil-opinan-candidatos-criptomonedas-231900086.html",
@@ -466,22 +482,6 @@
         "resumen": "",
         "medio": "Reuters",
         "titulo_fuente": "EEUU frena exportaciones de partes de aviones a China, Trump busca ventaja en negociaciones, dicen fuentes",
-        "capturado": "2026-10-01T09:14:47-05:00"
-      },
-      {
-        "titulo": "Autoridades de la UE interpelan a Binance por sus actividades europeas sin la debida licencia",
-        "url": "https://es.finance.yahoo.com/noticias/supervisores-ue-cuestionan-binance-operaciones-120433209.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Los reguladores de la UE cuestionan a Binance por sus operaciones europeas sin licencia",
-        "capturado": "2026-10-01T09:14:47-05:00"
-      },
-      {
-        "titulo": "ETP y futuros accionarios avanzan el jueves en la apertura tras evaluar los datos de Micron",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-futuros-acciones-132230467.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa y los futuros de acciones subieron el jueves antes de la apertura del mercado, mientras los operadores analizaban los resultados del cuarto trimestre fiscal de Micron.",
         "capturado": "2026-10-01T09:14:47-05:00"
       }
     ]
