@@ -1,9 +1,57 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-04T08:43:51-05:00",
+  "actualizado": "2026-10-04T12:59:18-05:00",
   "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Balance semanal de Bitcoin y criptomonedas en España y América Latina del 4 de octubre",
+        "url": "https://es.finance.yahoo.com/noticias/resumen-semanal-bitcoin-criptomonedas-espa%C3%B1a-161700926.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Resumen semanal de Bitcoin y criptomonedas: España y América Latina – 4 de octubre",
+        "capturado": "2026-10-04T12:59:18-05:00"
+      },
+      {
+        "titulo": "El estrecho de Ormuz seguirá cerrado hasta cumplirse las condiciones, afirma Irán",
+        "url": "https://es.finance.yahoo.com/noticias/ir%C3%A1n-estrecho-ormuz-reabrir%C3%A1-cumplan-160425225.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Irán dice que el estrecho de Ormuz no se reabrirá hasta que se cumplan las condiciones",
+        "capturado": "2026-10-04T12:59:18-05:00"
+      },
+      {
+        "titulo": "OPEP+ decide conservar las metas de extracción de crudo para noviembre",
+        "url": "https://es.finance.yahoo.com/noticias/opep-acuerda-mantener-cambios-objetivos-155040921.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "OPEP+ acuerda mantener sin cambios los objetivos de producción de petróleo para noviembre",
+        "capturado": "2026-10-04T12:59:18-05:00"
+      },
+      {
+        "titulo": "Clayton asume como zar de la IA y liderará equipo de trabajo por nombramiento de Trump",
+        "url": "https://es.finance.yahoo.com/noticias/trump-nombra-jefe-inteligencia-clayton-151334480.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Trump nombra al jefe de inteligencia Clayton como zar de la IA, liderará grupo de trabajo",
+        "capturado": "2026-10-04T12:59:18-05:00"
+      },
+      {
+        "titulo": "Elecciones en Brasil con alta polarización convocan a los ciudadanos a votar",
+        "url": "https://es.finance.yahoo.com/noticias/brasile%C3%B1os-acuden-urnas-elecciones-marcadas-140607992.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Brasileños acuden a las urnas en unas elecciones marcadas por la polarización",
+        "capturado": "2026-10-04T12:59:18-05:00"
+      },
+      {
+        "titulo": "Goldman Sachs pronostica alzas bursátiles en cinco acciones",
+        "url": "https://es.finance.yahoo.com/noticias/goldman-sachs-predice-rallies-precios-135500973.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Goldman Sachs predice rallies de precios en 5 acciones",
+        "capturado": "2026-10-04T12:59:18-05:00"
+      },
       {
         "titulo": "Peligro en Bitcoin por Lightning: el riesgo depende de la gestión del nodo",
         "url": "https://es.finance.yahoo.com/noticias/tus-bitcoin-lightning-riesgo-depende-113800926.html",
@@ -435,54 +483,6 @@
         "medio": "MT Newswires",
         "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben ligeramente a medida que los rendimientos de los bonos del Tesoro caen desde su nivel más alto en dos décadas tras la caída de las expectativas de subida de tipos de la Reserva Federal en octubre.",
         "capturado": "2026-10-01T18:42:32-05:00"
-      },
-      {
-        "titulo": "Reguladores señalan que Binance aprovecha vacíos legales en Europa",
-        "url": "https://es.finance.yahoo.com/noticias/binance-usa-vac%C3%ADos-legales-operar-210600775.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Binance usa vacíos legales para operar en Europa: esto dicen los reguladores",
-        "capturado": "2026-10-01T18:42:32-05:00"
-      },
-      {
-        "titulo": "Funcionarios de la Fed moderan previsiones de alza de tasas en octubre",
-        "url": "https://es.finance.yahoo.com/noticias/autoridades-fed-enfr%C3%ADan-expectativas-subida-202032485.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Autoridades de la Fed enfrían las expectativas de una subida de tasas en octubre",
-        "capturado": "2026-10-01T18:42:32-05:00"
-      },
-      {
-        "titulo": "Wall Street sube al tiempo que los Treasuries repuntan y bajan miedos sobre tipos",
-        "url": "https://es.finance.yahoo.com/noticias/acciones-ee-uu-suben-pese-111652872.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Wall Street avanza mientras Treasuries rebotan y alivian temores por las tasas",
-        "capturado": "2026-10-01T18:42:32-05:00"
-      },
-      {
-        "titulo": "Rendimientos de bonos de EE UU caen desde topes históricos al bajar la presión de la Fed",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-rendimientos-bonos-tesoro-estadounidense-195459302.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los rendimientos de los bonos del Tesoro estadounidense se desploman desde máximos de varias décadas a medida que disminuyen las expectativas de endurecimiento de la política monetaria de la Reserva Federal en octubre.",
-        "capturado": "2026-10-01T18:42:32-05:00"
-      },
-      {
-        "titulo": "Pentágono analiza despachar un tercer portaaviones a Medio Oriente por crisis con Irán",
-        "url": "https://es.finance.yahoo.com/noticias/pent%C3%A1gono-eval%C3%BAa-enviar-tercer-portaaviones-184220677.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Pentágono evalúa enviar un tercer portaaviones a Medio Oriente ante tensión con Irán",
-        "capturado": "2026-10-01T14:41:53-05:00"
-      },
-      {
-        "titulo": "José Sevilla deja la presidencia de Unicaja y se aparta de la institución",
-        "url": "https://es.finance.yahoo.com/noticias/jos%C3%A9-sevilla-dimite-presidente-unicaja-183144483.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "José Sevilla dimite como presidente de Unicaja y renuncia a seguir en la entidad",
-        "capturado": "2026-10-01T14:41:53-05:00"
       }
     ]
   }
