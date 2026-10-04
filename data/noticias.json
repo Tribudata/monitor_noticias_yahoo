@@ -1,9 +1,57 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-04T02:49:13-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-04T08:43:51-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Peligro en Bitcoin por Lightning: el riesgo depende de la gestión del nodo",
+        "url": "https://es.finance.yahoo.com/noticias/tus-bitcoin-lightning-riesgo-depende-113800926.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿Tus Bitcoin en Lightning está en riesgo? Depende de quién opere el nodo",
+        "capturado": "2026-10-04T08:43:51-05:00"
+      },
+      {
+        "titulo": "CEO de Phemex: tarjetas cripto deben operar igual que la infraestructura de trading",
+        "url": "https://es.finance.yahoo.com/noticias/ceo-phemex-tarjetas-criptomonedas-deber%C3%ADan-090600876.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "CEO de Phemex: ¿Por qué las tarjetas de criptomonedas deberían funcionar como la infraestructura de trading?",
+        "capturado": "2026-10-04T08:43:51-05:00"
+      },
+      {
+        "titulo": "Claves de las protestas de Maricarmen y la crisis habitacional en España",
+        "url": "https://es.finance.yahoo.com/noticias/pasando-crisis-vivienda-espa%C3%B1a-claves-134318153.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "¿Qué está pasando con la crisis de vivienda en España? Las claves tras las protestas por Maricarmen",
+        "capturado": "2026-10-04T08:43:51-05:00"
+      },
+      {
+        "titulo": "Nueva etapa de la deuda global: refinanciación más costosa para EE. UU., Europa y emergentes",
+        "url": "https://es.finance.yahoo.com/noticias/deuda-mundial-entra-fase-eeuu-043000996.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "La deuda mundial entra en una nueva fase: EEUU, Europa y los emergentes afrontan una refinanciación mucho más cara",
+        "capturado": "2026-10-04T08:43:51-05:00"
+      },
+      {
+        "titulo": "Apple y la inteligencia artificial: apostar por la integración en vez de la creación",
+        "url": "https://es.finance.yahoo.com/noticias/apple-inteligencia-artificial-integrar-construir-041000263.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "Apple e inteligencia artificial: integrar, no construir",
+        "capturado": "2026-10-04T08:43:51-05:00"
+      },
+      {
+        "titulo": "Aparte del algoritmo: los factores para que la IA cree valor",
+        "url": "https://es.finance.yahoo.com/noticias/all%C3%A1-modelo-claves-ia-genere-040000150.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "Más allá del modelo: las claves para que la IA genere valor",
+        "capturado": "2026-10-04T08:43:51-05:00"
+      },
       {
         "titulo": "Fuera de Europa queda el sitio ideal para el retiro internacional, aunque 6 de 10 sí se ubican allí",
         "url": "https://es.finance.yahoo.com/noticias/jubilarse-extranjero-europa-6-10-050050753.html",
@@ -435,54 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "José Sevilla dimite como presidente de Unicaja y renuncia a seguir en la entidad",
         "capturado": "2026-10-01T14:41:53-05:00"
-      },
-      {
-        "titulo": "Kashkari de la Fed anticipa más subidas de tipos sin definir si actuará este mes",
-        "url": "https://es.finance.yahoo.com/noticias/kashkari-fed-prev%C3%A9-alzas-tasas-182907983.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Kashkari, de la Fed, prevé más alzas de tasas, pero no tiene claro si es necesario actuar este mes",
-        "capturado": "2026-10-01T14:41:53-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE UU al alza al caer rendimiento de bonos y diluirse alzas de tipos de la Fed",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-181953304.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben a medida que bajan los rendimientos de los bonos del Tesoro y se desvanecen las expectativas de subida de tipos de la Reserva Federal tras los datos del sector manufacturero y del mercado laboral.",
-        "capturado": "2026-10-01T14:41:53-05:00"
-      },
-      {
-        "titulo": "Jefferson señala que la Fed tardaría en definir su siguiente medida sobre tasas",
-        "url": "https://es.finance.yahoo.com/noticias/fed-tomar-tiempo-pr%C3%B3xima-decisi%C3%B3n-180208232.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "La Fed podría tomar un tiempo antes de la próxima decisión sobre tasas de interés: Jefferson",
-        "capturado": "2026-10-01T14:41:53-05:00"
-      },
-      {
-        "titulo": "Globant recurre a la IA para transformarse luego de caer un 80% su valor bursátil",
-        "url": "https://es.finance.yahoo.com/noticias/globant-apuesta-ia-reinventarse-perder-171748159.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Globant apuesta por IA para reinventarse tras perder 80% de su valor de mercado",
-        "capturado": "2026-10-01T14:41:53-05:00"
-      },
-      {
-        "titulo": "Los ETF muestran balances variados y los títulos de EE UU retroceden pasada la tarde",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-presentan-resultados-171345100.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa presentan resultados mixtos y las acciones estadounidenses caen tras el mediodía.",
-        "capturado": "2026-10-01T14:41:53-05:00"
-      },
-      {
-        "titulo": "EEUU detiene envío de piezas de aeronaves a China; Trump busca ventaja negociadora, aseguran fuentes",
-        "url": "https://es.finance.yahoo.com/noticias/eeuu-frena-exportaciones-partes-aviones-135412152.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "EEUU frena exportaciones de partes de aviones a China, Trump busca ventaja en negociaciones, dicen fuentes",
-        "capturado": "2026-10-01T09:14:47-05:00"
       }
     ]
   }
