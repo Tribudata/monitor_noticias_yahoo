@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-03T17:18:43-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-03T20:49:42-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Comicios en Brasil: Postura de los aspirantes acerca de los activos digitales",
+        "url": "https://es.finance.yahoo.com/noticias/elecciones-brasil-opinan-candidatos-criptomonedas-231900086.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Elecciones en Brasil: ¿Qué opinan los candidatos sobre las criptomonedas?",
+        "capturado": "2026-10-03T20:49:42-05:00"
+      },
       {
         "titulo": "Más allá del podio: ¿De qué manera KuCoin enlaza su estrategia futura con la responsabilidad social?",
         "url": "https://es.finance.yahoo.com/noticias/all%C3%A1-podio-kucoin-une-visi%C3%B3n-213000392.html",
@@ -474,14 +482,6 @@
         "resumen": "",
         "medio": "MT Newswires",
         "titulo_fuente": "Los fondos cotizados en bolsa y los futuros de acciones subieron el jueves antes de la apertura del mercado, mientras los operadores analizaban los resultados del cuarto trimestre fiscal de Micron.",
-        "capturado": "2026-10-01T09:14:47-05:00"
-      },
-      {
-        "titulo": "Alza continua en combustibles: el gasóleo comunitario alcanza máximo histórico de 2,24 euros por litro",
-        "url": "https://es.finance.yahoo.com/noticias/respiro-gasolineras-di%C3%A9sel-ue-marca-125708807.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Sin respiro en las gasolineras: el diésel de la UE marca récord en 2,24 €/litro",
         "capturado": "2026-10-01T09:14:47-05:00"
       }
     ]
