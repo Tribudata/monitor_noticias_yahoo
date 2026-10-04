@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-04T12:59:18-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-10-04T16:14:26-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Veredicto de un probador tras usar OpenAI Dots y Grok Bot",
+        "url": "https://es.finance.yahoo.com/noticias/openai-dots-grok-bot-tester-184000189.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿OpenAI Dots o Grok Bot? Tester que usó ambos da su veredicto",
+        "capturado": "2026-10-04T16:14:26-05:00"
+      },
       {
         "titulo": "Balance semanal de Bitcoin y criptomonedas en España y América Latina del 4 de octubre",
         "url": "https://es.finance.yahoo.com/noticias/resumen-semanal-bitcoin-criptomonedas-espa%C3%B1a-161700926.html",
@@ -474,14 +482,6 @@
         "resumen": "",
         "medio": "BeInCrypto",
         "titulo_fuente": "La SEC admite que la regulación se ha quedado atrás respecto a Bitcoin y propone nuevas reglas de custodia",
-        "capturado": "2026-10-01T18:42:32-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE. UU. al alza mientras bonos caen desde máximos de 20 años",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-212442221.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben ligeramente a medida que los rendimientos de los bonos del Tesoro caen desde su nivel más alto en dos décadas tras la caída de las expectativas de subida de tipos de la Reserva Federal en octubre.",
         "capturado": "2026-10-01T18:42:32-05:00"
       }
     ]
