@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-05T10:07:14-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-05T17:07:10-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "El índice Nasdaq llega a un pico récord y los títulos del Tesoro logran su marca más alta en veinte años",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndice-compuesto-nasdaq-alcanza-205144064.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: El índice compuesto Nasdaq alcanza un máximo histórico, mientras que los rendimientos de los bonos del Tesoro tocan su nivel más alto en dos décadas.",
+        "capturado": "2026-10-05T17:07:10-05:00"
+      },
+      {
+        "titulo": "Estados Unidos cede terreno en inteligencia artificial ante China y la brecha se sitúa actualmente en 3%",
+        "url": "https://es.finance.yahoo.com/noticias/eeuu-perdiendo-liderazgo-ia-frente-202300805.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿EEUU está perdiendo su liderazgo en IA frente a China? La diferencia es ahora del 3%",
+        "capturado": "2026-10-05T17:07:10-05:00"
+      },
+      {
+        "titulo": "Tres principales liberaciones de criptomonedas para la primera semana de octubre de 2026",
+        "url": "https://es.finance.yahoo.com/noticias/top-3-desbloqueos-tokens-1ra-185700526.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Top 3 desbloqueos de tokens: 1ra semana de octubre de 2026",
+        "capturado": "2026-10-05T17:07:10-05:00"
+      },
+      {
+        "titulo": "Bolsas de Estados Unidos avanzan mientras suben los papeles del Tesoro a máximos de veinte años y baja el crudo",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-171711215.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben en un contexto en el que los rendimientos de los bonos del Tesoro alcanzan su nivel más alto en dos décadas y el precio del petróleo crudo cae.",
+        "capturado": "2026-10-05T17:07:10-05:00"
+      },
+      {
+        "titulo": "Los fondos cotizados y las acciones de Estados Unidos registran alzas después del mediodía",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-suben-acciones-171005207.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa suben y las acciones estadounidenses registran ganancias tras el mediodía.",
+        "capturado": "2026-10-05T17:07:10-05:00"
+      },
+      {
+        "titulo": "El triunfo de Bolsonaro impulsa un fuerte ascenso en la Bolsa de São Paulo",
+        "url": "https://es.finance.yahoo.com/noticias/bolsa-s%C3%A3o-paulo-dispara-ventaja-162517270.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "La Bolsa de São Paulo se dispara tras la victoria de Bolsonaro",
+        "capturado": "2026-10-05T17:07:10-05:00"
+      },
+      {
+        "titulo": "Vivienda e inflación y crecimiento: los desafíos electorales de Sánchez",
+        "url": "https://es.finance.yahoo.com/noticias/crecimiento-basta-vivienda-inflaci%C3%B3n-retos-161340908.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Cuando el crecimiento no basta: vivienda e inflación, los grandes retos de Sánchez de cara a las elecciones",
+        "capturado": "2026-10-05T17:07:10-05:00"
+      },
+      {
+        "titulo": "Argenta Silver halla una nueva zona aurífera y cuprifera en El Quevar en Argentina",
+        "url": "https://es.finance.yahoo.com/noticias/argenta-silver-confirma-presencia-zona-161601768.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Argenta Silver confirma la presencia de una nueva zona de oro y cobre en el proyecto El Quevar en Argentina.",
+        "capturado": "2026-10-05T17:07:10-05:00"
+      },
       {
         "titulo": "Este sector genera 65.000 millones de euros al PIB europeo y causa debate",
         "url": "https://es.finance.yahoo.com/noticias/industria-aporta-65-000-millones-044758673.html",
@@ -419,70 +483,6 @@
         "medio": "MT Newswires",
         "titulo_fuente": "Los rendimientos de los bonos del Tesoro estadounidense extienden sus caídas desde máximos de dos décadas, mientras que las expectativas de una subida de tipos por parte de la Reserva Federal en octubre se desploman tras un informe de empleo desalentador.",
         "capturado": "2026-10-02T11:30:44-05:00"
-      },
-      {
-        "titulo": "Balance de la semana sobre Bitcoin y criptomonedas del 2 de octubre",
-        "url": "https://es.finance.yahoo.com/noticias/resumen-semanal-bitcoin-criptomonedas-2-133900007.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Resumen semanal de Bitcoin y criptomonedas: 2 de octubre",
-        "capturado": "2026-10-02T11:30:44-05:00"
-      },
-      {
-        "titulo": "Especulación financiera: Galp Energia evaluaría alternativas para sus activos renovables",
-        "url": "https://es.finance.yahoo.com/noticias/rumores-mercado-galp-energia-explorando-133032806.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Rumores del mercado: Se dice que Galp Energia está explorando opciones para activos de energía renovable.",
-        "capturado": "2026-10-02T11:30:44-05:00"
-      },
-      {
-        "titulo": "Lograría la apertura de nuevas reservas estratégicas europeas disminuir el precio del diésel",
-        "url": "https://es.finance.yahoo.com/noticias/liberaci%C3%B3n-reservas-emergencia-europa-abaratar-130257612.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "¿Puede la liberación de más reservas de emergencia de Europa abaratar el diésel?",
-        "capturado": "2026-10-02T11:30:44-05:00"
-      },
-      {
-        "titulo": "Paros en Portugal provocan cierre de colegios, servicios parciales y anulación de vuelos",
-        "url": "https://es.finance.yahoo.com/noticias/escuelas-cerradas-servicios-medio-gas-102959349.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Escuelas cerradas, servicios a medio gas y vuelos cancelados: huelgas afectan a sectores en Portugal",
-        "capturado": "2026-10-02T05:39:44-05:00"
-      },
-      {
-        "titulo": "Berenberg ratifica recomendación de compra sobre Vodafone tras resultados del primer trimestre",
-        "url": "https://es.finance.yahoo.com/noticias/berenberg-actualiza-previsiones-vodafone-s%C3%B3lidos-102749348.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Berenberg actualiza las previsiones de Vodafone tras los \"sólidos\" resultados del primer trimestre fiscal y las operaciones de compra de participaciones; mantiene la recomendación de compra.",
-        "capturado": "2026-10-02T05:39:44-05:00"
-      },
-      {
-        "titulo": "Firma polaca Euromatch busca expandirse en África mediante exportación tecnológica y deporte",
-        "url": "https://es.finance.yahoo.com/noticias/euromatch-apuesta-%C3%A1frica-firma-polaca-101209707.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Euromatch apuesta por África: la firma polaca quiere exportar tecnología y crecer con el deporte",
-        "capturado": "2026-10-02T05:39:44-05:00"
-      },
-      {
-        "titulo": "Regulador británico advierte que pacto de Nexfibre y Substantial Group afectaría la competencia",
-        "url": "https://es.finance.yahoo.com/noticias/regulador-brit%C3%A1nico-afirma-acuerdo-2-100844203.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "El regulador británico afirma que el acuerdo de 2.000 millones de libras esterlinas entre Nexfibre y Substantial Group podría perjudicar la competencia en los servicios de banda ancha fija.",
-        "capturado": "2026-10-02T05:39:44-05:00"
-      },
-      {
-        "titulo": "Francia llega a picos de 24 años y título británico rebasa el 6% tras tendencia de EE UU",
-        "url": "https://es.finance.yahoo.com/noticias/bonos-calma-francia-alcanza-m%C3%A1ximos-094639892.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Francia alcanza máximos de 24 años y el bono británico supera el 6%, siguiendo a EE.UU.",
-        "capturado": "2026-10-02T05:39:44-05:00"
       }
     ]
   }
