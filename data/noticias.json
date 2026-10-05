@@ -1,9 +1,33 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-04T16:14:26-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-04T19:04:08-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Cinco estructuras financieras capaces de propulsar el venidero ciclo alcista de criptoactivos",
+        "url": "https://es.finance.yahoo.com/noticias/top-5-capas-financieras-impulsar-232400942.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Top 5 capas financieras que podrían impulsar el próximo mercado alcista de criptomonedas",
+        "capturado": "2026-10-04T19:04:08-05:00"
+      },
+      {
+        "titulo": "Flávio Bolsonaro aventaja de forma sorpresiva a Lula en los comicios brasileños",
+        "url": "https://es.finance.yahoo.com/noticias/fl%C3%A1vio-bolsonaro-toma-inesperada-ventaja-225625116.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Flávio Bolsonaro toma inesperada ventaja sobre Lula en las elecciones de Brasil",
+        "capturado": "2026-10-04T19:04:08-05:00"
+      },
+      {
+        "titulo": "Octubre inicia con cuatro inconvenientes para Bitcoin que impactarían las gráficas",
+        "url": "https://es.finance.yahoo.com/noticias/bitcoin-entra-octubre-4-problemas-205900631.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Bitcoin entra en octubre con 4 problemas que podrían reflejarse en los gráficos",
+        "capturado": "2026-10-04T19:04:08-05:00"
+      },
       {
         "titulo": "Veredicto de un probador tras usar OpenAI Dots y Grok Bot",
         "url": "https://es.finance.yahoo.com/noticias/openai-dots-grok-bot-tester-184000189.html",
@@ -459,30 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "La inflación de la eurozona sube al 3,8%: ¿está su país entre los peores?",
         "capturado": "2026-10-02T05:39:44-05:00"
-      },
-      {
-        "titulo": "FAO reporta que las cotizaciones globales de alimentos en septiembre rozan picos de cuatro años",
-        "url": "https://es.finance.yahoo.com/noticias/precios-mundiales-alimentos-septiembre-acercan-092444125.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Los precios mundiales de los alimentos en septiembre se acercan a máximos de cuatro años, según la FAO",
-        "capturado": "2026-10-02T05:39:44-05:00"
-      },
-      {
-        "titulo": "Elon Musk vuelve a Washington pese al episodio DOGE",
-        "url": "https://es.finance.yahoo.com/noticias/elon-musk-regresa-washington-saga-231300140.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Elon Musk regresa a Washington a pesar de la saga DOGE",
-        "capturado": "2026-10-01T18:42:32-05:00"
-      },
-      {
-        "titulo": "La SEC reconoce retraso ante Bitcoin y plantea normas de custodia",
-        "url": "https://es.finance.yahoo.com/noticias/sec-admite-regulaci%C3%B3n-quedado-atr%C3%A1s-220436266.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "La SEC admite que la regulación se ha quedado atrás respecto a Bitcoin y propone nuevas reglas de custodia",
-        "capturado": "2026-10-01T18:42:32-05:00"
       }
     ]
   }
