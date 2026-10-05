@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-04T19:04:08-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-05T01:02:50-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Este sector genera 65.000 millones de euros al PIB europeo y causa debate",
+        "url": "https://es.finance.yahoo.com/noticias/industria-aporta-65-000-millones-044758673.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Esta industria aporta 65.000 millones de euros a la economía europea, pero ¿merece su mala fama?",
+        "capturado": "2026-10-05T01:02:50-05:00"
+      },
+      {
+        "titulo": "Valve incluyó 1.534 líneas de voz y nombres para cada rata del héroe en Deadlock",
+        "url": "https://es-us.noticias.yahoo.com/valve-tom%C3%B3-serio-broma-rey-164202171.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Valve se tomó muy en serio la broma del Rey Rata de Deadlock, el héroe tiene 1.534 líneas de voz y un nombre para cada rata que lanza",
+        "capturado": "2026-10-05T01:02:50-05:00"
+      },
       {
         "titulo": "Cinco estructuras financieras capaces de propulsar el venidero ciclo alcista de criptoactivos",
         "url": "https://es.finance.yahoo.com/noticias/top-5-capas-financieras-impulsar-232400942.html",
@@ -466,22 +482,6 @@
         "resumen": "",
         "medio": "Euronews",
         "titulo_fuente": "Francia alcanza máximos de 24 años y el bono británico supera el 6%, siguiendo a EE.UU.",
-        "capturado": "2026-10-02T05:39:44-05:00"
-      },
-      {
-        "titulo": "Berenberg anuncia que Orange prevé mayor flujo de caja ante un nuevo ciclo de consolidación en Francia",
-        "url": "https://es.finance.yahoo.com/noticias/berenberg-orange-prepara-crecimiento-flujo-095516976.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Berenberg: Orange se prepara para un crecimiento del flujo de caja en medio de una nueva ola de consolidación en Francia.",
-        "capturado": "2026-10-02T05:39:44-05:00"
-      },
-      {
-        "titulo": "La inflación de la eurozona llega al 3,8 por ciento y surge la duda sobre los países más afectados",
-        "url": "https://es.finance.yahoo.com/noticias/inflaci%C3%B3n-eurozona-sube-3-8-094042518.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La inflación de la eurozona sube al 3,8%: ¿está su país entre los peores?",
         "capturado": "2026-10-02T05:39:44-05:00"
       }
     ]
