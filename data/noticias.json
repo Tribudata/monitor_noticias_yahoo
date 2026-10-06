@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-06T11:07:43-05:00",
+  "actualizado": "2026-10-06T16:06:50-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Venden clientes de Binance Ethereum para adquirir Bitcoin",
+        "url": "https://es.finance.yahoo.com/noticias/usuarios-binance-vendiendo-ethereum-comprar-202000038.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿Los usuarios de Binance están vendiendo Ethereum para comprar Bitcoin?",
+        "capturado": "2026-10-06T16:06:50-05:00"
+      },
+      {
+        "titulo": "Anec proyecta baja en ventas externas de soja y maíz brasileño en octubre",
+        "url": "https://es.finance.yahoo.com/noticias/anec-prev%C3%A9-descenso-exportaciones-soja-200314357.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Anec prevé descenso de exportaciones de soja y maíz de Brasil en octubre",
+        "capturado": "2026-10-06T16:06:50-05:00"
+      },
+      {
+        "titulo": "Anthropic ofrece sus IA más fuertes a un mayor número de grupos de seguridad",
+        "url": "https://es.finance.yahoo.com/noticias/anthropic-pone-modelos-ia-potentes-192411198.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Anthropic pone sus modelos de IA más potentes a disposición de más equipos de seguridad",
+        "capturado": "2026-10-06T16:06:50-05:00"
+      },
+      {
+        "titulo": "El identificador de ChatGPT arriba a la UE y OpenAI posee un detector listo",
+        "url": "https://es.finance.yahoo.com/noticias/marca-agua-chatgpt-llega-ue-185200747.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "La marca de agua de ChatGPT llega a la UE y OpenAI ya tiene un detector preparado",
+        "capturado": "2026-10-06T16:06:50-05:00"
+      },
+      {
+        "titulo": "Flujo por paso de Magallanes crece sobre 70 por ciento por límites en Canal de Panamá",
+        "url": "https://es.finance.yahoo.com/noticias/tr%C3%A1fico-estrecho-magallanes-sube-70-183636989.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Tráfico por estrecho de Magallanes sube más de 70% ante restricciones en Canal de Panamá",
+        "capturado": "2026-10-06T16:06:50-05:00"
+      },
+      {
+        "titulo": "Brasil reduce su proyección de superávit comercial pese a los sólidos datos de septiembre",
+        "url": "https://es.finance.yahoo.com/noticias/brasil-rebaja-previsiones-super%C3%A1vit-comercial-182709035.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Brasil rebaja previsiones sobre superávit comercial a pesar de los buenos resultados de septiembre",
+        "capturado": "2026-10-06T16:06:50-05:00"
+      },
+      {
+        "titulo": "El avance de Bolsonaro señala un cambio comercial en materias primas",
+        "url": "https://es.finance.yahoo.com/noticias/ascenso-bolsonaro-apunta-giro-comercial-182301730.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Ascenso de Bolsonaro apunta a un giro comercial en materias primas",
+        "capturado": "2026-10-06T16:06:50-05:00"
+      },
+      {
+        "titulo": "Peter Brandt evalúa los gráficos de XRP, Monero y Solana",
+        "url": "https://es.finance.yahoo.com/noticias/peter-brandt-compara-xrp-monero-173700350.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Peter Brandt compara XRP, Monero y Solana: ¿Cuál tiene el mejor gráfico?",
+        "capturado": "2026-10-06T16:06:50-05:00"
+      },
       {
         "titulo": "Ventas externas de trigo blando europeo en ciclo 2026/27 crecen uno por ciento al 4 de octubre",
         "url": "https://es.finance.yahoo.com/noticias/exportaciones-trigo-blando-ue-campa%C3%B1a-150212882.html",
@@ -419,70 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "Jim Cramer lanza advertencia para los inversores en octubre",
         "capturado": "2026-10-03T14:01:20-05:00"
-      },
-      {
-        "titulo": "El ETF de Zcash cedió más de 93 millones de dólares esta semana y causa dudas sobre el rally de ZEC",
-        "url": "https://es.finance.yahoo.com/noticias/etf-zcash-perdi%C3%B3-93-millones-143800901.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "El ETF de Zcash perdió más de $93 millones esta semana: ¿Se terminó el rally para ZEC?",
-        "capturado": "2026-10-03T10:48:31-05:00"
-      },
-      {
-        "titulo": "Banco Central reporta que la inflación de Venezuela finalizó en 8,4 por ciento durante septiembre",
-        "url": "https://es.finance.yahoo.com/noticias/inflaci%C3%B3n-venezuela-septiembre-cierra-8-142842275.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Inflación de Venezuela en septiembre cierra en 8,4%: Banco Central",
-        "capturado": "2026-10-03T10:48:31-05:00"
-      },
-      {
-        "titulo": "Autoridades extraditan desde territorio venezolano al pirata informático más buscado por el FBI",
-        "url": "https://es.finance.yahoo.com/noticias/extraditan-venezuela-hacker-buscado-fbi-135619493.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Extraditan desde Venezuela al hacker más buscado del FBI: detalles",
-        "capturado": "2026-10-03T10:48:31-05:00"
-      },
-      {
-        "titulo": "Cuatro altcoins logran alzas de dos dígitos en medio de la fuerte caída general del mercado",
-        "url": "https://es.finance.yahoo.com/noticias/4-altcoins-registran-ganancias-doble-122400461.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Estas 4 altcoins registran ganancias de doble dígito mientras el mercado se desangra",
-        "capturado": "2026-10-03T10:48:31-05:00"
-      },
-      {
-        "titulo": "NVIDIA alcanza récord histórico y Wall Street calcula un alza potencial de hasta 99 por ciento",
-        "url": "https://es.finance.yahoo.com/noticias/nvidia-registra-m%C3%A1ximo-hist%C3%B3rico-wall-103500161.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "NVIDIA registra máximo histórico: Wall Street aún ve hasta 99% de potencial alcista",
-        "capturado": "2026-10-03T06:53:39-05:00"
-      },
-      {
-        "titulo": "Bitcoin quiebra una tendencia de 13 años y surge la duda sobre el porvenir",
-        "url": "https://es.finance.yahoo.com/noticias/bitcoin-rompe-patr%C3%B3n-13-a%C3%B1os-084600879.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Bitcoin rompe un patrón de 13 años: ¿Qué sigue?",
-        "capturado": "2026-10-03T06:53:39-05:00"
-      },
-      {
-        "titulo": "Los meses de octubre en la Bolsa muestran volatilidad y marcados contrastes sin ser negativos",
-        "url": "https://es.finance.yahoo.com/noticias/octubres-bolsa-vol%C3%A1tiles-fuertes-contrastes-054000290.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "Los octubres en Bolsa son volátiles, de fuertes contrastes, pero no malos",
-        "capturado": "2026-10-03T06:53:39-05:00"
-      },
-      {
-        "titulo": "El Ibex 35 mantendrá su buen desempeño al despejarse el panorama y conserva margen de crecimiento",
-        "url": "https://es.finance.yahoo.com/noticias/ibex-35-seguir-disipen-nubes-053000661.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "\"El Ibex 35 lo puede seguir haciendo muy bien cuando se disipen las nubes. Todavía le queda recorrido\"",
-        "capturado": "2026-10-03T06:53:39-05:00"
       }
     ]
   }
