@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-05T21:24:01-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-06T04:13:43-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Moonshot AI alista oferta pública en Hong Kong tras tasar en 50.000 millones y DeepSeek atrae capital",
+        "url": "https://es.finance.yahoo.com/noticias/moonshot-ai-prepara-opv-hong-085849694.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Moonshot AI prepara OPV en Hong Kong tras valoración de 50.000 millones y DeepSeek capta fondos",
+        "capturado": "2026-10-06T04:13:43-05:00"
+      },
+      {
+        "titulo": "Títulos de BitMine superan a Ethereum este 2026 y Tom Lee resalta recompra de acciones",
+        "url": "https://es.finance.yahoo.com/noticias/acciones-bitmine-superado-ethereum-2026-075000131.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Las acciones de BitMine han superado a Ethereum en 2026, mientras Tom Lee destaca recompras",
+        "capturado": "2026-10-06T04:13:43-05:00"
+      },
+      {
+        "titulo": "Finalizan alivios tributarios a combustibles en Italia, aumenta el diésel y gremio advierte paros",
+        "url": "https://es.finance.yahoo.com/noticias/carburantes-italia-acaban-rebajas-fiscales-064607731.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Carburantes en Italia: Acaban las rebajas fiscales, sube el diésel y el transporte amenaza con huelgas",
+        "capturado": "2026-10-06T04:13:43-05:00"
+      },
+      {
+        "titulo": "Seúl señala indicios de uso de inteligencia artificial en ciberataques contra entidades bancarias",
+        "url": "https://es.finance.yahoo.com/noticias/corea-sur-usado-ia-ataques-065234669.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Corea del Sur dice que parece que se ha usado IA en ataques informáticos a bancos",
+        "capturado": "2026-10-06T04:13:43-05:00"
+      },
+      {
+        "titulo": "Baja significativa en órdenes de fábrica germanas debido a la falta de contratos grandes",
+        "url": "https://es.finance.yahoo.com/noticias/pedidos-industriales-alemanes-sufren-ca%C3%ADda-064138264.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Los pedidos industriales alemanes sufren una caída notable por la ausencia de grandes contratos",
+        "capturado": "2026-10-06T04:13:43-05:00"
+      },
+      {
+        "titulo": "EEUU extiende la exención de impuestos para el diésel bajo el mandato de Trump",
+        "url": "https://es.finance.yahoo.com/noticias/trump-ampl%C3%ADa-acceso-di%C3%A9sel-exento-063842014.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Trump amplía el acceso al diésel exento de impuestos en EEUU",
+        "capturado": "2026-10-06T04:13:43-05:00"
+      },
+      {
+        "titulo": "Orígenes, magnitud y amenaza europea de la crisis de deuda en territorio francés",
+        "url": "https://es.finance.yahoo.com/noticias/crisis-deuda-soberana-francia-explicada-060447838.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "La tormenta de la deuda en Francia: causas, alcance y verdadero riesgo para Europa",
+        "capturado": "2026-10-06T04:13:43-05:00"
+      },
+      {
+        "titulo": "Frente al desplome de bonos galos, Le Pen planteará ajustes en el presupuesto",
+        "url": "https://es.finance.yahoo.com/noticias/pen-propondr%C3%A1-recortes-presupuestarios-desplome-054533297.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Le Pen propondrá recortes presupuestarios ante el desplome de los bonos franceses",
+        "capturado": "2026-10-06T04:13:43-05:00"
+      },
       {
         "titulo": "El índice Nasdaq llega a un pico récord y los títulos del Tesoro logran su marca más alta en veinte años",
         "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndice-compuesto-nasdaq-alcanza-205144064.html",
@@ -419,70 +483,6 @@
         "medio": "MT Newswires",
         "titulo_fuente": "Actualización: Los rendimientos de los bonos del Tesoro estadounidense se sitúan cerca de máximos de dos décadas, mientras que Logan, de la Reserva Federal, se muestra favorable a tasas más altas tras un informe de empleo desalentador.",
         "capturado": "2026-10-02T16:10:44-05:00"
-      },
-      {
-        "titulo": "Red Blast de Ethereum suspende actividades: ¿Quién maneja los últimos $51 millones de los clientes?",
-        "url": "https://es.finance.yahoo.com/noticias/red-blast-ethereum-cesa-operaciones-191100273.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "La red Blast de Ethereum cesa operaciones: ¿Quién controla los últimos $51 millones de los usuarios?",
-        "capturado": "2026-10-02T16:10:44-05:00"
-      },
-      {
-        "titulo": "Corporación ambiental colombiana da licencia al proyecto Bucare de Ecopetrol para fase productiva",
-        "url": "https://es.finance.yahoo.com/noticias/autoridad-ambiental-colombia-otorga-licencia-190319561.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Autoridad ambiental de Colombia otorga licencia a proyecto Bucare, de Ecopetrol, permitiendo avance a etapa de producción",
-        "capturado": "2026-10-02T16:10:44-05:00"
-      },
-      {
-        "titulo": "Sistemas de IA y bots producen la mayor parte del tráfico en la red: ¿Cómo afectan las acciones viales?",
-        "url": "https://es.finance.yahoo.com/noticias/agentes-ia-bots-generan-tr%C3%A1fico-174600189.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Agentes de IA y bots generan la mayor parte del tráfico web: ¿Cómo impactan en las acciones de infraestructura?",
-        "capturado": "2026-10-02T16:10:44-05:00"
-      },
-      {
-        "titulo": "Gobierno francés proyecta 1 % de expansión en 2027 y analistas debaten",
-        "url": "https://es.finance.yahoo.com/noticias/gobierno-franc%C3%A9s-prev%C3%A9-crecimiento-1-130053114.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El Gobierno francés prevé un crecimiento del 1 % en 2027: ¿Qué opinan los expertos?",
-        "capturado": "2026-10-02T11:30:44-05:00"
-      },
-      {
-        "titulo": "Bolsa de Argentina negocia de forma selectiva atenta al exterior",
-        "url": "https://es.finance.yahoo.com/noticias/plaza-financiera-argentina-opera-selectividad-150610622.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Plaza financiera argentina opera con selectividad y seguimiento externo",
-        "capturado": "2026-10-02T11:30:44-05:00"
-      },
-      {
-        "titulo": "USDT vuelve a Bitcoin tras una década y analizan su impacto",
-        "url": "https://es.finance.yahoo.com/noticias/usdt-regresa-bitcoin-10-a%C3%B1os-145700958.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "USDT regresa a Bitcoin después de 10 años: ¿Qué significa para los usuarios?",
-        "capturado": "2026-10-02T11:30:44-05:00"
-      },
-      {
-        "titulo": "Es el turno de Brasil en un año electoral clave con la mira en EE UU",
-        "url": "https://es.finance.yahoo.com/noticias/toca-brasil-a%C3%B1o-electoral-repercusi%C3%B3n-143553178.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Ahora le toca a Brasil, en un año electoral de gran repercusión y con EEUU en la mira",
-        "capturado": "2026-10-02T11:30:44-05:00"
-      },
-      {
-        "titulo": "Bonos de EE UU caen desde máximos de 20 años y bajan apuestas de tasas",
-        "url": "https://es.finance.yahoo.com/noticias/rendimientos-bonos-tesoro-estadounidense-extienden-140944492.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los rendimientos de los bonos del Tesoro estadounidense extienden sus caídas desde máximos de dos décadas, mientras que las expectativas de una subida de tipos por parte de la Reserva Federal en octubre se desploman tras un informe de empleo desalentador.",
-        "capturado": "2026-10-02T11:30:44-05:00"
       }
     ]
   }
