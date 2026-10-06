@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-06T04:13:43-05:00",
+  "actualizado": "2026-10-06T11:07:43-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Ventas externas de trigo blando europeo en ciclo 2026/27 crecen uno por ciento al 4 de octubre",
+        "url": "https://es.finance.yahoo.com/noticias/exportaciones-trigo-blando-ue-campa%C3%B1a-150212882.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Exportaciones de trigo blando de la UE en campaña 2026/27 suben 1% al 4 de octubre",
+        "capturado": "2026-10-06T11:07:43-05:00"
+      },
+      {
+        "titulo": "La AIE definirá la próxima semana los pormenores de la excarcelación de reservas de diésel",
+        "url": "https://es.finance.yahoo.com/noticias/aie-decidir%C3%A1-pr%C3%B3xima-semana-detalles-145632563.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "La AIE decidirá la próxima semana los detalles de la liberación de reservas de diésel",
+        "capturado": "2026-10-06T11:07:43-05:00"
+      },
+      {
+        "titulo": "Es Moonshot AI barata a 50 mil millones de dólares? Depende de la empresa con que se le compare",
+        "url": "https://es.finance.yahoo.com/noticias/moonshot-ai-barato-50-mil-144900645.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿Moonshot AI es barato a $50 mil millones? Depende con quién la compares",
+        "capturado": "2026-10-06T11:07:43-05:00"
+      },
+      {
+        "titulo": "Francia paga las consecuencias de largos años de saldos rojos fiscales e inestabilidad política",
+        "url": "https://es.finance.yahoo.com/noticias/francia-pagando-precio-d%C3%A9cadas-d%C3%A9ficits-144427802.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Francia está pagando el precio de décadas de déficits fiscales y crisis políticas",
+        "capturado": "2026-10-06T11:07:43-05:00"
+      },
+      {
+        "titulo": "Poder de fondos de cobertura en plazas bursátiles sube y amerita control más riguroso según FMI",
+        "url": "https://es.finance.yahoo.com/noticias/influencia-fondos-cobertura-mercados-aumentando-143510649.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Influencia de fondos de cobertura en los mercados está aumentando, merece seguimiento más minucioso: FMI",
+        "capturado": "2026-10-06T11:07:43-05:00"
+      },
+      {
+        "titulo": "El riesgo país argentino sigue a la baja impulsado por Brasil",
+        "url": "https://es.finance.yahoo.com/noticias/riesgo-pa%C3%ADs-argentina-mantiene-sesgo-143505021.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Riesgo país de Argentina mantiene sesgo bajista por impulso de Brasil",
+        "capturado": "2026-10-06T11:07:43-05:00"
+      },
+      {
+        "titulo": "Skydance nace tras completarse la fusión entre Paramount y Warner Bros",
+        "url": "https://es.finance.yahoo.com/noticias/paramount-warner-bros-completan-fusi%C3%B3n-135206433.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Paramount y Warner Bros completan su fusión y crean el gigante de Hollywood Skydance",
+        "capturado": "2026-10-06T11:07:43-05:00"
+      },
+      {
+        "titulo": "El FMI advierte impacto persistente de la crisis de vida en pobreza e inflación",
+        "url": "https://es.finance.yahoo.com/noticias/crisis-costo-vida-impacto-duradero-133507799.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Crisis del costo de la vida tiene un impacto duradero en expectativas de inflación y pobreza: FMI",
+        "capturado": "2026-10-06T11:07:43-05:00"
+      },
       {
         "titulo": "Moonshot AI alista oferta pública en Hong Kong tras tasar en 50.000 millones y DeepSeek atrae capital",
         "url": "https://es.finance.yahoo.com/noticias/moonshot-ai-prepara-opv-hong-085849694.html",
@@ -419,70 +483,6 @@
         "medio": "Estrategias de inversión",
         "titulo_fuente": "\"El Ibex 35 lo puede seguir haciendo muy bien cuando se disipen las nubes. Todavía le queda recorrido\"",
         "capturado": "2026-10-03T06:53:39-05:00"
-      },
-      {
-        "titulo": "Continúa el alza en los costos habitacionales europeos: naciones punteras y causas",
-        "url": "https://es.finance.yahoo.com/noticias/precios-vivienda-siguen-subiendo-europa-050054959.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Los precios de la vivienda siguen subiendo en Europa: qué países lideran las subidas y por qué",
-        "capturado": "2026-10-03T01:04:01-05:00"
-      },
-      {
-        "titulo": "Fiscalía norteamericana descartó reabrir proceso penal al líder de la Fed Jerome Powell",
-        "url": "https://es.finance.yahoo.com/noticias/departamento-justicia-ee-uu-reabrir%C3%A1-191219439.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Departamento de Justicia de EE.UU. no reabrirá investigación penal contra Jerome Powell",
-        "capturado": "2026-10-03T01:04:01-05:00"
-      },
-      {
-        "titulo": "Tres altcoins para seguir de cerca este fin de semana del 3 al 4 de octubre",
-        "url": "https://es.finance.yahoo.com/noticias/top-3-altcoins-observar-semana-203800930.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Top 3 altcoins a observar este fin de semana | 3-4 de octubre",
-        "capturado": "2026-10-02T19:37:05-05:00"
-      },
-      {
-        "titulo": "FDA de Estados Unidos archiva caso sobre parásito en lechuga y halla origen del brote en planta de México",
-        "url": "https://es.finance.yahoo.com/noticias/fda-eeuu-cierra-investigaci%C3%B3n-par%C3%A1sito-203419498.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "FDA de EEUU cierra investigación sobre parásito de lechuga y vincula brote con planta en México",
-        "capturado": "2026-10-02T16:10:44-05:00"
-      },
-      {
-        "titulo": "Bolsa de valores en Estados Unidos avanza al frenar datos flojos de empleo las tasas altas de la FED",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-202543208.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben a medida que las cifras negativas de empleo no agrícola moderan las perspectivas de política monetaria restrictiva de la Reserva Federal.",
-        "capturado": "2026-10-02T16:10:44-05:00"
-      },
-      {
-        "titulo": "Bolsas de Estados Unidos cierran mixtas por altos bonos del Tesoro y menor previsión de alza de tasas",
-        "url": "https://es.finance.yahoo.com/noticias/%C3%ADndices-burs%C3%A1tiles-estadounidenses-cerraron-resultados-202356617.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los índices bursátiles estadounidenses cerraron con resultados mixtos esta semana, ya que los rendimientos de los bonos del Tesoro se acercaron a su nivel más alto en dos décadas, mientras que las expectativas de una subida de tipos en octubre se desplomaron.",
-        "capturado": "2026-10-02T16:10:44-05:00"
-      },
-      {
-        "titulo": "Vocero afirma que Departamento de Justicia de EE UU no abrirá causa penal contra el exjefe de la Fed Powell",
-        "url": "https://es.finance.yahoo.com/noticias/departamento-justicia-eeuu-reabrir%C3%A1-investigaci%C3%B3n-200513811.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Departamento Justicia EEUU no reabrirá investigación penal sobre expresidente Fed Powell: portavoz",
-        "capturado": "2026-10-02T16:10:44-05:00"
-      },
-      {
-        "titulo": "Bonos de EE UU en máximos de 20 años y Logan, de la Fed, apoya tasas altas pese a flojo reporte laboral",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-rendimientos-bonos-tesoro-estadounidense-195133762.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los rendimientos de los bonos del Tesoro estadounidense se sitúan cerca de máximos de dos décadas, mientras que Logan, de la Reserva Federal, se muestra favorable a tasas más altas tras un informe de empleo desalentador.",
-        "capturado": "2026-10-02T16:10:44-05:00"
       }
     ]
   }
