@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-07T01:52:46-05:00",
+  "actualizado": "2026-10-07T09:14:17-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Las ventas mundiales de Mercedes retroceden 6% y los eléctricos logran récord",
+        "url": "https://es.finance.yahoo.com/noticias/ventas-globales-mercedes-caen-6-130554293.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Las ventas globales de Mercedes caen un 6% mientras los eléctricos marcan récord",
+        "capturado": "2026-10-07T09:14:17-05:00"
+      },
+      {
+        "titulo": "La Unión Europea busca bajar el déficit comercial con China en diálogos con Pekín",
+        "url": "https://es.finance.yahoo.com/noticias/ue-pretende-reducir-d%C3%A9ficit-comercial-133344167.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "La UE pretende reducir el déficit comercial con China en las negociaciones con Pekín",
+        "capturado": "2026-10-07T09:14:17-05:00"
+      },
+      {
+        "titulo": "RBC modifica las proyecciones de Repsol por la caída en márgenes de refinación",
+        "url": "https://es.finance.yahoo.com/noticias/rbc-ajusta-estimaciones-repsol-debilitamiento-132633528.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "RBC ajusta las estimaciones de Repsol ante el debilitamiento de los márgenes de refinación.",
+        "capturado": "2026-10-07T09:14:17-05:00"
+      },
+      {
+        "titulo": "BitMine está cerca de cesar compras de Ethereum: ¿Qué ocurrirá con la cotización de ETH?",
+        "url": "https://es.finance.yahoo.com/noticias/bitmine-punto-dejar-comprar-ethereum-132400776.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "BitMine está a punto de dejar de comprar Ethereum: ¿Qué pasará con el precio de ETH?",
+        "capturado": "2026-10-07T09:14:17-05:00"
+      },
+      {
+        "titulo": "Los ETF y futuros bursátiles caen previo a la apertura del miércoles a la espera de minutas de la Fed",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-futuros-renta-132253551.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa y los futuros de renta variable bajan antes de la apertura del mercado el miércoles, mientras los operadores esperan las actas de la reunión de la Reserva Federal.",
+        "capturado": "2026-10-07T09:14:17-05:00"
+      },
+      {
+        "titulo": "Apertura a la baja en futuros de acciones de EE UU a la espera de las actas de la Reserva Federal",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-futuros-acciones-estadounidenses-bajan-125613386.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los futuros de las acciones estadounidenses bajan antes de la apertura del mercado mientras los operadores esperan las actas de la Reserva Federal.",
+        "capturado": "2026-10-07T09:14:17-05:00"
+      },
+      {
+        "titulo": "Reporte matutino en español: hostilidades en Ormuz generan impacto en las plazas financieras",
+        "url": "https://es.finance.yahoo.com/noticias/ataques-ormuz-sacuden-mercados-morning-120219779.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Ataques en Ormuz sacuden mercados: Morning Briefing Español",
+        "capturado": "2026-10-07T09:14:17-05:00"
+      },
+      {
+        "titulo": "Cifras analizan si el sector de criptomonedas imitará el comportamiento del diez de octubre",
+        "url": "https://es.finance.yahoo.com/noticias/mercado-cripto-repetir%C3%A1-10-10-120200487.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿El mercado cripto repetirá el 10-10? Los datos responden",
+        "capturado": "2026-10-07T09:14:17-05:00"
+      },
       {
         "titulo": "De grano a tecnología: Kazajistán quiere transformar capital chino en bienes de mayor valor",
         "url": "https://es.finance.yahoo.com/noticias/trigo-robots-kazajist%C3%A1n-busca-convertir-063332331.html",
@@ -419,70 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Trump nombra al jefe de inteligencia Clayton como zar de la IA, liderará grupo de trabajo",
         "capturado": "2026-10-04T12:59:18-05:00"
-      },
-      {
-        "titulo": "Elecciones en Brasil con alta polarización convocan a los ciudadanos a votar",
-        "url": "https://es.finance.yahoo.com/noticias/brasile%C3%B1os-acuden-urnas-elecciones-marcadas-140607992.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Brasileños acuden a las urnas en unas elecciones marcadas por la polarización",
-        "capturado": "2026-10-04T12:59:18-05:00"
-      },
-      {
-        "titulo": "Goldman Sachs pronostica alzas bursátiles en cinco acciones",
-        "url": "https://es.finance.yahoo.com/noticias/goldman-sachs-predice-rallies-precios-135500973.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Goldman Sachs predice rallies de precios en 5 acciones",
-        "capturado": "2026-10-04T12:59:18-05:00"
-      },
-      {
-        "titulo": "Peligro en Bitcoin por Lightning: el riesgo depende de la gestión del nodo",
-        "url": "https://es.finance.yahoo.com/noticias/tus-bitcoin-lightning-riesgo-depende-113800926.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿Tus Bitcoin en Lightning está en riesgo? Depende de quién opere el nodo",
-        "capturado": "2026-10-04T08:43:51-05:00"
-      },
-      {
-        "titulo": "CEO de Phemex: tarjetas cripto deben operar igual que la infraestructura de trading",
-        "url": "https://es.finance.yahoo.com/noticias/ceo-phemex-tarjetas-criptomonedas-deber%C3%ADan-090600876.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "CEO de Phemex: ¿Por qué las tarjetas de criptomonedas deberían funcionar como la infraestructura de trading?",
-        "capturado": "2026-10-04T08:43:51-05:00"
-      },
-      {
-        "titulo": "Claves de las protestas de Maricarmen y la crisis habitacional en España",
-        "url": "https://es.finance.yahoo.com/noticias/pasando-crisis-vivienda-espa%C3%B1a-claves-134318153.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "¿Qué está pasando con la crisis de vivienda en España? Las claves tras las protestas por Maricarmen",
-        "capturado": "2026-10-04T08:43:51-05:00"
-      },
-      {
-        "titulo": "Nueva etapa de la deuda global: refinanciación más costosa para EE. UU., Europa y emergentes",
-        "url": "https://es.finance.yahoo.com/noticias/deuda-mundial-entra-fase-eeuu-043000996.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "La deuda mundial entra en una nueva fase: EEUU, Europa y los emergentes afrontan una refinanciación mucho más cara",
-        "capturado": "2026-10-04T08:43:51-05:00"
-      },
-      {
-        "titulo": "Apple y la inteligencia artificial: apostar por la integración en vez de la creación",
-        "url": "https://es.finance.yahoo.com/noticias/apple-inteligencia-artificial-integrar-construir-041000263.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "Apple e inteligencia artificial: integrar, no construir",
-        "capturado": "2026-10-04T08:43:51-05:00"
-      },
-      {
-        "titulo": "Aparte del algoritmo: los factores para que la IA cree valor",
-        "url": "https://es.finance.yahoo.com/noticias/all%C3%A1-modelo-claves-ia-genere-040000150.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "Más allá del modelo: las claves para que la IA genere valor",
-        "capturado": "2026-10-04T08:43:51-05:00"
       }
     ]
   }
