@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-07T09:14:17-05:00",
+  "actualizado": "2026-10-07T15:04:04-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Trump afirma que al directorio del banco central estadounidense le agrada que la nación marche mal",
+        "url": "https://es.finance.yahoo.com/noticias/trump-junta-reserva-federal-gustar%C3%ADa-191529969.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Trump dice que a la Junta de la Reserva Federal le gustaría que al país le fuera mal",
+        "capturado": "2026-10-07T15:04:04-05:00"
+      },
+      {
+        "titulo": "Este título tecnológico de inteligencia artificial trepó 600 por ciento anual y venció a NVIDIA y Micron",
+        "url": "https://es.finance.yahoo.com/noticias/acci%C3%B3n-ia-subi%C3%B3-600-a%C3%B1o-185100771.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Esta acción de IA subió 600% en un año: superó a NVIDIA y Micron",
+        "capturado": "2026-10-07T15:04:04-05:00"
+      },
+      {
+        "titulo": "Microsoft integra mayor inteligencia artificial en computadores para competir con Apple",
+        "url": "https://es.finance.yahoo.com/noticias/microsoft-incorpora-inteligencia-artificial-pc-183437458.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Microsoft incorpora más inteligencia artificial a los PC en su desafío a Apple",
+        "capturado": "2026-10-07T15:04:04-05:00"
+      },
+      {
+        "titulo": "Las actas de la Fed indican un nuevo incremento de tipos este año y solo Bitcoin reaccionó",
+        "url": "https://es.finance.yahoo.com/noticias/actas-fed-se%C3%B1alan-subida-tipos-180521024.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Las minutas de la Fed señalan otra subida de tasas este año: ¿por qué solo reaccionó Bitcoin?",
+        "capturado": "2026-10-07T15:04:04-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE. UU. descienden y bonos del Tesoro muestran datos variados previo a actas de la Fed",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-175755120.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen y los rendimientos de los bonos del Tesoro presentan resultados mixtos antes de la publicación de las actas de la Reserva Federal.",
+        "capturado": "2026-10-07T15:04:04-05:00"
+      },
+      {
+        "titulo": "Fondos de Ethereum muestran el retiro más alto en tres semanas ante persistente presión en la demanda",
+        "url": "https://es.finance.yahoo.com/noticias/etf-ethereum-registran-salida-3-173600962.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Los ETF de Ethereum registran la mayor salida en 3 semanas mientras la demanda sigue bajo presión",
+        "capturado": "2026-10-07T15:04:04-05:00"
+      },
+      {
+        "titulo": "Los fondos cotizados disminuyen conforme los títulos de Estados Unidos descienden tras el mediodía",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-bajan-medida-171013356.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa bajan a medida que las acciones estadounidenses caen después del mediodía.",
+        "capturado": "2026-10-07T15:04:04-05:00"
+      },
+      {
+        "titulo": "La petrolera argentina YPF comunica trato con Total Energies para abastecer combustible sostenible",
+        "url": "https://es.finance.yahoo.com/noticias/petrolera-argentina-ypf-anuncia-acuerdo-165503628.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Petrolera argentina YPF anuncia acuerdo con Total Energies para proveer SAF",
+        "capturado": "2026-10-07T15:04:04-05:00"
+      },
       {
         "titulo": "Las ventas mundiales de Mercedes retroceden 6% y los eléctricos logran récord",
         "url": "https://es.finance.yahoo.com/noticias/ventas-globales-mercedes-caen-6-130554293.html",
@@ -419,70 +483,6 @@
         "medio": "Tarreo",
         "titulo_fuente": "Valve se tomó muy en serio la broma del Rey Rata de Deadlock, el héroe tiene 1.534 líneas de voz y un nombre para cada rata que lanza",
         "capturado": "2026-10-05T01:02:50-05:00"
-      },
-      {
-        "titulo": "Cinco estructuras financieras capaces de propulsar el venidero ciclo alcista de criptoactivos",
-        "url": "https://es.finance.yahoo.com/noticias/top-5-capas-financieras-impulsar-232400942.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Top 5 capas financieras que podrían impulsar el próximo mercado alcista de criptomonedas",
-        "capturado": "2026-10-04T19:04:08-05:00"
-      },
-      {
-        "titulo": "Flávio Bolsonaro aventaja de forma sorpresiva a Lula en los comicios brasileños",
-        "url": "https://es.finance.yahoo.com/noticias/fl%C3%A1vio-bolsonaro-toma-inesperada-ventaja-225625116.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Flávio Bolsonaro toma inesperada ventaja sobre Lula en las elecciones de Brasil",
-        "capturado": "2026-10-04T19:04:08-05:00"
-      },
-      {
-        "titulo": "Octubre inicia con cuatro inconvenientes para Bitcoin que impactarían las gráficas",
-        "url": "https://es.finance.yahoo.com/noticias/bitcoin-entra-octubre-4-problemas-205900631.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Bitcoin entra en octubre con 4 problemas que podrían reflejarse en los gráficos",
-        "capturado": "2026-10-04T19:04:08-05:00"
-      },
-      {
-        "titulo": "Veredicto de un probador tras usar OpenAI Dots y Grok Bot",
-        "url": "https://es.finance.yahoo.com/noticias/openai-dots-grok-bot-tester-184000189.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿OpenAI Dots o Grok Bot? Tester que usó ambos da su veredicto",
-        "capturado": "2026-10-04T16:14:26-05:00"
-      },
-      {
-        "titulo": "Balance semanal de Bitcoin y criptomonedas en España y América Latina del 4 de octubre",
-        "url": "https://es.finance.yahoo.com/noticias/resumen-semanal-bitcoin-criptomonedas-espa%C3%B1a-161700926.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Resumen semanal de Bitcoin y criptomonedas: España y América Latina – 4 de octubre",
-        "capturado": "2026-10-04T12:59:18-05:00"
-      },
-      {
-        "titulo": "El estrecho de Ormuz seguirá cerrado hasta cumplirse las condiciones, afirma Irán",
-        "url": "https://es.finance.yahoo.com/noticias/ir%C3%A1n-estrecho-ormuz-reabrir%C3%A1-cumplan-160425225.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Irán dice que el estrecho de Ormuz no se reabrirá hasta que se cumplan las condiciones",
-        "capturado": "2026-10-04T12:59:18-05:00"
-      },
-      {
-        "titulo": "OPEP+ decide conservar las metas de extracción de crudo para noviembre",
-        "url": "https://es.finance.yahoo.com/noticias/opep-acuerda-mantener-cambios-objetivos-155040921.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "OPEP+ acuerda mantener sin cambios los objetivos de producción de petróleo para noviembre",
-        "capturado": "2026-10-04T12:59:18-05:00"
-      },
-      {
-        "titulo": "Clayton asume como zar de la IA y liderará equipo de trabajo por nombramiento de Trump",
-        "url": "https://es.finance.yahoo.com/noticias/trump-nombra-jefe-inteligencia-clayton-151334480.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Trump nombra al jefe de inteligencia Clayton como zar de la IA, liderará grupo de trabajo",
-        "capturado": "2026-10-04T12:59:18-05:00"
       }
     ]
   }
