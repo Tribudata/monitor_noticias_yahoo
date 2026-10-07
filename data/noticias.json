@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-06T16:06:50-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-10-06T19:54:32-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Hermanos Winklevoss preparan ETF de Zcash con costo diez veces menor al de Grayscale",
+        "url": "https://es.finance.yahoo.com/noticias/winklevoss-planean-etf-zcash-10x-231800602.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Los Winklevoss planean ETF de Zcash 10x más barato que Grayscale",
+        "capturado": "2026-10-06T19:54:32-05:00"
+      },
+      {
+        "titulo": "Mercados de predicción llegan a 188 mil millones de dólares con una empresa al mando",
+        "url": "https://es.finance.yahoo.com/noticias/mercados-predicci%C3%B3n-alcanzan-188-mil-214300943.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Los mercados de predicción alcanzan los $188 mil millones, y una empresa es la que domina",
+        "capturado": "2026-10-06T19:54:32-05:00"
+      },
       {
         "titulo": "Venden clientes de Binance Ethereum para adquirir Bitcoin",
         "url": "https://es.finance.yahoo.com/noticias/usuarios-binance-vendiendo-ethereum-comprar-202000038.html",
@@ -466,22 +482,6 @@
         "resumen": "",
         "medio": "BeInCrypto",
         "titulo_fuente": "El precio del cobre atrae la atención de cara a octubre: esta es la razón",
-        "capturado": "2026-10-03T14:01:20-05:00"
-      },
-      {
-        "titulo": "Rival de Ripple (XRP) sería el nuevo Zar de IA en la Casa Blanca",
-        "url": "https://es.finance.yahoo.com/noticias/n%C3%A9mesis-ripple-xrp-ser-zar-163000165.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Némesis de Ripple (XRP) podría ser el nuevo “Zar de IA” en la Casa Blanca: detalles",
-        "capturado": "2026-10-03T14:01:20-05:00"
-      },
-      {
-        "titulo": "Jim Cramer emite alerta dirigida a los inversionistas en octubre",
-        "url": "https://es.finance.yahoo.com/noticias/jim-cramer-lanza-advertencia-inversores-160200023.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Jim Cramer lanza advertencia para los inversores en octubre",
         "capturado": "2026-10-03T14:01:20-05:00"
       }
     ]
