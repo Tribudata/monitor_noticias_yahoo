@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-08T08:55:00-05:00",
+  "actualizado": "2026-10-08T14:40:49-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "España elimina el anonimato en cajeros cripto e incrementa la fiscalización de capitales",
+        "url": "https://es.finance.yahoo.com/noticias/espa%C3%B1a-acaba-anonimato-cajeros-criptomonedas-190300625.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "España acaba con el anonimato en cajeros de criptomonedas y amplía el control de fondos",
+        "capturado": "2026-10-08T14:40:49-05:00"
+      },
+      {
+        "titulo": "Presidenta encargada anticipa un aumento del 6,5% en la economía venezolana para el tercer trimestre de 2026",
+        "url": "https://es.finance.yahoo.com/noticias/proyecta-crecimiento-6-5-econom%C3%ADa-184020373.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Se proyecta crecimiento de 6,5% de la economía de Venezuela en el tercer trimestre de 2026: Presidenta encargada",
+        "capturado": "2026-10-08T14:40:49-05:00"
+      },
+      {
+        "titulo": "El sector tecnológico encabeza los descensos en las bolsas de EE. UU. ante el alza del crudo",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-sector-tecnol%C3%B3gico-lidera-ca%C3%ADdas-183527276.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: El sector tecnológico lidera las caídas de los índices bursátiles estadounidenses en medio del repunte del petróleo crudo.",
+        "capturado": "2026-10-08T14:40:49-05:00"
+      },
+      {
+        "titulo": "El Nasdaq baja más de 300 puntos tras quedar los ingresos de OpenAI 20 mil millones abajo de lo previsto",
+        "url": "https://es.finance.yahoo.com/noticias/nasdaq-cae-300-puntos-ingresos-174323294.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "El Nasdaq cae más de 300 puntos después de que los ingresos de OpenAI resultaran 20 mil millones de dólares por debajo de lo esperado",
+        "capturado": "2026-10-08T14:40:49-05:00"
+      },
+      {
+        "titulo": "Vitalik Buterin señala que la inteligencia artificial afectaría a las criptodivisas en un plazo de 2 años",
+        "url": "https://es.finance.yahoo.com/noticias/ia-da%C3%B1ar-criptomonedas-2-a%C3%B1os-174000007.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "La IA podría dañar las criptomonedas en 2 años, advierte Vitalik Buterin",
+        "capturado": "2026-10-08T14:40:49-05:00"
+      },
+      {
+        "titulo": "Trump asegura que Estados Unidos no agredirá a Irán previo a las elecciones legislativas de noviembre",
+        "url": "https://es.finance.yahoo.com/noticias/trump-ee-uu-atacar%C3%A1-ir%C3%A1n-173026248.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Trump dice que EE.UU. no atacará Irán antes de las elecciones legislativas de noviembre",
+        "capturado": "2026-10-08T14:40:49-05:00"
+      },
+      {
+        "titulo": "La Unión Europea discute sobre las difíciles condiciones de trabajo de los pescadores sin otra opción",
+        "url": "https://es.finance.yahoo.com/noticias/duras-condiciones-laborales-pescadores-debate-172411157.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Las duras condiciones laborales de los pescadores, a debate en la UE: \"No tenía otra opción\"",
+        "capturado": "2026-10-08T14:40:49-05:00"
+      },
+      {
+        "titulo": "Los fondos cotizados en bolsa descienden al caer los títulos valores de Estados Unidos tras el mediodía",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-caen-medida-171415084.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa caen a medida que las acciones estadounidenses bajan después del mediodía.",
+        "capturado": "2026-10-08T14:40:49-05:00"
+      },
       {
         "titulo": "El presupuesto de 2027 arriba al Congreso con respaldo garantizado del Partido Socialista",
         "url": "https://es.finance.yahoo.com/noticias/presupuesto-2027-llega-parlamento-aprobaci%C3%B3n-131959912.html",
@@ -419,70 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "¿Moonshot AI es barato a $50 mil millones? Depende con quién la compares",
         "capturado": "2026-10-06T11:07:43-05:00"
-      },
-      {
-        "titulo": "Francia paga las consecuencias de largos años de saldos rojos fiscales e inestabilidad política",
-        "url": "https://es.finance.yahoo.com/noticias/francia-pagando-precio-d%C3%A9cadas-d%C3%A9ficits-144427802.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Francia está pagando el precio de décadas de déficits fiscales y crisis políticas",
-        "capturado": "2026-10-06T11:07:43-05:00"
-      },
-      {
-        "titulo": "Poder de fondos de cobertura en plazas bursátiles sube y amerita control más riguroso según FMI",
-        "url": "https://es.finance.yahoo.com/noticias/influencia-fondos-cobertura-mercados-aumentando-143510649.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Influencia de fondos de cobertura en los mercados está aumentando, merece seguimiento más minucioso: FMI",
-        "capturado": "2026-10-06T11:07:43-05:00"
-      },
-      {
-        "titulo": "El riesgo país argentino sigue a la baja impulsado por Brasil",
-        "url": "https://es.finance.yahoo.com/noticias/riesgo-pa%C3%ADs-argentina-mantiene-sesgo-143505021.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Riesgo país de Argentina mantiene sesgo bajista por impulso de Brasil",
-        "capturado": "2026-10-06T11:07:43-05:00"
-      },
-      {
-        "titulo": "Skydance nace tras completarse la fusión entre Paramount y Warner Bros",
-        "url": "https://es.finance.yahoo.com/noticias/paramount-warner-bros-completan-fusi%C3%B3n-135206433.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Paramount y Warner Bros completan su fusión y crean el gigante de Hollywood Skydance",
-        "capturado": "2026-10-06T11:07:43-05:00"
-      },
-      {
-        "titulo": "El FMI advierte impacto persistente de la crisis de vida en pobreza e inflación",
-        "url": "https://es.finance.yahoo.com/noticias/crisis-costo-vida-impacto-duradero-133507799.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Crisis del costo de la vida tiene un impacto duradero en expectativas de inflación y pobreza: FMI",
-        "capturado": "2026-10-06T11:07:43-05:00"
-      },
-      {
-        "titulo": "Moonshot AI alista oferta pública en Hong Kong tras tasar en 50.000 millones y DeepSeek atrae capital",
-        "url": "https://es.finance.yahoo.com/noticias/moonshot-ai-prepara-opv-hong-085849694.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Moonshot AI prepara OPV en Hong Kong tras valoración de 50.000 millones y DeepSeek capta fondos",
-        "capturado": "2026-10-06T04:13:43-05:00"
-      },
-      {
-        "titulo": "Títulos de BitMine superan a Ethereum este 2026 y Tom Lee resalta recompra de acciones",
-        "url": "https://es.finance.yahoo.com/noticias/acciones-bitmine-superado-ethereum-2026-075000131.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Las acciones de BitMine han superado a Ethereum en 2026, mientras Tom Lee destaca recompras",
-        "capturado": "2026-10-06T04:13:43-05:00"
-      },
-      {
-        "titulo": "Finalizan alivios tributarios a combustibles en Italia, aumenta el diésel y gremio advierte paros",
-        "url": "https://es.finance.yahoo.com/noticias/carburantes-italia-acaban-rebajas-fiscales-064607731.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Carburantes en Italia: Acaban las rebajas fiscales, sube el diésel y el transporte amenaza con huelgas",
-        "capturado": "2026-10-06T04:13:43-05:00"
       }
     ]
   }
