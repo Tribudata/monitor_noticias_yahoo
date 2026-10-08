@@ -1,9 +1,33 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-07T19:18:55-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-08T01:28:22-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "El paso por Ormuz toca su nivel más bajo en más de dos meses tras agresiones, según cifras",
+        "url": "https://es.finance.yahoo.com/noticias/tr%C3%A1nsitos-ormuz-caen-m%C3%ADnimo-meses-061513478.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Los tránsitos por Ormuz caen a su mínimo en más de dos meses tras ataques, según datos",
+        "capturado": "2026-10-08T01:28:22-05:00"
+      },
+      {
+        "titulo": "EEUU y Rusia discuten eventual inversión norteamericana en las tuberías Nord Stream",
+        "url": "https://es.finance.yahoo.com/noticias/washington-mosc%C3%BA-debaten-inversi%C3%B3n-eeuu-061356080.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Washington y Moscú debaten posible inversión de EEUU en los gasoductos Nord Stream",
+        "capturado": "2026-10-08T01:28:22-05:00"
+      },
+      {
+        "titulo": "Estiman descenso de sueldos reales en principales potencias de Europa, excepto Alemania",
+        "url": "https://es.finance.yahoo.com/noticias/prev%C3%A9-salarios-reales-caigan-econom%C3%ADas-045710722.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Se prevé que los salarios reales caigan en las grandes economías europeas, salvo en Alemania",
+        "capturado": "2026-10-08T01:28:22-05:00"
+      },
       {
         "titulo": "Directivo de Bitget opina sobre el robo de 387 millones de dólares: Es seguro el exchange",
         "url": "https://es.finance.yahoo.com/noticias/ceo-bitget-habla-hack-387-231700129.html",
@@ -458,30 +482,6 @@
         "resumen": "",
         "medio": "BeInCrypto",
         "titulo_fuente": "Top 3 desbloqueos de tokens: 1ra semana de octubre de 2026",
-        "capturado": "2026-10-05T17:07:10-05:00"
-      },
-      {
-        "titulo": "Bolsas de Estados Unidos avanzan mientras suben los papeles del Tesoro a máximos de veinte años y baja el crudo",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-171711215.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben en un contexto en el que los rendimientos de los bonos del Tesoro alcanzan su nivel más alto en dos décadas y el precio del petróleo crudo cae.",
-        "capturado": "2026-10-05T17:07:10-05:00"
-      },
-      {
-        "titulo": "Los fondos cotizados y las acciones de Estados Unidos registran alzas después del mediodía",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-suben-acciones-171005207.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa suben y las acciones estadounidenses registran ganancias tras el mediodía.",
-        "capturado": "2026-10-05T17:07:10-05:00"
-      },
-      {
-        "titulo": "El triunfo de Bolsonaro impulsa un fuerte ascenso en la Bolsa de São Paulo",
-        "url": "https://es.finance.yahoo.com/noticias/bolsa-s%C3%A3o-paulo-dispara-ventaja-162517270.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La Bolsa de São Paulo se dispara tras la victoria de Bolsonaro",
         "capturado": "2026-10-05T17:07:10-05:00"
       }
     ]
