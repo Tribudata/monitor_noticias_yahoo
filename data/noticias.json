@@ -1,9 +1,41 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-07T15:04:04-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-10-07T19:18:55-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Directivo de Bitget opina sobre el robo de 387 millones de dólares: Es seguro el exchange",
+        "url": "https://es.finance.yahoo.com/noticias/ceo-bitget-habla-hack-387-231700129.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "CEO de Bitget habla sobre el hack de $387 millones: ¿Es seguro el exchange?",
+        "capturado": "2026-10-07T19:18:55-05:00"
+      },
+      {
+        "titulo": "Murieron los títulos de finca raíz en EE. UU.: Qué revelan los gráficos y los tipos",
+        "url": "https://es.finance.yahoo.com/noticias/muertas-acciones-inmobiliarias-estados-unidos-214400250.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿Están muertas las acciones inmobiliarias de Estados Unidos? Qué muestran los gráficos y las tasas",
+        "capturado": "2026-10-07T19:18:55-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE. UU. bajan tras minutas de la Fed y mayores costos de deuda en subasta",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-211427936.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen después de que las actas de la Reserva Federal revelaran una postura ligeramente restrictiva y un aumento en los costos de endeudamiento en la subasta de bonos del Tesoro.",
+        "capturado": "2026-10-07T19:18:55-05:00"
+      },
+      {
+        "titulo": "El panorama de las transacciones con agentes de IA hacia 2026",
+        "url": "https://es.finance.yahoo.com/noticias/realidad-pagos-agentes-ia-2026-202000718.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "La realidad de los pagos con agentes de IA en 2026",
+        "capturado": "2026-10-07T19:18:55-05:00"
+      },
       {
         "titulo": "Trump afirma que al directorio del banco central estadounidense le agrada que la nación marche mal",
         "url": "https://es.finance.yahoo.com/noticias/trump-junta-reserva-federal-gustar%C3%ADa-191529969.html",
@@ -451,38 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "La Bolsa de São Paulo se dispara tras la victoria de Bolsonaro",
         "capturado": "2026-10-05T17:07:10-05:00"
-      },
-      {
-        "titulo": "Vivienda e inflación y crecimiento: los desafíos electorales de Sánchez",
-        "url": "https://es.finance.yahoo.com/noticias/crecimiento-basta-vivienda-inflaci%C3%B3n-retos-161340908.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Cuando el crecimiento no basta: vivienda e inflación, los grandes retos de Sánchez de cara a las elecciones",
-        "capturado": "2026-10-05T17:07:10-05:00"
-      },
-      {
-        "titulo": "Argenta Silver halla una nueva zona aurífera y cuprifera en El Quevar en Argentina",
-        "url": "https://es.finance.yahoo.com/noticias/argenta-silver-confirma-presencia-zona-161601768.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Argenta Silver confirma la presencia de una nueva zona de oro y cobre en el proyecto El Quevar en Argentina.",
-        "capturado": "2026-10-05T17:07:10-05:00"
-      },
-      {
-        "titulo": "Este sector genera 65.000 millones de euros al PIB europeo y causa debate",
-        "url": "https://es.finance.yahoo.com/noticias/industria-aporta-65-000-millones-044758673.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Esta industria aporta 65.000 millones de euros a la economía europea, pero ¿merece su mala fama?",
-        "capturado": "2026-10-05T01:02:50-05:00"
-      },
-      {
-        "titulo": "Valve incluyó 1.534 líneas de voz y nombres para cada rata del héroe en Deadlock",
-        "url": "https://es-us.noticias.yahoo.com/valve-tom%C3%B3-serio-broma-rey-164202171.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Valve se tomó muy en serio la broma del Rey Rata de Deadlock, el héroe tiene 1.534 líneas de voz y un nombre para cada rata que lanza",
-        "capturado": "2026-10-05T01:02:50-05:00"
       }
     ]
   }
