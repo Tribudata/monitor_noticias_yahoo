@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-08T01:28:22-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-08T08:55:00-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "El presupuesto de 2027 arriba al Congreso con respaldo garantizado del Partido Socialista",
+        "url": "https://es.finance.yahoo.com/noticias/presupuesto-2027-llega-parlamento-aprobaci%C3%B3n-131959912.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El OE2027 llega al Parlamento con viabilidad asegurada por el PS",
+        "capturado": "2026-10-08T08:55:00-05:00"
+      },
+      {
+        "titulo": "Un informe indica que la retención tributaria del sueldo promedio español rebasa el 53 por ciento",
+        "url": "https://es.finance.yahoo.com/noticias/instituto-juan-mariana-cifra-53-102746364.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "La carga fiscal sobre el salario medio en España ya supera el 53%, según un estudio",
+        "capturado": "2026-10-08T08:55:00-05:00"
+      },
+      {
+        "titulo": "Alemania incrementa su proyección de producto interno bruto al soportar el conflicto con Irán",
+        "url": "https://es.finance.yahoo.com/noticias/alemania-eleva-previsi%C3%B3n-pib-resistir-132612677.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Alemania eleva su previsión de PIB al resistir a la guerra de Irán",
+        "capturado": "2026-10-08T08:55:00-05:00"
+      },
+      {
+        "titulo": "Fondos cotizados y futuros accionarios caen en la preapertura del jueves y el crudo sube tras dichos de Trump",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-futuros-acciones-132300944.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa y los futuros de acciones bajan antes de la apertura del mercado el jueves, mientras que los precios del petróleo suben después de que Trump dijera que no quiere un acuerdo con Irán.",
+        "capturado": "2026-10-08T08:55:00-05:00"
+      },
+      {
+        "titulo": "Banco Mundial: Países del Golfo decrecen por el conflicto iraní a pesar de la subida petrolera",
+        "url": "https://es.finance.yahoo.com/noticias/banco-mundial-econom%C3%ADas-golfo-contraen-113731336.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Banco Mundial: Las economías del Golfo se contraen por la guerra en Irán pese al alza del petróleo",
+        "capturado": "2026-10-08T08:55:00-05:00"
+      },
+      {
+        "titulo": "Auditores advierten que endeudamiento de la UE llegaría a un billón de euros para 2027",
+        "url": "https://es.finance.yahoo.com/noticias/deuda-ue-llegar-1-bill%C3%B3n-111623158.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "La deuda de la UE podría alcanzar el billón de euros en 2027, alertan los auditores",
+        "capturado": "2026-10-08T08:55:00-05:00"
+      },
+      {
+        "titulo": "Futuros bursátiles en EE UU bajan previos a la apertura y petróleo sube por postura de Trump ante Irán",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-futuros-bolsa-estadounidense-caen-125416465.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los futuros de la bolsa estadounidense caen antes de la apertura, mientras que los precios del petróleo suben tras las declaraciones de Trump de que no quiere el acuerdo con Irán",
+        "capturado": "2026-10-08T08:55:00-05:00"
+      },
+      {
+        "titulo": "Futuros de acciones estadounidenses bajan antes de abrir y crudo sube tras rechazo de Trump a pacto con Irán",
+        "url": "https://es.finance.yahoo.com/noticias/futuros-acciones-estadounidenses-caen-apertura-120453995.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los futuros de las acciones estadounidenses caen antes de la apertura del mercado, mientras que los precios del petróleo suben después de que Trump dijera que no quiere un acuerdo con Irán.",
+        "capturado": "2026-10-08T08:55:00-05:00"
+      },
       {
         "titulo": "El paso por Ormuz toca su nivel más bajo en más de dos meses tras agresiones, según cifras",
         "url": "https://es.finance.yahoo.com/noticias/tr%C3%A1nsitos-ormuz-caen-m%C3%ADnimo-meses-061513478.html",
@@ -419,70 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "Carburantes en Italia: Acaban las rebajas fiscales, sube el diésel y el transporte amenaza con huelgas",
         "capturado": "2026-10-06T04:13:43-05:00"
-      },
-      {
-        "titulo": "Seúl señala indicios de uso de inteligencia artificial en ciberataques contra entidades bancarias",
-        "url": "https://es.finance.yahoo.com/noticias/corea-sur-usado-ia-ataques-065234669.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Corea del Sur dice que parece que se ha usado IA en ataques informáticos a bancos",
-        "capturado": "2026-10-06T04:13:43-05:00"
-      },
-      {
-        "titulo": "Baja significativa en órdenes de fábrica germanas debido a la falta de contratos grandes",
-        "url": "https://es.finance.yahoo.com/noticias/pedidos-industriales-alemanes-sufren-ca%C3%ADda-064138264.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Los pedidos industriales alemanes sufren una caída notable por la ausencia de grandes contratos",
-        "capturado": "2026-10-06T04:13:43-05:00"
-      },
-      {
-        "titulo": "EEUU extiende la exención de impuestos para el diésel bajo el mandato de Trump",
-        "url": "https://es.finance.yahoo.com/noticias/trump-ampl%C3%ADa-acceso-di%C3%A9sel-exento-063842014.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Trump amplía el acceso al diésel exento de impuestos en EEUU",
-        "capturado": "2026-10-06T04:13:43-05:00"
-      },
-      {
-        "titulo": "Orígenes, magnitud y amenaza europea de la crisis de deuda en territorio francés",
-        "url": "https://es.finance.yahoo.com/noticias/crisis-deuda-soberana-francia-explicada-060447838.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La tormenta de la deuda en Francia: causas, alcance y verdadero riesgo para Europa",
-        "capturado": "2026-10-06T04:13:43-05:00"
-      },
-      {
-        "titulo": "Frente al desplome de bonos galos, Le Pen planteará ajustes en el presupuesto",
-        "url": "https://es.finance.yahoo.com/noticias/pen-propondr%C3%A1-recortes-presupuestarios-desplome-054533297.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Le Pen propondrá recortes presupuestarios ante el desplome de los bonos franceses",
-        "capturado": "2026-10-06T04:13:43-05:00"
-      },
-      {
-        "titulo": "El índice Nasdaq llega a un pico récord y los títulos del Tesoro logran su marca más alta en veinte años",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndice-compuesto-nasdaq-alcanza-205144064.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: El índice compuesto Nasdaq alcanza un máximo histórico, mientras que los rendimientos de los bonos del Tesoro tocan su nivel más alto en dos décadas.",
-        "capturado": "2026-10-05T17:07:10-05:00"
-      },
-      {
-        "titulo": "Estados Unidos cede terreno en inteligencia artificial ante China y la brecha se sitúa actualmente en 3%",
-        "url": "https://es.finance.yahoo.com/noticias/eeuu-perdiendo-liderazgo-ia-frente-202300805.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿EEUU está perdiendo su liderazgo en IA frente a China? La diferencia es ahora del 3%",
-        "capturado": "2026-10-05T17:07:10-05:00"
-      },
-      {
-        "titulo": "Tres principales liberaciones de criptomonedas para la primera semana de octubre de 2026",
-        "url": "https://es.finance.yahoo.com/noticias/top-3-desbloqueos-tokens-1ra-185700526.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Top 3 desbloqueos de tokens: 1ra semana de octubre de 2026",
-        "capturado": "2026-10-05T17:07:10-05:00"
       }
     ]
   }
