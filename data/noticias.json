@@ -1,9 +1,57 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-08T14:40:49-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-10-08T19:09:20-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Amazon frena herramientas de compra con inteligencia artificial y explica las razones",
+        "url": "https://es.finance.yahoo.com/noticias/amazon-bloquea-agentes-compras-ia-231000410.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Amazon bloquea agentes de compras con IA: ¿Por qué?",
+        "capturado": "2026-10-08T19:09:20-05:00"
+      },
+      {
+        "titulo": "Méliuz frena operaciones con Bitcoin en su aplicación pero conserva reservas de BTC",
+        "url": "https://es.finance.yahoo.com/noticias/m%C3%A9liuz-cesa-compra-venta-bitcoin-213900172.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Méliuz cesa compra y venta de Bitcoin dentro de la app, pero mantiene su tesorería de BTC",
+        "capturado": "2026-10-08T19:09:20-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE UU bajan por desplome de tecnología debido a chips y salto del crudo",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-210851765.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen a medida que la venta masiva de semiconductores hunde al sector tecnológico y el petróleo crudo se dispara.",
+        "capturado": "2026-10-08T19:09:20-05:00"
+      },
+      {
+        "titulo": "Gobierno de EE UU habría vendido mil millones de dólares en criptomonedas Bitcoin",
+        "url": "https://es.finance.yahoo.com/noticias/gobierno-eeuu-vendi%C3%B3-1-mil-202100912.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿El gobierno de EEUU vendió $1 mil millones en Bitcoin?",
+        "capturado": "2026-10-08T19:09:20-05:00"
+      },
+      {
+        "titulo": "Taylor Farms parará despachos de lechuga de México por brote de parásitos Cyclospora",
+        "url": "https://es.finance.yahoo.com/noticias/taylor-farms-suspender%C3%A1-env%C3%ADos-lechuga-195905825.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Taylor Farms suspenderá envíos de lechuga mexicana tras brote de Cyclospora",
+        "capturado": "2026-10-08T19:09:20-05:00"
+      },
+      {
+        "titulo": "El interés hipotecario estadounidense a 30 años trepa al 7,40% y afectaría al sector inmobiliario",
+        "url": "https://es.finance.yahoo.com/noticias/tasa-hipotecaria-30-a%C3%B1os-eeuu-194251792.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "La tasa hipotecaria a 30 años de EEUU sube al 7,40%, y probablemente golpee a la vivienda",
+        "capturado": "2026-10-08T19:09:20-05:00"
+      },
       {
         "titulo": "España elimina el anonimato en cajeros cripto e incrementa la fiscalización de capitales",
         "url": "https://es.finance.yahoo.com/noticias/espa%C3%B1a-acaba-anonimato-cajeros-criptomonedas-190300625.html",
@@ -435,54 +483,6 @@
         "medio": "Bloomberg",
         "titulo_fuente": "Tráfico por estrecho de Magallanes sube más de 70% ante restricciones en Canal de Panamá",
         "capturado": "2026-10-06T16:06:50-05:00"
-      },
-      {
-        "titulo": "Brasil reduce su proyección de superávit comercial pese a los sólidos datos de septiembre",
-        "url": "https://es.finance.yahoo.com/noticias/brasil-rebaja-previsiones-super%C3%A1vit-comercial-182709035.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Brasil rebaja previsiones sobre superávit comercial a pesar de los buenos resultados de septiembre",
-        "capturado": "2026-10-06T16:06:50-05:00"
-      },
-      {
-        "titulo": "El avance de Bolsonaro señala un cambio comercial en materias primas",
-        "url": "https://es.finance.yahoo.com/noticias/ascenso-bolsonaro-apunta-giro-comercial-182301730.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Ascenso de Bolsonaro apunta a un giro comercial en materias primas",
-        "capturado": "2026-10-06T16:06:50-05:00"
-      },
-      {
-        "titulo": "Peter Brandt evalúa los gráficos de XRP, Monero y Solana",
-        "url": "https://es.finance.yahoo.com/noticias/peter-brandt-compara-xrp-monero-173700350.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Peter Brandt compara XRP, Monero y Solana: ¿Cuál tiene el mejor gráfico?",
-        "capturado": "2026-10-06T16:06:50-05:00"
-      },
-      {
-        "titulo": "Ventas externas de trigo blando europeo en ciclo 2026/27 crecen uno por ciento al 4 de octubre",
-        "url": "https://es.finance.yahoo.com/noticias/exportaciones-trigo-blando-ue-campa%C3%B1a-150212882.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Exportaciones de trigo blando de la UE en campaña 2026/27 suben 1% al 4 de octubre",
-        "capturado": "2026-10-06T11:07:43-05:00"
-      },
-      {
-        "titulo": "La AIE definirá la próxima semana los pormenores de la excarcelación de reservas de diésel",
-        "url": "https://es.finance.yahoo.com/noticias/aie-decidir%C3%A1-pr%C3%B3xima-semana-detalles-145632563.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "La AIE decidirá la próxima semana los detalles de la liberación de reservas de diésel",
-        "capturado": "2026-10-06T11:07:43-05:00"
-      },
-      {
-        "titulo": "Es Moonshot AI barata a 50 mil millones de dólares? Depende de la empresa con que se le compare",
-        "url": "https://es.finance.yahoo.com/noticias/moonshot-ai-barato-50-mil-144900645.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿Moonshot AI es barato a $50 mil millones? Depende con quién la compares",
-        "capturado": "2026-10-06T11:07:43-05:00"
       }
     ]
   }
