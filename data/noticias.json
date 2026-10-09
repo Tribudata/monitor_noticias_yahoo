@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-09T01:29:34-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-09T08:39:47-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Suben fondos y futuros de acciones previo al viernes por baja del crudo y revisión del espectro de SpaceX",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-futuros-acciones-132619969.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa y los futuros de acciones suben antes de la apertura del viernes ante la caída de los precios del petróleo; los operadores analizan el acuerdo de espectro radioeléctrico de SpaceX.",
+        "capturado": "2026-10-09T08:39:47-05:00"
+      },
+      {
+        "titulo": "OpenAI reduce en 20.000 millones su pronóstico de ingresos y estremece al mercado de la inteligencia artificial",
+        "url": "https://es.finance.yahoo.com/noticias/openai-revisa-baja-20-000-120817967.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "OpenAI rebaja en 20.000 millones de dólares su previsión de ingresos y sacude al sector de la IA",
+        "capturado": "2026-10-09T08:39:47-05:00"
+      },
+      {
+        "titulo": "Los futuros bursátiles de Estados Unidos ascienden antes de abrir mientras el mercado evalúa a OpenAI",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-futuros-acciones-estadounidenses-suben-130545660.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los futuros de las acciones estadounidenses suben antes de la apertura del mercado mientras los operadores evalúan las actualizaciones de ingresos de OpenAI.",
+        "capturado": "2026-10-09T08:39:47-05:00"
+      },
+      {
+        "titulo": "La Unión Europea pacta que la ESMA vigile los principales mercados financieros",
+        "url": "https://es.finance.yahoo.com/noticias/pa%C3%ADses-ue-acuerdan-pasar-supervisi%C3%B3n-103644687.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Los 27 acuerdan supervisar los grandes mercados financieros con la ESMA",
+        "capturado": "2026-10-09T08:39:47-05:00"
+      },
+      {
+        "titulo": "El petróleo retrocede tras declaraciones de Trump acerca de los diálogos con Irán",
+        "url": "https://es.finance.yahoo.com/noticias/crudo-baja-comentarios-trump-negociaciones-124121285.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Crudo baja tras comentarios de Trump sobre las negociaciones con Irán",
+        "capturado": "2026-10-09T08:39:47-05:00"
+      },
+      {
+        "titulo": "El Salón del Automóvil de París inicia el lunes con foco en electrificación y marcas chinas",
+        "url": "https://es.finance.yahoo.com/noticias/electrificaci%C3%B3n-avance-marcas-chinas-sal%C3%B3n-123305225.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Electrificación y avance de las marcas chinas: el Salón del Automóvil de París arranca el lunes",
+        "capturado": "2026-10-09T08:39:47-05:00"
+      },
+      {
+        "titulo": "Rhenus contempla hasta 14 terminales en el Corredor Medio según el grupo logístico alemán",
+        "url": "https://es.finance.yahoo.com/noticias/grupo-log%C3%ADstico-alem%C3%A1n-rhenus-prev%C3%A9-093641149.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El grupo logístico alemán Rhenus prevé hasta 14 terminales en el Corredor Medio",
+        "capturado": "2026-10-09T08:39:47-05:00"
+      },
+      {
+        "titulo": "Roban botellas valoradas en 6 millones de dólares al productor de vino toscano Antinori",
+        "url": "https://es.finance.yahoo.com/noticias/viticultor-toscano-antinori-sufre-robo-120448761.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "El viticultor toscano Antinori sufre robo de botellas por valor de 6 millones de dólares",
+        "capturado": "2026-10-09T08:39:47-05:00"
+      },
       {
         "titulo": "Fuentes indican que China volverá a vender combustible en octubre tras un breve freno",
         "url": "https://es.finance.yahoo.com/noticias/china-reanudar%C3%A1-exportaci%C3%B3n-combustible-octubre-061747704.html",
@@ -419,70 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "La jefa del FMI advierte que el choque energético y riesgos de la IA amenazan el crecimiento mundial",
         "capturado": "2026-10-07T01:52:46-05:00"
-      },
-      {
-        "titulo": "Gobierno francés arremete contra la propuesta presupuestaria alternativa de Marine Le Pen",
-        "url": "https://es.finance.yahoo.com/noticias/francia-gobierno-arremete-contrapresupuesto-marine-055622916.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Francia: El Gobierno arremete contra el contrapresupuesto de Marine Le Pen",
-        "capturado": "2026-10-07T01:52:46-05:00"
-      },
-      {
-        "titulo": "Baja de títulos no da espacio a Francia para fallas fiscales, afirma directivo de Citadel",
-        "url": "https://es.finance.yahoo.com/noticias/ca%C3%ADda-bonos-deja-margen-francia-060855301.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "La caída de los bonos no deja margen a Francia para errores fiscales, dice ejecutivo de Citadel",
-        "capturado": "2026-10-07T01:52:46-05:00"
-      },
-      {
-        "titulo": "UBS es la única entidad europea en el top 10 de uso de IA, liderada por JPMorgan Chase",
-        "url": "https://es.finance.yahoo.com/noticias/ubs-%C3%BAnico-banco-europeo-10-054547351.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "UBS, único banco europeo entre los 10 primeros en adopción de IA, con JPMorgan Chase en cabeza",
-        "capturado": "2026-10-07T01:52:46-05:00"
-      },
-      {
-        "titulo": "El FT señala que Bruselas analiza un tributo a las corporaciones tecnológicas",
-        "url": "https://es.finance.yahoo.com/noticias/bruselas-estudia-gravar-tecnol%C3%B3gicas-impuesto-055033882.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Bruselas estudia gravar a las tecnológicas con un impuesto a grandes corporaciones, según el FT",
-        "capturado": "2026-10-07T01:52:46-05:00"
-      },
-      {
-        "titulo": "La deuda francesa, la energía y las apuestas bajistas llevaron el euro a mínimos de 17 meses",
-        "url": "https://es.finance.yahoo.com/noticias/apuestas-r%C3%A9cord-euro-crisis-fiscal-045055836.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El euro tocó mínimos en 17 meses por la deuda francesa, los costes de la energía y las apuestas bajistas",
-        "capturado": "2026-10-07T01:52:46-05:00"
-      },
-      {
-        "titulo": "Comparativa de vivienda Madrid y América Latina: mayor valor monetario pero no salarial",
-        "url": "https://es.finance.yahoo.com/noticias/vivienda-madrid-frente-am%C3%A9rica-latina-035543379.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Vivienda en Madrid frente a América Latina: más cara en precio, no tanto en sueldos",
-        "capturado": "2026-10-07T01:52:46-05:00"
-      },
-      {
-        "titulo": "Hermanos Winklevoss preparan ETF de Zcash con costo diez veces menor al de Grayscale",
-        "url": "https://es.finance.yahoo.com/noticias/winklevoss-planean-etf-zcash-10x-231800602.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Los Winklevoss planean ETF de Zcash 10x más barato que Grayscale",
-        "capturado": "2026-10-06T19:54:32-05:00"
-      },
-      {
-        "titulo": "Mercados de predicción llegan a 188 mil millones de dólares con una empresa al mando",
-        "url": "https://es.finance.yahoo.com/noticias/mercados-predicci%C3%B3n-alcanzan-188-mil-214300943.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Los mercados de predicción alcanzan los $188 mil millones, y una empresa es la que domina",
-        "capturado": "2026-10-06T19:54:32-05:00"
       }
     ]
   }
