@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-09T14:16:55-05:00",
+  "actualizado": "2026-10-09T18:24:20-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Colombia sella nueve pactos mineros con capitales estimados en 16,8 millones de dólares",
+        "url": "https://es.finance.yahoo.com/noticias/colombia-firma-nueve-contratos-mineros-224048490.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Colombia firma nueve contratos mineros con inversiones proyectadas de 16,8 millones de dólares",
+        "capturado": "2026-10-09T18:24:20-05:00"
+      },
+      {
+        "titulo": "Top 3 razones detrás de la agresiva caída del mercado cripto: ¿Qué esperar ahora?",
+        "url": "https://es.finance.yahoo.com/noticias/top-3-razones-detr%C3%A1s-agresiva-221600774.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Top 3 razones detrás de la agresiva caída del mercado cripto: ¿Qué esperar ahora?",
+        "capturado": "2026-10-09T18:24:20-05:00"
+      },
+      {
+        "titulo": "El ETF con mejor rendimiento de 2026 sube 5,000%: ¿Qué sigue?",
+        "url": "https://es.finance.yahoo.com/noticias/etf-rendimiento-2026-sube-5-204800408.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "El ETF con mejor rendimiento de 2026 sube 5,000%: ¿Qué sigue?",
+        "capturado": "2026-10-09T18:24:20-05:00"
+      },
+      {
+        "titulo": "Actualización: Los índices bursátiles estadounidenses suben gracias al avance de las grandes tecnológicas en medio de un repunte generalizado del mercado.",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-203657402.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben gracias al avance de las grandes tecnológicas en medio de un repunte generalizado del mercado.",
+        "capturado": "2026-10-09T18:24:20-05:00"
+      },
+      {
+        "titulo": "Los índices bursátiles estadounidenses suben esta semana gracias a un repunte generalizado que ayuda a compensar las caídas del sector tecnológico, mientras que los rendimientos de los bonos del Tesoro se mantienen elevados.",
+        "url": "https://es.finance.yahoo.com/noticias/%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-semana-202315256.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los índices bursátiles estadounidenses suben esta semana gracias a un repunte generalizado que ayuda a compensar las caídas del sector tecnológico, mientras que los rendimientos de los bonos del Tesoro se mantienen elevados.",
+        "capturado": "2026-10-09T18:24:20-05:00"
+      },
+      {
+        "titulo": "El gobierno quita los gravámenes nacionales al combustible y extiende los auxilios a diesel y etanol",
+        "url": "https://es.finance.yahoo.com/noticias/gobierno-elimina-impuestos-federales-gasolina-200425717.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "El gobierno elimina los impuestos federales a la gasolina y amplía los subsidios para el diésel y el etanol",
+        "capturado": "2026-10-09T18:24:20-05:00"
+      },
+      {
+        "titulo": "Operador pierde 6.6 millones de dólares en BTC luego de adquirir una billetera Ledger nueva",
+        "url": "https://es.finance.yahoo.com/noticias/trader-pierde-6-6-millones-192300792.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Trader pierde $6.6 millones en BTC tras comprar un nuevo Ledger",
+        "capturado": "2026-10-09T18:24:20-05:00"
+      },
+      {
+        "titulo": "Un sismo severo golpea a Panamá y genera alarmas de maremoto",
+        "url": "https://es.finance.yahoo.com/noticias/panam%C3%A1-sufre-fuerte-terremoto-desencadena-190624109.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Panamá sufre fuerte un terremoto que desencadena alertas de tsunami",
+        "capturado": "2026-10-09T18:24:20-05:00"
+      },
       {
         "titulo": "Wall Street avanza impulsado por el repunte de las grandes tecnológicas",
         "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-181040479.html",
@@ -419,70 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "Esta acción de IA subió 600% en un año: superó a NVIDIA y Micron",
         "capturado": "2026-10-07T15:04:04-05:00"
-      },
-      {
-        "titulo": "Microsoft integra mayor inteligencia artificial en computadores para competir con Apple",
-        "url": "https://es.finance.yahoo.com/noticias/microsoft-incorpora-inteligencia-artificial-pc-183437458.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Microsoft incorpora más inteligencia artificial a los PC en su desafío a Apple",
-        "capturado": "2026-10-07T15:04:04-05:00"
-      },
-      {
-        "titulo": "Las actas de la Fed indican un nuevo incremento de tipos este año y solo Bitcoin reaccionó",
-        "url": "https://es.finance.yahoo.com/noticias/actas-fed-se%C3%B1alan-subida-tipos-180521024.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Las minutas de la Fed señalan otra subida de tasas este año: ¿por qué solo reaccionó Bitcoin?",
-        "capturado": "2026-10-07T15:04:04-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE. UU. descienden y bonos del Tesoro muestran datos variados previo a actas de la Fed",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-175755120.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen y los rendimientos de los bonos del Tesoro presentan resultados mixtos antes de la publicación de las actas de la Reserva Federal.",
-        "capturado": "2026-10-07T15:04:04-05:00"
-      },
-      {
-        "titulo": "Fondos de Ethereum muestran el retiro más alto en tres semanas ante persistente presión en la demanda",
-        "url": "https://es.finance.yahoo.com/noticias/etf-ethereum-registran-salida-3-173600962.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Los ETF de Ethereum registran la mayor salida en 3 semanas mientras la demanda sigue bajo presión",
-        "capturado": "2026-10-07T15:04:04-05:00"
-      },
-      {
-        "titulo": "Los fondos cotizados disminuyen conforme los títulos de Estados Unidos descienden tras el mediodía",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-bajan-medida-171013356.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa bajan a medida que las acciones estadounidenses caen después del mediodía.",
-        "capturado": "2026-10-07T15:04:04-05:00"
-      },
-      {
-        "titulo": "La petrolera argentina YPF comunica trato con Total Energies para abastecer combustible sostenible",
-        "url": "https://es.finance.yahoo.com/noticias/petrolera-argentina-ypf-anuncia-acuerdo-165503628.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Petrolera argentina YPF anuncia acuerdo con Total Energies para proveer SAF",
-        "capturado": "2026-10-07T15:04:04-05:00"
-      },
-      {
-        "titulo": "Las ventas mundiales de Mercedes retroceden 6% y los eléctricos logran récord",
-        "url": "https://es.finance.yahoo.com/noticias/ventas-globales-mercedes-caen-6-130554293.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Las ventas globales de Mercedes caen un 6% mientras los eléctricos marcan récord",
-        "capturado": "2026-10-07T09:14:17-05:00"
-      },
-      {
-        "titulo": "La Unión Europea busca bajar el déficit comercial con China en diálogos con Pekín",
-        "url": "https://es.finance.yahoo.com/noticias/ue-pretende-reducir-d%C3%A9ficit-comercial-133344167.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "La UE pretende reducir el déficit comercial con China en las negociaciones con Pekín",
-        "capturado": "2026-10-07T09:14:17-05:00"
       }
     ]
   }
