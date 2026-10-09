@@ -1,9 +1,49 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-08T19:09:20-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-10-09T01:29:34-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Fuentes indican que China volverá a vender combustible en octubre tras un breve freno",
+        "url": "https://es.finance.yahoo.com/noticias/china-reanudar%C3%A1-exportaci%C3%B3n-combustible-octubre-061747704.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "China reanudará la exportación de combustible en octubre tras una breve pausa, según fuentes",
+        "capturado": "2026-10-09T01:29:34-05:00"
+      },
+      {
+        "titulo": "Carros de origen chino multiplican por dos su cupo en el Salón de París y retan a los europeos",
+        "url": "https://es.finance.yahoo.com/noticias/autom%C3%B3viles-chinos-duplican-presencia-sal%C3%B3n-061637823.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Los automóviles chinos duplican su presencia en el Salón de París y desafían a los rivales europeos",
+        "capturado": "2026-10-09T01:29:34-05:00"
+      },
+      {
+        "titulo": "Modi busca que India encabece la época de la IA, mas los pobladores se resisten",
+        "url": "https://es.finance.yahoo.com/noticias/modi-india-lidere-ia-ciudadanos-061429624.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Modi quiere que India lidere la era de la IA, pero los ciudadanos se oponen",
+        "capturado": "2026-10-09T01:29:34-05:00"
+      },
+      {
+        "titulo": "QatarEnergy augura más GNL a principios de 2027 al tiempo que se habla de un crédito por 3.000 millones",
+        "url": "https://es.finance.yahoo.com/noticias/qatarenergy-prev%C3%A9-gnl-inicios-2027-055650654.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "QatarEnergy prevé más GNL a inicios de 2027 mientras se informa de un préstamo de 3.000 millones",
+        "capturado": "2026-10-09T01:29:34-05:00"
+      },
+      {
+        "titulo": "Bonos de la eurozona: ¿advierten una recesión al desacelerarse la expansión?",
+        "url": "https://es.finance.yahoo.com/noticias/mercados-bonos-zona-euro-avisan-054428802.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Mercados de bonos de la zona euro: ¿avisan de recesión al frenarse el crecimiento?",
+        "capturado": "2026-10-09T01:29:34-05:00"
+      },
       {
         "titulo": "Amazon frena herramientas de compra con inteligencia artificial y explica las razones",
         "url": "https://es.finance.yahoo.com/noticias/amazon-bloquea-agentes-compras-ia-231000410.html",
@@ -443,46 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "Los mercados de predicción alcanzan los $188 mil millones, y una empresa es la que domina",
         "capturado": "2026-10-06T19:54:32-05:00"
-      },
-      {
-        "titulo": "Venden clientes de Binance Ethereum para adquirir Bitcoin",
-        "url": "https://es.finance.yahoo.com/noticias/usuarios-binance-vendiendo-ethereum-comprar-202000038.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿Los usuarios de Binance están vendiendo Ethereum para comprar Bitcoin?",
-        "capturado": "2026-10-06T16:06:50-05:00"
-      },
-      {
-        "titulo": "Anec proyecta baja en ventas externas de soja y maíz brasileño en octubre",
-        "url": "https://es.finance.yahoo.com/noticias/anec-prev%C3%A9-descenso-exportaciones-soja-200314357.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Anec prevé descenso de exportaciones de soja y maíz de Brasil en octubre",
-        "capturado": "2026-10-06T16:06:50-05:00"
-      },
-      {
-        "titulo": "Anthropic ofrece sus IA más fuertes a un mayor número de grupos de seguridad",
-        "url": "https://es.finance.yahoo.com/noticias/anthropic-pone-modelos-ia-potentes-192411198.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Anthropic pone sus modelos de IA más potentes a disposición de más equipos de seguridad",
-        "capturado": "2026-10-06T16:06:50-05:00"
-      },
-      {
-        "titulo": "El identificador de ChatGPT arriba a la UE y OpenAI posee un detector listo",
-        "url": "https://es.finance.yahoo.com/noticias/marca-agua-chatgpt-llega-ue-185200747.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "La marca de agua de ChatGPT llega a la UE y OpenAI ya tiene un detector preparado",
-        "capturado": "2026-10-06T16:06:50-05:00"
-      },
-      {
-        "titulo": "Flujo por paso de Magallanes crece sobre 70 por ciento por límites en Canal de Panamá",
-        "url": "https://es.finance.yahoo.com/noticias/tr%C3%A1fico-estrecho-magallanes-sube-70-183636989.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Tráfico por estrecho de Magallanes sube más de 70% ante restricciones en Canal de Panamá",
-        "capturado": "2026-10-06T16:06:50-05:00"
       }
     ]
   }
