@@ -1,9 +1,33 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-09T21:33:57-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-10T04:29:16-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Ray Dalio avisa que lo peor en las acciones tal vez aún no llegue",
+        "url": "https://es.finance.yahoo.com/noticias/ray-dalio-advierte-peor-acciones-084700478.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Ray Dalio advierte que lo peor para las acciones podría estar por venir",
+        "capturado": "2026-10-10T04:29:16-05:00"
+      },
+      {
+        "titulo": "Remuneraciones de los profesores europeos: Cuales naciones pagan mas",
+        "url": "https://es.finance.yahoo.com/noticias/salarios-docentes-europa-pa%C3%ADses-pagan-045807399.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Salarios de los docentes en Europa: ¿Qué países pagan mejor?",
+        "capturado": "2026-10-10T04:29:16-05:00"
+      },
+      {
+        "titulo": "World of Warcraft Forever prefiere una velocidad mas lenta pues sus usuarios evitan la prisa",
+        "url": "https://es-us.noticias.yahoo.com/world-of-warcraft-forever-apuesta-211110279.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "World of Warcraft Forever apuesta por un ritmo más lento y pausado, porque sus jugadores rechazan a propósito la prisa constante de los juegos actuales",
+        "capturado": "2026-10-10T04:29:16-05:00"
+      },
       {
         "titulo": "Colombia sella nueve pactos mineros con capitales estimados en 16,8 millones de dólares",
         "url": "https://es.finance.yahoo.com/noticias/colombia-firma-nueve-contratos-mineros-224048490.html",
@@ -459,30 +483,6 @@
         "medio": "MT Newswires",
         "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen después de que las actas de la Reserva Federal revelaran una postura ligeramente restrictiva y un aumento en los costos de endeudamiento en la subasta de bonos del Tesoro.",
         "capturado": "2026-10-07T19:18:55-05:00"
-      },
-      {
-        "titulo": "El panorama de las transacciones con agentes de IA hacia 2026",
-        "url": "https://es.finance.yahoo.com/noticias/realidad-pagos-agentes-ia-2026-202000718.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "La realidad de los pagos con agentes de IA en 2026",
-        "capturado": "2026-10-07T19:18:55-05:00"
-      },
-      {
-        "titulo": "Trump afirma que al directorio del banco central estadounidense le agrada que la nación marche mal",
-        "url": "https://es.finance.yahoo.com/noticias/trump-junta-reserva-federal-gustar%C3%ADa-191529969.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Trump dice que a la Junta de la Reserva Federal le gustaría que al país le fuera mal",
-        "capturado": "2026-10-07T15:04:04-05:00"
-      },
-      {
-        "titulo": "Este título tecnológico de inteligencia artificial trepó 600 por ciento anual y venció a NVIDIA y Micron",
-        "url": "https://es.finance.yahoo.com/noticias/acci%C3%B3n-ia-subi%C3%B3-600-a%C3%B1o-185100771.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Esta acción de IA subió 600% en un año: superó a NVIDIA y Micron",
-        "capturado": "2026-10-07T15:04:04-05:00"
       }
     ]
   }
