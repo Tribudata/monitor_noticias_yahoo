@@ -1,9 +1,57 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-10T04:29:16-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-10T10:32:44-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Departamento de Justicia indagará otra vez a Binance: ¿Vienen nuevas sanciones?",
+        "url": "https://es.finance.yahoo.com/noticias/departamento-justicia-investigar%C3%A1-binance-avecinan-150900811.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Departamento de Justicia investigará de nuevo a Binance: ¿Se avecinan más multas?",
+        "capturado": "2026-10-10T10:32:44-05:00"
+      },
+      {
+        "titulo": "Gobierno irlandés en la UE busca bajar 8% el plan de presupuesto para 2028-2034",
+        "url": "https://es.finance.yahoo.com/noticias/presidencia-irlandesa-ue-recorte-8-130706346.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "La presidencia irlandesa de la UE quiere un recorte del 8% al proyecto de presupuesto para 2028-2034",
+        "capturado": "2026-10-10T10:32:44-05:00"
+      },
+      {
+        "titulo": "Venezuela aprueba a Starlink y finiquita el ciclo de tensiones entre Musk y Maduro",
+        "url": "https://es.finance.yahoo.com/noticias/venezuela-luz-verde-starlink-cierra-124500117.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Venezuela da luz verde a Starlink y cierra la era de la disputa Musk-Maduro",
+        "capturado": "2026-10-10T10:32:44-05:00"
+      },
+      {
+        "titulo": "La circulación de XRP estuvo cerca de afectarse por una falla de una década",
+        "url": "https://es.finance.yahoo.com/noticias/suministro-xrp-comprometido-bug-10-105800348.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "El suministro de XRP casi fue comprometido por un bug de 10 años",
+        "capturado": "2026-10-10T10:32:44-05:00"
+      },
+      {
+        "titulo": "CLERHP expone su Plan de Negocio 2026-28 proyectando 700 millones de euros y 225 de EBITDA",
+        "url": "https://es.finance.yahoo.com/noticias/clerhp-presenta-plan-negocio-2026-090000844.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "CLERHP presenta su Plan de Negocio 2026–28 con una previsión de 700 millones de euros en ingresos y 225 millones de EBITDA.",
+        "capturado": "2026-10-10T10:32:44-05:00"
+      },
+      {
+        "titulo": "Destinar recursos a seguridad informática: dos opciones para una tendencia gigante",
+        "url": "https://es.finance.yahoo.com/noticias/invertir-ciberseguridad-ideas-megatendencia-060000440.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "Invertir en ciberseguridad: dos ideas para una megatendencia",
+        "capturado": "2026-10-10T10:32:44-05:00"
+      },
       {
         "titulo": "Ray Dalio avisa que lo peor en las acciones tal vez aún no llegue",
         "url": "https://es.finance.yahoo.com/noticias/ray-dalio-advierte-peor-acciones-084700478.html",
@@ -435,54 +483,6 @@
         "medio": "MT Newswires",
         "titulo_fuente": "Los futuros de las acciones estadounidenses caen antes de la apertura del mercado, mientras que los precios del petróleo suben después de que Trump dijera que no quiere un acuerdo con Irán.",
         "capturado": "2026-10-08T08:55:00-05:00"
-      },
-      {
-        "titulo": "El paso por Ormuz toca su nivel más bajo en más de dos meses tras agresiones, según cifras",
-        "url": "https://es.finance.yahoo.com/noticias/tr%C3%A1nsitos-ormuz-caen-m%C3%ADnimo-meses-061513478.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Los tránsitos por Ormuz caen a su mínimo en más de dos meses tras ataques, según datos",
-        "capturado": "2026-10-08T01:28:22-05:00"
-      },
-      {
-        "titulo": "EEUU y Rusia discuten eventual inversión norteamericana en las tuberías Nord Stream",
-        "url": "https://es.finance.yahoo.com/noticias/washington-mosc%C3%BA-debaten-inversi%C3%B3n-eeuu-061356080.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Washington y Moscú debaten posible inversión de EEUU en los gasoductos Nord Stream",
-        "capturado": "2026-10-08T01:28:22-05:00"
-      },
-      {
-        "titulo": "Estiman descenso de sueldos reales en principales potencias de Europa, excepto Alemania",
-        "url": "https://es.finance.yahoo.com/noticias/prev%C3%A9-salarios-reales-caigan-econom%C3%ADas-045710722.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Se prevé que los salarios reales caigan en las grandes economías europeas, salvo en Alemania",
-        "capturado": "2026-10-08T01:28:22-05:00"
-      },
-      {
-        "titulo": "Directivo de Bitget opina sobre el robo de 387 millones de dólares: Es seguro el exchange",
-        "url": "https://es.finance.yahoo.com/noticias/ceo-bitget-habla-hack-387-231700129.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "CEO de Bitget habla sobre el hack de $387 millones: ¿Es seguro el exchange?",
-        "capturado": "2026-10-07T19:18:55-05:00"
-      },
-      {
-        "titulo": "Murieron los títulos de finca raíz en EE. UU.: Qué revelan los gráficos y los tipos",
-        "url": "https://es.finance.yahoo.com/noticias/muertas-acciones-inmobiliarias-estados-unidos-214400250.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿Están muertas las acciones inmobiliarias de Estados Unidos? Qué muestran los gráficos y las tasas",
-        "capturado": "2026-10-07T19:18:55-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE. UU. bajan tras minutas de la Fed y mayores costos de deuda en subasta",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-211427936.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen después de que las actas de la Reserva Federal revelaran una postura ligeramente restrictiva y un aumento en los costos de endeudamiento en la subasta de bonos del Tesoro.",
-        "capturado": "2026-10-07T19:18:55-05:00"
       }
     ]
   }
