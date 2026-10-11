@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-11T14:56:29-05:00",
+  "actualizado": "2026-10-11T18:30:20-05:00",
   "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Derrumbe en el yacimiento El Teniente de la firma Codelco deja tres empleados lesionados",
+        "url": "https://es.finance.yahoo.com/noticias/chilena-codelco-reporta-alud-mina-220433614.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Chilena Codelco reporta alud en mina El Teniente; tres trabajadores afectados",
+        "capturado": "2026-10-11T18:30:20-05:00"
+      },
       {
         "titulo": "Salón Mundial del Automóvil: Macron respalda la preferencia europea contra China",
         "url": "https://es.finance.yahoo.com/noticias/sal%C3%B3n-mundial-autom%C3%B3vil-macron-defiende-160317283.html",
@@ -474,14 +482,6 @@
         "resumen": "",
         "medio": "MT Newswires",
         "titulo_fuente": "Actualización: El sector tecnológico lidera las caídas de los índices bursátiles estadounidenses en medio del repunte del petróleo crudo.",
-        "capturado": "2026-10-08T14:40:49-05:00"
-      },
-      {
-        "titulo": "El Nasdaq baja más de 300 puntos tras quedar los ingresos de OpenAI 20 mil millones abajo de lo previsto",
-        "url": "https://es.finance.yahoo.com/noticias/nasdaq-cae-300-puntos-ingresos-174323294.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "El Nasdaq cae más de 300 puntos después de que los ingresos de OpenAI resultaran 20 mil millones de dólares por debajo de lo esperado",
         "capturado": "2026-10-08T14:40:49-05:00"
       }
     ]
