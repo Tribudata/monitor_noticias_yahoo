@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-11T10:52:33-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-10-11T14:56:29-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Salón Mundial del Automóvil: Macron respalda la preferencia europea contra China",
+        "url": "https://es.finance.yahoo.com/noticias/sal%C3%B3n-mundial-autom%C3%B3vil-macron-defiende-160317283.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Salón Mundial del Automóvil: Macron defiende la preferencia europea frente a China",
+        "capturado": "2026-10-11T14:56:29-05:00"
+      },
       {
         "titulo": "China crea red blockchain nacional y analiza la posición de Bitcoin",
         "url": "https://es.finance.yahoo.com/noticias/china-desarrolla-red-blockchain-nacional-112400372.html",
@@ -474,14 +482,6 @@
         "resumen": "",
         "medio": "BeInCrypto",
         "titulo_fuente": "El Nasdaq cae más de 300 puntos después de que los ingresos de OpenAI resultaran 20 mil millones de dólares por debajo de lo esperado",
-        "capturado": "2026-10-08T14:40:49-05:00"
-      },
-      {
-        "titulo": "Vitalik Buterin señala que la inteligencia artificial afectaría a las criptodivisas en un plazo de 2 años",
-        "url": "https://es.finance.yahoo.com/noticias/ia-da%C3%B1ar-criptomonedas-2-a%C3%B1os-174000007.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "La IA podría dañar las criptomonedas en 2 años, advierte Vitalik Buterin",
         "capturado": "2026-10-08T14:40:49-05:00"
       }
     ]
