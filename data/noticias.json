@@ -1,9 +1,65 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-11T04:10:14-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-11T10:52:33-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "China crea red blockchain nacional y analiza la posición de Bitcoin",
+        "url": "https://es.finance.yahoo.com/noticias/china-desarrolla-red-blockchain-nacional-112400372.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "China desarrolla red blockchain nacional: ¿Dónde encaja Bitcoin?",
+        "capturado": "2026-10-11T10:52:33-05:00"
+      },
+      {
+        "titulo": "Bitget transforma sus operaciones cripto institucionales de esta forma",
+        "url": "https://es.finance.yahoo.com/noticias/bitget-cambia-negocios-institucionales-criptomonedas-090200841.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Bitget cambia los negocios institucionales de criptomonedas: así es como",
+        "capturado": "2026-10-11T10:52:33-05:00"
+      },
+      {
+        "titulo": "Bank of America advierte que ahorradores guardan efectivo al nivel de la pandemia",
+        "url": "https://es.finance.yahoo.com/noticias/bank-of-america-alerta-inversores-052000652.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "Bank of America alerta: los inversores acumulan efectivo al mayor ritmo desde la pandemia",
+        "capturado": "2026-10-11T10:52:33-05:00"
+      },
+      {
+        "titulo": "Pautas para colocar capital en mercado volátil: renta fija, acciones, IA y refugios",
+        "url": "https://es.finance.yahoo.com/noticias/claves-invertir-mercado-incierto-renta-050000465.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "Claves para invertir en un mercado incierto: renta fija, Bolsa, IA y refugios para el ahorro",
+        "capturado": "2026-10-11T10:52:33-05:00"
+      },
+      {
+        "titulo": "Bancos frenan al Ibex y ponen en duda el éxito bursátil de 2026",
+        "url": "https://es.finance.yahoo.com/noticias/bancos-frenan-ibex-agotando-mejores-040000968.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "Los bancos frenan al Ibex: ¿se está agotando una de las mejores operaciones bursátiles de 2026?",
+        "capturado": "2026-10-11T10:52:33-05:00"
+      },
+      {
+        "titulo": "La inteligencia artificial requiere tecnología llevada al plano físico y no solo códigos",
+        "url": "https://es.finance.yahoo.com/noticias/inteligencia-artificial-necesita-algoritmos-necesita-040000003.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "La inteligencia artificial necesita algo más que algoritmos: necesita tecnología aplicada al mundo real",
+        "capturado": "2026-10-11T10:52:33-05:00"
+      },
+      {
+        "titulo": "Dead by Daylight cambiará la ropa de 2B por quejas de usuarios para ajustarse a NieR Automata",
+        "url": "https://es-us.noticias.yahoo.com/dead-by-daylight-modificar%C3%A1-atuendo-235150235.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Dead by Daylight modificará atuendo de 2B tras críticas de jugadores, para que sea más fiel al personaje original de NieR Automata",
+        "capturado": "2026-10-11T10:52:33-05:00"
+      },
       {
         "titulo": "Líder de la ESA expone estrategia de 10.000 millones para explorar el espacio ajeno a la NASA",
         "url": "https://es.finance.yahoo.com/noticias/director-general-revela-plan-10-050033656.html",
@@ -427,62 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "La IA podría dañar las criptomonedas en 2 años, advierte Vitalik Buterin",
         "capturado": "2026-10-08T14:40:49-05:00"
-      },
-      {
-        "titulo": "Trump asegura que Estados Unidos no agredirá a Irán previo a las elecciones legislativas de noviembre",
-        "url": "https://es.finance.yahoo.com/noticias/trump-ee-uu-atacar%C3%A1-ir%C3%A1n-173026248.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Trump dice que EE.UU. no atacará Irán antes de las elecciones legislativas de noviembre",
-        "capturado": "2026-10-08T14:40:49-05:00"
-      },
-      {
-        "titulo": "La Unión Europea discute sobre las difíciles condiciones de trabajo de los pescadores sin otra opción",
-        "url": "https://es.finance.yahoo.com/noticias/duras-condiciones-laborales-pescadores-debate-172411157.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Las duras condiciones laborales de los pescadores, a debate en la UE: \"No tenía otra opción\"",
-        "capturado": "2026-10-08T14:40:49-05:00"
-      },
-      {
-        "titulo": "Los fondos cotizados en bolsa descienden al caer los títulos valores de Estados Unidos tras el mediodía",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-caen-medida-171415084.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa caen a medida que las acciones estadounidenses bajan después del mediodía.",
-        "capturado": "2026-10-08T14:40:49-05:00"
-      },
-      {
-        "titulo": "El presupuesto de 2027 arriba al Congreso con respaldo garantizado del Partido Socialista",
-        "url": "https://es.finance.yahoo.com/noticias/presupuesto-2027-llega-parlamento-aprobaci%C3%B3n-131959912.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El OE2027 llega al Parlamento con viabilidad asegurada por el PS",
-        "capturado": "2026-10-08T08:55:00-05:00"
-      },
-      {
-        "titulo": "Un informe indica que la retención tributaria del sueldo promedio español rebasa el 53 por ciento",
-        "url": "https://es.finance.yahoo.com/noticias/instituto-juan-mariana-cifra-53-102746364.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La carga fiscal sobre el salario medio en España ya supera el 53%, según un estudio",
-        "capturado": "2026-10-08T08:55:00-05:00"
-      },
-      {
-        "titulo": "Alemania incrementa su proyección de producto interno bruto al soportar el conflicto con Irán",
-        "url": "https://es.finance.yahoo.com/noticias/alemania-eleva-previsi%C3%B3n-pib-resistir-132612677.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Alemania eleva su previsión de PIB al resistir a la guerra de Irán",
-        "capturado": "2026-10-08T08:55:00-05:00"
-      },
-      {
-        "titulo": "Fondos cotizados y futuros accionarios caen en la preapertura del jueves y el crudo sube tras dichos de Trump",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-futuros-acciones-132300944.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa y los futuros de acciones bajan antes de la apertura del mercado el jueves, mientras que los precios del petróleo suben después de que Trump dijera que no quiere un acuerdo con Irán.",
-        "capturado": "2026-10-08T08:55:00-05:00"
       }
     ]
   }
