@@ -1,9 +1,41 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-10T21:03:24-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-11T04:10:14-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Líder de la ESA expone estrategia de 10.000 millones para explorar el espacio ajeno a la NASA",
+        "url": "https://es.finance.yahoo.com/noticias/director-general-revela-plan-10-050033656.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El director general de la ESA revela plan de 10.000 millones para ir al espacio sin la NASA",
+        "capturado": "2026-10-11T04:10:14-05:00"
+      },
+      {
+        "titulo": "Exmandamás de PlayStation opta por títulos breves de alta calidad frente a aventuras de 100 horas",
+        "url": "https://es-us.noticias.yahoo.com/exjefe-playstation-prefiere-juegos-20-185439218.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Exjefe de PlayStation prefiere los “buenos juegos de 20 a 25 horas” antes que los de 100, porque en esos “no todas son horas de calidad”",
+        "capturado": "2026-10-11T04:10:14-05:00"
+      },
+      {
+        "titulo": "Consiguen correr el sistema de PlayStation 5 en ordenador para ejecutar sus títulos sin el aparato",
+        "url": "https://es-us.noticias.yahoo.com/logran-ejecutar-interfaz-playstation-5-153840656.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Logran ejecutar la interfaz de PlayStation 5 en un PC, el primer paso para jugar juegos de PS5 sin la consola",
+        "capturado": "2026-10-11T04:10:14-05:00"
+      },
+      {
+        "titulo": "Disfruta en la web más de 20 clásicos de PC y consola como Call of Duty Zombies, PES 6 y GTA Vice City",
+        "url": "https://es-us.noticias.yahoo.com/juega-gratis-navegador-20-cl%C3%A1sicos-141215170.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Juega gratis en el navegador más de 20 clásicos de PC y consola, como Call of Duty Zombies, PES 6, Counter-Strike 1.6 y GTA Vice City",
+        "capturado": "2026-10-11T04:10:14-05:00"
+      },
       {
         "titulo": "Departamento de Justicia indagará otra vez a Binance: ¿Vienen nuevas sanciones?",
         "url": "https://es.finance.yahoo.com/noticias/departamento-justicia-investigar%C3%A1-binance-avecinan-150900811.html",
@@ -450,38 +482,6 @@
         "resumen": "",
         "medio": "MT Newswires",
         "titulo_fuente": "Los fondos cotizados en bolsa y los futuros de acciones bajan antes de la apertura del mercado el jueves, mientras que los precios del petróleo suben después de que Trump dijera que no quiere un acuerdo con Irán.",
-        "capturado": "2026-10-08T08:55:00-05:00"
-      },
-      {
-        "titulo": "Banco Mundial: Países del Golfo decrecen por el conflicto iraní a pesar de la subida petrolera",
-        "url": "https://es.finance.yahoo.com/noticias/banco-mundial-econom%C3%ADas-golfo-contraen-113731336.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Banco Mundial: Las economías del Golfo se contraen por la guerra en Irán pese al alza del petróleo",
-        "capturado": "2026-10-08T08:55:00-05:00"
-      },
-      {
-        "titulo": "Auditores advierten que endeudamiento de la UE llegaría a un billón de euros para 2027",
-        "url": "https://es.finance.yahoo.com/noticias/deuda-ue-llegar-1-bill%C3%B3n-111623158.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La deuda de la UE podría alcanzar el billón de euros en 2027, alertan los auditores",
-        "capturado": "2026-10-08T08:55:00-05:00"
-      },
-      {
-        "titulo": "Futuros bursátiles en EE UU bajan previos a la apertura y petróleo sube por postura de Trump ante Irán",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-futuros-bolsa-estadounidense-caen-125416465.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los futuros de la bolsa estadounidense caen antes de la apertura, mientras que los precios del petróleo suben tras las declaraciones de Trump de que no quiere el acuerdo con Irán",
-        "capturado": "2026-10-08T08:55:00-05:00"
-      },
-      {
-        "titulo": "Futuros de acciones estadounidenses bajan antes de abrir y crudo sube tras rechazo de Trump a pacto con Irán",
-        "url": "https://es.finance.yahoo.com/noticias/futuros-acciones-estadounidenses-caen-apertura-120453995.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los futuros de las acciones estadounidenses caen antes de la apertura del mercado, mientras que los precios del petróleo suben después de que Trump dijera que no quiere un acuerdo con Irán.",
         "capturado": "2026-10-08T08:55:00-05:00"
       }
     ]
