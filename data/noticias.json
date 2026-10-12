@@ -1,9 +1,65 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-12T07:48:07-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-10-12T16:34:21-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Bolsas de EE UU mixtas por baja tecnológica y menor expectativa de cese al fuego energético tras ataques en Ucrania",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-205709844.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos, lastrados por las grandes empresas tecnológicas y debilitados los reivindicaciones de alto el fuego en el sector energético tras los ataques a activos energéticos en Ucrania.",
+        "capturado": "2026-10-12T16:34:21-05:00"
+      },
+      {
+        "titulo": "El clásico Citroën 2CV regresa convertido en vehículo eléctrico",
+        "url": "https://es.finance.yahoo.com/noticias/m%C3%ADtico-2cv-citro%C3%ABn-vuelve-versi%C3%B3n-183327421.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El mítico 2CV de Citroën vuelve en versión eléctrica",
+        "capturado": "2026-10-12T16:34:21-05:00"
+      },
+      {
+        "titulo": "Meta presenta la inteligencia artificial Muse Wonder para rivalizar con OpenAI y Anthropic",
+        "url": "https://es.finance.yahoo.com/noticias/meta-lanza-modelos-ia-muse-183046360.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Meta lanza los modelos de IA \"Muse Wonder\" para competir con Anthropic y OpenAI",
+        "capturado": "2026-10-12T16:34:21-05:00"
+      },
+      {
+        "titulo": "Los ETF bajan mientras los mercados de valores de EE UU operan de forma variada pasado el mediodía",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-caen-medida-171149542.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa caen a medida que las acciones estadounidenses muestran un comportamiento mixto tras el mediodía.",
+        "capturado": "2026-10-12T16:34:21-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE UU con comportamiento mixto: tecnología al frente de las caídas y tregua energética estancada",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-170341365.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos: el sector tecnológico lidera las pérdidas y el alto el fuego energético entre Ucrania y Rusia presenta dificultades.",
+        "capturado": "2026-10-12T16:34:21-05:00"
+      },
+      {
+        "titulo": "Trump respalda pacto petrolero con Rusia a pesar de los cuestionamientos de congresistas",
+        "url": "https://es.finance.yahoo.com/noticias/trump-defiende-acuerdo-di%C3%A9sel-rusia-160221857.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Trump defiende acuerdo sobre diésel con Rusia pese a críticas de legisladores de ambos partidos",
+        "capturado": "2026-10-12T16:34:21-05:00"
+      },
+      {
+        "titulo": "Piratas informáticos atacan plantas cárnicas en Francia y causan fuego y merma de víveres",
+        "url": "https://es.finance.yahoo.com/noticias/hackers-atacan-frigor%C3%ADficos-supermercados-franceses-145810465.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Hackers atacan frigoríficos de supermercados franceses, provocan incendios, pérdidas de alimentos",
+        "capturado": "2026-10-12T16:34:21-05:00"
+      },
       {
         "titulo": "Accionarios futuros de EE. UU. casi sin variaciones previo a apertura por semana de balances y cifras",
         "url": "https://es.finance.yahoo.com/noticias/futuros-acciones-estadounidenses-mantienen-pr%C3%A1cticamente-115637282.html",
@@ -427,62 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "Los 27 acuerdan supervisar los grandes mercados financieros con la ESMA",
         "capturado": "2026-10-09T08:39:47-05:00"
-      },
-      {
-        "titulo": "El petróleo retrocede tras declaraciones de Trump acerca de los diálogos con Irán",
-        "url": "https://es.finance.yahoo.com/noticias/crudo-baja-comentarios-trump-negociaciones-124121285.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Crudo baja tras comentarios de Trump sobre las negociaciones con Irán",
-        "capturado": "2026-10-09T08:39:47-05:00"
-      },
-      {
-        "titulo": "El Salón del Automóvil de París inicia el lunes con foco en electrificación y marcas chinas",
-        "url": "https://es.finance.yahoo.com/noticias/electrificaci%C3%B3n-avance-marcas-chinas-sal%C3%B3n-123305225.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Electrificación y avance de las marcas chinas: el Salón del Automóvil de París arranca el lunes",
-        "capturado": "2026-10-09T08:39:47-05:00"
-      },
-      {
-        "titulo": "Rhenus contempla hasta 14 terminales en el Corredor Medio según el grupo logístico alemán",
-        "url": "https://es.finance.yahoo.com/noticias/grupo-log%C3%ADstico-alem%C3%A1n-rhenus-prev%C3%A9-093641149.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El grupo logístico alemán Rhenus prevé hasta 14 terminales en el Corredor Medio",
-        "capturado": "2026-10-09T08:39:47-05:00"
-      },
-      {
-        "titulo": "Roban botellas valoradas en 6 millones de dólares al productor de vino toscano Antinori",
-        "url": "https://es.finance.yahoo.com/noticias/viticultor-toscano-antinori-sufre-robo-120448761.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "El viticultor toscano Antinori sufre robo de botellas por valor de 6 millones de dólares",
-        "capturado": "2026-10-09T08:39:47-05:00"
-      },
-      {
-        "titulo": "Fuentes indican que China volverá a vender combustible en octubre tras un breve freno",
-        "url": "https://es.finance.yahoo.com/noticias/china-reanudar%C3%A1-exportaci%C3%B3n-combustible-octubre-061747704.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "China reanudará la exportación de combustible en octubre tras una breve pausa, según fuentes",
-        "capturado": "2026-10-09T01:29:34-05:00"
-      },
-      {
-        "titulo": "Carros de origen chino multiplican por dos su cupo en el Salón de París y retan a los europeos",
-        "url": "https://es.finance.yahoo.com/noticias/autom%C3%B3viles-chinos-duplican-presencia-sal%C3%B3n-061637823.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Los automóviles chinos duplican su presencia en el Salón de París y desafían a los rivales europeos",
-        "capturado": "2026-10-09T01:29:34-05:00"
-      },
-      {
-        "titulo": "Modi busca que India encabece la época de la IA, mas los pobladores se resisten",
-        "url": "https://es.finance.yahoo.com/noticias/modi-india-lidere-ia-ciudadanos-061429624.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Modi quiere que India lidere la era de la IA, pero los ciudadanos se oponen",
-        "capturado": "2026-10-09T01:29:34-05:00"
       }
     ]
   }
