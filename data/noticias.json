@@ -1,9 +1,33 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-11T18:30:20-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-11T23:36:50-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Disminuyen valores del petróleo y avanzan mercados por alto al fuego energético de Trump",
+        "url": "https://es.finance.yahoo.com/noticias/bolsas-suben-petr%C3%B3leo-cae-alto-040541781.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Caen los precios del petróleo y suben las bolsas tras tregua energética de Trump",
+        "capturado": "2026-10-11T23:36:50-05:00"
+      },
+      {
+        "titulo": "Creador de la PlayStation cuestiona que la máquina se equiparó a un PC y fustiga el estancamiento",
+        "url": "https://es-us.noticias.yahoo.com/padre-playstation-critica-consola-volvi%C3%B3-160041108.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Padre de la PlayStation critica que la consola “se volvió igual que un PC” y asegura que la innovación se estancó tras su retiro",
+        "capturado": "2026-10-11T23:36:50-05:00"
+      },
+      {
+        "titulo": "PS5 hackeadas ya corren títulos de PS2 de discos originales sin soporte retroactivo oficial",
+        "url": "https://es-us.noticias.yahoo.com/playstation-5-desbloqueadas-ejecutar-juegos-135603572.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "PlayStation 5 desbloqueadas ahora pueden ejecutar juegos de PS2 desde el disco original, a pesar de no contar con retrocompatibilidad oficial",
+        "capturado": "2026-10-11T23:36:50-05:00"
+      },
       {
         "titulo": "Derrumbe en el yacimiento El Teniente de la firma Codelco deja tres empleados lesionados",
         "url": "https://es.finance.yahoo.com/noticias/chilena-codelco-reporta-alud-mina-220433614.html",
@@ -459,30 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "La tasa hipotecaria a 30 años de EEUU sube al 7,40%, y probablemente golpee a la vivienda",
         "capturado": "2026-10-08T19:09:20-05:00"
-      },
-      {
-        "titulo": "España elimina el anonimato en cajeros cripto e incrementa la fiscalización de capitales",
-        "url": "https://es.finance.yahoo.com/noticias/espa%C3%B1a-acaba-anonimato-cajeros-criptomonedas-190300625.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "España acaba con el anonimato en cajeros de criptomonedas y amplía el control de fondos",
-        "capturado": "2026-10-08T14:40:49-05:00"
-      },
-      {
-        "titulo": "Presidenta encargada anticipa un aumento del 6,5% en la economía venezolana para el tercer trimestre de 2026",
-        "url": "https://es.finance.yahoo.com/noticias/proyecta-crecimiento-6-5-econom%C3%ADa-184020373.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Se proyecta crecimiento de 6,5% de la economía de Venezuela en el tercer trimestre de 2026: Presidenta encargada",
-        "capturado": "2026-10-08T14:40:49-05:00"
-      },
-      {
-        "titulo": "El sector tecnológico encabeza los descensos en las bolsas de EE. UU. ante el alza del crudo",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-sector-tecnol%C3%B3gico-lidera-ca%C3%ADdas-183527276.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: El sector tecnológico lidera las caídas de los índices bursátiles estadounidenses en medio del repunte del petróleo crudo.",
-        "capturado": "2026-10-08T14:40:49-05:00"
       }
     ]
   }
