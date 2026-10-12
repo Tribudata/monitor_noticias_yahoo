@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-11T23:36:50-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-12T07:48:07-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Accionarios futuros de EE. UU. casi sin variaciones previo a apertura por semana de balances y cifras",
+        "url": "https://es.finance.yahoo.com/noticias/futuros-acciones-estadounidenses-mantienen-pr%C3%A1cticamente-115637282.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los futuros de las acciones estadounidenses se mantienen prácticamente estables antes de la apertura del mercado, previos a la semana de resultados empresariales y datos económicos.",
+        "capturado": "2026-10-12T07:48:07-05:00"
+      },
+      {
+        "titulo": "Noruega sanciona a Xandr de Microsoft con US$9,6 millones por transferir información de Grindr",
+        "url": "https://es.finance.yahoo.com/noticias/noruega-multa-xandr-microsoft-9-112305827.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Noruega multa a Xandr, de Microsoft, con 9,6 millones de dólares por ceder datos de Grindr",
+        "capturado": "2026-10-12T07:48:07-05:00"
+      },
+      {
+        "titulo": "Parlamentarios galos promueven gravamen de salida cripto de 800.000 euros y sanciones a wallets",
+        "url": "https://es.finance.yahoo.com/noticias/diputados-franceses-impulsan-tasa-salida-111954750.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Diputados franceses impulsan una tasa de salida a cripto de 800.000€ y multas a monederos no declaradas",
+        "capturado": "2026-10-12T07:48:07-05:00"
+      },
+      {
+        "titulo": "Thales establecerá la que sería primera base militar de soporte externa en territorio japonés",
+        "url": "https://es.finance.yahoo.com/noticias/thales-abrir%C3%A1-base-militar-mantenimiento-111914145.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Thales abrirá la posible primera base militar de mantenimiento extranjera en Japón",
+        "capturado": "2026-10-12T07:48:07-05:00"
+      },
+      {
+        "titulo": "Resultados, crudo y deuda presionan Wall Street antes de abrir; Asia mixta y Europa al alza",
+        "url": "https://es.finance.yahoo.com/noticias/temporada-ganancias-petr%C3%B3leo-bonos-presionan-110342200.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Temporada de ganancias, petróleo y bonos presionan a Wall Street antes de la apertura; Asia presenta resultados mixtos, Europa registra ganancias.",
+        "capturado": "2026-10-12T07:48:07-05:00"
+      },
+      {
+        "titulo": "Robert Hall y Michael Woodford obtienen el Nobel de Economía 2026 por sus investigaciones sobre crisis",
+        "url": "https://es.finance.yahoo.com/noticias/robert-hall-michael-woodford-ganan-105901557.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Robert Hall y Michael Woodford ganan el Nobel de Economía 2026 por sus estudios sobre las crisis económicas",
+        "capturado": "2026-10-12T07:48:07-05:00"
+      },
+      {
+        "titulo": "El máximo dirigente de Microsoft afirma que la leche posee más regulación que la inteligencia artificial",
+        "url": "https://es.finance.yahoo.com/noticias/presidente-microsoft-leche-regulada-ia-101556362.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "El presidente de Microsoft dice que la leche está más regulada que la IA",
+        "capturado": "2026-10-12T07:48:07-05:00"
+      },
+      {
+        "titulo": "Inversionistas de acciones en EE UU vigilarán resultados trimestrales, inflación y crudo esta semana",
+        "url": "https://es.finance.yahoo.com/noticias/inversores-renta-variable-estadounidense-estar%C3%A1n-100332533.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los inversores en renta variable estadounidense estarán atentos a los resultados del tercer trimestre, los datos de inflación de septiembre y la evolución del precio del petróleo crudo esta semana.",
+        "capturado": "2026-10-12T07:48:07-05:00"
+      },
       {
         "titulo": "Disminuyen valores del petróleo y avanzan mercados por alto al fuego energético de Trump",
         "url": "https://es.finance.yahoo.com/noticias/bolsas-suben-petr%C3%B3leo-cae-alto-040541781.html",
@@ -419,70 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Modi quiere que India lidere la era de la IA, pero los ciudadanos se oponen",
         "capturado": "2026-10-09T01:29:34-05:00"
-      },
-      {
-        "titulo": "QatarEnergy augura más GNL a principios de 2027 al tiempo que se habla de un crédito por 3.000 millones",
-        "url": "https://es.finance.yahoo.com/noticias/qatarenergy-prev%C3%A9-gnl-inicios-2027-055650654.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "QatarEnergy prevé más GNL a inicios de 2027 mientras se informa de un préstamo de 3.000 millones",
-        "capturado": "2026-10-09T01:29:34-05:00"
-      },
-      {
-        "titulo": "Bonos de la eurozona: ¿advierten una recesión al desacelerarse la expansión?",
-        "url": "https://es.finance.yahoo.com/noticias/mercados-bonos-zona-euro-avisan-054428802.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Mercados de bonos de la zona euro: ¿avisan de recesión al frenarse el crecimiento?",
-        "capturado": "2026-10-09T01:29:34-05:00"
-      },
-      {
-        "titulo": "Amazon frena herramientas de compra con inteligencia artificial y explica las razones",
-        "url": "https://es.finance.yahoo.com/noticias/amazon-bloquea-agentes-compras-ia-231000410.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Amazon bloquea agentes de compras con IA: ¿Por qué?",
-        "capturado": "2026-10-08T19:09:20-05:00"
-      },
-      {
-        "titulo": "Méliuz frena operaciones con Bitcoin en su aplicación pero conserva reservas de BTC",
-        "url": "https://es.finance.yahoo.com/noticias/m%C3%A9liuz-cesa-compra-venta-bitcoin-213900172.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Méliuz cesa compra y venta de Bitcoin dentro de la app, pero mantiene su tesorería de BTC",
-        "capturado": "2026-10-08T19:09:20-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE UU bajan por desplome de tecnología debido a chips y salto del crudo",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-210851765.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen a medida que la venta masiva de semiconductores hunde al sector tecnológico y el petróleo crudo se dispara.",
-        "capturado": "2026-10-08T19:09:20-05:00"
-      },
-      {
-        "titulo": "Gobierno de EE UU habría vendido mil millones de dólares en criptomonedas Bitcoin",
-        "url": "https://es.finance.yahoo.com/noticias/gobierno-eeuu-vendi%C3%B3-1-mil-202100912.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿El gobierno de EEUU vendió $1 mil millones en Bitcoin?",
-        "capturado": "2026-10-08T19:09:20-05:00"
-      },
-      {
-        "titulo": "Taylor Farms parará despachos de lechuga de México por brote de parásitos Cyclospora",
-        "url": "https://es.finance.yahoo.com/noticias/taylor-farms-suspender%C3%A1-env%C3%ADos-lechuga-195905825.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Taylor Farms suspenderá envíos de lechuga mexicana tras brote de Cyclospora",
-        "capturado": "2026-10-08T19:09:20-05:00"
-      },
-      {
-        "titulo": "El interés hipotecario estadounidense a 30 años trepa al 7,40% y afectaría al sector inmobiliario",
-        "url": "https://es.finance.yahoo.com/noticias/tasa-hipotecaria-30-a%C3%B1os-eeuu-194251792.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "La tasa hipotecaria a 30 años de EEUU sube al 7,40%, y probablemente golpee a la vivienda",
-        "capturado": "2026-10-08T19:09:20-05:00"
       }
     ]
   }
