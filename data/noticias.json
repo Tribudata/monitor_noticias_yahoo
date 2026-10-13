@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-13T05:08:58-05:00",
+  "actualizado": "2026-10-13T12:43:10-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Los ETF descienden mientras los títulos valores de Estados Unidos retroceden pasada la media jornada",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-bajan-medida-172017933.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa bajan a medida que las acciones estadounidenses caen después del mediodía.",
+        "capturado": "2026-10-13T12:43:10-05:00"
+      },
+      {
+        "titulo": "Europa persigue autonomía en satélites y afronta el recorte presupuestario espacial de la UE",
+        "url": "https://es.finance.yahoo.com/noticias/europa-busca-soberan%C3%ADa-satelital-enfrenta-162219260.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Europa busca soberanía satelital y se enfrenta al cierre del presupuesto espacial de la UE",
+        "capturado": "2026-10-13T12:43:10-05:00"
+      },
+      {
+        "titulo": "Las plazas de Argentina retoman operaciones al alza ante la expectativa por el IPC",
+        "url": "https://es.finance.yahoo.com/noticias/mercados-argentinos-reanudan-operatoria-alza-161617098.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Mercados argentinos reanudan operatoria en alza, expectación por inflación",
+        "capturado": "2026-10-13T12:43:10-05:00"
+      },
+      {
+        "titulo": "Brasil presenta proyecto legal para perdonar 2500 millones de dólares en deudas a microempresarios",
+        "url": "https://es.finance.yahoo.com/noticias/brasil-anuncia-proyecto-ley-condonar-152917354.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Brasil anuncia proyecto de ley para condonar deuda de 2.500 millones de dólares a microempresarios",
+        "capturado": "2026-10-13T12:43:10-05:00"
+      },
+      {
+        "titulo": "Cierre de terminales marítimas recortará ventas externas de maíz ucraniano a 19 millones de tn en 2026/27",
+        "url": "https://es.finance.yahoo.com/noticias/bloqueo-puertos-mar%C3%ADtimos-limitar%C3%A1-exportaciones-150923065.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Bloqueo puertos marítimos limitará exportaciones maíz Ucrania en campaña 2026/27 a 19 million tn: agricultores",
+        "capturado": "2026-10-13T12:43:10-05:00"
+      },
+      {
+        "titulo": "Apple da a conocer aparatos hogareños y revela edición renovada de la inteligencia artificial de Siri",
+        "url": "https://es.finance.yahoo.com/noticias/apple-presenta-productos-hogar-muestra-143708308.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Apple presenta nuevos productos para el hogar y muestra versión actualizada de la IA de Siri",
+        "capturado": "2026-10-13T12:43:10-05:00"
+      },
+      {
+        "titulo": "Entidades bancarias estadounidenses optimizan sus ganancias mas amenazas financieras ensombrecen el porvenir",
+        "url": "https://es.finance.yahoo.com/noticias/bancos-ee-uu-mejoran-resultados-142223526.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Bancos de EE.UU. mejoran sus resultados, pero los riesgos económicos nublan el futuro del sector",
+        "capturado": "2026-10-13T12:43:10-05:00"
+      },
+      {
+        "titulo": "Compraventa de viviendas usadas en Estados Unidos crece en septiembre; incremento en créditos empaña panorama",
+        "url": "https://es.finance.yahoo.com/noticias/venta-casas-usadas-eeuu-sube-141841505.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Venta de casas usadas en EEUU sube en septiembre; alza de tasas hipotecarias empaña perspectivas",
+        "capturado": "2026-10-13T12:43:10-05:00"
+      },
       {
         "titulo": "Filosa de Stellantis advierte sobre exceso de capacidad en Europa y busca pactos para impedir clausuras",
         "url": "https://es.finance.yahoo.com/noticias/stellantis-filosa-demasiada-capacidad-productiva-094419907.html",
@@ -419,70 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "El ETF con mejor rendimiento de 2026 sube 5,000%: ¿Qué sigue?",
         "capturado": "2026-10-09T18:24:20-05:00"
-      },
-      {
-        "titulo": "Actualización: Los índices bursátiles estadounidenses suben gracias al avance de las grandes tecnológicas en medio de un repunte generalizado del mercado.",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-203657402.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben gracias al avance de las grandes tecnológicas en medio de un repunte generalizado del mercado.",
-        "capturado": "2026-10-09T18:24:20-05:00"
-      },
-      {
-        "titulo": "Los índices bursátiles estadounidenses suben esta semana gracias a un repunte generalizado que ayuda a compensar las caídas del sector tecnológico, mientras que los rendimientos de los bonos del Tesoro se mantienen elevados.",
-        "url": "https://es.finance.yahoo.com/noticias/%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-semana-202315256.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los índices bursátiles estadounidenses suben esta semana gracias a un repunte generalizado que ayuda a compensar las caídas del sector tecnológico, mientras que los rendimientos de los bonos del Tesoro se mantienen elevados.",
-        "capturado": "2026-10-09T18:24:20-05:00"
-      },
-      {
-        "titulo": "El gobierno quita los gravámenes nacionales al combustible y extiende los auxilios a diesel y etanol",
-        "url": "https://es.finance.yahoo.com/noticias/gobierno-elimina-impuestos-federales-gasolina-200425717.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "El gobierno elimina los impuestos federales a la gasolina y amplía los subsidios para el diésel y el etanol",
-        "capturado": "2026-10-09T18:24:20-05:00"
-      },
-      {
-        "titulo": "Operador pierde 6.6 millones de dólares en BTC luego de adquirir una billetera Ledger nueva",
-        "url": "https://es.finance.yahoo.com/noticias/trader-pierde-6-6-millones-192300792.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Trader pierde $6.6 millones en BTC tras comprar un nuevo Ledger",
-        "capturado": "2026-10-09T18:24:20-05:00"
-      },
-      {
-        "titulo": "Un sismo severo golpea a Panamá y genera alarmas de maremoto",
-        "url": "https://es.finance.yahoo.com/noticias/panam%C3%A1-sufre-fuerte-terremoto-desencadena-190624109.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Panamá sufre fuerte un terremoto que desencadena alertas de tsunami",
-        "capturado": "2026-10-09T18:24:20-05:00"
-      },
-      {
-        "titulo": "Wall Street avanza impulsado por el repunte de las grandes tecnológicas",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-181040479.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben en medio de fuertes ganancias en las grandes tecnológicas.",
-        "capturado": "2026-10-09T14:16:55-05:00"
-      },
-      {
-        "titulo": "Títulos de NVIDIA reciben alerta clave: se desacelera la apuesta por la IA",
-        "url": "https://es.finance.yahoo.com/noticias/acciones-nvidia-enfrentan-se%C3%B1al-advertencia-175500919.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Acciones de NVIDIA enfrentan señal de advertencia crítica: ¿Se está frenando el trade de IA?",
-        "capturado": "2026-10-09T14:16:55-05:00"
-      },
-      {
-        "titulo": "Mandatario estadounidense presiona a México por pactos energéticos en charlas: FT",
-        "url": "https://es.finance.yahoo.com/noticias/presidente-eeuu-presiona-m%C3%A9xico-acuerdos-175138826.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Presidente de EEUU presiona a México por acuerdos energéticos en conversaciones comerciales: FT",
-        "capturado": "2026-10-09T14:16:55-05:00"
       }
     ]
   }
