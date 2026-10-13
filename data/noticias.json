@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-12T16:34:21-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-10-12T21:51:11-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Indra, Acciona Energías y Cellnex impulsan al Ibex 35 de regreso a los 19.200 puntos",
+        "url": "https://es.finance.yahoo.com/noticias/ibex-35-vuelve-19-200-154000275.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "El Ibex 35 vuelve a los 19.200 puntos de la mano de Indra, Acciona Energías y Cellnex",
+        "capturado": "2026-10-12T21:51:11-05:00"
+      },
       {
         "titulo": "Bolsas de EE UU mixtas por baja tecnológica y menor expectativa de cese al fuego energético tras ataques en Ucrania",
         "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-205709844.html",
@@ -474,14 +482,6 @@
         "resumen": "",
         "medio": "MT Newswires",
         "titulo_fuente": "Actualización: Los futuros de las acciones estadounidenses suben antes de la apertura del mercado mientras los operadores evalúan las actualizaciones de ingresos de OpenAI.",
-        "capturado": "2026-10-09T08:39:47-05:00"
-      },
-      {
-        "titulo": "La Unión Europea pacta que la ESMA vigile los principales mercados financieros",
-        "url": "https://es.finance.yahoo.com/noticias/pa%C3%ADses-ue-acuerdan-pasar-supervisi%C3%B3n-103644687.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Los 27 acuerdan supervisar los grandes mercados financieros con la ESMA",
         "capturado": "2026-10-09T08:39:47-05:00"
       }
     ]
