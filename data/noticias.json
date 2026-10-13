@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-12T21:51:11-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-13T05:08:58-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Filosa de Stellantis advierte sobre exceso de capacidad en Europa y busca pactos para impedir clausuras",
+        "url": "https://es.finance.yahoo.com/noticias/stellantis-filosa-demasiada-capacidad-productiva-094419907.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Stellantis, Filosa: demasiada capacidad productiva en Europa, acuerdos para evitar cierres",
+        "capturado": "2026-10-13T05:08:58-05:00"
+      },
+      {
+        "titulo": "El token Starknet sufre caída cercana al 28% y registra el peor desempeño dentro de las 300 principales",
+        "url": "https://es.finance.yahoo.com/noticias/starknet-desploma-28-convierte-token-091400688.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Starknet se desploma casi 28% y se convierte en el token con peor rendimiento en el top 300",
+        "capturado": "2026-10-13T05:08:58-05:00"
+      },
+      {
+        "titulo": "LVMH incumple pronósticos de ventas por menor demanda de artículos de lujo en el mercado chino",
+        "url": "https://es.finance.yahoo.com/noticias/lvmh-queda-corta-ventas-frente-084222007.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "LVMH se queda corta en ventas frente a previsiones por la desaceleración de compras de lujo en China",
+        "capturado": "2026-10-13T05:08:58-05:00"
+      },
+      {
+        "titulo": "Citi da a conocer los requisitos para que el índice S&P 500 llegue a las 8.100 unidades",
+        "url": "https://es.finance.yahoo.com/noticias/citi-revela-necesita-s-p-075200266.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Citi revela qué necesita el S&P 500 para alcanzar los 8,100",
+        "capturado": "2026-10-13T05:08:58-05:00"
+      },
+      {
+        "titulo": "FMI anticipa expansión global de 3,1% para 2026 y de 1,1% en la zona euro",
+        "url": "https://es.finance.yahoo.com/noticias/fmi-prev%C3%A9-crecimiento-mundial-3-025053918.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El FMI prevé un crecimiento mundial del 3,1% en 2026 y del 1,1% en la eurozona",
+        "capturado": "2026-10-13T05:08:58-05:00"
+      },
+      {
+        "titulo": "Francia reducirá hasta 18 céntimos el litro de diésel para suavizar el impacto de los precios históricos",
+        "url": "https://es.finance.yahoo.com/noticias/carburantes-s%C3%A9bastien-lecornu-promete-rebaja-064519162.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Francia rebajará hasta 18 céntimos el litro de gasóleo para aliviar el golpe de los precios récord",
+        "capturado": "2026-10-13T05:08:58-05:00"
+      },
+      {
+        "titulo": "FMI: El gasto en inteligencia artificial dinamiza la expansión mundial, mas el conflicto y la deuda traen peligros",
+        "url": "https://es.finance.yahoo.com/noticias/fmi-inversi%C3%B3n-ia-impulsa-crecimiento-061920096.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "FMI: La inversión en IA impulsa el crecimiento global, pero la guerra y la deuda plantean riesgos",
+        "capturado": "2026-10-13T05:08:58-05:00"
+      },
+      {
+        "titulo": "Las entidades de control aumentan la vigilancia de la inteligencia artificial en el sector financiero por miedo a hackeos",
+        "url": "https://es.finance.yahoo.com/noticias/reguladores-refuerzan-controles-ia-banca-061834113.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Los reguladores refuerzan los controles de la IA en la banca ante el temor a ciberataques",
+        "capturado": "2026-10-13T05:08:58-05:00"
+      },
       {
         "titulo": "Indra, Acciona Energías y Cellnex impulsan al Ibex 35 de regreso a los 19.200 puntos",
         "url": "https://es.finance.yahoo.com/noticias/ibex-35-vuelve-19-200-154000275.html",
@@ -419,70 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Presidente de EEUU presiona a México por acuerdos energéticos en conversaciones comerciales: FT",
         "capturado": "2026-10-09T14:16:55-05:00"
-      },
-      {
-        "titulo": "Ciclón Isaías llega a nivel 3 y pone en riesgo la costa del Golfo estadounidense",
-        "url": "https://es.finance.yahoo.com/noticias/hurac%C3%A1n-isa%C3%ADas-alcanza-categor%C3%ADa-3-173753381.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Huracán Isaías alcanza categoría 3 y amenaza la costa del Golfo de EE.UU.",
-        "capturado": "2026-10-09T14:16:55-05:00"
-      },
-      {
-        "titulo": "Netflix planea recortar cerca del 5% de su personal, de acuerdo con Puck",
-        "url": "https://es.finance.yahoo.com/noticias/netflix-prev%C3%A9-reducir-5-fuerza-172526016.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Netflix prevé reducir alrededor del 5% de su fuerza laboral, según Puck",
-        "capturado": "2026-10-09T14:16:55-05:00"
-      },
-      {
-        "titulo": "Brasil extiende medidas de alivio en combustibles previo a la segunda vuelta",
-        "url": "https://es.finance.yahoo.com/noticias/brasil-prorroga-medidas-alivio-combustibles-172018904.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Brasil prorroga medidas de alivio sobre combustibles antes de la segunda vuelta electoral",
-        "capturado": "2026-10-09T14:16:55-05:00"
-      },
-      {
-        "titulo": "Fondos cotizados en bolsa trepan mientras papeles de EE. UU. suben tras el mediodía",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-suben-medida-171521334.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa suben a medida que las acciones estadounidenses avanzan después del mediodía.",
-        "capturado": "2026-10-09T14:16:55-05:00"
-      },
-      {
-        "titulo": "Cosecha nacional de café crece en septiembre",
-        "url": "https://es.finance.yahoo.com/noticias/producci%C3%B3n-colombiana-caf%C3%A9-sube-septiembre-164735951.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Producción colombiana de café sube en septiembre",
-        "capturado": "2026-10-09T14:16:55-05:00"
-      },
-      {
-        "titulo": "Suben fondos y futuros de acciones previo al viernes por baja del crudo y revisión del espectro de SpaceX",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-futuros-acciones-132619969.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa y los futuros de acciones suben antes de la apertura del viernes ante la caída de los precios del petróleo; los operadores analizan el acuerdo de espectro radioeléctrico de SpaceX.",
-        "capturado": "2026-10-09T08:39:47-05:00"
-      },
-      {
-        "titulo": "OpenAI reduce en 20.000 millones su pronóstico de ingresos y estremece al mercado de la inteligencia artificial",
-        "url": "https://es.finance.yahoo.com/noticias/openai-revisa-baja-20-000-120817967.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "OpenAI rebaja en 20.000 millones de dólares su previsión de ingresos y sacude al sector de la IA",
-        "capturado": "2026-10-09T08:39:47-05:00"
-      },
-      {
-        "titulo": "Los futuros bursátiles de Estados Unidos ascienden antes de abrir mientras el mercado evalúa a OpenAI",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-futuros-acciones-estadounidenses-suben-130545660.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los futuros de las acciones estadounidenses suben antes de la apertura del mercado mientras los operadores evalúan las actualizaciones de ingresos de OpenAI.",
-        "capturado": "2026-10-09T08:39:47-05:00"
       }
     ]
   }
