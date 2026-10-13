@@ -1,9 +1,49 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-13T12:43:10-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-10-13T17:20:37-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Bolsas de EE. UU. retroceden porque grandes bancos no animan el riesgo antes de inflación de septiembre",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-205607443.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen ante la falta de resultados de los grandes bancos para impulsar el apetito por el riesgo antes de la publicación del dato de inflación de septiembre.",
+        "capturado": "2026-10-13T17:20:37-05:00"
+      },
+      {
+        "titulo": "Firma petrolera de EE. UU. NABEP anuncia recepción de dos equipos de perforación en Venezuela",
+        "url": "https://es.finance.yahoo.com/noticias/petrolera-estadounidense-nabep-recibi%C3%B3-taladros-204308498.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Petrolera estadounidense NABEP dice que recibió dos taladros en Venezuela",
+        "capturado": "2026-10-13T17:20:37-05:00"
+      },
+      {
+        "titulo": "Fuentes señalan que México dará luz verde a la integración de Viva y Volaris previo a terminar el año",
+        "url": "https://es.finance.yahoo.com/noticias/m%C3%A9xico-aprobar%C3%A1-fusi%C3%B3n-viva-volaris-111504791.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "México aprobará la fusión Viva-Volaris antes de fin de año: fuentes",
+        "capturado": "2026-10-13T17:20:37-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE. UU. bajan por caídas tecnológicas y balances diversos en entidades bancarias mayores",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-174932714.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen en medio de descensos en el sector tecnológico y resultados mixtos en las grandes empresas bancarias.",
+        "capturado": "2026-10-13T17:20:37-05:00"
+      },
+      {
+        "titulo": "Ibex 35 desciende al borde de los 19.200 enteros presionado por caídas de ACS y Grifols",
+        "url": "https://es.finance.yahoo.com/noticias/ibex-35-cae-filo-19-154000735.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "El Ibex 35 cae hasta el filo de los 19.200 puntos arrastrado por los castigos a ACS y Grifols",
+        "capturado": "2026-10-13T17:20:37-05:00"
+      },
       {
         "titulo": "Los ETF descienden mientras los títulos valores de Estados Unidos retroceden pasada la media jornada",
         "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-bajan-medida-172017933.html",
@@ -443,46 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "Ray Dalio advierte que lo peor para las acciones podría estar por venir",
         "capturado": "2026-10-10T04:29:16-05:00"
-      },
-      {
-        "titulo": "Remuneraciones de los profesores europeos: Cuales naciones pagan mas",
-        "url": "https://es.finance.yahoo.com/noticias/salarios-docentes-europa-pa%C3%ADses-pagan-045807399.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Salarios de los docentes en Europa: ¿Qué países pagan mejor?",
-        "capturado": "2026-10-10T04:29:16-05:00"
-      },
-      {
-        "titulo": "World of Warcraft Forever prefiere una velocidad mas lenta pues sus usuarios evitan la prisa",
-        "url": "https://es-us.noticias.yahoo.com/world-of-warcraft-forever-apuesta-211110279.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "World of Warcraft Forever apuesta por un ritmo más lento y pausado, porque sus jugadores rechazan a propósito la prisa constante de los juegos actuales",
-        "capturado": "2026-10-10T04:29:16-05:00"
-      },
-      {
-        "titulo": "Colombia sella nueve pactos mineros con capitales estimados en 16,8 millones de dólares",
-        "url": "https://es.finance.yahoo.com/noticias/colombia-firma-nueve-contratos-mineros-224048490.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Colombia firma nueve contratos mineros con inversiones proyectadas de 16,8 millones de dólares",
-        "capturado": "2026-10-09T18:24:20-05:00"
-      },
-      {
-        "titulo": "Top 3 razones detrás de la agresiva caída del mercado cripto: ¿Qué esperar ahora?",
-        "url": "https://es.finance.yahoo.com/noticias/top-3-razones-detr%C3%A1s-agresiva-221600774.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Top 3 razones detrás de la agresiva caída del mercado cripto: ¿Qué esperar ahora?",
-        "capturado": "2026-10-09T18:24:20-05:00"
-      },
-      {
-        "titulo": "El ETF con mejor rendimiento de 2026 sube 5,000%: ¿Qué sigue?",
-        "url": "https://es.finance.yahoo.com/noticias/etf-rendimiento-2026-sube-5-204800408.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "El ETF con mejor rendimiento de 2026 sube 5,000%: ¿Qué sigue?",
-        "capturado": "2026-10-09T18:24:20-05:00"
       }
     ]
   }
