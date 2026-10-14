@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-14T01:30:28-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-14T07:40:06-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "El Kremlin señala que el pacto sobre el diésel facilita un mayor entendimiento entre Moscú y Washington",
+        "url": "https://es.finance.yahoo.com/noticias/acuerdo-di%C3%A9sel-abre-v%C3%ADa-cooperaci%C3%B3n-122853819.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "El acuerdo sobre el diésel abre la vía a una mayor cooperación entre Rusia y EEUU, según el Kremlin",
+        "capturado": "2026-10-14T07:40:06-05:00"
+      },
+      {
+        "titulo": "La AIE avisa de futuros incrementos del gasóleo en suelo europeo a corto plazo",
+        "url": "https://es.finance.yahoo.com/noticias/aie-advierte-precios-di%C3%A9sel-europa-113857538.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "La AIE advierte de nuevas subidas del gasóleo en Europa en las próximas semanas",
+        "capturado": "2026-10-14T07:40:06-05:00"
+      },
+      {
+        "titulo": "Fuentes indican que instalaciones de Saudi Aramco sufrieron graves afectaciones tras una ofensiva hutí",
+        "url": "https://es.finance.yahoo.com/noticias/sede-saudi-aramco-sufri%C3%B3-da%C3%B1os-120810982.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Sede de Saudi Aramco sufrió daños importantes en un ataque de los hutíes: fuentes",
+        "capturado": "2026-10-14T07:40:06-05:00"
+      },
+      {
+        "titulo": "El Ejecutivo luso comunica que Lufthansa pasará a ser socio inversor de TAP",
+        "url": "https://es.finance.yahoo.com/noticias/lufthansa-accionista-tap-anuncia-gobierno-120613190.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Lufthansa será el nuevo accionista de TAP, anuncia el Gobierno portugués",
+        "capturado": "2026-10-14T07:40:06-05:00"
+      },
+      {
+        "titulo": "Los contratos a futuro de Wall Street repuntan levemente ante resultados empresariales y datos de inflación",
+        "url": "https://es.finance.yahoo.com/noticias/futuros-acciones-estadounidenses-suben-ligeramente-115715607.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los futuros de las acciones estadounidenses suben ligeramente mientras los operadores evalúan las ganancias corporativas y esperan la publicación de datos clave sobre la inflación.",
+        "capturado": "2026-10-14T07:40:06-05:00"
+      },
+      {
+        "titulo": "Datos señalan que Rusia vuelve a despachar envíos de diésel para la venta externa",
+        "url": "https://es.finance.yahoo.com/noticias/rusia-reanuda-cargas-exportaci%C3%B3n-di%C3%A9sel-115134561.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Rusia reanuda las cargas de exportación de diésel, muestran datos",
+        "capturado": "2026-10-14T07:40:06-05:00"
+      },
+      {
+        "titulo": "Consejero económico venezolano señala que prevé divulgar estudio de sostenibilidad de deuda en breve",
+        "url": "https://es.finance.yahoo.com/noticias/asesor-econ%C3%B3mico-venezuela-espera-publicar-114054798.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Asesor económico de Venezuela dice que espera publicar análisis de sostenibilidad de deuda \"muy pronto\"",
+        "capturado": "2026-10-14T07:40:06-05:00"
+      },
+      {
+        "titulo": "Reservas petroleras chinas disminuyen a pesar de menor incremento en ritmo de compra externa en septiembre",
+        "url": "https://es.finance.yahoo.com/noticias/inventarios-crudo-china-caen-pese-113025562.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Los inventarios de crudo de China caen pese a leve aumento de tasa de importación en septiembre",
+        "capturado": "2026-10-14T07:40:06-05:00"
+      },
       {
         "titulo": "Tributos, casa y pensiones: acciones del OE2027 que impactan el gasto del hogar en Portugal",
         "url": "https://es.finance.yahoo.com/noticias/impuestos-vivienda-matr%C3%ADculas-medidas-oe2027-061227183.html",
@@ -419,70 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "Salón Mundial del Automóvil: Macron defiende la preferencia europea frente a China",
         "capturado": "2026-10-11T14:56:29-05:00"
-      },
-      {
-        "titulo": "China crea red blockchain nacional y analiza la posición de Bitcoin",
-        "url": "https://es.finance.yahoo.com/noticias/china-desarrolla-red-blockchain-nacional-112400372.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "China desarrolla red blockchain nacional: ¿Dónde encaja Bitcoin?",
-        "capturado": "2026-10-11T10:52:33-05:00"
-      },
-      {
-        "titulo": "Bitget transforma sus operaciones cripto institucionales de esta forma",
-        "url": "https://es.finance.yahoo.com/noticias/bitget-cambia-negocios-institucionales-criptomonedas-090200841.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Bitget cambia los negocios institucionales de criptomonedas: así es como",
-        "capturado": "2026-10-11T10:52:33-05:00"
-      },
-      {
-        "titulo": "Bank of America advierte que ahorradores guardan efectivo al nivel de la pandemia",
-        "url": "https://es.finance.yahoo.com/noticias/bank-of-america-alerta-inversores-052000652.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "Bank of America alerta: los inversores acumulan efectivo al mayor ritmo desde la pandemia",
-        "capturado": "2026-10-11T10:52:33-05:00"
-      },
-      {
-        "titulo": "Pautas para colocar capital en mercado volátil: renta fija, acciones, IA y refugios",
-        "url": "https://es.finance.yahoo.com/noticias/claves-invertir-mercado-incierto-renta-050000465.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "Claves para invertir en un mercado incierto: renta fija, Bolsa, IA y refugios para el ahorro",
-        "capturado": "2026-10-11T10:52:33-05:00"
-      },
-      {
-        "titulo": "Bancos frenan al Ibex y ponen en duda el éxito bursátil de 2026",
-        "url": "https://es.finance.yahoo.com/noticias/bancos-frenan-ibex-agotando-mejores-040000968.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "Los bancos frenan al Ibex: ¿se está agotando una de las mejores operaciones bursátiles de 2026?",
-        "capturado": "2026-10-11T10:52:33-05:00"
-      },
-      {
-        "titulo": "La inteligencia artificial requiere tecnología llevada al plano físico y no solo códigos",
-        "url": "https://es.finance.yahoo.com/noticias/inteligencia-artificial-necesita-algoritmos-necesita-040000003.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "La inteligencia artificial necesita algo más que algoritmos: necesita tecnología aplicada al mundo real",
-        "capturado": "2026-10-11T10:52:33-05:00"
-      },
-      {
-        "titulo": "Dead by Daylight cambiará la ropa de 2B por quejas de usuarios para ajustarse a NieR Automata",
-        "url": "https://es-us.noticias.yahoo.com/dead-by-daylight-modificar%C3%A1-atuendo-235150235.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Dead by Daylight modificará atuendo de 2B tras críticas de jugadores, para que sea más fiel al personaje original de NieR Automata",
-        "capturado": "2026-10-11T10:52:33-05:00"
-      },
-      {
-        "titulo": "Líder de la ESA expone estrategia de 10.000 millones para explorar el espacio ajeno a la NASA",
-        "url": "https://es.finance.yahoo.com/noticias/director-general-revela-plan-10-050033656.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El director general de la ESA revela plan de 10.000 millones para ir al espacio sin la NASA",
-        "capturado": "2026-10-11T04:10:14-05:00"
       }
     ]
   }
