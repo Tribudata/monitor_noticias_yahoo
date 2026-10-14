@@ -1,9 +1,65 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-14T07:40:06-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-10-14T12:48:17-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Los ETF descienden tras la caída de los títulos en Estados Unidos luego del mediodía",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-bajan-medida-170825099.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa bajan a medida que las acciones estadounidenses caen después del mediodía.",
+        "capturado": "2026-10-14T12:48:17-05:00"
+      },
+      {
+        "titulo": "Tres proyectos claves de Sui para vigilar con miras al año 2027",
+        "url": "https://es.finance.yahoo.com/noticias/top-3-desarrollos-importantes-sui-165300113.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Top 3 desarrollos importantes de Sui a seguir de cara a 2027",
+        "capturado": "2026-10-14T12:48:17-05:00"
+      },
+      {
+        "titulo": "Administración alemana dialoga para comprar la mitad de la productora de blindados KNDS",
+        "url": "https://es.finance.yahoo.com/noticias/gobierno-alem%C3%A1n-negociaciones-adquirir-50-160706551.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Gobierno alemán está en negociaciones para adquirir 50% de fabricante de tanques KNDS: fuente",
+        "capturado": "2026-10-14T12:48:17-05:00"
+      },
+      {
+        "titulo": "Solana pondrá en marcha Alpenglow prontas fechas: ¿Cuál será la reacción del valor de SOL?",
+        "url": "https://es.finance.yahoo.com/noticias/solana-activar%C3%A1-alpenglow-pr%C3%B3xima-semana-153408090.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Solana activará Alpenglow la próxima semana: ¿Cómo reaccionará el precio de SOL?",
+        "capturado": "2026-10-14T12:48:17-05:00"
+      },
+      {
+        "titulo": "Estados Unidos retira castigos a Jorge Rodríguez en reciente gesto de aproximación a Venezuela",
+        "url": "https://es.finance.yahoo.com/noticias/ee-uu-levanta-sanciones-jorge-142807855.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "EE.UU. levanta sanciones a Jorge Rodríguez en nueva señal de acercamiento con Venezuela",
+        "capturado": "2026-10-14T12:48:17-05:00"
+      },
+      {
+        "titulo": "Bolsas gauchas caen pendientes de una mayor liquidez y colocación de títulos",
+        "url": "https://es.finance.yahoo.com/noticias/mercados-argentinos-operan-baja-atenci%C3%B3n-142654214.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Mercados argentinos operan en baja, atención a mayor liquidez y licitación de deuda",
+        "capturado": "2026-10-14T12:48:17-05:00"
+      },
+      {
+        "titulo": "Nave portacontenedores naufraga cerca a Ormuz luego de recibir impacto de un misil, según fuentes",
+        "url": "https://es.finance.yahoo.com/noticias/buque-portacontenedores-hunde-ormuz-ser-141301588.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Un buque portacontenedores se hunde cerca de Ormuz tras ser alcanzado por un proyectil: fuentes",
+        "capturado": "2026-10-14T12:48:17-05:00"
+      },
       {
         "titulo": "El Kremlin señala que el pacto sobre el diésel facilita un mayor entendimiento entre Moscú y Washington",
         "url": "https://es.finance.yahoo.com/noticias/acuerdo-di%C3%A9sel-abre-v%C3%ADa-cooperaci%C3%B3n-122853819.html",
@@ -427,62 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "Robert Hall y Michael Woodford ganan el Nobel de Economía 2026 por sus estudios sobre las crisis económicas",
         "capturado": "2026-10-12T07:48:07-05:00"
-      },
-      {
-        "titulo": "El máximo dirigente de Microsoft afirma que la leche posee más regulación que la inteligencia artificial",
-        "url": "https://es.finance.yahoo.com/noticias/presidente-microsoft-leche-regulada-ia-101556362.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "El presidente de Microsoft dice que la leche está más regulada que la IA",
-        "capturado": "2026-10-12T07:48:07-05:00"
-      },
-      {
-        "titulo": "Inversionistas de acciones en EE UU vigilarán resultados trimestrales, inflación y crudo esta semana",
-        "url": "https://es.finance.yahoo.com/noticias/inversores-renta-variable-estadounidense-estar%C3%A1n-100332533.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los inversores en renta variable estadounidense estarán atentos a los resultados del tercer trimestre, los datos de inflación de septiembre y la evolución del precio del petróleo crudo esta semana.",
-        "capturado": "2026-10-12T07:48:07-05:00"
-      },
-      {
-        "titulo": "Disminuyen valores del petróleo y avanzan mercados por alto al fuego energético de Trump",
-        "url": "https://es.finance.yahoo.com/noticias/bolsas-suben-petr%C3%B3leo-cae-alto-040541781.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Caen los precios del petróleo y suben las bolsas tras tregua energética de Trump",
-        "capturado": "2026-10-11T23:36:50-05:00"
-      },
-      {
-        "titulo": "Creador de la PlayStation cuestiona que la máquina se equiparó a un PC y fustiga el estancamiento",
-        "url": "https://es-us.noticias.yahoo.com/padre-playstation-critica-consola-volvi%C3%B3-160041108.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Padre de la PlayStation critica que la consola “se volvió igual que un PC” y asegura que la innovación se estancó tras su retiro",
-        "capturado": "2026-10-11T23:36:50-05:00"
-      },
-      {
-        "titulo": "PS5 hackeadas ya corren títulos de PS2 de discos originales sin soporte retroactivo oficial",
-        "url": "https://es-us.noticias.yahoo.com/playstation-5-desbloqueadas-ejecutar-juegos-135603572.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "PlayStation 5 desbloqueadas ahora pueden ejecutar juegos de PS2 desde el disco original, a pesar de no contar con retrocompatibilidad oficial",
-        "capturado": "2026-10-11T23:36:50-05:00"
-      },
-      {
-        "titulo": "Derrumbe en el yacimiento El Teniente de la firma Codelco deja tres empleados lesionados",
-        "url": "https://es.finance.yahoo.com/noticias/chilena-codelco-reporta-alud-mina-220433614.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Chilena Codelco reporta alud en mina El Teniente; tres trabajadores afectados",
-        "capturado": "2026-10-11T18:30:20-05:00"
-      },
-      {
-        "titulo": "Salón Mundial del Automóvil: Macron respalda la preferencia europea contra China",
-        "url": "https://es.finance.yahoo.com/noticias/sal%C3%B3n-mundial-autom%C3%B3vil-macron-defiende-160317283.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Salón Mundial del Automóvil: Macron defiende la preferencia europea frente a China",
-        "capturado": "2026-10-11T14:56:29-05:00"
       }
     ]
   }
