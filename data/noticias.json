@@ -1,9 +1,65 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-14T12:48:17-05:00",
+  "actualizado": "2026-10-14T16:19:34-05:00",
   "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "EEUU evalúa gravámenes a barcos españoles y topes a compras externas de aceite de oliva",
+        "url": "https://es.finance.yahoo.com/noticias/eeuu-plantea-imposici%C3%B3n-tasas-buques-205438373.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "EEUU plantea imposición de tasas a los buques españoles y límites a las importaciones de aceite de oliva",
+        "capturado": "2026-10-14T16:19:34-05:00"
+      },
+      {
+        "titulo": "Bolsas de EEUU bajan con escaso movimiento al desplomarse tecnológicas por alta inflación",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-204649939.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen con bajos volúmenes de negociación mientras las grandes tecnológicas se desploman tras el fuerte aumento de la inflación.",
+        "capturado": "2026-10-14T16:19:34-05:00"
+      },
+      {
+        "titulo": "Ethereum presenta tres alertas de peligro al tiempo que grandes tenedores liquidan",
+        "url": "https://es.finance.yahoo.com/noticias/ethereum-muestra-3-se%C3%B1ales-advertencia-181200770.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Ethereum muestra 3 señales de advertencia mientras los grandes holders venden",
+        "capturado": "2026-10-14T16:19:34-05:00"
+      },
+      {
+        "titulo": "Magistrado federal frena el plan de reestructuración de una entidad agraria de EEUU",
+        "url": "https://es.finance.yahoo.com/noticias/juez-federal-bloquea-reorganizaci%C3%B3n-prevista-180141948.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Juez federal bloquea la reorganización prevista de una agencia agrícola estadounidense",
+        "capturado": "2026-10-14T16:19:34-05:00"
+      },
+      {
+        "titulo": "Bolsas de EEUU descienden y tecnológicas se derrumban por inflación que sugiere tres alzas de tasas",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-174948016.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen mientras las grandes tecnológicas se desploman tras un informe de inflación positivo que aumenta las probabilidades de tres subidas de tipos de la Reserva Federal en seis meses.",
+        "capturado": "2026-10-14T16:19:34-05:00"
+      },
+      {
+        "titulo": "Bessent incrementa la presión al FMI por los crecientes desequilibrios en China",
+        "url": "https://es.finance.yahoo.com/noticias/bessent-aumenta-presi%C3%B3n-fmi-crecientes-173326184.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Bessent aumenta presión sobre el FMI ante los crecientes desequilibrios de China",
+        "capturado": "2026-10-14T16:19:34-05:00"
+      },
+      {
+        "titulo": "Morgan Stanley supera proyecciones bursátiles e impone récord en manejo patrimonial",
+        "url": "https://es.finance.yahoo.com/noticias/morgan-stanley-supera-previsiones-acciones-171212561.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Morgan Stanley supera previsiones en acciones y bate récord en gestión patrimonial",
+        "capturado": "2026-10-14T16:19:34-05:00"
+      },
       {
         "titulo": "Los ETF descienden tras la caída de los títulos en Estados Unidos luego del mediodía",
         "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-bajan-medida-170825099.html",
@@ -427,62 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Trump defiende acuerdo sobre diésel con Rusia pese a críticas de legisladores de ambos partidos",
         "capturado": "2026-10-12T16:34:21-05:00"
-      },
-      {
-        "titulo": "Piratas informáticos atacan plantas cárnicas en Francia y causan fuego y merma de víveres",
-        "url": "https://es.finance.yahoo.com/noticias/hackers-atacan-frigor%C3%ADficos-supermercados-franceses-145810465.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Hackers atacan frigoríficos de supermercados franceses, provocan incendios, pérdidas de alimentos",
-        "capturado": "2026-10-12T16:34:21-05:00"
-      },
-      {
-        "titulo": "Accionarios futuros de EE. UU. casi sin variaciones previo a apertura por semana de balances y cifras",
-        "url": "https://es.finance.yahoo.com/noticias/futuros-acciones-estadounidenses-mantienen-pr%C3%A1cticamente-115637282.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los futuros de las acciones estadounidenses se mantienen prácticamente estables antes de la apertura del mercado, previos a la semana de resultados empresariales y datos económicos.",
-        "capturado": "2026-10-12T07:48:07-05:00"
-      },
-      {
-        "titulo": "Noruega sanciona a Xandr de Microsoft con US$9,6 millones por transferir información de Grindr",
-        "url": "https://es.finance.yahoo.com/noticias/noruega-multa-xandr-microsoft-9-112305827.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Noruega multa a Xandr, de Microsoft, con 9,6 millones de dólares por ceder datos de Grindr",
-        "capturado": "2026-10-12T07:48:07-05:00"
-      },
-      {
-        "titulo": "Parlamentarios galos promueven gravamen de salida cripto de 800.000 euros y sanciones a wallets",
-        "url": "https://es.finance.yahoo.com/noticias/diputados-franceses-impulsan-tasa-salida-111954750.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Diputados franceses impulsan una tasa de salida a cripto de 800.000€ y multas a monederos no declaradas",
-        "capturado": "2026-10-12T07:48:07-05:00"
-      },
-      {
-        "titulo": "Thales establecerá la que sería primera base militar de soporte externa en territorio japonés",
-        "url": "https://es.finance.yahoo.com/noticias/thales-abrir%C3%A1-base-militar-mantenimiento-111914145.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Thales abrirá la posible primera base militar de mantenimiento extranjera en Japón",
-        "capturado": "2026-10-12T07:48:07-05:00"
-      },
-      {
-        "titulo": "Resultados, crudo y deuda presionan Wall Street antes de abrir; Asia mixta y Europa al alza",
-        "url": "https://es.finance.yahoo.com/noticias/temporada-ganancias-petr%C3%B3leo-bonos-presionan-110342200.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Temporada de ganancias, petróleo y bonos presionan a Wall Street antes de la apertura; Asia presenta resultados mixtos, Europa registra ganancias.",
-        "capturado": "2026-10-12T07:48:07-05:00"
-      },
-      {
-        "titulo": "Robert Hall y Michael Woodford obtienen el Nobel de Economía 2026 por sus investigaciones sobre crisis",
-        "url": "https://es.finance.yahoo.com/noticias/robert-hall-michael-woodford-ganan-105901557.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Robert Hall y Michael Woodford ganan el Nobel de Economía 2026 por sus estudios sobre las crisis económicas",
-        "capturado": "2026-10-12T07:48:07-05:00"
       }
     ]
   }
