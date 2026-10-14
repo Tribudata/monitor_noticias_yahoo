@@ -1,9 +1,49 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-13T17:20:37-05:00",
+  "actualizado": "2026-10-13T20:19:37-05:00",
   "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Alerta de bonos por 110 mil millones en Wall Street: implicaciones para acciones y Bitcoin",
+        "url": "https://es.finance.yahoo.com/noticias/wall-street-advertencia-bonos-110-223600276.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Wall Street y una advertencia de bonos por $110 mil millones: ¿Qué significa para las acciones y Bitcoin?",
+        "capturado": "2026-10-13T20:19:37-05:00"
+      },
+      {
+        "titulo": "Paul Tudor Jones prevé un 2027 adverso para la bolsa: ¿resistirá Bitcoin?",
+        "url": "https://es.finance.yahoo.com/noticias/paul-tudor-jones-advierte-2027-211000900.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Paul Tudor Jones advierte sobre un 2027 brutal para las acciones: ¿aguantará Bitcoin?",
+        "capturado": "2026-10-13T20:19:37-05:00"
+      },
+      {
+        "titulo": "Vuelve el FOMO sobre Ethereum a pesar de diez jornadas seguidas de venta en ETF",
+        "url": "https://es.finance.yahoo.com/noticias/regresa-fomo-ethereum-inversores-etf-194800411.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Regresa el FOMO por Ethereum mientras los inversores de ETF venden durante 10 días consecutivos",
+        "capturado": "2026-10-13T20:19:37-05:00"
+      },
+      {
+        "titulo": "Papa León XIV supera con éxito intervención quirúrgica para sacar un nódulo pulmonar",
+        "url": "https://es.finance.yahoo.com/noticias/papa-le%C3%B3n-xiv-somete-%C3%A9xito-184025354.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Papa León XIV se somete con éxito a cirugía para extirpar un nódulo pulmonar",
+        "capturado": "2026-10-13T20:19:37-05:00"
+      },
+      {
+        "titulo": "Criptomonedas estables dinamizan el mercado regional y cautivan a plataformas mundiales",
+        "url": "https://es.finance.yahoo.com/noticias/stablecoins-impulsan-mercado-cripto-latinoam%C3%A9rica-183200521.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Las stablecoins impulsan el mercado cripto en Latinoamérica y atraen a exchanges globales",
+        "capturado": "2026-10-13T20:19:37-05:00"
+      },
       {
         "titulo": "Bolsas de EE. UU. retroceden porque grandes bancos no animan el riesgo antes de inflación de septiembre",
         "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-205607443.html",
@@ -443,46 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "La presidencia irlandesa de la UE quiere un recorte del 8% al proyecto de presupuesto para 2028-2034",
         "capturado": "2026-10-10T10:32:44-05:00"
-      },
-      {
-        "titulo": "Venezuela aprueba a Starlink y finiquita el ciclo de tensiones entre Musk y Maduro",
-        "url": "https://es.finance.yahoo.com/noticias/venezuela-luz-verde-starlink-cierra-124500117.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Venezuela da luz verde a Starlink y cierra la era de la disputa Musk-Maduro",
-        "capturado": "2026-10-10T10:32:44-05:00"
-      },
-      {
-        "titulo": "La circulación de XRP estuvo cerca de afectarse por una falla de una década",
-        "url": "https://es.finance.yahoo.com/noticias/suministro-xrp-comprometido-bug-10-105800348.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "El suministro de XRP casi fue comprometido por un bug de 10 años",
-        "capturado": "2026-10-10T10:32:44-05:00"
-      },
-      {
-        "titulo": "CLERHP expone su Plan de Negocio 2026-28 proyectando 700 millones de euros y 225 de EBITDA",
-        "url": "https://es.finance.yahoo.com/noticias/clerhp-presenta-plan-negocio-2026-090000844.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "CLERHP presenta su Plan de Negocio 2026–28 con una previsión de 700 millones de euros en ingresos y 225 millones de EBITDA.",
-        "capturado": "2026-10-10T10:32:44-05:00"
-      },
-      {
-        "titulo": "Destinar recursos a seguridad informática: dos opciones para una tendencia gigante",
-        "url": "https://es.finance.yahoo.com/noticias/invertir-ciberseguridad-ideas-megatendencia-060000440.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "Invertir en ciberseguridad: dos ideas para una megatendencia",
-        "capturado": "2026-10-10T10:32:44-05:00"
-      },
-      {
-        "titulo": "Ray Dalio avisa que lo peor en las acciones tal vez aún no llegue",
-        "url": "https://es.finance.yahoo.com/noticias/ray-dalio-advierte-peor-acciones-084700478.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Ray Dalio advierte que lo peor para las acciones podría estar por venir",
-        "capturado": "2026-10-10T04:29:16-05:00"
       }
     ]
   }
