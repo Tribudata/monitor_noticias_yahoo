@@ -1,9 +1,49 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-13T20:19:37-05:00",
+  "actualizado": "2026-10-14T01:30:28-05:00",
   "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Tributos, casa y pensiones: acciones del OE2027 que impactan el gasto del hogar en Portugal",
+        "url": "https://es.finance.yahoo.com/noticias/impuestos-vivienda-matr%C3%ADculas-medidas-oe2027-061227183.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Impuestos, vivienda y matrículas: medidas del OE2027 que afectan al presupuesto familiar en Portugal",
+        "capturado": "2026-10-14T01:30:28-05:00"
+      },
+      {
+        "titulo": "La ibérica Cox Energy destinará 2.900 millones de dólares en El Salvador, afirma Bukele",
+        "url": "https://es.finance.yahoo.com/noticias/presidente-bukele-anuncia-inversi%C3%B3n-cox-230832990.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "La española Cox Energy invertirá 2.900 millones de dólares en El Salvador, dice Bukele",
+        "capturado": "2026-10-14T01:30:28-05:00"
+      },
+      {
+        "titulo": "Las ventas externas chinas de septiembre superan pronósticos y las compras suben el ritmo",
+        "url": "https://es.finance.yahoo.com/noticias/exportaciones-chinas-septiembre-baten-previsiones-054542431.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Las exportaciones chinas de septiembre baten previsiones y las importaciones se aceleran",
+        "capturado": "2026-10-14T01:30:28-05:00"
+      },
+      {
+        "titulo": "Las fallas contra el lavado de activos le salen a Bank of America por 1.200 millones de dólares",
+        "url": "https://es.finance.yahoo.com/noticias/fallos-blanqueo-capitales-cuestan-bank-053102372.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Los fallos contra el blanqueo de capitales le cuestan a Bank of America 1.200 millones de dólares",
+        "capturado": "2026-10-14T01:30:28-05:00"
+      },
+      {
+        "titulo": "Cuadro de la tarifa energética en Europa: qué naciones pagan más luz y gas este invierno",
+        "url": "https://es.finance.yahoo.com/noticias/facturas-energ%C3%ADa-invierno-d%C3%B3nde-caras-044936554.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Mapa de la factura energética en Europa: qué países pagan más por la luz y el gas este invierno",
+        "capturado": "2026-10-14T01:30:28-05:00"
+      },
       {
         "titulo": "Alerta de bonos por 110 mil millones en Wall Street: implicaciones para acciones y Bitcoin",
         "url": "https://es.finance.yahoo.com/noticias/wall-street-advertencia-bonos-110-223600276.html",
@@ -443,46 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "El director general de la ESA revela plan de 10.000 millones para ir al espacio sin la NASA",
         "capturado": "2026-10-11T04:10:14-05:00"
-      },
-      {
-        "titulo": "Exmandamás de PlayStation opta por títulos breves de alta calidad frente a aventuras de 100 horas",
-        "url": "https://es-us.noticias.yahoo.com/exjefe-playstation-prefiere-juegos-20-185439218.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Exjefe de PlayStation prefiere los “buenos juegos de 20 a 25 horas” antes que los de 100, porque en esos “no todas son horas de calidad”",
-        "capturado": "2026-10-11T04:10:14-05:00"
-      },
-      {
-        "titulo": "Consiguen correr el sistema de PlayStation 5 en ordenador para ejecutar sus títulos sin el aparato",
-        "url": "https://es-us.noticias.yahoo.com/logran-ejecutar-interfaz-playstation-5-153840656.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Logran ejecutar la interfaz de PlayStation 5 en un PC, el primer paso para jugar juegos de PS5 sin la consola",
-        "capturado": "2026-10-11T04:10:14-05:00"
-      },
-      {
-        "titulo": "Disfruta en la web más de 20 clásicos de PC y consola como Call of Duty Zombies, PES 6 y GTA Vice City",
-        "url": "https://es-us.noticias.yahoo.com/juega-gratis-navegador-20-cl%C3%A1sicos-141215170.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Juega gratis en el navegador más de 20 clásicos de PC y consola, como Call of Duty Zombies, PES 6, Counter-Strike 1.6 y GTA Vice City",
-        "capturado": "2026-10-11T04:10:14-05:00"
-      },
-      {
-        "titulo": "Departamento de Justicia indagará otra vez a Binance: ¿Vienen nuevas sanciones?",
-        "url": "https://es.finance.yahoo.com/noticias/departamento-justicia-investigar%C3%A1-binance-avecinan-150900811.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Departamento de Justicia investigará de nuevo a Binance: ¿Se avecinan más multas?",
-        "capturado": "2026-10-10T10:32:44-05:00"
-      },
-      {
-        "titulo": "Gobierno irlandés en la UE busca bajar 8% el plan de presupuesto para 2028-2034",
-        "url": "https://es.finance.yahoo.com/noticias/presidencia-irlandesa-ue-recorte-8-130706346.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "La presidencia irlandesa de la UE quiere un recorte del 8% al proyecto de presupuesto para 2028-2034",
-        "capturado": "2026-10-10T10:32:44-05:00"
       }
     ]
   }
