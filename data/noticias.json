@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-14T19:00:25-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-14T23:59:25-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Las transacciones de tecnológicas empeoran y tiran de los mercados",
+        "url": "https://es.finance.yahoo.com/noticias/ventas-tecnol%C3%B3gicas-agravan-arrastran-bolsas-042018350.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Las ventas de tecnológicas se agravan y arrastran a las bolsas",
+        "capturado": "2026-10-14T23:59:25-05:00"
+      },
+      {
+        "titulo": "Europa modifica su panorama de bonos: Bélgica iguala a Grecia y Francia rinde más que Italia",
+        "url": "https://es.finance.yahoo.com/noticias/europa-cambia-mapa-deuda-b%C3%A9lgica-035855939.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Europa cambia su mapa de deuda: Bélgica como Grecia y Francia paga más que Italia",
+        "capturado": "2026-10-14T23:59:25-05:00"
+      },
       {
         "titulo": "Cae 15% el único título en el que Jim Cramer tiene confianza",
         "url": "https://es.finance.yahoo.com/noticias/%C3%BAnica-acci%C3%B3n-jim-cramer-conf%C3%ADa-220800010.html",
@@ -466,22 +482,6 @@
         "resumen": "",
         "medio": "MT Newswires",
         "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos, lastrados por las grandes empresas tecnológicas y debilitados los reivindicaciones de alto el fuego en el sector energético tras los ataques a activos energéticos en Ucrania.",
-        "capturado": "2026-10-12T16:34:21-05:00"
-      },
-      {
-        "titulo": "El clásico Citroën 2CV regresa convertido en vehículo eléctrico",
-        "url": "https://es.finance.yahoo.com/noticias/m%C3%ADtico-2cv-citro%C3%ABn-vuelve-versi%C3%B3n-183327421.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El mítico 2CV de Citroën vuelve en versión eléctrica",
-        "capturado": "2026-10-12T16:34:21-05:00"
-      },
-      {
-        "titulo": "Meta presenta la inteligencia artificial Muse Wonder para rivalizar con OpenAI y Anthropic",
-        "url": "https://es.finance.yahoo.com/noticias/meta-lanza-modelos-ia-muse-183046360.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Meta lanza los modelos de IA \"Muse Wonder\" para competir con Anthropic y OpenAI",
         "capturado": "2026-10-12T16:34:21-05:00"
       }
     ]
