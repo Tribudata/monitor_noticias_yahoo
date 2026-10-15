@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-14T23:59:25-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-15T04:45:58-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "El S&P 500 inicia su temporada estacional más fuerte: detalles",
+        "url": "https://es.finance.yahoo.com/noticias/s-p-500-entra-periodo-091700934.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "El S&P 500 entra en su periodo estacional más fuerte: detalles",
+        "capturado": "2026-10-15T04:45:58-05:00"
+      },
+      {
+        "titulo": "El BEI busca iniciativas transfronterizas para fomentar el crecimiento de Asia Central",
+        "url": "https://es.finance.yahoo.com/noticias/bei-busca-proyectos-transfronterizos-impulsar-075402670.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El BEI busca proyectos transfronterizos para impulsar el desarrollo económico de Asia Central",
+        "capturado": "2026-10-15T04:45:58-05:00"
+      },
+      {
+        "titulo": "Lufthansa pide a sus aeronaves cargar carburante extra hacia Fráncfort por desabastecimiento",
+        "url": "https://es.finance.yahoo.com/noticias/lufthansa-ordena-aviones-lleven-combustible-075300549.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Lufthansa ordena a sus aviones que lleven combustible adicional a Fráncfort ante la escasez",
+        "capturado": "2026-10-15T04:45:58-05:00"
+      },
+      {
+        "titulo": "La criptomoneda CYBERLEEK cae 40% luego de recientes advertencias del filtrador de GTA 6",
+        "url": "https://es.finance.yahoo.com/noticias/token-cyberleek-desploma-40-amenazas-075000984.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "El token CYBERLEEK se desploma 40% tras nuevas amenazas del filtrador de GTA 6",
+        "capturado": "2026-10-15T04:45:58-05:00"
+      },
+      {
+        "titulo": "El producto interno bruto del Reino Unido sube contra todo pronóstico a pesar del menor gasto",
+        "url": "https://es.finance.yahoo.com/noticias/econom%C3%ADa-brit%C3%A1nica-crece-pron%C3%B3stico-pese-074800567.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "La economía británica crece contra pronóstico pese al menor consumo",
+        "capturado": "2026-10-15T04:45:58-05:00"
+      },
+      {
+        "titulo": "El FMI señala que choques recientes y un conflicto prolongado son la principal amenaza en Oriente Medio",
+        "url": "https://es.finance.yahoo.com/noticias/guerra-larga-perturbaciones-riesgo-oriente-065923430.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Una guerra larga y nuevas perturbaciones son el mayor riesgo para Oriente Medio, dice el FMI",
+        "capturado": "2026-10-15T04:45:58-05:00"
+      },
+      {
+        "titulo": "Mandatario taiwanés insta a Micron y empleados a concertar con franqueza frente a inminente paro",
+        "url": "https://es.finance.yahoo.com/noticias/presidente-taiw%C3%A1n-pide-micron-trabajadores-065830162.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "El presidente de Taiwán pide a Micron y sus trabajadores negociar \"con sinceridad\" ante posible huelga",
+        "capturado": "2026-10-15T04:45:58-05:00"
+      },
+      {
+        "titulo": "TSMC, la firma taiwanesa de semiconductores, alcanza ganancias históricas en el tercer trimestre",
+        "url": "https://es.finance.yahoo.com/noticias/gigante-taiwan%C3%A9s-chips-tsmc-logra-064427964.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Gigante taiwanés de chips TSMC logra beneficio récord en el tercer trimestre",
+        "capturado": "2026-10-15T04:45:58-05:00"
+      },
       {
         "titulo": "Las transacciones de tecnológicas empeoran y tiran de los mercados",
         "url": "https://es.finance.yahoo.com/noticias/ventas-tecnol%C3%B3gicas-agravan-arrastran-bolsas-042018350.html",
@@ -419,70 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "Starknet se desploma casi 28% y se convierte en el token con peor rendimiento en el top 300",
         "capturado": "2026-10-13T05:08:58-05:00"
-      },
-      {
-        "titulo": "LVMH incumple pronósticos de ventas por menor demanda de artículos de lujo en el mercado chino",
-        "url": "https://es.finance.yahoo.com/noticias/lvmh-queda-corta-ventas-frente-084222007.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "LVMH se queda corta en ventas frente a previsiones por la desaceleración de compras de lujo en China",
-        "capturado": "2026-10-13T05:08:58-05:00"
-      },
-      {
-        "titulo": "Citi da a conocer los requisitos para que el índice S&P 500 llegue a las 8.100 unidades",
-        "url": "https://es.finance.yahoo.com/noticias/citi-revela-necesita-s-p-075200266.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Citi revela qué necesita el S&P 500 para alcanzar los 8,100",
-        "capturado": "2026-10-13T05:08:58-05:00"
-      },
-      {
-        "titulo": "FMI anticipa expansión global de 3,1% para 2026 y de 1,1% en la zona euro",
-        "url": "https://es.finance.yahoo.com/noticias/fmi-prev%C3%A9-crecimiento-mundial-3-025053918.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El FMI prevé un crecimiento mundial del 3,1% en 2026 y del 1,1% en la eurozona",
-        "capturado": "2026-10-13T05:08:58-05:00"
-      },
-      {
-        "titulo": "Francia reducirá hasta 18 céntimos el litro de diésel para suavizar el impacto de los precios históricos",
-        "url": "https://es.finance.yahoo.com/noticias/carburantes-s%C3%A9bastien-lecornu-promete-rebaja-064519162.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Francia rebajará hasta 18 céntimos el litro de gasóleo para aliviar el golpe de los precios récord",
-        "capturado": "2026-10-13T05:08:58-05:00"
-      },
-      {
-        "titulo": "FMI: El gasto en inteligencia artificial dinamiza la expansión mundial, mas el conflicto y la deuda traen peligros",
-        "url": "https://es.finance.yahoo.com/noticias/fmi-inversi%C3%B3n-ia-impulsa-crecimiento-061920096.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "FMI: La inversión en IA impulsa el crecimiento global, pero la guerra y la deuda plantean riesgos",
-        "capturado": "2026-10-13T05:08:58-05:00"
-      },
-      {
-        "titulo": "Las entidades de control aumentan la vigilancia de la inteligencia artificial en el sector financiero por miedo a hackeos",
-        "url": "https://es.finance.yahoo.com/noticias/reguladores-refuerzan-controles-ia-banca-061834113.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Los reguladores refuerzan los controles de la IA en la banca ante el temor a ciberataques",
-        "capturado": "2026-10-13T05:08:58-05:00"
-      },
-      {
-        "titulo": "Indra, Acciona Energías y Cellnex impulsan al Ibex 35 de regreso a los 19.200 puntos",
-        "url": "https://es.finance.yahoo.com/noticias/ibex-35-vuelve-19-200-154000275.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "El Ibex 35 vuelve a los 19.200 puntos de la mano de Indra, Acciona Energías y Cellnex",
-        "capturado": "2026-10-12T21:51:11-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE UU mixtas por baja tecnológica y menor expectativa de cese al fuego energético tras ataques en Ucrania",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-205709844.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos, lastrados por las grandes empresas tecnológicas y debilitados los reivindicaciones de alto el fuego en el sector energético tras los ataques a activos energéticos en Ucrania.",
-        "capturado": "2026-10-12T16:34:21-05:00"
       }
     ]
   }
