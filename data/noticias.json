@@ -1,9 +1,33 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-14T16:19:34-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-10-14T19:00:25-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Cae 15% el único título en el que Jim Cramer tiene confianza",
+        "url": "https://es.finance.yahoo.com/noticias/%C3%BAnica-acci%C3%B3n-jim-cramer-conf%C3%ADa-220800010.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "La única acción en la que Jim Cramer confía se desploma 15%",
+        "capturado": "2026-10-14T19:00:25-05:00"
+      },
+      {
+        "titulo": "Por qué ningún directivo de Bank of America terminó preso como CZ",
+        "url": "https://es.finance.yahoo.com/noticias/bank-of-america-prisi%C3%B3n-cz-204600343.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿Por qué nadie del Bank of America fue a prisión como CZ?",
+        "capturado": "2026-10-14T19:00:25-05:00"
+      },
+      {
+        "titulo": "Elon Musk respalda el freno a precios de Micron tras baja de 4 días",
+        "url": "https://es.finance.yahoo.com/noticias/elon-musk-apoya-moderaci%C3%B3n-precios-192900522.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Elon Musk apoya la moderación de precios de Micron tras una caída de 4 días",
+        "capturado": "2026-10-14T19:00:25-05:00"
+      },
       {
         "titulo": "EEUU evalúa gravámenes a barcos españoles y topes a compras externas de aceite de oliva",
         "url": "https://es.finance.yahoo.com/noticias/eeuu-plantea-imposici%C3%B3n-tasas-buques-205438373.html",
@@ -458,30 +482,6 @@
         "resumen": "",
         "medio": "Reuters",
         "titulo_fuente": "Meta lanza los modelos de IA \"Muse Wonder\" para competir con Anthropic y OpenAI",
-        "capturado": "2026-10-12T16:34:21-05:00"
-      },
-      {
-        "titulo": "Los ETF bajan mientras los mercados de valores de EE UU operan de forma variada pasado el mediodía",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-caen-medida-171149542.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa caen a medida que las acciones estadounidenses muestran un comportamiento mixto tras el mediodía.",
-        "capturado": "2026-10-12T16:34:21-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE UU con comportamiento mixto: tecnología al frente de las caídas y tregua energética estancada",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-170341365.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos: el sector tecnológico lidera las pérdidas y el alto el fuego energético entre Ucrania y Rusia presenta dificultades.",
-        "capturado": "2026-10-12T16:34:21-05:00"
-      },
-      {
-        "titulo": "Trump respalda pacto petrolero con Rusia a pesar de los cuestionamientos de congresistas",
-        "url": "https://es.finance.yahoo.com/noticias/trump-defiende-acuerdo-di%C3%A9sel-rusia-160221857.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Trump defiende acuerdo sobre diésel con Rusia pese a críticas de legisladores de ambos partidos",
         "capturado": "2026-10-12T16:34:21-05:00"
       }
     ]
