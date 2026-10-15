@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-15T09:41:29-05:00",
+  "actualizado": "2026-10-15T13:53:37-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "El BCE aprueba que Unicredit asuma el mando de Commerzbank",
+        "url": "https://es.finance.yahoo.com/noticias/unicredit-tomar-control-commerzbank-visto-184546816.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Unicredit puede tomar el control de Commerzbank tras el visto bueno del BCE",
+        "capturado": "2026-10-15T13:53:37-05:00"
+      },
+      {
+        "titulo": "Arthur Hayes invierte en lo siguiente tras la caída de la IA",
+        "url": "https://es.finance.yahoo.com/noticias/arthur-hayes-apuesta-viene-crash-181700559.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Arthur Hayes apuesta por lo que viene tras el crash de la IA",
+        "capturado": "2026-10-15T13:53:37-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE. UU. mixtas por inflación al productor; bajan tecnológicas y bonos",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-174638911.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos tras el elevado dato de inflación de los precios al productor; las caídas en el sector tecnológico acompañan al descenso de los rendimientos de los bonos del Tesoro.",
+        "capturado": "2026-10-15T13:53:37-05:00"
+      },
+      {
+        "titulo": "Sony busca el audio de gama alta con un Walkman de oro de 5.900 dólares",
+        "url": "https://es.finance.yahoo.com/noticias/sony-segmento-audio-premium-walkman-173315495.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Sony va por segmento de audio premium con un Walkman chapado en oro de US$5.900",
+        "capturado": "2026-10-15T13:53:37-05:00"
+      },
+      {
+        "titulo": "Tesla alista un Roadster volador para reactivar su débil sector de autos",
+        "url": "https://es.finance.yahoo.com/noticias/tesla-prepara-roadster-volador-impulsar-172801754.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Tesla prepara un Roadster volador para impulsar su debilitado negocio automotor",
+        "capturado": "2026-10-15T13:53:37-05:00"
+      },
+      {
+        "titulo": "Avanzan los fondos cotizados en bolsa y las acciones de Estados Unidos muestran balances diversos al mediodía",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-suben-acciones-171251905.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa suben, las acciones estadounidenses presentan resultados mixtos tras la media jornada.",
+        "capturado": "2026-10-15T13:53:37-05:00"
+      },
+      {
+        "titulo": "Amancio Ortega desembolsa US$550 millones por tradicional edificio de oficinas en Chicago",
+        "url": "https://es.finance.yahoo.com/noticias/amancio-ortega-paga-us-550-170804751.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Amancio Ortega paga US$550 millones por emblemática torre de oficinas en Chicago",
+        "capturado": "2026-10-15T13:53:37-05:00"
+      },
+      {
+        "titulo": "Jensen Huang niega que Nvidia deba auxiliar a CoreWeave",
+        "url": "https://es.finance.yahoo.com/noticias/jensen-huang-descarta-nvidia-rescatar-165130783.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Jensen Huang descarta que Nvidia tenga que rescatar a CoreWeave",
+        "capturado": "2026-10-15T13:53:37-05:00"
+      },
       {
         "titulo": "Costos para productores en EE. UU. alcanzan en septiembre su mayor subida en cuatro años y medio",
         "url": "https://es.finance.yahoo.com/noticias/precios-productor-eeuu-registran-septiembre-142126907.html",
@@ -419,70 +483,6 @@
         "medio": "Bloomberg",
         "titulo_fuente": "Papa León XIV se somete con éxito a cirugía para extirpar un nódulo pulmonar",
         "capturado": "2026-10-13T20:19:37-05:00"
-      },
-      {
-        "titulo": "Criptomonedas estables dinamizan el mercado regional y cautivan a plataformas mundiales",
-        "url": "https://es.finance.yahoo.com/noticias/stablecoins-impulsan-mercado-cripto-latinoam%C3%A9rica-183200521.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Las stablecoins impulsan el mercado cripto en Latinoamérica y atraen a exchanges globales",
-        "capturado": "2026-10-13T20:19:37-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE. UU. retroceden porque grandes bancos no animan el riesgo antes de inflación de septiembre",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-205607443.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen ante la falta de resultados de los grandes bancos para impulsar el apetito por el riesgo antes de la publicación del dato de inflación de septiembre.",
-        "capturado": "2026-10-13T17:20:37-05:00"
-      },
-      {
-        "titulo": "Firma petrolera de EE. UU. NABEP anuncia recepción de dos equipos de perforación en Venezuela",
-        "url": "https://es.finance.yahoo.com/noticias/petrolera-estadounidense-nabep-recibi%C3%B3-taladros-204308498.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Petrolera estadounidense NABEP dice que recibió dos taladros en Venezuela",
-        "capturado": "2026-10-13T17:20:37-05:00"
-      },
-      {
-        "titulo": "Fuentes señalan que México dará luz verde a la integración de Viva y Volaris previo a terminar el año",
-        "url": "https://es.finance.yahoo.com/noticias/m%C3%A9xico-aprobar%C3%A1-fusi%C3%B3n-viva-volaris-111504791.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "México aprobará la fusión Viva-Volaris antes de fin de año: fuentes",
-        "capturado": "2026-10-13T17:20:37-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE. UU. bajan por caídas tecnológicas y balances diversos en entidades bancarias mayores",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-174932714.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen en medio de descensos en el sector tecnológico y resultados mixtos en las grandes empresas bancarias.",
-        "capturado": "2026-10-13T17:20:37-05:00"
-      },
-      {
-        "titulo": "Ibex 35 desciende al borde de los 19.200 enteros presionado por caídas de ACS y Grifols",
-        "url": "https://es.finance.yahoo.com/noticias/ibex-35-cae-filo-19-154000735.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "El Ibex 35 cae hasta el filo de los 19.200 puntos arrastrado por los castigos a ACS y Grifols",
-        "capturado": "2026-10-13T17:20:37-05:00"
-      },
-      {
-        "titulo": "Los ETF descienden mientras los títulos valores de Estados Unidos retroceden pasada la media jornada",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-bajan-medida-172017933.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa bajan a medida que las acciones estadounidenses caen después del mediodía.",
-        "capturado": "2026-10-13T12:43:10-05:00"
-      },
-      {
-        "titulo": "Europa persigue autonomía en satélites y afronta el recorte presupuestario espacial de la UE",
-        "url": "https://es.finance.yahoo.com/noticias/europa-busca-soberan%C3%ADa-satelital-enfrenta-162219260.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Europa busca soberanía satelital y se enfrenta al cierre del presupuesto espacial de la UE",
-        "capturado": "2026-10-13T12:43:10-05:00"
       }
     ]
   }
