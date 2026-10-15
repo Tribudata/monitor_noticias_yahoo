@@ -1,9 +1,41 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-15T13:53:37-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-10-15T16:57:27-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Ascienden las bolsas de EE. UU. por repunte tecnológico ante menores apuestas de la Fed y alza de precios",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-212459981.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben a medida que el sector tecnológico se recupera parcialmente tras la caída de las apuestas de la Fed por un endurecimiento monetario en medio del alza de los precios al productor.",
+        "capturado": "2026-10-15T16:57:27-05:00"
+      },
+      {
+        "titulo": "Modifican normativas para plataformas de criptoactivos en Argentina a partir de noviembre",
+        "url": "https://es.finance.yahoo.com/noticias/argentina-reordena-reglas-plataformas-criptomonedas-195141123.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Argentina reordena reglas para plataformas de criptomonedas desde noviembre",
+        "capturado": "2026-10-15T16:57:27-05:00"
+      },
+      {
+        "titulo": "Administradoras de fondos de pensiones chilenas advierten peligro en derivados al subir sus colocaciones",
+        "url": "https://es.finance.yahoo.com/noticias/afp-chilenas-alertaron-riesgo-derivados-183259719.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "AFP chilenas alertaron por riesgo en derivados mientras elevaban sus inversiones",
+        "capturado": "2026-10-15T16:57:27-05:00"
+      },
+      {
+        "titulo": "Unión Europea diseña mecanismo comercial que excluiría a China de su mercado común",
+        "url": "https://es.finance.yahoo.com/noticias/ue-prepara-herramienta-comercial-bloquear-182029843.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "UE prepara herramienta comercial que podría bloquear a China de su mercado único",
+        "capturado": "2026-10-15T16:57:27-05:00"
+      },
       {
         "titulo": "El BCE aprueba que Unicredit asuma el mando de Commerzbank",
         "url": "https://es.finance.yahoo.com/noticias/unicredit-tomar-control-commerzbank-visto-184546816.html",
@@ -451,38 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "Mapa de la factura energética en Europa: qué países pagan más por la luz y el gas este invierno",
         "capturado": "2026-10-14T01:30:28-05:00"
-      },
-      {
-        "titulo": "Alerta de bonos por 110 mil millones en Wall Street: implicaciones para acciones y Bitcoin",
-        "url": "https://es.finance.yahoo.com/noticias/wall-street-advertencia-bonos-110-223600276.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Wall Street y una advertencia de bonos por $110 mil millones: ¿Qué significa para las acciones y Bitcoin?",
-        "capturado": "2026-10-13T20:19:37-05:00"
-      },
-      {
-        "titulo": "Paul Tudor Jones prevé un 2027 adverso para la bolsa: ¿resistirá Bitcoin?",
-        "url": "https://es.finance.yahoo.com/noticias/paul-tudor-jones-advierte-2027-211000900.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Paul Tudor Jones advierte sobre un 2027 brutal para las acciones: ¿aguantará Bitcoin?",
-        "capturado": "2026-10-13T20:19:37-05:00"
-      },
-      {
-        "titulo": "Vuelve el FOMO sobre Ethereum a pesar de diez jornadas seguidas de venta en ETF",
-        "url": "https://es.finance.yahoo.com/noticias/regresa-fomo-ethereum-inversores-etf-194800411.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Regresa el FOMO por Ethereum mientras los inversores de ETF venden durante 10 días consecutivos",
-        "capturado": "2026-10-13T20:19:37-05:00"
-      },
-      {
-        "titulo": "Papa León XIV supera con éxito intervención quirúrgica para sacar un nódulo pulmonar",
-        "url": "https://es.finance.yahoo.com/noticias/papa-le%C3%B3n-xiv-somete-%C3%A9xito-184025354.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Papa León XIV se somete con éxito a cirugía para extirpar un nódulo pulmonar",
-        "capturado": "2026-10-13T20:19:37-05:00"
       }
     ]
   }
