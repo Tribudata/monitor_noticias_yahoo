@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-15T04:45:58-05:00",
+  "actualizado": "2026-10-15T09:41:29-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Costos para productores en EE. UU. alcanzan en septiembre su mayor subida en cuatro años y medio",
+        "url": "https://es.finance.yahoo.com/noticias/precios-productor-eeuu-registran-septiembre-142126907.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Precios al productor EEUU registran en septiembre su mayor avance en cuatro años y medio",
+        "capturado": "2026-10-15T09:41:29-05:00"
+      },
+      {
+        "titulo": "Dato negativo de CoreWeave expone el endeudamiento oculto tras la expansión de la inteligencia artificial",
+        "url": "https://es.finance.yahoo.com/noticias/ca%C3%ADda-coreweave-pone-relieve-deuda-141805509.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "La caída de CoreWeave pone de relieve la deuda que hay detrás del auge de la IA",
+        "capturado": "2026-10-15T09:41:29-05:00"
+      },
+      {
+        "titulo": "CEPAL prevé alto crecimiento comercial en América Latina en 2026 por materias primas y lazos con Asia",
+        "url": "https://es.finance.yahoo.com/noticias/latina-registra-fuerte-auge-comercial-141523144.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "A.Latina registra fuerte auge comercial en 2026 por 'boom' de materias primas y mayor vínculo con Asia: CEPAL",
+        "capturado": "2026-10-15T09:41:29-05:00"
+      },
+      {
+        "titulo": "Gobierno de Noruega propone permitir que su fondo de dos billones de euros compre armamento nuclear",
+        "url": "https://es.finance.yahoo.com/noticias/noruega-abrir-fondo-2-billones-132514392.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Noruega plantea abrir su fondo de 2 billones de euros a invertir en armas nucleares",
+        "capturado": "2026-10-15T09:41:29-05:00"
+      },
+      {
+        "titulo": "Moneda europea retrocede a pisos históricos frente al dólar y la libra a pesar del alza de tasas del BCE",
+        "url": "https://es.finance.yahoo.com/noticias/euro-cae-m%C3%ADnimos-frente-d%C3%B3lar-122721799.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El euro cae a nuevos mínimos frente al dólar y la libra pese a las subidas de tipos del BCE",
+        "capturado": "2026-10-15T09:41:29-05:00"
+      },
+      {
+        "titulo": "Matt Hougan de Bitwise afirma que el bitcoin triunfa en cualquier contexto financiero",
+        "url": "https://es.finance.yahoo.com/noticias/bitcoin-gana-escenarios-econ%C3%B3micos-matt-132600354.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Bitcoin gana en todos los escenarios económicos, dice Matt Hougan, CIO de Bitwise",
+        "capturado": "2026-10-15T09:41:29-05:00"
+      },
+      {
+        "titulo": "Detalles acerca del gravamen germano reciente sobre los refrescos azucarados",
+        "url": "https://es.finance.yahoo.com/noticias/impuesto-alem%C3%A1n-bebidas-azucaradas-101540825.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Todo sobre el nuevo impuesto alemán a las bebidas azucaradas",
+        "capturado": "2026-10-15T09:41:29-05:00"
+      },
+      {
+        "titulo": "El CIC incrementa su estimación para la producción global de maíz de 2026 a 2027",
+        "url": "https://es.finance.yahoo.com/noticias/cic-revisa-alza-previsi%C3%B3n-cosecha-131732315.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "El CIC revisa al alza la previsión de la cosecha mundial de maíz para 2026/27",
+        "capturado": "2026-10-15T09:41:29-05:00"
+      },
       {
         "titulo": "El S&P 500 inicia su temporada estacional más fuerte: detalles",
         "url": "https://es.finance.yahoo.com/noticias/s-p-500-entra-periodo-091700934.html",
@@ -419,70 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "Europa busca soberanía satelital y se enfrenta al cierre del presupuesto espacial de la UE",
         "capturado": "2026-10-13T12:43:10-05:00"
-      },
-      {
-        "titulo": "Las plazas de Argentina retoman operaciones al alza ante la expectativa por el IPC",
-        "url": "https://es.finance.yahoo.com/noticias/mercados-argentinos-reanudan-operatoria-alza-161617098.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Mercados argentinos reanudan operatoria en alza, expectación por inflación",
-        "capturado": "2026-10-13T12:43:10-05:00"
-      },
-      {
-        "titulo": "Brasil presenta proyecto legal para perdonar 2500 millones de dólares en deudas a microempresarios",
-        "url": "https://es.finance.yahoo.com/noticias/brasil-anuncia-proyecto-ley-condonar-152917354.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Brasil anuncia proyecto de ley para condonar deuda de 2.500 millones de dólares a microempresarios",
-        "capturado": "2026-10-13T12:43:10-05:00"
-      },
-      {
-        "titulo": "Cierre de terminales marítimas recortará ventas externas de maíz ucraniano a 19 millones de tn en 2026/27",
-        "url": "https://es.finance.yahoo.com/noticias/bloqueo-puertos-mar%C3%ADtimos-limitar%C3%A1-exportaciones-150923065.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Bloqueo puertos marítimos limitará exportaciones maíz Ucrania en campaña 2026/27 a 19 million tn: agricultores",
-        "capturado": "2026-10-13T12:43:10-05:00"
-      },
-      {
-        "titulo": "Apple da a conocer aparatos hogareños y revela edición renovada de la inteligencia artificial de Siri",
-        "url": "https://es.finance.yahoo.com/noticias/apple-presenta-productos-hogar-muestra-143708308.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Apple presenta nuevos productos para el hogar y muestra versión actualizada de la IA de Siri",
-        "capturado": "2026-10-13T12:43:10-05:00"
-      },
-      {
-        "titulo": "Entidades bancarias estadounidenses optimizan sus ganancias mas amenazas financieras ensombrecen el porvenir",
-        "url": "https://es.finance.yahoo.com/noticias/bancos-ee-uu-mejoran-resultados-142223526.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Bancos de EE.UU. mejoran sus resultados, pero los riesgos económicos nublan el futuro del sector",
-        "capturado": "2026-10-13T12:43:10-05:00"
-      },
-      {
-        "titulo": "Compraventa de viviendas usadas en Estados Unidos crece en septiembre; incremento en créditos empaña panorama",
-        "url": "https://es.finance.yahoo.com/noticias/venta-casas-usadas-eeuu-sube-141841505.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Venta de casas usadas en EEUU sube en septiembre; alza de tasas hipotecarias empaña perspectivas",
-        "capturado": "2026-10-13T12:43:10-05:00"
-      },
-      {
-        "titulo": "Filosa de Stellantis advierte sobre exceso de capacidad en Europa y busca pactos para impedir clausuras",
-        "url": "https://es.finance.yahoo.com/noticias/stellantis-filosa-demasiada-capacidad-productiva-094419907.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Stellantis, Filosa: demasiada capacidad productiva en Europa, acuerdos para evitar cierres",
-        "capturado": "2026-10-13T05:08:58-05:00"
-      },
-      {
-        "titulo": "El token Starknet sufre caída cercana al 28% y registra el peor desempeño dentro de las 300 principales",
-        "url": "https://es.finance.yahoo.com/noticias/starknet-desploma-28-convierte-token-091400688.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Starknet se desploma casi 28% y se convierte en el token con peor rendimiento en el top 300",
-        "capturado": "2026-10-13T05:08:58-05:00"
       }
     ]
   }
