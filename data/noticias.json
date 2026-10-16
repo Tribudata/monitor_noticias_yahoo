@@ -1,9 +1,65 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-16T09:34:17-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-10-16T13:38:14-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Carteras de ballenas de Bitcoin alcanzan récord histórico y bajistas abren más posiciones cortas",
+        "url": "https://es.finance.yahoo.com/noticias/wallets-ballenas-bitcoin-registran-m%C3%A1ximo-171400081.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Wallets de ballenas de Bitcoin registran máximo histórico mientras los bajistas abren más posiciones cortas: ¿Qué sigue?",
+        "capturado": "2026-10-16T13:38:14-05:00"
+      },
+      {
+        "titulo": "Fondos cotizados en bolsa descienden al tiempo que acciones de Estados Unidos caen tras el mediodía",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-caen-medida-171357216.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa caen a medida que las acciones estadounidenses bajan después del mediodía.",
+        "capturado": "2026-10-16T13:38:14-05:00"
+      },
+      {
+        "titulo": "Demanda por el iPhone Duo de Apple extiende los plazos de entrega hasta el año 2027",
+        "url": "https://es.finance.yahoo.com/noticias/fiebre-iphone-duo-apple-fechas-160126785.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Fiebre por el iPhone Duo de Apple lleva las fechas de entrega hasta 2027",
+        "capturado": "2026-10-16T13:38:14-05:00"
+      },
+      {
+        "titulo": "Uzbekistán sella pactos energéticos por 4.700 millones y proyecta dos plantas nucleares nuevas",
+        "url": "https://es.finance.yahoo.com/noticias/uzbekist%C3%A1n-firma-acuerdos-energ%C3%A9ticos-4-144622794.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Uzbekistán firma acuerdos energéticos por 4.700 millones y prevé 2 nuevas centrales nucleares",
+        "capturado": "2026-10-16T13:38:14-05:00"
+      },
+      {
+        "titulo": "Recuento semanal de criptomonedas y Bitcoin del 16 de octubre",
+        "url": "https://es.finance.yahoo.com/noticias/resumen-semanal-bitcoin-criptomonedas-16-155200432.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Resumen semanal de Bitcoin y criptomonedas: 16 de octubre",
+        "capturado": "2026-10-16T13:38:14-05:00"
+      },
+      {
+        "titulo": "El sondeo de servicios de la Fed de Nueva York muestra marcadas presiones de precios",
+        "url": "https://es.finance.yahoo.com/noticias/encuesta-sector-servicios-fed-york-152035405.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "La encuesta del sector servicios de la Fed de Nueva York revela presiones inflacionistas notables",
+        "capturado": "2026-10-16T13:38:14-05:00"
+      },
+      {
+        "titulo": "Estados Unidos pone a disposición hasta 17 millones de barriles de crudo de su reserva",
+        "url": "https://es.finance.yahoo.com/noticias/eeuu-ofrece-17-millones-barriles-151319677.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "EEUU ofrece hasta 17 millones de barriles de petróleo de la reserva estratégica",
+        "capturado": "2026-10-16T13:38:14-05:00"
+      },
       {
         "titulo": "Elevarán el auto volador de Tesla ventas y acciones",
         "url": "https://es.finance.yahoo.com/noticias/coche-volador-tesla-disparar-ventas-140620372.html",
@@ -427,62 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "Elon Musk apoya la moderación de precios de Micron tras una caída de 4 días",
         "capturado": "2026-10-14T19:00:25-05:00"
-      },
-      {
-        "titulo": "EEUU evalúa gravámenes a barcos españoles y topes a compras externas de aceite de oliva",
-        "url": "https://es.finance.yahoo.com/noticias/eeuu-plantea-imposici%C3%B3n-tasas-buques-205438373.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "EEUU plantea imposición de tasas a los buques españoles y límites a las importaciones de aceite de oliva",
-        "capturado": "2026-10-14T16:19:34-05:00"
-      },
-      {
-        "titulo": "Bolsas de EEUU bajan con escaso movimiento al desplomarse tecnológicas por alta inflación",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-204649939.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen con bajos volúmenes de negociación mientras las grandes tecnológicas se desploman tras el fuerte aumento de la inflación.",
-        "capturado": "2026-10-14T16:19:34-05:00"
-      },
-      {
-        "titulo": "Ethereum presenta tres alertas de peligro al tiempo que grandes tenedores liquidan",
-        "url": "https://es.finance.yahoo.com/noticias/ethereum-muestra-3-se%C3%B1ales-advertencia-181200770.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Ethereum muestra 3 señales de advertencia mientras los grandes holders venden",
-        "capturado": "2026-10-14T16:19:34-05:00"
-      },
-      {
-        "titulo": "Magistrado federal frena el plan de reestructuración de una entidad agraria de EEUU",
-        "url": "https://es.finance.yahoo.com/noticias/juez-federal-bloquea-reorganizaci%C3%B3n-prevista-180141948.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Juez federal bloquea la reorganización prevista de una agencia agrícola estadounidense",
-        "capturado": "2026-10-14T16:19:34-05:00"
-      },
-      {
-        "titulo": "Bolsas de EEUU descienden y tecnológicas se derrumban por inflación que sugiere tres alzas de tasas",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-174948016.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen mientras las grandes tecnológicas se desploman tras un informe de inflación positivo que aumenta las probabilidades de tres subidas de tipos de la Reserva Federal en seis meses.",
-        "capturado": "2026-10-14T16:19:34-05:00"
-      },
-      {
-        "titulo": "Bessent incrementa la presión al FMI por los crecientes desequilibrios en China",
-        "url": "https://es.finance.yahoo.com/noticias/bessent-aumenta-presi%C3%B3n-fmi-crecientes-173326184.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Bessent aumenta presión sobre el FMI ante los crecientes desequilibrios de China",
-        "capturado": "2026-10-14T16:19:34-05:00"
-      },
-      {
-        "titulo": "Morgan Stanley supera proyecciones bursátiles e impone récord en manejo patrimonial",
-        "url": "https://es.finance.yahoo.com/noticias/morgan-stanley-supera-previsiones-acciones-171212561.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Morgan Stanley supera previsiones en acciones y bate récord en gestión patrimonial",
-        "capturado": "2026-10-14T16:19:34-05:00"
       }
     ]
   }
