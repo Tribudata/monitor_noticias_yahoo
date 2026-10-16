@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-15T23:49:33-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-16T04:31:01-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Interés por Bitcoin en Google baja a piso de 6 años y Willy Woo señala posible compra",
+        "url": "https://es.finance.yahoo.com/noticias/b%C3%BAsquedas-bitcoin-google-caen-m%C3%ADnimos-091700033.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Búsquedas de Bitcoin en Google caen mínimos de 6 años: Willy Woo destaca señal de compra",
+        "capturado": "2026-10-16T04:31:01-05:00"
+      },
+      {
+        "titulo": "Rusia asume el dominio de más bienes corporativos del viejo continente",
+        "url": "https://es.finance.yahoo.com/noticias/rusia-control-activos-empresariales-europeos-084759833.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Rusia se hace con el control de más activos empresariales europeos",
+        "capturado": "2026-10-16T04:31:01-05:00"
+      },
+      {
+        "titulo": "Warsh de la Fed advierte solidez económica en EE UU sin anticipar rumbo de tipos",
+        "url": "https://es.finance.yahoo.com/noticias/warsh-fed-ve-fortaleza-econ%C3%B3mica-061948090.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Warsh, de la Fed, ve fortaleza económica en EEUU, pero no adelanta decisión sobre tasas",
+        "capturado": "2026-10-16T04:31:01-05:00"
+      },
+      {
+        "titulo": "Banga afirma que el Banco Mundial busca multiplicar por cinco los fondos para minerales esenciales hacia 2030",
+        "url": "https://es.finance.yahoo.com/noticias/banco-mundial-quintuplicar-financiaci%C3%B3n-minerales-081825568.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "El Banco Mundial quiere quintuplicar la financiación para minerales críticos para 2030, dice Banga",
+        "capturado": "2026-10-16T04:31:01-05:00"
+      },
+      {
+        "titulo": "Mercado bursátil indonesio retrocede un 11 por ciento luego de que MSCI proponga rebajar su categoría de plaza emergente",
+        "url": "https://es.finance.yahoo.com/noticias/bolsa-indonesia-cae-11-propuesta-081455223.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "La Bolsa de Indonesia cae un 11% tras propuesta de MSCI de degradar su estatus de mercado emergente",
+        "capturado": "2026-10-16T04:31:01-05:00"
+      },
+      {
+        "titulo": "Propulsores de SpaceX permiten al nuevo Roadster de Tesla girar en el aire",
+        "url": "https://es.finance.yahoo.com/noticias/roadster-tesla-vuelta-aire-gracias-075516426.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "El nuevo Roadster de Tesla se da la vuelta en el aire gracias a propulsores de SpaceX",
+        "capturado": "2026-10-16T04:31:01-05:00"
+      },
+      {
+        "titulo": "Asesor financiero del país sigue siendo Centerview según vicepresidente de Venezuela",
+        "url": "https://es.finance.yahoo.com/noticias/vicepresidente-econ%C3%B3mico-venezuela-centerview-asesor-075441611.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "El vicepresidente económico de Venezuela dice que Centerview sigue siendo el asesor financiero del país",
+        "capturado": "2026-10-16T04:31:01-05:00"
+      },
+      {
+        "titulo": "Principales índices bursátiles globales podrían excluir a Strategy",
+        "url": "https://es.finance.yahoo.com/noticias/strategy-ser-eliminada-principales-%C3%ADndices-075100250.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Strategy podría ser eliminada de los principales índices bursátiles globales",
+        "capturado": "2026-10-16T04:31:01-05:00"
+      },
       {
         "titulo": "Unión Europea quiere agilizar el visado de la iniciativa Bromo, su contestación a SpaceX",
         "url": "https://es.finance.yahoo.com/noticias/ue-busca-acelerar-aprobaci%C3%B3n-proyecto-182445719.html",
@@ -419,70 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "El acuerdo sobre el diésel abre la vía a una mayor cooperación entre Rusia y EEUU, según el Kremlin",
         "capturado": "2026-10-14T07:40:06-05:00"
-      },
-      {
-        "titulo": "La AIE avisa de futuros incrementos del gasóleo en suelo europeo a corto plazo",
-        "url": "https://es.finance.yahoo.com/noticias/aie-advierte-precios-di%C3%A9sel-europa-113857538.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La AIE advierte de nuevas subidas del gasóleo en Europa en las próximas semanas",
-        "capturado": "2026-10-14T07:40:06-05:00"
-      },
-      {
-        "titulo": "Fuentes indican que instalaciones de Saudi Aramco sufrieron graves afectaciones tras una ofensiva hutí",
-        "url": "https://es.finance.yahoo.com/noticias/sede-saudi-aramco-sufri%C3%B3-da%C3%B1os-120810982.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Sede de Saudi Aramco sufrió daños importantes en un ataque de los hutíes: fuentes",
-        "capturado": "2026-10-14T07:40:06-05:00"
-      },
-      {
-        "titulo": "El Ejecutivo luso comunica que Lufthansa pasará a ser socio inversor de TAP",
-        "url": "https://es.finance.yahoo.com/noticias/lufthansa-accionista-tap-anuncia-gobierno-120613190.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Lufthansa será el nuevo accionista de TAP, anuncia el Gobierno portugués",
-        "capturado": "2026-10-14T07:40:06-05:00"
-      },
-      {
-        "titulo": "Los contratos a futuro de Wall Street repuntan levemente ante resultados empresariales y datos de inflación",
-        "url": "https://es.finance.yahoo.com/noticias/futuros-acciones-estadounidenses-suben-ligeramente-115715607.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los futuros de las acciones estadounidenses suben ligeramente mientras los operadores evalúan las ganancias corporativas y esperan la publicación de datos clave sobre la inflación.",
-        "capturado": "2026-10-14T07:40:06-05:00"
-      },
-      {
-        "titulo": "Datos señalan que Rusia vuelve a despachar envíos de diésel para la venta externa",
-        "url": "https://es.finance.yahoo.com/noticias/rusia-reanuda-cargas-exportaci%C3%B3n-di%C3%A9sel-115134561.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Rusia reanuda las cargas de exportación de diésel, muestran datos",
-        "capturado": "2026-10-14T07:40:06-05:00"
-      },
-      {
-        "titulo": "Consejero económico venezolano señala que prevé divulgar estudio de sostenibilidad de deuda en breve",
-        "url": "https://es.finance.yahoo.com/noticias/asesor-econ%C3%B3mico-venezuela-espera-publicar-114054798.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Asesor económico de Venezuela dice que espera publicar análisis de sostenibilidad de deuda \"muy pronto\"",
-        "capturado": "2026-10-14T07:40:06-05:00"
-      },
-      {
-        "titulo": "Reservas petroleras chinas disminuyen a pesar de menor incremento en ritmo de compra externa en septiembre",
-        "url": "https://es.finance.yahoo.com/noticias/inventarios-crudo-china-caen-pese-113025562.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Los inventarios de crudo de China caen pese a leve aumento de tasa de importación en septiembre",
-        "capturado": "2026-10-14T07:40:06-05:00"
-      },
-      {
-        "titulo": "Tributos, casa y pensiones: acciones del OE2027 que impactan el gasto del hogar en Portugal",
-        "url": "https://es.finance.yahoo.com/noticias/impuestos-vivienda-matr%C3%ADculas-medidas-oe2027-061227183.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Impuestos, vivienda y matrículas: medidas del OE2027 que afectan al presupuesto familiar en Portugal",
-        "capturado": "2026-10-14T01:30:28-05:00"
       }
     ]
   }
