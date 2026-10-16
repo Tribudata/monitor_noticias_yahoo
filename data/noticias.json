@@ -1,9 +1,33 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-15T16:57:27-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-15T19:11:31-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Grayscale indica que la inestabilidad de Bitcoin bajó a 43%: se halla en el nivel del S&P 500",
+        "url": "https://es.finance.yahoo.com/noticias/grayscale-se%C3%B1ala-volatilidad-bitcoin-cay%C3%B3-233404387.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Grayscale señala que la volatilidad de Bitcoin cayó a 43%: se ubica en el rango del S&P 500",
+        "capturado": "2026-10-15T19:11:31-05:00"
+      },
+      {
+        "titulo": "Rakuten Wallet distribuirá monedas tangibles de Shiba Inu",
+        "url": "https://es.finance.yahoo.com/noticias/rakuten-wallet-entregar%C3%A1-monedas-f%C3%ADsicas-223900776.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Rakuten Wallet entregará monedas físicas de Shiba Inu (SHIB)",
+        "capturado": "2026-10-15T19:11:31-05:00"
+      },
+      {
+        "titulo": "Por qué no repunta XRP: 13 semanas de ingresos en ETF no han alterado la cotización",
+        "url": "https://es.finance.yahoo.com/noticias/xrp-sube-13-semanas-entradas-211700059.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿Por qué XRP no sube? 13 semanas de entradas en ETF no han movido el precio",
+        "capturado": "2026-10-15T19:11:31-05:00"
+      },
       {
         "titulo": "Ascienden las bolsas de EE. UU. por repunte tecnológico ante menores apuestas de la Fed y alza de precios",
         "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-212459981.html",
@@ -458,30 +482,6 @@
         "resumen": "",
         "medio": "Reuters",
         "titulo_fuente": "La española Cox Energy invertirá 2.900 millones de dólares en El Salvador, dice Bukele",
-        "capturado": "2026-10-14T01:30:28-05:00"
-      },
-      {
-        "titulo": "Las ventas externas chinas de septiembre superan pronósticos y las compras suben el ritmo",
-        "url": "https://es.finance.yahoo.com/noticias/exportaciones-chinas-septiembre-baten-previsiones-054542431.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Las exportaciones chinas de septiembre baten previsiones y las importaciones se aceleran",
-        "capturado": "2026-10-14T01:30:28-05:00"
-      },
-      {
-        "titulo": "Las fallas contra el lavado de activos le salen a Bank of America por 1.200 millones de dólares",
-        "url": "https://es.finance.yahoo.com/noticias/fallos-blanqueo-capitales-cuestan-bank-053102372.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Los fallos contra el blanqueo de capitales le cuestan a Bank of America 1.200 millones de dólares",
-        "capturado": "2026-10-14T01:30:28-05:00"
-      },
-      {
-        "titulo": "Cuadro de la tarifa energética en Europa: qué naciones pagan más luz y gas este invierno",
-        "url": "https://es.finance.yahoo.com/noticias/facturas-energ%C3%ADa-invierno-d%C3%B3nde-caras-044936554.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Mapa de la factura energética en Europa: qué países pagan más por la luz y el gas este invierno",
         "capturado": "2026-10-14T01:30:28-05:00"
       }
     ]
