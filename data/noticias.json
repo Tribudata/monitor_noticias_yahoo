@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-16T13:38:14-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-10-16T16:55:44-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Tres altcoins para seguir este fin de semana del 17 al 18 de octubre",
+        "url": "https://es.finance.yahoo.com/noticias/top-3-altcoins-observar-semana-210100309.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Top 3 altcoins a observar este fin de semana | 17-18 de octubre",
+        "capturado": "2026-10-16T16:55:44-05:00"
+      },
+      {
+        "titulo": "Bolsas de Estados Unidos caen por traslado de capitales y alza del petróleo",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-retroceden-204142393.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses retroceden en medio de la rotación de capitales fuera de los sectores de alto crecimiento y el aumento del precio del petróleo crudo.",
+        "capturado": "2026-10-16T16:55:44-05:00"
+      },
+      {
+        "titulo": "Wall Street mixta debido a que CoreWeave altera el mercado de inteligencia artificial",
+        "url": "https://es.finance.yahoo.com/noticias/%C3%ADndices-burs%C3%A1tiles-estadounidenses-mostraron-resultados-202931194.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los índices bursátiles estadounidenses mostraron resultados mixtos esta semana, ya que CoreWeave sacude el comercio de IA y provoca una rotación hacia sectores menos tecnológicos.",
+        "capturado": "2026-10-16T16:55:44-05:00"
+      },
+      {
+        "titulo": "Google vence traba cuántica y surgen dudas sobre su impacto en Bitcoin",
+        "url": "https://es.finance.yahoo.com/noticias/google-supera-obst%C3%A1culo-clave-computaci%C3%B3n-194600463.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Google supera obstáculo clave en la computación cuántica: ¿Qué significa para Bitcoin?",
+        "capturado": "2026-10-16T16:55:44-05:00"
+      },
+      {
+        "titulo": "Jefa de prensa de la Casa Blanca renuncia tras ocupar el puesto cinco días",
+        "url": "https://es.finance.yahoo.com/noticias/secretaria-prensa-casa-blanca-deja-190234121.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Secretaria de prensa de la Casa Blanca deja cargo tras solo cinco días",
+        "capturado": "2026-10-16T16:55:44-05:00"
+      },
+      {
+        "titulo": "Soja alcanza mínimo de siete semanas y maíz cae por pronóstico de clima seco en Medio Oeste",
+        "url": "https://es.finance.yahoo.com/noticias/soja-toca-m%C3%ADnimo-semanas-ma%C3%ADz-185119564.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Soja toca mínimo de siete semanas y maíz baja por previsión de clima seco en Medio Oeste",
+        "capturado": "2026-10-16T16:55:44-05:00"
+      },
+      {
+        "titulo": "El desbalance fiscal de EE UU aumenta a 1,99 billones de dólares anuales, el más alto en cinco años",
+        "url": "https://es.finance.yahoo.com/noticias/d%C3%A9ficit-fiscal-eeuu-sube-1-184632079.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "El déficit fiscal de EEUU sube a 1,99 billones de dólares en el año, el mayor en un lustro",
+        "capturado": "2026-10-16T16:55:44-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE UU descienden al salir inversores de sectores de gran crecimiento y subir el crudo",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-183740930.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen a medida que los inversores abandonan los sectores de alto crecimiento y el petróleo crudo sube.",
+        "capturado": "2026-10-16T16:55:44-05:00"
+      },
       {
         "titulo": "Carteras de ballenas de Bitcoin alcanzan récord histórico y bajistas abren más posiciones cortas",
         "url": "https://es.finance.yahoo.com/noticias/wallets-ballenas-bitcoin-registran-m%C3%A1ximo-171400081.html",
@@ -419,70 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "La economía británica crece contra pronóstico pese al menor consumo",
         "capturado": "2026-10-15T04:45:58-05:00"
-      },
-      {
-        "titulo": "El FMI señala que choques recientes y un conflicto prolongado son la principal amenaza en Oriente Medio",
-        "url": "https://es.finance.yahoo.com/noticias/guerra-larga-perturbaciones-riesgo-oriente-065923430.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Una guerra larga y nuevas perturbaciones son el mayor riesgo para Oriente Medio, dice el FMI",
-        "capturado": "2026-10-15T04:45:58-05:00"
-      },
-      {
-        "titulo": "Mandatario taiwanés insta a Micron y empleados a concertar con franqueza frente a inminente paro",
-        "url": "https://es.finance.yahoo.com/noticias/presidente-taiw%C3%A1n-pide-micron-trabajadores-065830162.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "El presidente de Taiwán pide a Micron y sus trabajadores negociar \"con sinceridad\" ante posible huelga",
-        "capturado": "2026-10-15T04:45:58-05:00"
-      },
-      {
-        "titulo": "TSMC, la firma taiwanesa de semiconductores, alcanza ganancias históricas en el tercer trimestre",
-        "url": "https://es.finance.yahoo.com/noticias/gigante-taiwan%C3%A9s-chips-tsmc-logra-064427964.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Gigante taiwanés de chips TSMC logra beneficio récord en el tercer trimestre",
-        "capturado": "2026-10-15T04:45:58-05:00"
-      },
-      {
-        "titulo": "Las transacciones de tecnológicas empeoran y tiran de los mercados",
-        "url": "https://es.finance.yahoo.com/noticias/ventas-tecnol%C3%B3gicas-agravan-arrastran-bolsas-042018350.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Las ventas de tecnológicas se agravan y arrastran a las bolsas",
-        "capturado": "2026-10-14T23:59:25-05:00"
-      },
-      {
-        "titulo": "Europa modifica su panorama de bonos: Bélgica iguala a Grecia y Francia rinde más que Italia",
-        "url": "https://es.finance.yahoo.com/noticias/europa-cambia-mapa-deuda-b%C3%A9lgica-035855939.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Europa cambia su mapa de deuda: Bélgica como Grecia y Francia paga más que Italia",
-        "capturado": "2026-10-14T23:59:25-05:00"
-      },
-      {
-        "titulo": "Cae 15% el único título en el que Jim Cramer tiene confianza",
-        "url": "https://es.finance.yahoo.com/noticias/%C3%BAnica-acci%C3%B3n-jim-cramer-conf%C3%ADa-220800010.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "La única acción en la que Jim Cramer confía se desploma 15%",
-        "capturado": "2026-10-14T19:00:25-05:00"
-      },
-      {
-        "titulo": "Por qué ningún directivo de Bank of America terminó preso como CZ",
-        "url": "https://es.finance.yahoo.com/noticias/bank-of-america-prisi%C3%B3n-cz-204600343.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿Por qué nadie del Bank of America fue a prisión como CZ?",
-        "capturado": "2026-10-14T19:00:25-05:00"
-      },
-      {
-        "titulo": "Elon Musk respalda el freno a precios de Micron tras baja de 4 días",
-        "url": "https://es.finance.yahoo.com/noticias/elon-musk-apoya-moderaci%C3%B3n-precios-192900522.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Elon Musk apoya la moderación de precios de Micron tras una caída de 4 días",
-        "capturado": "2026-10-14T19:00:25-05:00"
       }
     ]
   }
