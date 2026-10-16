@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-15T19:11:31-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-15T23:49:33-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Unión Europea quiere agilizar el visado de la iniciativa Bromo, su contestación a SpaceX",
+        "url": "https://es.finance.yahoo.com/noticias/ue-busca-acelerar-aprobaci%C3%B3n-proyecto-182445719.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "UE busca acelerar aprobación de Proyecto Bromo, su respuesta a SpaceX",
+        "capturado": "2026-10-15T23:49:33-05:00"
+      },
       {
         "titulo": "Grayscale indica que la inestabilidad de Bitcoin bajó a 43%: se halla en el nivel del S&P 500",
         "url": "https://es.finance.yahoo.com/noticias/grayscale-se%C3%B1ala-volatilidad-bitcoin-cay%C3%B3-233404387.html",
@@ -474,14 +482,6 @@
         "resumen": "",
         "medio": "Euronews",
         "titulo_fuente": "Impuestos, vivienda y matrículas: medidas del OE2027 que afectan al presupuesto familiar en Portugal",
-        "capturado": "2026-10-14T01:30:28-05:00"
-      },
-      {
-        "titulo": "La ibérica Cox Energy destinará 2.900 millones de dólares en El Salvador, afirma Bukele",
-        "url": "https://es.finance.yahoo.com/noticias/presidente-bukele-anuncia-inversi%C3%B3n-cox-230832990.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "La española Cox Energy invertirá 2.900 millones de dólares en El Salvador, dice Bukele",
         "capturado": "2026-10-14T01:30:28-05:00"
       }
     ]
