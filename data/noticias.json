@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-16T04:31:01-05:00",
+  "actualizado": "2026-10-16T09:34:17-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Elevarán el auto volador de Tesla ventas y acciones",
+        "url": "https://es.finance.yahoo.com/noticias/coche-volador-tesla-disparar-ventas-140620372.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "¿Puede el coche volador de Tesla disparar ventas y acciones?",
+        "capturado": "2026-10-16T09:34:17-05:00"
+      },
+      {
+        "titulo": "Titular del FMI pide unión ante IA y guerra, y EE UU alaba su economía",
+        "url": "https://es.finance.yahoo.com/noticias/jefa-fmi-insta-cooperar-ia-135828757.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Jefa del FMI insta a cooperar en IA y riesgos de guerra, mientras EEUU celebra la economía",
+        "capturado": "2026-10-16T09:34:17-05:00"
+      },
+      {
+        "titulo": "ETFs y futuros accionarios muestran cifras diversas previo a la apertura del viernes por prudencia",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-futuros-renta-131413624.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa y los futuros de renta variable presentan resultados mixtos antes de la apertura del mercado el viernes, en medio de la cautela de los inversores.",
+        "capturado": "2026-10-16T09:34:17-05:00"
+      },
+      {
+        "titulo": "Ciberdelincuentes asaltados: se esfuman 4,8 millones de dólares en hackeo de billetera Ledger",
+        "url": "https://es.finance.yahoo.com/noticias/estafadores-robados-4-8-millones-130600933.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Hasta los estafadores son robados: $4.8 millones desaparecen en el drenaje de la wallet Ledger",
+        "capturado": "2026-10-16T09:34:17-05:00"
+      },
+      {
+        "titulo": "Reporte: Futuros de EE UU casi planos en la apertura y Kevin Warsh sin pistas sobre tasas",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-futuros-acciones-estadounidenses-mantienen-125607419.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los futuros de las acciones estadounidenses se mantienen prácticamente estables antes de la apertura del mercado, mientras que el presidente de la Reserva Federal, Kevin Warsh, evita dar indicaciones sobre las tasas de interés.",
+        "capturado": "2026-10-16T09:34:17-05:00"
+      },
+      {
+        "titulo": "El bombeo petrolero de la OPEP subió en septiembre, de acuerdo con un sondeo de Reuters",
+        "url": "https://es.finance.yahoo.com/noticias/producci%C3%B3n-petr%C3%B3leo-opep-aument%C3%B3-septiembre-125555300.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "La producción de petróleo de la OPEP aumentó en septiembre, según una encuesta de Reuters",
+        "capturado": "2026-10-16T09:34:17-05:00"
+      },
+      {
+        "titulo": "El costo de las importaciones en Estados Unidos crece por encima de lo estimado en septiembre",
+        "url": "https://es.finance.yahoo.com/noticias/precios-importaciones-estadounidenses-suben-previsto-124608186.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Los precios de las importaciones estadounidenses suben más de lo previsto en septiembre",
+        "capturado": "2026-10-16T09:34:17-05:00"
+      },
+      {
+        "titulo": "Títulos valores suben con prudencia tras una semana agitada",
+        "url": "https://es.finance.yahoo.com/noticias/acciones-avanzan-cautela-semana-turbulenta-115926541.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Acciones avanzan con cautela tras una semana turbulenta",
+        "capturado": "2026-10-16T09:34:17-05:00"
+      },
       {
         "titulo": "Interés por Bitcoin en Google baja a piso de 6 años y Willy Woo señala posible compra",
         "url": "https://es.finance.yahoo.com/noticias/b%C3%BAsquedas-bitcoin-google-caen-m%C3%ADnimos-091700033.html",
@@ -419,70 +483,6 @@
         "medio": "Bloomberg",
         "titulo_fuente": "Morgan Stanley supera previsiones en acciones y bate récord en gestión patrimonial",
         "capturado": "2026-10-14T16:19:34-05:00"
-      },
-      {
-        "titulo": "Los ETF descienden tras la caída de los títulos en Estados Unidos luego del mediodía",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-bajan-medida-170825099.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa bajan a medida que las acciones estadounidenses caen después del mediodía.",
-        "capturado": "2026-10-14T12:48:17-05:00"
-      },
-      {
-        "titulo": "Tres proyectos claves de Sui para vigilar con miras al año 2027",
-        "url": "https://es.finance.yahoo.com/noticias/top-3-desarrollos-importantes-sui-165300113.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Top 3 desarrollos importantes de Sui a seguir de cara a 2027",
-        "capturado": "2026-10-14T12:48:17-05:00"
-      },
-      {
-        "titulo": "Administración alemana dialoga para comprar la mitad de la productora de blindados KNDS",
-        "url": "https://es.finance.yahoo.com/noticias/gobierno-alem%C3%A1n-negociaciones-adquirir-50-160706551.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Gobierno alemán está en negociaciones para adquirir 50% de fabricante de tanques KNDS: fuente",
-        "capturado": "2026-10-14T12:48:17-05:00"
-      },
-      {
-        "titulo": "Solana pondrá en marcha Alpenglow prontas fechas: ¿Cuál será la reacción del valor de SOL?",
-        "url": "https://es.finance.yahoo.com/noticias/solana-activar%C3%A1-alpenglow-pr%C3%B3xima-semana-153408090.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Solana activará Alpenglow la próxima semana: ¿Cómo reaccionará el precio de SOL?",
-        "capturado": "2026-10-14T12:48:17-05:00"
-      },
-      {
-        "titulo": "Estados Unidos retira castigos a Jorge Rodríguez en reciente gesto de aproximación a Venezuela",
-        "url": "https://es.finance.yahoo.com/noticias/ee-uu-levanta-sanciones-jorge-142807855.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "EE.UU. levanta sanciones a Jorge Rodríguez en nueva señal de acercamiento con Venezuela",
-        "capturado": "2026-10-14T12:48:17-05:00"
-      },
-      {
-        "titulo": "Bolsas gauchas caen pendientes de una mayor liquidez y colocación de títulos",
-        "url": "https://es.finance.yahoo.com/noticias/mercados-argentinos-operan-baja-atenci%C3%B3n-142654214.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Mercados argentinos operan en baja, atención a mayor liquidez y licitación de deuda",
-        "capturado": "2026-10-14T12:48:17-05:00"
-      },
-      {
-        "titulo": "Nave portacontenedores naufraga cerca a Ormuz luego de recibir impacto de un misil, según fuentes",
-        "url": "https://es.finance.yahoo.com/noticias/buque-portacontenedores-hunde-ormuz-ser-141301588.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Un buque portacontenedores se hunde cerca de Ormuz tras ser alcanzado por un proyectil: fuentes",
-        "capturado": "2026-10-14T12:48:17-05:00"
-      },
-      {
-        "titulo": "El Kremlin señala que el pacto sobre el diésel facilita un mayor entendimiento entre Moscú y Washington",
-        "url": "https://es.finance.yahoo.com/noticias/acuerdo-di%C3%A9sel-abre-v%C3%ADa-cooperaci%C3%B3n-122853819.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "El acuerdo sobre el diésel abre la vía a una mayor cooperación entre Rusia y EEUU, según el Kremlin",
-        "capturado": "2026-10-14T07:40:06-05:00"
       }
     ]
   }
