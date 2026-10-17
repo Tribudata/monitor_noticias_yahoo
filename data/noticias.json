@@ -1,9 +1,57 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-17T04:01:41-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-17T08:05:21-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Entidad reguladora española alerta acerca de cuatro empresas bitcoineras sin autorización MiCA",
+        "url": "https://es.finance.yahoo.com/noticias/cnmv-espa%C3%B1a-advierte-4-firmas-115307194.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "CNMV de España advierte sobre 4 firmas de criptomonedas sin licencia MiCA",
+        "capturado": "2026-10-17T08:05:21-05:00"
+      },
+      {
+        "titulo": "Raoul Pal posee BTC, SOL y ETH, aunque asegura que uno de ellos se halla muy subvalorado",
+        "url": "https://es.finance.yahoo.com/noticias/raoul-pal-bitcoin-solana-ethereum-105600979.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Raoul Pal tiene Bitcoin, Solana y Ethereum, pero dice que uno está extremadamente infravalorado",
+        "capturado": "2026-10-17T08:05:21-05:00"
+      },
+      {
+        "titulo": "Novedoso producto en dólares de KuCoin otorga hasta 6 por ciento en criptomonedas estables",
+        "url": "https://es.finance.yahoo.com/noticias/activo-usd-kucoin-paga-6-084400918.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Nuevo activo en USD de KuCoin paga hasta 6% en stablecoins: ¿Vale la pena usarlo?",
+        "capturado": "2026-10-17T08:05:21-05:00"
+      },
+      {
+        "titulo": "Títulos de deuda rivalizan otra vez con la Bolsa y surge duda sobre la ganancia bursátil",
+        "url": "https://es.finance.yahoo.com/noticias/bonos-vuelven-competir-bolsa-rentabilidad-043000278.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "Los bonos vuelven a competir con la Bolsa: ¿qué rentabilidad debe ofrecer ahora una acción para compensar el riesgo?",
+        "capturado": "2026-10-17T08:05:21-05:00"
+      },
+      {
+        "titulo": "Despertar para innovar",
+        "url": "https://es.finance.yahoo.com/noticias/despertar-innovar-040000220.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "Despertar para innovar",
+        "capturado": "2026-10-17T08:05:21-05:00"
+      },
+      {
+        "titulo": "El rendimiento de Windows 11 sube hasta 20% en equipos con 8 GB de RAM durante la escasez de memoria",
+        "url": "https://es-us.noticias.yahoo.com/windows-11-vuelve-20-r%C3%A1pido-235645526.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Windows 11 se vuelve hasta 20% más rápido en computadores con 8 GB de RAM, en plena crisis de memoria",
+        "capturado": "2026-10-17T08:05:21-05:00"
+      },
       {
         "titulo": "Pandora expande su producción de joyería fina en Vietnam a la vez que disminuye su contaminación",
         "url": "https://es.finance.yahoo.com/noticias/f%C3%A1brica-joyer%C3%ADa-fina-pandora-crece-055845500.html",
@@ -435,54 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "Noruega plantea abrir su fondo de 2 billones de euros a invertir en armas nucleares",
         "capturado": "2026-10-15T09:41:29-05:00"
-      },
-      {
-        "titulo": "Moneda europea retrocede a pisos históricos frente al dólar y la libra a pesar del alza de tasas del BCE",
-        "url": "https://es.finance.yahoo.com/noticias/euro-cae-m%C3%ADnimos-frente-d%C3%B3lar-122721799.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El euro cae a nuevos mínimos frente al dólar y la libra pese a las subidas de tipos del BCE",
-        "capturado": "2026-10-15T09:41:29-05:00"
-      },
-      {
-        "titulo": "Matt Hougan de Bitwise afirma que el bitcoin triunfa en cualquier contexto financiero",
-        "url": "https://es.finance.yahoo.com/noticias/bitcoin-gana-escenarios-econ%C3%B3micos-matt-132600354.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Bitcoin gana en todos los escenarios económicos, dice Matt Hougan, CIO de Bitwise",
-        "capturado": "2026-10-15T09:41:29-05:00"
-      },
-      {
-        "titulo": "Detalles acerca del gravamen germano reciente sobre los refrescos azucarados",
-        "url": "https://es.finance.yahoo.com/noticias/impuesto-alem%C3%A1n-bebidas-azucaradas-101540825.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Todo sobre el nuevo impuesto alemán a las bebidas azucaradas",
-        "capturado": "2026-10-15T09:41:29-05:00"
-      },
-      {
-        "titulo": "El CIC incrementa su estimación para la producción global de maíz de 2026 a 2027",
-        "url": "https://es.finance.yahoo.com/noticias/cic-revisa-alza-previsi%C3%B3n-cosecha-131732315.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "El CIC revisa al alza la previsión de la cosecha mundial de maíz para 2026/27",
-        "capturado": "2026-10-15T09:41:29-05:00"
-      },
-      {
-        "titulo": "El S&P 500 inicia su temporada estacional más fuerte: detalles",
-        "url": "https://es.finance.yahoo.com/noticias/s-p-500-entra-periodo-091700934.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "El S&P 500 entra en su periodo estacional más fuerte: detalles",
-        "capturado": "2026-10-15T04:45:58-05:00"
-      },
-      {
-        "titulo": "El BEI busca iniciativas transfronterizas para fomentar el crecimiento de Asia Central",
-        "url": "https://es.finance.yahoo.com/noticias/bei-busca-proyectos-transfronterizos-impulsar-075402670.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El BEI busca proyectos transfronterizos para impulsar el desarrollo económico de Asia Central",
-        "capturado": "2026-10-15T04:45:58-05:00"
       }
     ]
   }
