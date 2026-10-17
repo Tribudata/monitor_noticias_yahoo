@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-16T19:11:38-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-16T23:49:51-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Estados Unidos quita trabas a aerolíneas de México luego de pleito aéreo",
+        "url": "https://es.finance.yahoo.com/noticias/eeuu-levanta-restricciones-aerol%C3%ADneas-mexicanas-000833379.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "EEUU levanta restricciones a aerolíneas mexicanas tras disputa en sector aviación",
+        "capturado": "2026-10-16T23:49:51-05:00"
+      },
       {
         "titulo": "Tres altcoins para seguir este fin de semana del 17 al 18 de octubre",
         "url": "https://es.finance.yahoo.com/noticias/top-3-altcoins-observar-semana-210100309.html",
@@ -474,14 +482,6 @@
         "resumen": "",
         "medio": "BeInCrypto",
         "titulo_fuente": "El token CYBERLEEK se desploma 40% tras nuevas amenazas del filtrador de GTA 6",
-        "capturado": "2026-10-15T04:45:58-05:00"
-      },
-      {
-        "titulo": "El producto interno bruto del Reino Unido sube contra todo pronóstico a pesar del menor gasto",
-        "url": "https://es.finance.yahoo.com/noticias/econom%C3%ADa-brit%C3%A1nica-crece-pron%C3%B3stico-pese-074800567.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La economía británica crece contra pronóstico pese al menor consumo",
         "capturado": "2026-10-15T04:45:58-05:00"
       }
     ]
