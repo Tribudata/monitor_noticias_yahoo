@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-17T11:34:39-05:00",
+  "actualizado": "2026-10-17T14:02:35-05:00",
   "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Vitalik Buterin expone las razones por las que la inteligencia artificial reemplazaría a los mineros de Bitcoin",
+        "url": "https://es.finance.yahoo.com/noticias/vitalik-buterin-revela-ia-expulsar-181500990.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Vitalik Buterin revela por qué la IA podría expulsar a los mineros de Bitcoin",
+        "capturado": "2026-10-17T14:02:35-05:00"
+      },
+      {
+        "titulo": "Descubrimiento de Claude acerca de la NSA desata discusión sobre posibles errores de Satoshi en Bitcoin",
+        "url": "https://es.finance.yahoo.com/noticias/satoshi-equivoc%C3%B3-bitcoin-hallazgo-claude-172900013.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿Satoshi se equivocó con Bitcoin? Hallazgo de Claude sobre la NSA por genera debate",
+        "capturado": "2026-10-17T14:02:35-05:00"
+      },
       {
         "titulo": "Analistas afirman que surgen indicios alcistas de Bitcoin por doquier",
         "url": "https://es.finance.yahoo.com/noticias/se%C3%B1ales-alcistas-bitcoin-aparecen-lados-151800857.html",
@@ -467,22 +483,6 @@
         "medio": "Bloomberg",
         "titulo_fuente": "Jensen Huang descarta que Nvidia tenga que rescatar a CoreWeave",
         "capturado": "2026-10-15T13:53:37-05:00"
-      },
-      {
-        "titulo": "Costos para productores en EE. UU. alcanzan en septiembre su mayor subida en cuatro años y medio",
-        "url": "https://es.finance.yahoo.com/noticias/precios-productor-eeuu-registran-septiembre-142126907.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Precios al productor EEUU registran en septiembre su mayor avance en cuatro años y medio",
-        "capturado": "2026-10-15T09:41:29-05:00"
-      },
-      {
-        "titulo": "Dato negativo de CoreWeave expone el endeudamiento oculto tras la expansión de la inteligencia artificial",
-        "url": "https://es.finance.yahoo.com/noticias/ca%C3%ADda-coreweave-pone-relieve-deuda-141805509.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "La caída de CoreWeave pone de relieve la deuda que hay detrás del auge de la IA",
-        "capturado": "2026-10-15T09:41:29-05:00"
       }
     ]
   }
