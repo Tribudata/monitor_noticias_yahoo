@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-17T16:36:19-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-17T18:46:40-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "El FMI emite importante alerta sobre si la IA desplaza laboralmente a los jóvenes",
+        "url": "https://es.finance.yahoo.com/noticias/ia-quitando-trabajo-j%C3%B3venes-fmi-230200577.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿La IA le está quitando el trabajo a los jóvenes? El FMI lanza una advertencia crucial",
+        "capturado": "2026-10-17T18:46:40-05:00"
+      },
+      {
+        "titulo": "Sector criptográfico brasileño presiona a aspirantes presidenciales previo al balotaje",
+        "url": "https://es.finance.yahoo.com/noticias/comunidad-cripto-brasil-presiona-candidatos-214400621.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Comunidad cripto de Brasil presiona a candidatos presidenciales antes de la segunda vuelta",
+        "capturado": "2026-10-17T18:46:40-05:00"
+      },
       {
         "titulo": "Ciclos pasados revelan pistas sobre el momento en que Bitcoin volverá a su cotización récord",
         "url": "https://es.finance.yahoo.com/noticias/cu%C3%A1ndo-recuperar%C3%A1-precio-bitcoin-m%C3%A1ximo-193000327.html",
@@ -466,22 +482,6 @@
         "resumen": "",
         "medio": "Bloomberg",
         "titulo_fuente": "Tesla prepara un Roadster volador para impulsar su debilitado negocio automotor",
-        "capturado": "2026-10-15T13:53:37-05:00"
-      },
-      {
-        "titulo": "Avanzan los fondos cotizados en bolsa y las acciones de Estados Unidos muestran balances diversos al mediodía",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-suben-acciones-171251905.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa suben, las acciones estadounidenses presentan resultados mixtos tras la media jornada.",
-        "capturado": "2026-10-15T13:53:37-05:00"
-      },
-      {
-        "titulo": "Amancio Ortega desembolsa US$550 millones por tradicional edificio de oficinas en Chicago",
-        "url": "https://es.finance.yahoo.com/noticias/amancio-ortega-paga-us-550-170804751.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Amancio Ortega paga US$550 millones por emblemática torre de oficinas en Chicago",
         "capturado": "2026-10-15T13:53:37-05:00"
       }
     ]
