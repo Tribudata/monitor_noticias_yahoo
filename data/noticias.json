@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-17T14:02:35-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-17T16:36:19-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Ciclos pasados revelan pistas sobre el momento en que Bitcoin volverá a su cotización récord",
+        "url": "https://es.finance.yahoo.com/noticias/cu%C3%A1ndo-recuperar%C3%A1-precio-bitcoin-m%C3%A1ximo-193000327.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿Cuándo recuperará el precio de Bitcoin su máximo histórico? Datos del ciclo dan una pista",
+        "capturado": "2026-10-17T16:36:19-05:00"
+      },
       {
         "titulo": "Vitalik Buterin expone las razones por las que la inteligencia artificial reemplazaría a los mineros de Bitcoin",
         "url": "https://es.finance.yahoo.com/noticias/vitalik-buterin-revela-ia-expulsar-181500990.html",
@@ -474,14 +482,6 @@
         "resumen": "",
         "medio": "Bloomberg",
         "titulo_fuente": "Amancio Ortega paga US$550 millones por emblemática torre de oficinas en Chicago",
-        "capturado": "2026-10-15T13:53:37-05:00"
-      },
-      {
-        "titulo": "Jensen Huang niega que Nvidia deba auxiliar a CoreWeave",
-        "url": "https://es.finance.yahoo.com/noticias/jensen-huang-descarta-nvidia-rescatar-165130783.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Jensen Huang descarta que Nvidia tenga que rescatar a CoreWeave",
         "capturado": "2026-10-15T13:53:37-05:00"
       }
     ]
