@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-17T08:05:21-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-10-17T11:34:39-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Analistas afirman que surgen indicios alcistas de Bitcoin por doquier",
+        "url": "https://es.finance.yahoo.com/noticias/se%C3%B1ales-alcistas-bitcoin-aparecen-lados-151800857.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Señales alcistas de Bitcoin aparecen por todos lados, según analistas",
+        "capturado": "2026-10-17T11:34:39-05:00"
+      },
+      {
+        "titulo": "Exasesor de Ripple avisa que el reto más grande de XRP sigue pendiente",
+        "url": "https://es.finance.yahoo.com/noticias/prueba-xrp-venir-advierte-exasesor-130700155.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "La mayor prueba para XRP aún está por venir, advierte exasesor de Ripple",
+        "capturado": "2026-10-17T11:34:39-05:00"
+      },
       {
         "titulo": "Entidad reguladora española alerta acerca de cuatro empresas bitcoineras sin autorización MiCA",
         "url": "https://es.finance.yahoo.com/noticias/cnmv-espa%C3%B1a-advierte-4-firmas-115307194.html",
@@ -466,22 +482,6 @@
         "resumen": "",
         "medio": "Reuters",
         "titulo_fuente": "La caída de CoreWeave pone de relieve la deuda que hay detrás del auge de la IA",
-        "capturado": "2026-10-15T09:41:29-05:00"
-      },
-      {
-        "titulo": "CEPAL prevé alto crecimiento comercial en América Latina en 2026 por materias primas y lazos con Asia",
-        "url": "https://es.finance.yahoo.com/noticias/latina-registra-fuerte-auge-comercial-141523144.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "A.Latina registra fuerte auge comercial en 2026 por 'boom' de materias primas y mayor vínculo con Asia: CEPAL",
-        "capturado": "2026-10-15T09:41:29-05:00"
-      },
-      {
-        "titulo": "Gobierno de Noruega propone permitir que su fondo de dos billones de euros compre armamento nuclear",
-        "url": "https://es.finance.yahoo.com/noticias/noruega-abrir-fondo-2-billones-132514392.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Noruega plantea abrir su fondo de 2 billones de euros a invertir en armas nucleares",
         "capturado": "2026-10-15T09:41:29-05:00"
       }
     ]
