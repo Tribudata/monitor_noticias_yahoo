@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-16T23:49:51-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-17T04:01:41-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Pandora expande su producción de joyería fina en Vietnam a la vez que disminuye su contaminación",
+        "url": "https://es.finance.yahoo.com/noticias/f%C3%A1brica-joyer%C3%ADa-fina-pandora-crece-055845500.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "La mayor fábrica de joyería fina: Pandora crece y reduce emisiones en Vietnam",
+        "capturado": "2026-10-17T04:01:41-05:00"
+      },
+      {
+        "titulo": "NVIDIA App enciende por sorpresa servidor de IA que altera ajustes de juegos y este se apaga asi",
+        "url": "https://es-us.noticias.yahoo.com/nvidia-app-activa-aviso-servidor-200229350.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "NVIDIA App activa sin aviso un servidor de IA capaz de modificar la configuración de tus juegos, así puedes desactivarlo",
+        "capturado": "2026-10-17T04:01:41-05:00"
+      },
       {
         "titulo": "Estados Unidos quita trabas a aerolíneas de México luego de pleito aéreo",
         "url": "https://es.finance.yahoo.com/noticias/eeuu-levanta-restricciones-aerol%C3%ADneas-mexicanas-000833379.html",
@@ -466,22 +482,6 @@
         "resumen": "",
         "medio": "Euronews",
         "titulo_fuente": "El BEI busca proyectos transfronterizos para impulsar el desarrollo económico de Asia Central",
-        "capturado": "2026-10-15T04:45:58-05:00"
-      },
-      {
-        "titulo": "Lufthansa pide a sus aeronaves cargar carburante extra hacia Fráncfort por desabastecimiento",
-        "url": "https://es.finance.yahoo.com/noticias/lufthansa-ordena-aviones-lleven-combustible-075300549.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Lufthansa ordena a sus aviones que lleven combustible adicional a Fráncfort ante la escasez",
-        "capturado": "2026-10-15T04:45:58-05:00"
-      },
-      {
-        "titulo": "La criptomoneda CYBERLEEK cae 40% luego de recientes advertencias del filtrador de GTA 6",
-        "url": "https://es.finance.yahoo.com/noticias/token-cyberleek-desploma-40-amenazas-075000984.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "El token CYBERLEEK se desploma 40% tras nuevas amenazas del filtrador de GTA 6",
         "capturado": "2026-10-15T04:45:58-05:00"
       }
     ]
