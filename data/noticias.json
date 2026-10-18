@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-18T16:17:22-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-18T18:30:31-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "La realidad oculta del noventa por ciento de las transacciones con inteligencia artificial",
+        "url": "https://es.finance.yahoo.com/noticias/inc%C3%B3moda-verdad-detr%C3%A1s-90-pagos-224000638.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "La incómoda verdad detrás del 90% de los pagos con IA",
+        "capturado": "2026-10-18T18:30:31-05:00"
+      },
       {
         "titulo": "Anthropic entregará un 5 por ciento de su capital a un fondo social nuevo",
         "url": "https://es.finance.yahoo.com/noticias/anthropic-destinar%C3%A1-participaci%C3%B3n-5-fondo-204144959.html",
@@ -474,14 +482,6 @@
         "resumen": "",
         "medio": "Reuters",
         "titulo_fuente": "Warsh, de la Fed, ve fortaleza económica en EEUU, pero no adelanta decisión sobre tasas",
-        "capturado": "2026-10-16T04:31:01-05:00"
-      },
-      {
-        "titulo": "Banga afirma que el Banco Mundial busca multiplicar por cinco los fondos para minerales esenciales hacia 2030",
-        "url": "https://es.finance.yahoo.com/noticias/banco-mundial-quintuplicar-financiaci%C3%B3n-minerales-081825568.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "El Banco Mundial quiere quintuplicar la financiación para minerales críticos para 2030, dice Banga",
         "capturado": "2026-10-16T04:31:01-05:00"
       }
     ]
