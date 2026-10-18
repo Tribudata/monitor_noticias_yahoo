@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-18T11:22:14-05:00",
+  "actualizado": "2026-10-18T13:47:20-05:00",
   "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Preparación de Bitcoin ante equipos cuánticos según la estrategia reciente de Coinbase",
+        "url": "https://es.finance.yahoo.com/noticias/bitcoin-listo-computadoras-cu%C3%A1nticas-muestra-181400366.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿Bitcoin está listo para las computadoras cuánticas? Lo que muestra el nuevo plan de Coinbase",
+        "capturado": "2026-10-18T13:47:20-05:00"
+      },
+      {
+        "titulo": "Informe semanal sobre criptoactivos y Bitcoin en América Latina y España del 18 de octubre",
+        "url": "https://es.finance.yahoo.com/noticias/resumen-semanal-bitcoin-criptomonedas-espa%C3%B1a-162200209.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Resumen semanal de Bitcoin y criptomonedas: España y América Latina – 18 de octubre",
+        "capturado": "2026-10-18T13:47:20-05:00"
+      },
       {
         "titulo": "Experto de Bloomberg alerta sobre posible caída de Bitcoin a $10,000",
         "url": "https://es.finance.yahoo.com/noticias/bitcoin-desplomarse-10-000-analista-153144200.html",
@@ -467,22 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "El vicepresidente económico de Venezuela dice que Centerview sigue siendo el asesor financiero del país",
         "capturado": "2026-10-16T04:31:01-05:00"
-      },
-      {
-        "titulo": "Principales índices bursátiles globales podrían excluir a Strategy",
-        "url": "https://es.finance.yahoo.com/noticias/strategy-ser-eliminada-principales-%C3%ADndices-075100250.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Strategy podría ser eliminada de los principales índices bursátiles globales",
-        "capturado": "2026-10-16T04:31:01-05:00"
-      },
-      {
-        "titulo": "Unión Europea quiere agilizar el visado de la iniciativa Bromo, su contestación a SpaceX",
-        "url": "https://es.finance.yahoo.com/noticias/ue-busca-acelerar-aprobaci%C3%B3n-proyecto-182445719.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "UE busca acelerar aprobación de Proyecto Bromo, su respuesta a SpaceX",
-        "capturado": "2026-10-15T23:49:33-05:00"
       }
     ]
   }
