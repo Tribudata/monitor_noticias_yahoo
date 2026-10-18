@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-17T18:46:40-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-17T22:17:41-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Disponible sin costo la versión para computador de Zelda Skyward Sword HD a 60 cuadros por segundo y 4K",
+        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-port-pc-zelda-144134325.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Descarga gratis el port para PC de Zelda Skyward Sword HD, que corre sin emulador a 60 FPS en 4K con soporte para mouse",
+        "capturado": "2026-10-17T22:17:41-05:00"
+      },
       {
         "titulo": "El FMI emite importante alerta sobre si la IA desplaza laboralmente a los jóvenes",
         "url": "https://es.finance.yahoo.com/noticias/ia-quitando-trabajo-j%C3%B3venes-fmi-230200577.html",
@@ -474,14 +482,6 @@
         "resumen": "",
         "medio": "Bloomberg",
         "titulo_fuente": "Sony va por segmento de audio premium con un Walkman chapado en oro de US$5.900",
-        "capturado": "2026-10-15T13:53:37-05:00"
-      },
-      {
-        "titulo": "Tesla alista un Roadster volador para reactivar su débil sector de autos",
-        "url": "https://es.finance.yahoo.com/noticias/tesla-prepara-roadster-volador-impulsar-172801754.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Tesla prepara un Roadster volador para impulsar su debilitado negocio automotor",
         "capturado": "2026-10-15T13:53:37-05:00"
       }
     ]
