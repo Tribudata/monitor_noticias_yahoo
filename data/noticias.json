@@ -1,9 +1,33 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-17T22:17:41-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-18T03:15:08-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Uno de cada ocho habitantes en la UE no puede acceder al ocio y se indaga por el país más afectado",
+        "url": "https://es.finance.yahoo.com/noticias/ocio-alcance-1-8-personas-055413091.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El ocio es´tá fuera del alcance de 1 de cada 8 personas en la UE: ¿En qué país hay peor situación?",
+        "capturado": "2026-10-18T03:15:08-05:00"
+      },
+      {
+        "titulo": "Disponible sin costo para computador el port de El Señor de los Anillos Las Dos Torres con alta resolución",
+        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-port-pc-se%C3%B1or-172036531.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Descarga gratis el port para PC de El Señor de los Anillos Las Dos Torres, que corre sin emulador con FPS ilimitados y resolución 12 veces mayor",
+        "capturado": "2026-10-18T03:15:08-05:00"
+      },
+      {
+        "titulo": "Lanzan gratis para computador el juego Driveclub en alta resolución diez años tras el cierre de su estudio",
+        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-port-pc-driveclub-153917564.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Descarga gratis el port para PC de Driveclub, el exclusivo de PS4 que corre sin emulador en 8K, una década después de que PlayStation cerrara a sus creadores",
+        "capturado": "2026-10-18T03:15:08-05:00"
+      },
       {
         "titulo": "Disponible sin costo la versión para computador de Zelda Skyward Sword HD a 60 cuadros por segundo y 4K",
         "url": "https://es-us.noticias.yahoo.com/descarga-gratis-port-pc-zelda-144134325.html",
@@ -458,30 +482,6 @@
         "resumen": "",
         "medio": "Euronews",
         "titulo_fuente": "Unicredit puede tomar el control de Commerzbank tras el visto bueno del BCE",
-        "capturado": "2026-10-15T13:53:37-05:00"
-      },
-      {
-        "titulo": "Arthur Hayes invierte en lo siguiente tras la caída de la IA",
-        "url": "https://es.finance.yahoo.com/noticias/arthur-hayes-apuesta-viene-crash-181700559.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Arthur Hayes apuesta por lo que viene tras el crash de la IA",
-        "capturado": "2026-10-15T13:53:37-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE. UU. mixtas por inflación al productor; bajan tecnológicas y bonos",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-174638911.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos tras el elevado dato de inflación de los precios al productor; las caídas en el sector tecnológico acompañan al descenso de los rendimientos de los bonos del Tesoro.",
-        "capturado": "2026-10-15T13:53:37-05:00"
-      },
-      {
-        "titulo": "Sony busca el audio de gama alta con un Walkman de oro de 5.900 dólares",
-        "url": "https://es.finance.yahoo.com/noticias/sony-segmento-audio-premium-walkman-173315495.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Sony va por segmento de audio premium con un Walkman chapado en oro de US$5.900",
         "capturado": "2026-10-15T13:53:37-05:00"
       }
     ]
