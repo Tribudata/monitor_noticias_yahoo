@@ -1,9 +1,57 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-18T03:15:08-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-18T07:43:43-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Michael Burry pronostica un supervolcán en el mercado bursátil",
+        "url": "https://es.finance.yahoo.com/noticias/michael-burry-prev%C3%A9-supervolc%C3%A1n-mercado-111800204.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Michael Burry prevé un “supervolcán” en el mercado de acciones",
+        "capturado": "2026-10-18T07:43:43-05:00"
+      },
+      {
+        "titulo": "Jamie Dimon advierte más peligros de inestabilidad que Wall Street",
+        "url": "https://es.finance.yahoo.com/noticias/jamie-dimon-ve-riesgo-turbulencias-100014428.html",
+        "resumen": "",
+        "medio": "Benzinga Espana",
+        "titulo_fuente": "Jamie Dimon ve más riesgo de turbulencias que Wall Street",
+        "capturado": "2026-10-18T07:43:43-05:00"
+      },
+      {
+        "titulo": "Robert Kiyosaki emite una alerta que salvaría su futuro financiero",
+        "url": "https://es.finance.yahoo.com/noticias/robert-kiyosaki-lanza-advertencia-salvar-085600193.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Robert Kiyosaki lanza advertencia que podría salvar tu futuro financiero",
+        "capturado": "2026-10-18T07:43:43-05:00"
+      },
+      {
+        "titulo": "Santander y Telefónica miran a Brasil por sondeos que aumentan la tensión de la segunda vuelta",
+        "url": "https://es.finance.yahoo.com/noticias/santander-telef%C3%B3nica-pendientes-brasil-encuestas-044000942.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "Santander y Telefónica, pendientes de Brasil: las últimas encuestas elevan la tensión antes de la segunda vuelta electoral",
+        "capturado": "2026-10-18T07:43:43-05:00"
+      },
+      {
+        "titulo": "El analista que nadie ha contratado",
+        "url": "https://es.finance.yahoo.com/noticias/analista-contratado-040000491.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "El analista que nadie ha contratado",
+        "capturado": "2026-10-18T07:43:43-05:00"
+      },
+      {
+        "titulo": "Port gratis de Bloodborne para PC añade sombras dinámicas y luz mejorada, alcanzando hasta 120 FPS",
+        "url": "https://es-us.noticias.yahoo.com/port-gratuito-bloodborne-pc-suma-214639450.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Port gratuito de Bloodborne para PC suma sombras en tiempo real y mejor iluminación, y corre hasta 120 FPS",
+        "capturado": "2026-10-18T07:43:43-05:00"
+      },
       {
         "titulo": "Uno de cada ocho habitantes en la UE no puede acceder al ocio y se indaga por el país más afectado",
         "url": "https://es.finance.yahoo.com/noticias/ocio-alcance-1-8-personas-055413091.html",
@@ -435,54 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "Rakuten Wallet entregará monedas físicas de Shiba Inu (SHIB)",
         "capturado": "2026-10-15T19:11:31-05:00"
-      },
-      {
-        "titulo": "Por qué no repunta XRP: 13 semanas de ingresos en ETF no han alterado la cotización",
-        "url": "https://es.finance.yahoo.com/noticias/xrp-sube-13-semanas-entradas-211700059.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿Por qué XRP no sube? 13 semanas de entradas en ETF no han movido el precio",
-        "capturado": "2026-10-15T19:11:31-05:00"
-      },
-      {
-        "titulo": "Ascienden las bolsas de EE. UU. por repunte tecnológico ante menores apuestas de la Fed y alza de precios",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-212459981.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben a medida que el sector tecnológico se recupera parcialmente tras la caída de las apuestas de la Fed por un endurecimiento monetario en medio del alza de los precios al productor.",
-        "capturado": "2026-10-15T16:57:27-05:00"
-      },
-      {
-        "titulo": "Modifican normativas para plataformas de criptoactivos en Argentina a partir de noviembre",
-        "url": "https://es.finance.yahoo.com/noticias/argentina-reordena-reglas-plataformas-criptomonedas-195141123.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Argentina reordena reglas para plataformas de criptomonedas desde noviembre",
-        "capturado": "2026-10-15T16:57:27-05:00"
-      },
-      {
-        "titulo": "Administradoras de fondos de pensiones chilenas advierten peligro en derivados al subir sus colocaciones",
-        "url": "https://es.finance.yahoo.com/noticias/afp-chilenas-alertaron-riesgo-derivados-183259719.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "AFP chilenas alertaron por riesgo en derivados mientras elevaban sus inversiones",
-        "capturado": "2026-10-15T16:57:27-05:00"
-      },
-      {
-        "titulo": "Unión Europea diseña mecanismo comercial que excluiría a China de su mercado común",
-        "url": "https://es.finance.yahoo.com/noticias/ue-prepara-herramienta-comercial-bloquear-182029843.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "UE prepara herramienta comercial que podría bloquear a China de su mercado único",
-        "capturado": "2026-10-15T16:57:27-05:00"
-      },
-      {
-        "titulo": "El BCE aprueba que Unicredit asuma el mando de Commerzbank",
-        "url": "https://es.finance.yahoo.com/noticias/unicredit-tomar-control-commerzbank-visto-184546816.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Unicredit puede tomar el control de Commerzbank tras el visto bueno del BCE",
-        "capturado": "2026-10-15T13:53:37-05:00"
       }
     ]
   }
