@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-18T22:30:26-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-19T04:37:53-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Protestas en Francia impactan los mercados bursátiles de Europa y elevan el valor de los títulos soberanos",
+        "url": "https://es.finance.yahoo.com/noticias/bolsas-europeas-abren-rojo-empresas-090008925.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Los disturbios en Francia sacuden los mercados: caen las Bolsas europeas y sube el coste de la deuda",
+        "capturado": "2026-10-19T04:37:53-05:00"
+      },
+      {
+        "titulo": "Líneas aéreas de la región analizan retomar vuelos a Venezuela por el acercamiento político a pesar de trabas",
+        "url": "https://es.finance.yahoo.com/noticias/aerol%C3%ADneas-latinoamericanas-eval%C3%BAan-volver-venezuela-090330719.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Aerolíneas latinoamericanas evalúan volver a Venezuela ante el deshielo diplomático, pese a obstáculos",
+        "capturado": "2026-10-19T04:37:53-05:00"
+      },
+      {
+        "titulo": "Fondos cotizados de XRP cortan ciclo positivo de trece semanas y transferencias en red encienden alertas",
+        "url": "https://es.finance.yahoo.com/noticias/etf-xrp-pierden-racha-13-075000701.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "ETF de XRP pierden racha de 13 semanas de entradas mientras los pagos on-chain lanzan una advertencia",
+        "capturado": "2026-10-19T04:37:53-05:00"
+      },
+      {
+        "titulo": "Técnicas Reunidas obtiene un acuerdo por 200 millones de euros para la iniciativa Coastal GasLink en Canadá",
+        "url": "https://es.finance.yahoo.com/noticias/t%C3%A9cnicas-reunidas-gana-contrato-200-074118781.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Técnicas Reunidas gana un contrato de 200 millones de euros vinculado al proyecto Coastal GasLink de GNL de Canadá",
+        "capturado": "2026-10-19T04:37:53-05:00"
+      },
+      {
+        "titulo": "Analistas detallan estrategias financieras ante la volatilidad: adquirir bienes, guardar dinero o aguardar",
+        "url": "https://es.finance.yahoo.com/noticias/comprar-ahorrar-esperar-expertos-explican-073828941.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "¿Comprar, ahorrar o esperar? Los expertos explican cómo afrontar la incertidumbre económica",
+        "capturado": "2026-10-19T04:37:53-05:00"
+      },
+      {
+        "titulo": "El impulso exportador acelera a China, aunque la vivienda y el consumo continúan flojos",
+        "url": "https://es.finance.yahoo.com/noticias/china-acelera-crecimiento-exportaciones-consumo-054537949.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "China acelera el crecimiento por las exportaciones, pero el consumo y la vivienda siguen débiles",
+        "capturado": "2026-10-19T04:37:53-05:00"
+      },
+      {
+        "titulo": "Un gasoducto circular de 5.000 millones de dólares afianzaría la energía de Asia Central",
+        "url": "https://es.finance.yahoo.com/noticias/anillo-gasista-5-000-millones-050051881.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Un anillo gasista de 5.000 millones de dólares podría reforzar la seguridad energética de Asia Central",
+        "capturado": "2026-10-19T04:37:53-05:00"
+      },
+      {
+        "titulo": "Presiones salariales y de precios tras las manifestaciones vividas en Europa",
+        "url": "https://es.finance.yahoo.com/noticias/salarios-frente-precios-presiones-econ%C3%B3micas-042011752.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Salarios y precios: las presiones económicas tras las protestas en Europa",
+        "capturado": "2026-10-19T04:37:53-05:00"
+      },
       {
         "titulo": "Ya se puede bajar sin costo la versión para computador de Killzone Shadow Fall",
         "url": "https://es-us.noticias.yahoo.com/descarga-gratis-port-pc-killzone-152349440.html",
@@ -419,70 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Jefa del FMI insta a cooperar en IA y riesgos de guerra, mientras EEUU celebra la economía",
         "capturado": "2026-10-16T09:34:17-05:00"
-      },
-      {
-        "titulo": "ETFs y futuros accionarios muestran cifras diversas previo a la apertura del viernes por prudencia",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-futuros-renta-131413624.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa y los futuros de renta variable presentan resultados mixtos antes de la apertura del mercado el viernes, en medio de la cautela de los inversores.",
-        "capturado": "2026-10-16T09:34:17-05:00"
-      },
-      {
-        "titulo": "Ciberdelincuentes asaltados: se esfuman 4,8 millones de dólares en hackeo de billetera Ledger",
-        "url": "https://es.finance.yahoo.com/noticias/estafadores-robados-4-8-millones-130600933.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Hasta los estafadores son robados: $4.8 millones desaparecen en el drenaje de la wallet Ledger",
-        "capturado": "2026-10-16T09:34:17-05:00"
-      },
-      {
-        "titulo": "Reporte: Futuros de EE UU casi planos en la apertura y Kevin Warsh sin pistas sobre tasas",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-futuros-acciones-estadounidenses-mantienen-125607419.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los futuros de las acciones estadounidenses se mantienen prácticamente estables antes de la apertura del mercado, mientras que el presidente de la Reserva Federal, Kevin Warsh, evita dar indicaciones sobre las tasas de interés.",
-        "capturado": "2026-10-16T09:34:17-05:00"
-      },
-      {
-        "titulo": "El bombeo petrolero de la OPEP subió en septiembre, de acuerdo con un sondeo de Reuters",
-        "url": "https://es.finance.yahoo.com/noticias/producci%C3%B3n-petr%C3%B3leo-opep-aument%C3%B3-septiembre-125555300.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "La producción de petróleo de la OPEP aumentó en septiembre, según una encuesta de Reuters",
-        "capturado": "2026-10-16T09:34:17-05:00"
-      },
-      {
-        "titulo": "El costo de las importaciones en Estados Unidos crece por encima de lo estimado en septiembre",
-        "url": "https://es.finance.yahoo.com/noticias/precios-importaciones-estadounidenses-suben-previsto-124608186.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Los precios de las importaciones estadounidenses suben más de lo previsto en septiembre",
-        "capturado": "2026-10-16T09:34:17-05:00"
-      },
-      {
-        "titulo": "Títulos valores suben con prudencia tras una semana agitada",
-        "url": "https://es.finance.yahoo.com/noticias/acciones-avanzan-cautela-semana-turbulenta-115926541.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Acciones avanzan con cautela tras una semana turbulenta",
-        "capturado": "2026-10-16T09:34:17-05:00"
-      },
-      {
-        "titulo": "Interés por Bitcoin en Google baja a piso de 6 años y Willy Woo señala posible compra",
-        "url": "https://es.finance.yahoo.com/noticias/b%C3%BAsquedas-bitcoin-google-caen-m%C3%ADnimos-091700033.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Búsquedas de Bitcoin en Google caen mínimos de 6 años: Willy Woo destaca señal de compra",
-        "capturado": "2026-10-16T04:31:01-05:00"
-      },
-      {
-        "titulo": "Rusia asume el dominio de más bienes corporativos del viejo continente",
-        "url": "https://es.finance.yahoo.com/noticias/rusia-control-activos-empresariales-europeos-084759833.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Rusia se hace con el control de más activos empresariales europeos",
-        "capturado": "2026-10-16T04:31:01-05:00"
       }
     ]
   }
