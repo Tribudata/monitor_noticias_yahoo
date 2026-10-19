@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-19T11:48:47-05:00",
+  "actualizado": "2026-10-19T16:20:46-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Aeromexico evalua mas rutas a USA luego de que Washington quite veto en la capital",
+        "url": "https://es.finance.yahoo.com/noticias/aerom%C3%A9xico-contempla-vuelos-eeuu-levantamiento-205418532.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Aeroméxico contempla nuevos vuelos a EEUU tras levantamiento restricciones de Washington en Ciudad México",
+        "capturado": "2026-10-19T16:20:46-05:00"
+      },
+      {
+        "titulo": "De que manera un pirata vacio 1404 billeteras de Qubic sin vulnerar la cadena de bloques",
+        "url": "https://es.finance.yahoo.com/noticias/atacante-vaci%C3%B3-1-404-wallets-192000265.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿Cómo un atacante vació 1,404 wallets de Qubic sin romper la blockchain?",
+        "capturado": "2026-10-19T16:20:46-05:00"
+      },
+      {
+        "titulo": "Reporte: Las bolsas de valores de Estados Unidos avanzan por al alza en tech y consumo",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-175802095.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben en medio de ganancias en tecnología y consumo discrecional.",
+        "capturado": "2026-10-19T16:20:46-05:00"
+      },
+      {
+        "titulo": "Los 3 principales desbloqueos de criptomonedas para la tercera semana de octubre de 2026",
+        "url": "https://es.finance.yahoo.com/noticias/top-3-desbloqueos-tokens-3ra-175800169.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Top 3 desbloqueos de tokens: 3ra semana de octubre de 2026",
+        "capturado": "2026-10-19T16:20:46-05:00"
+      },
+      {
+        "titulo": "El pontifice Leon XIV y Zelensky hablan por telefono segun comunicado del Vaticano",
+        "url": "https://es.finance.yahoo.com/noticias/papa-le%C3%B3n-xiv-zelenski-conversan-174540981.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "El Papa León XIV y Zelenski conversan por teléfono, informó el Vaticano",
+        "capturado": "2026-10-19T16:20:46-05:00"
+      },
+      {
+        "titulo": "Arabia Saudita pospone su foro Davos en el desierto a causa de los atentados",
+        "url": "https://es.finance.yahoo.com/noticias/arabia-saudita-aplaza-conferencia-davos-172958528.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Arabia Saudita aplaza su conferencia \"Davos en el desierto\" tras ataques",
+        "capturado": "2026-10-19T16:20:46-05:00"
+      },
+      {
+        "titulo": "Los ETF ascienden conforme los títulos de EE UU se recuperan pasado el mediodía",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-suben-medida-172542616.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa suben a medida que las acciones estadounidenses repuntan después del mediodía.",
+        "capturado": "2026-10-19T16:20:46-05:00"
+      },
+      {
+        "titulo": "Apple lanzará su inicial MacBook Pro con panel táctil el 28 de octubre",
+        "url": "https://es.finance.yahoo.com/noticias/apple-presentar%C3%A1-macbook-pro-pantalla-172007822.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Apple presentará su primer MacBook Pro con pantalla táctil el 28 de octubre",
+        "capturado": "2026-10-19T16:20:46-05:00"
+      },
       {
         "titulo": "Brasil halla mal de Newcastle en criadero avícola de región sureña",
         "url": "https://es.finance.yahoo.com/noticias/brasil-detecta-enfermedad-newcastle-granja-162618087.html",
@@ -419,70 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "Top 3 altcoins a observar este fin de semana | 17-18 de octubre",
         "capturado": "2026-10-16T16:55:44-05:00"
-      },
-      {
-        "titulo": "Bolsas de Estados Unidos caen por traslado de capitales y alza del petróleo",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-retroceden-204142393.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses retroceden en medio de la rotación de capitales fuera de los sectores de alto crecimiento y el aumento del precio del petróleo crudo.",
-        "capturado": "2026-10-16T16:55:44-05:00"
-      },
-      {
-        "titulo": "Wall Street mixta debido a que CoreWeave altera el mercado de inteligencia artificial",
-        "url": "https://es.finance.yahoo.com/noticias/%C3%ADndices-burs%C3%A1tiles-estadounidenses-mostraron-resultados-202931194.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los índices bursátiles estadounidenses mostraron resultados mixtos esta semana, ya que CoreWeave sacude el comercio de IA y provoca una rotación hacia sectores menos tecnológicos.",
-        "capturado": "2026-10-16T16:55:44-05:00"
-      },
-      {
-        "titulo": "Google vence traba cuántica y surgen dudas sobre su impacto en Bitcoin",
-        "url": "https://es.finance.yahoo.com/noticias/google-supera-obst%C3%A1culo-clave-computaci%C3%B3n-194600463.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Google supera obstáculo clave en la computación cuántica: ¿Qué significa para Bitcoin?",
-        "capturado": "2026-10-16T16:55:44-05:00"
-      },
-      {
-        "titulo": "Jefa de prensa de la Casa Blanca renuncia tras ocupar el puesto cinco días",
-        "url": "https://es.finance.yahoo.com/noticias/secretaria-prensa-casa-blanca-deja-190234121.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Secretaria de prensa de la Casa Blanca deja cargo tras solo cinco días",
-        "capturado": "2026-10-16T16:55:44-05:00"
-      },
-      {
-        "titulo": "Soja alcanza mínimo de siete semanas y maíz cae por pronóstico de clima seco en Medio Oeste",
-        "url": "https://es.finance.yahoo.com/noticias/soja-toca-m%C3%ADnimo-semanas-ma%C3%ADz-185119564.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Soja toca mínimo de siete semanas y maíz baja por previsión de clima seco en Medio Oeste",
-        "capturado": "2026-10-16T16:55:44-05:00"
-      },
-      {
-        "titulo": "El desbalance fiscal de EE UU aumenta a 1,99 billones de dólares anuales, el más alto en cinco años",
-        "url": "https://es.finance.yahoo.com/noticias/d%C3%A9ficit-fiscal-eeuu-sube-1-184632079.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "El déficit fiscal de EEUU sube a 1,99 billones de dólares en el año, el mayor en un lustro",
-        "capturado": "2026-10-16T16:55:44-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE UU descienden al salir inversores de sectores de gran crecimiento y subir el crudo",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-183740930.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen a medida que los inversores abandonan los sectores de alto crecimiento y el petróleo crudo sube.",
-        "capturado": "2026-10-16T16:55:44-05:00"
-      },
-      {
-        "titulo": "Carteras de ballenas de Bitcoin alcanzan récord histórico y bajistas abren más posiciones cortas",
-        "url": "https://es.finance.yahoo.com/noticias/wallets-ballenas-bitcoin-registran-m%C3%A1ximo-171400081.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Wallets de ballenas de Bitcoin registran máximo histórico mientras los bajistas abren más posiciones cortas: ¿Qué sigue?",
-        "capturado": "2026-10-16T13:38:14-05:00"
       }
     ]
   }
