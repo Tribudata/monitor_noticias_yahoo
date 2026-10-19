@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-18T18:30:31-05:00",
+  "actualizado": "2026-10-18T22:30:26-05:00",
   "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Ya se puede bajar sin costo la versión para computador de Killzone Shadow Fall",
+        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-port-pc-killzone-152349440.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Descarga gratis el port para PC de Killzone Shadow Fall, el shooter exclusivo de PS4 que corre sin emulador a 60 FPS y con mouse",
+        "capturado": "2026-10-18T22:30:26-05:00"
+      },
       {
         "titulo": "La realidad oculta del noventa por ciento de las transacciones con inteligencia artificial",
         "url": "https://es.finance.yahoo.com/noticias/inc%C3%B3moda-verdad-detr%C3%A1s-90-pagos-224000638.html",
@@ -474,14 +482,6 @@
         "resumen": "",
         "medio": "Reuters",
         "titulo_fuente": "Rusia se hace con el control de más activos empresariales europeos",
-        "capturado": "2026-10-16T04:31:01-05:00"
-      },
-      {
-        "titulo": "Warsh de la Fed advierte solidez económica en EE UU sin anticipar rumbo de tipos",
-        "url": "https://es.finance.yahoo.com/noticias/warsh-fed-ve-fortaleza-econ%C3%B3mica-061948090.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Warsh, de la Fed, ve fortaleza económica en EEUU, pero no adelanta decisión sobre tasas",
         "capturado": "2026-10-16T04:31:01-05:00"
       }
     ]
