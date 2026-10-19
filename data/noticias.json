@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-19T04:37:53-05:00",
+  "actualizado": "2026-10-19T11:48:47-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Brasil halla mal de Newcastle en criadero avícola de región sureña",
+        "url": "https://es.finance.yahoo.com/noticias/brasil-detecta-enfermedad-newcastle-granja-162618087.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Brasil detecta la enfermedad de Newcastle en una granja de pavos de un estado del sur",
+        "capturado": "2026-10-19T11:48:47-05:00"
+      },
+      {
+        "titulo": "Mercado cambiario de Argentina sigue estable bajo vigilancia de la autoridad monetaria",
+        "url": "https://es.finance.yahoo.com/noticias/plaza-cambiaria-argentina-mantiene-controlada-153103976.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Plaza cambiaria argentina se mantiene controlada con seguimiento de banco central",
+        "capturado": "2026-10-19T11:48:47-05:00"
+      },
+      {
+        "titulo": "Crecen miedos de liquidación de XRP tras pico anual en indicador principal",
+        "url": "https://es.finance.yahoo.com/noticias/aumentan-temores-venta-xrp-m%C3%A9trica-151100041.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Aumentan temores de venta de XRP mientras una métrica clave registra máximo anual",
+        "capturado": "2026-10-19T11:48:47-05:00"
+      },
+      {
+        "titulo": "Musk ofrece títulos de SpaceX a menores estadounidenses por 10.700 millones",
+        "url": "https://es.finance.yahoo.com/noticias/musk-promete-acciones-spacex-ni%C3%B1o-144210884.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Musk promete acciones de SpaceX a cada niño de EE.UU.: el regalo ascendería a 10.700 millones",
+        "capturado": "2026-10-19T11:48:47-05:00"
+      },
+      {
+        "titulo": "Francia roza crisis de deuda y conflicto político enciende alertas bursátiles",
+        "url": "https://es.finance.yahoo.com/noticias/deuda-francia-empujar-italia-recesi%C3%B3n-142151981.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Francia, al borde de una crisis de deuda: la tensión política dispara las alarmas en los mercados",
+        "capturado": "2026-10-19T11:48:47-05:00"
+      },
+      {
+        "titulo": "Estados Unidos veda la IA china DeepSeek en equipos informáticos de oficinas estatales",
+        "url": "https://es.finance.yahoo.com/noticias/eeuu-proh%C3%ADbe-uso-ia-china-143918676.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "EEUU prohíbe el uso de la IA china DeepSeek en sistemas informáticos de agencias gubernamentales",
+        "capturado": "2026-10-19T11:48:47-05:00"
+      },
+      {
+        "titulo": "Google y McKinsey pactan en Brasil eliminar carbono por medio de silvopastoreo",
+        "url": "https://es.finance.yahoo.com/noticias/google-mckinsey-firman-acuerdo-brasil-135712672.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Google y McKinsey firman acuerdo en Brasil para eliminar carbono mediante proyecto de silvopastoreo",
+        "capturado": "2026-10-19T11:48:47-05:00"
+      },
+      {
+        "titulo": "Logrará Bitcoin sostenerse sobre los 80.000 dólares en el transcurso de esta semana",
+        "url": "https://es.finance.yahoo.com/noticias/bitcoin-mantenerse-encima-80-000-134900260.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿Podrá Bitcoin mantenerse por encima de $80,000 esta semana?",
+        "capturado": "2026-10-19T11:48:47-05:00"
+      },
       {
         "titulo": "Protestas en Francia impactan los mercados bursátiles de Europa y elevan el valor de los títulos soberanos",
         "url": "https://es.finance.yahoo.com/noticias/bolsas-europeas-abren-rojo-empresas-090008925.html",
@@ -419,70 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "Wallets de ballenas de Bitcoin registran máximo histórico mientras los bajistas abren más posiciones cortas: ¿Qué sigue?",
         "capturado": "2026-10-16T13:38:14-05:00"
-      },
-      {
-        "titulo": "Fondos cotizados en bolsa descienden al tiempo que acciones de Estados Unidos caen tras el mediodía",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-caen-medida-171357216.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa caen a medida que las acciones estadounidenses bajan después del mediodía.",
-        "capturado": "2026-10-16T13:38:14-05:00"
-      },
-      {
-        "titulo": "Demanda por el iPhone Duo de Apple extiende los plazos de entrega hasta el año 2027",
-        "url": "https://es.finance.yahoo.com/noticias/fiebre-iphone-duo-apple-fechas-160126785.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Fiebre por el iPhone Duo de Apple lleva las fechas de entrega hasta 2027",
-        "capturado": "2026-10-16T13:38:14-05:00"
-      },
-      {
-        "titulo": "Uzbekistán sella pactos energéticos por 4.700 millones y proyecta dos plantas nucleares nuevas",
-        "url": "https://es.finance.yahoo.com/noticias/uzbekist%C3%A1n-firma-acuerdos-energ%C3%A9ticos-4-144622794.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Uzbekistán firma acuerdos energéticos por 4.700 millones y prevé 2 nuevas centrales nucleares",
-        "capturado": "2026-10-16T13:38:14-05:00"
-      },
-      {
-        "titulo": "Recuento semanal de criptomonedas y Bitcoin del 16 de octubre",
-        "url": "https://es.finance.yahoo.com/noticias/resumen-semanal-bitcoin-criptomonedas-16-155200432.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Resumen semanal de Bitcoin y criptomonedas: 16 de octubre",
-        "capturado": "2026-10-16T13:38:14-05:00"
-      },
-      {
-        "titulo": "El sondeo de servicios de la Fed de Nueva York muestra marcadas presiones de precios",
-        "url": "https://es.finance.yahoo.com/noticias/encuesta-sector-servicios-fed-york-152035405.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "La encuesta del sector servicios de la Fed de Nueva York revela presiones inflacionistas notables",
-        "capturado": "2026-10-16T13:38:14-05:00"
-      },
-      {
-        "titulo": "Estados Unidos pone a disposición hasta 17 millones de barriles de crudo de su reserva",
-        "url": "https://es.finance.yahoo.com/noticias/eeuu-ofrece-17-millones-barriles-151319677.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "EEUU ofrece hasta 17 millones de barriles de petróleo de la reserva estratégica",
-        "capturado": "2026-10-16T13:38:14-05:00"
-      },
-      {
-        "titulo": "Elevarán el auto volador de Tesla ventas y acciones",
-        "url": "https://es.finance.yahoo.com/noticias/coche-volador-tesla-disparar-ventas-140620372.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "¿Puede el coche volador de Tesla disparar ventas y acciones?",
-        "capturado": "2026-10-16T09:34:17-05:00"
-      },
-      {
-        "titulo": "Titular del FMI pide unión ante IA y guerra, y EE UU alaba su economía",
-        "url": "https://es.finance.yahoo.com/noticias/jefa-fmi-insta-cooperar-ia-135828757.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Jefa del FMI insta a cooperar en IA y riesgos de guerra, mientras EEUU celebra la economía",
-        "capturado": "2026-10-16T09:34:17-05:00"
       }
     ]
   }
