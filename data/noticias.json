@@ -1,9 +1,49 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-19T16:20:46-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-10-19T19:30:57-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Tres criptomonedas alternativas para seguir en la tercera semana de octubre de 2026",
+        "url": "https://es.finance.yahoo.com/noticias/top-3-altcoins-observar-3ra-230701258.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Top 3 altcoins a observar en la 3ra semana de octubre de 2026",
+        "capturado": "2026-10-19T19:30:57-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE. UU. cierran mixtas por baja contratación y consumo e informática al frente",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-cierran-213108798.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses cierran con resultados mixtos en medio de bajos volúmenes de negociación, con los sectores de consumo discrecional y tecnología liderando las listas sectoriales.",
+        "capturado": "2026-10-19T19:30:57-05:00"
+      },
+      {
+        "titulo": "Swaps sin costo: la trampa que baja las ganancias de carteras cripto de menor tamaño",
+        "url": "https://es.finance.yahoo.com/noticias/swaps-comisiones-trampa-reduce-ingresos-210700832.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Swaps sin comisiones: la trampa que reduce los ingresos de las wallets pequeñas de criptomonedas",
+        "capturado": "2026-10-19T19:30:57-05:00"
+      },
+      {
+        "titulo": "Inteligencia artificial en videojuegos generará nueva era dorada, a ojos de Elon Musk",
+        "url": "https://es.finance.yahoo.com/noticias/gaming-ia-traer%C3%A1-edad-oro-204300506.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "El gaming con IA traerá una “nueva edad de oro”, según Elon Musk",
+        "capturado": "2026-10-19T19:30:57-05:00"
+      },
+      {
+        "titulo": "Merz avisa que Europa minimiza la dimensión del peligro que representa Rusia",
+        "url": "https://es.finance.yahoo.com/noticias/merz-advierte-europa-subestima-alcance-185702793.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Merz advierte que Europa subestima el alcance de la amenaza que plantea Rusia",
+        "capturado": "2026-10-19T19:30:57-05:00"
+      },
       {
         "titulo": "Aeromexico evalua mas rutas a USA luego de que Washington quite veto en la capital",
         "url": "https://es.finance.yahoo.com/noticias/aerom%C3%A9xico-contempla-vuelos-eeuu-levantamiento-205418532.html",
@@ -443,46 +483,6 @@
         "medio": "Estrategias de inversión",
         "titulo_fuente": "Despertar para innovar",
         "capturado": "2026-10-17T08:05:21-05:00"
-      },
-      {
-        "titulo": "El rendimiento de Windows 11 sube hasta 20% en equipos con 8 GB de RAM durante la escasez de memoria",
-        "url": "https://es-us.noticias.yahoo.com/windows-11-vuelve-20-r%C3%A1pido-235645526.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Windows 11 se vuelve hasta 20% más rápido en computadores con 8 GB de RAM, en plena crisis de memoria",
-        "capturado": "2026-10-17T08:05:21-05:00"
-      },
-      {
-        "titulo": "Pandora expande su producción de joyería fina en Vietnam a la vez que disminuye su contaminación",
-        "url": "https://es.finance.yahoo.com/noticias/f%C3%A1brica-joyer%C3%ADa-fina-pandora-crece-055845500.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La mayor fábrica de joyería fina: Pandora crece y reduce emisiones en Vietnam",
-        "capturado": "2026-10-17T04:01:41-05:00"
-      },
-      {
-        "titulo": "NVIDIA App enciende por sorpresa servidor de IA que altera ajustes de juegos y este se apaga asi",
-        "url": "https://es-us.noticias.yahoo.com/nvidia-app-activa-aviso-servidor-200229350.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "NVIDIA App activa sin aviso un servidor de IA capaz de modificar la configuración de tus juegos, así puedes desactivarlo",
-        "capturado": "2026-10-17T04:01:41-05:00"
-      },
-      {
-        "titulo": "Estados Unidos quita trabas a aerolíneas de México luego de pleito aéreo",
-        "url": "https://es.finance.yahoo.com/noticias/eeuu-levanta-restricciones-aerol%C3%ADneas-mexicanas-000833379.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "EEUU levanta restricciones a aerolíneas mexicanas tras disputa en sector aviación",
-        "capturado": "2026-10-16T23:49:51-05:00"
-      },
-      {
-        "titulo": "Tres altcoins para seguir este fin de semana del 17 al 18 de octubre",
-        "url": "https://es.finance.yahoo.com/noticias/top-3-altcoins-observar-semana-210100309.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Top 3 altcoins a observar este fin de semana | 17-18 de octubre",
-        "capturado": "2026-10-16T16:55:44-05:00"
       }
     ]
   }
