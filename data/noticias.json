@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-20T10:36:53-05:00",
+  "actualizado": "2026-10-20T14:50:45-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Citi México halla nuevos horizontes bancarios tras la separación de Banamex",
+        "url": "https://es.finance.yahoo.com/noticias/citi-m%C3%A9xico-ve-oportunidades-bancos-193158656.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Citi México ve nuevas oportunidades con bancos tras escisión de Banamex",
+        "capturado": "2026-10-20T14:50:45-05:00"
+      },
+      {
+        "titulo": "Francia fija nuevo tributo a criptoactivos en medio de protestas por carestía",
+        "url": "https://es.finance.yahoo.com/noticias/francia-establece-impuesto-criptomonedas-estallan-185100908.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Francia establece nuevo impuesto sobre criptomonedas mientras estallan protestas por el costo de vida",
+        "capturado": "2026-10-20T14:50:45-05:00"
+      },
+      {
+        "titulo": "Gobierno alemán acuerda alianza de inteligencia artificial con Nvidia",
+        "url": "https://es.finance.yahoo.com/noticias/cumbre-inversiones-gobierno-alem%C3%A1n-acuerda-181036172.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Alemania no se queda atrás: el Gobierno pacta un acuerdo de IA con Nvidia",
+        "capturado": "2026-10-20T14:50:45-05:00"
+      },
+      {
+        "titulo": "Meta sostiene ante la justicia electoral de Brasil que da trato equitativo a Lula y Bolsonaro",
+        "url": "https://es.finance.yahoo.com/noticias/meta-afirma-justicia-electoral-brasile%C3%B1a-181043104.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Meta afirma ante un justicia electoral brasileña que trata por igual a las campañas de Lula y Bolsonaro",
+        "capturado": "2026-10-20T14:50:45-05:00"
+      },
+      {
+        "titulo": "Resultados trimestrales robustos elevan las bolsas de EE UU y sostienen el optimismo en IA",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-s%C3%B3lidos-resultados-trimestrales-impulsan-180130904.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los sólidos resultados trimestrales impulsan al alza los índices bursátiles estadounidenses, mientras que el sentimiento comercial de la IA se mantiene positivo.",
+        "capturado": "2026-10-20T14:50:45-05:00"
+      },
+      {
+        "titulo": "Rubio impulsará a la firma india Reliance a extraer y refinar mayor crudo de Venezuela",
+        "url": "https://es.finance.yahoo.com/noticias/rubio-animar%C3%A1-empresa-india-reliance-180023962.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Rubio animará a la empresa india Reliance a producir y refinar más petróleo venezolano",
+        "capturado": "2026-10-20T14:50:45-05:00"
+      },
+      {
+        "titulo": "Soja y maíz bajan a mínimos de semanas por liquidación de fondos y recolección",
+        "url": "https://es.finance.yahoo.com/noticias/soja-ma%C3%ADz-caen-m%C3%ADnimos-semanas-174318674.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "La soja y el maíz caen a mínimos de varias semanas por ventas de fondos y cosechas",
+        "capturado": "2026-10-20T14:50:45-05:00"
+      },
+      {
+        "titulo": "Carrefour avisa que disturbios y saqueos en Francia impactarán sus utilidades",
+        "url": "https://es.finance.yahoo.com/noticias/carrefour-advierte-disturbios-saqueos-francia-173020427.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Carrefour advierte de que los disturbios y los saqueos en Francia afectarán a sus ganancias",
+        "capturado": "2026-10-20T14:50:45-05:00"
+      },
       {
         "titulo": "Importaciones de maíz comunitario aumentan 40% por sequía y ventas de trigo blando siguen firmes",
         "url": "https://es.finance.yahoo.com/noticias/importaciones-ma%C3%ADz-ue-disparan-40-152729840.html",
@@ -419,70 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Rubio afirma que Trump tardará hasta 60 días en valorar las sanciones a Rusia",
         "capturado": "2026-10-18T16:17:22-05:00"
-      },
-      {
-        "titulo": "Moneda estable de Cardano brinda el 50 por ciento de APR con un detalle",
-        "url": "https://es.finance.yahoo.com/noticias/stablecoin-cardano-ofrece-50-apr-202700392.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Stablecoin de Cardano ofrece 50% de APR, pero hay un detalle",
-        "capturado": "2026-10-18T16:17:22-05:00"
-      },
-      {
-        "titulo": "Preparación de Bitcoin ante equipos cuánticos según la estrategia reciente de Coinbase",
-        "url": "https://es.finance.yahoo.com/noticias/bitcoin-listo-computadoras-cu%C3%A1nticas-muestra-181400366.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿Bitcoin está listo para las computadoras cuánticas? Lo que muestra el nuevo plan de Coinbase",
-        "capturado": "2026-10-18T13:47:20-05:00"
-      },
-      {
-        "titulo": "Informe semanal sobre criptoactivos y Bitcoin en América Latina y España del 18 de octubre",
-        "url": "https://es.finance.yahoo.com/noticias/resumen-semanal-bitcoin-criptomonedas-espa%C3%B1a-162200209.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Resumen semanal de Bitcoin y criptomonedas: España y América Latina – 18 de octubre",
-        "capturado": "2026-10-18T13:47:20-05:00"
-      },
-      {
-        "titulo": "Experto de Bloomberg alerta sobre posible caída de Bitcoin a $10,000",
-        "url": "https://es.finance.yahoo.com/noticias/bitcoin-desplomarse-10-000-analista-153144200.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿Bitcoin podría desplomarse a $10,000? Analista de Bloomberg lanza una advertencia dramática",
-        "capturado": "2026-10-18T11:22:14-05:00"
-      },
-      {
-        "titulo": "BofA establece nueva meta para la cotización del oro al cierre de 2026",
-        "url": "https://es.finance.yahoo.com/noticias/bofa-fija-objetivo-precio-oro-133900129.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "BofA fija nuevo objetivo para el precio del oro para finales de 2026",
-        "capturado": "2026-10-18T11:22:14-05:00"
-      },
-      {
-        "titulo": "Michael Burry pronostica un supervolcán en el mercado bursátil",
-        "url": "https://es.finance.yahoo.com/noticias/michael-burry-prev%C3%A9-supervolc%C3%A1n-mercado-111800204.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Michael Burry prevé un “supervolcán” en el mercado de acciones",
-        "capturado": "2026-10-18T07:43:43-05:00"
-      },
-      {
-        "titulo": "Jamie Dimon advierte más peligros de inestabilidad que Wall Street",
-        "url": "https://es.finance.yahoo.com/noticias/jamie-dimon-ve-riesgo-turbulencias-100014428.html",
-        "resumen": "",
-        "medio": "Benzinga Espana",
-        "titulo_fuente": "Jamie Dimon ve más riesgo de turbulencias que Wall Street",
-        "capturado": "2026-10-18T07:43:43-05:00"
-      },
-      {
-        "titulo": "Robert Kiyosaki emite una alerta que salvaría su futuro financiero",
-        "url": "https://es.finance.yahoo.com/noticias/robert-kiyosaki-lanza-advertencia-salvar-085600193.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Robert Kiyosaki lanza advertencia que podría salvar tu futuro financiero",
-        "capturado": "2026-10-18T07:43:43-05:00"
       }
     ]
   }
