@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-20T05:59:21-05:00",
+  "actualizado": "2026-10-20T10:36:53-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Importaciones de maíz comunitario aumentan 40% por sequía y ventas de trigo blando siguen firmes",
+        "url": "https://es.finance.yahoo.com/noticias/importaciones-ma%C3%ADz-ue-disparan-40-152729840.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Importaciones maíz UE se disparan 40% tras sequía, exportaciones trigo blando se mantienen estables",
+        "capturado": "2026-10-20T10:36:53-05:00"
+      },
+      {
+        "titulo": "Parlamentarios europeos pactan disminuir las metas de contaminación por CO₂ en automóviles",
+        "url": "https://es.finance.yahoo.com/noticias/legisladores-ue-llegan-acuerdo-rebajar-151958572.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Legisladores de la UE llegan a un acuerdo para rebajar objetivos de emisiones de CO₂ de los coches",
+        "capturado": "2026-10-20T10:36:53-05:00"
+      },
+      {
+        "titulo": "Indicador de riesgo soberano argentino rebasa los 700 puntos básicos, pico de doce meses",
+        "url": "https://es.finance.yahoo.com/noticias/riesgo-pa%C3%ADs-argentina-supera-700-145011091.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Riesgo país de Argentina supera 700 puntos básicos, su máximo nivel en un año",
+        "capturado": "2026-10-20T10:36:53-05:00"
+      },
+      {
+        "titulo": "NVIDIA y Alemania concretan alianza sobre inteligencia artificial por 10 mil millones de dólares",
+        "url": "https://es.finance.yahoo.com/noticias/alemania-nvidia-sellan-compromiso-ia-144600328.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Alemania y NVIDIA sellan compromiso de IA por $10 mil millones",
+        "capturado": "2026-10-20T10:36:53-05:00"
+      },
+      {
+        "titulo": "Bessent afirma que legislativo demócrata tendría escaso poder para frenar planes de Trump",
+        "url": "https://es.finance.yahoo.com/noticias/bessent-congreso-mayor%C3%ADa-dem%C3%B3crata-frenar-144021793.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Bessent dice que Congreso de mayoría demócrata no podría hacer mucho para frenar agenda de Trump",
+        "capturado": "2026-10-20T10:36:53-05:00"
+      },
+      {
+        "titulo": "En septiembre, los contratos de compraventa de casas en EE UU retrocedieron a un piso sin precedentes",
+        "url": "https://es.finance.yahoo.com/noticias/ventas-viviendas-pendientes-eeuu-caen-141523903.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Ventas de viviendas pendientes en EEUU caen a un mínimo histórico en septiembre",
+        "capturado": "2026-10-20T10:36:53-05:00"
+      },
+      {
+        "titulo": "Detalles sobre el gravamen reciente de Alemania a las bebidas azucaradas",
+        "url": "https://es.finance.yahoo.com/noticias/impuesto-alem%C3%A1n-bebidas-azucaradas-101540825.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Todo sobre el nuevo impuesto alemán a las bebidas azucaradas",
+        "capturado": "2026-10-20T10:36:53-05:00"
+      },
+      {
+        "titulo": "Goldman Sachs selecciona 23 títulos seguros ante la incertidumbre en inteligencia artificial",
+        "url": "https://es.finance.yahoo.com/noticias/goldman-sachs-nombra-23-acciones-132100989.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Goldman Sachs nombra 23 acciones defensivas para inversores preocupados por el sector de IA",
+        "capturado": "2026-10-20T10:36:53-05:00"
+      },
       {
         "titulo": "El paso del Papa por España dejó 139 millones de euros al doblarse el gasto inicial de montaje",
         "url": "https://es.finance.yahoo.com/noticias/visita-papa-espa%C3%B1a-gener%C3%B3-139-104126599.html",
@@ -419,70 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "Robert Kiyosaki lanza advertencia que podría salvar tu futuro financiero",
         "capturado": "2026-10-18T07:43:43-05:00"
-      },
-      {
-        "titulo": "Santander y Telefónica miran a Brasil por sondeos que aumentan la tensión de la segunda vuelta",
-        "url": "https://es.finance.yahoo.com/noticias/santander-telef%C3%B3nica-pendientes-brasil-encuestas-044000942.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "Santander y Telefónica, pendientes de Brasil: las últimas encuestas elevan la tensión antes de la segunda vuelta electoral",
-        "capturado": "2026-10-18T07:43:43-05:00"
-      },
-      {
-        "titulo": "El analista que nadie ha contratado",
-        "url": "https://es.finance.yahoo.com/noticias/analista-contratado-040000491.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "El analista que nadie ha contratado",
-        "capturado": "2026-10-18T07:43:43-05:00"
-      },
-      {
-        "titulo": "Port gratis de Bloodborne para PC añade sombras dinámicas y luz mejorada, alcanzando hasta 120 FPS",
-        "url": "https://es-us.noticias.yahoo.com/port-gratuito-bloodborne-pc-suma-214639450.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Port gratuito de Bloodborne para PC suma sombras en tiempo real y mejor iluminación, y corre hasta 120 FPS",
-        "capturado": "2026-10-18T07:43:43-05:00"
-      },
-      {
-        "titulo": "Uno de cada ocho habitantes en la UE no puede acceder al ocio y se indaga por el país más afectado",
-        "url": "https://es.finance.yahoo.com/noticias/ocio-alcance-1-8-personas-055413091.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El ocio es´tá fuera del alcance de 1 de cada 8 personas en la UE: ¿En qué país hay peor situación?",
-        "capturado": "2026-10-18T03:15:08-05:00"
-      },
-      {
-        "titulo": "Disponible sin costo para computador el port de El Señor de los Anillos Las Dos Torres con alta resolución",
-        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-port-pc-se%C3%B1or-172036531.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Descarga gratis el port para PC de El Señor de los Anillos Las Dos Torres, que corre sin emulador con FPS ilimitados y resolución 12 veces mayor",
-        "capturado": "2026-10-18T03:15:08-05:00"
-      },
-      {
-        "titulo": "Lanzan gratis para computador el juego Driveclub en alta resolución diez años tras el cierre de su estudio",
-        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-port-pc-driveclub-153917564.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Descarga gratis el port para PC de Driveclub, el exclusivo de PS4 que corre sin emulador en 8K, una década después de que PlayStation cerrara a sus creadores",
-        "capturado": "2026-10-18T03:15:08-05:00"
-      },
-      {
-        "titulo": "Disponible sin costo la versión para computador de Zelda Skyward Sword HD a 60 cuadros por segundo y 4K",
-        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-port-pc-zelda-144134325.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Descarga gratis el port para PC de Zelda Skyward Sword HD, que corre sin emulador a 60 FPS en 4K con soporte para mouse",
-        "capturado": "2026-10-17T22:17:41-05:00"
-      },
-      {
-        "titulo": "El FMI emite importante alerta sobre si la IA desplaza laboralmente a los jóvenes",
-        "url": "https://es.finance.yahoo.com/noticias/ia-quitando-trabajo-j%C3%B3venes-fmi-230200577.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿La IA le está quitando el trabajo a los jóvenes? El FMI lanza una advertencia crucial",
-        "capturado": "2026-10-17T18:46:40-05:00"
       }
     ]
   }
