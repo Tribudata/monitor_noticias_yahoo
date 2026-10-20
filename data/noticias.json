@@ -1,9 +1,41 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-20T14:50:45-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-10-20T17:56:32-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Bolsas de EE. UU. con comportamiento variado por caída tecnológica y de servicios que frena al Nasdaq",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-213459379.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos, ya que la debilidad en los sectores de servicios de comunicaciones y tecnología frena al Nasdaq Composite.",
+        "capturado": "2026-10-20T17:56:32-05:00"
+      },
+      {
+        "titulo": "CEO afirma que Aerolíneas Argentinas no pedirá recursos del Estado a pesar del costo del combustible",
+        "url": "https://es.finance.yahoo.com/noticias/aerol%C3%ADneas-argentinas-solicitar%C3%A1-fondos-estatales-211009384.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Aerolíneas Argentinas no solicitará fondos estatales pese a presión por precio de combustible: CEO",
+        "capturado": "2026-10-20T17:56:32-05:00"
+      },
+      {
+        "titulo": "Ingresos de SpaceX suben 161 por ciento interanual y superan pronósticos del tercer trimestre de 2026",
+        "url": "https://es.finance.yahoo.com/noticias/spacex-supera-estimaciones-tercer-trimestre-204304399.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "SpaceX supera las estimaciones del tercer trimestre de 2026 mientras sus ingresos aumentan 161% interanual",
+        "capturado": "2026-10-20T17:56:32-05:00"
+      },
+      {
+        "titulo": "JPMorgan da a conocer tres posibles panoramas para el Bitcoin en el año 2036",
+        "url": "https://es.finance.yahoo.com/noticias/jpmorgan-revela-3-posibles-escenarios-203600289.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "JPMorgan revela 3 posibles escenarios para Bitcoin en 2036",
+        "capturado": "2026-10-20T17:56:32-05:00"
+      },
       {
         "titulo": "Citi México halla nuevos horizontes bancarios tras la separación de Banamex",
         "url": "https://es.finance.yahoo.com/noticias/citi-m%C3%A9xico-ve-oportunidades-bancos-193158656.html",
@@ -451,38 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "Salarios y precios: las presiones económicas tras las protestas en Europa",
         "capturado": "2026-10-19T04:37:53-05:00"
-      },
-      {
-        "titulo": "Ya se puede bajar sin costo la versión para computador de Killzone Shadow Fall",
-        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-port-pc-killzone-152349440.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Descarga gratis el port para PC de Killzone Shadow Fall, el shooter exclusivo de PS4 que corre sin emulador a 60 FPS y con mouse",
-        "capturado": "2026-10-18T22:30:26-05:00"
-      },
-      {
-        "titulo": "La realidad oculta del noventa por ciento de las transacciones con inteligencia artificial",
-        "url": "https://es.finance.yahoo.com/noticias/inc%C3%B3moda-verdad-detr%C3%A1s-90-pagos-224000638.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "La incómoda verdad detrás del 90% de los pagos con IA",
-        "capturado": "2026-10-18T18:30:31-05:00"
-      },
-      {
-        "titulo": "Anthropic entregará un 5 por ciento de su capital a un fondo social nuevo",
-        "url": "https://es.finance.yahoo.com/noticias/anthropic-destinar%C3%A1-participaci%C3%B3n-5-fondo-204144959.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Anthropic destinará una participación del 5 % a un nuevo fondo de interés público",
-        "capturado": "2026-10-18T16:17:22-05:00"
-      },
-      {
-        "titulo": "Rubio dice que Trump demorará hasta dos meses en revisar castigos a Rusia",
-        "url": "https://es.finance.yahoo.com/noticias/rubio-afirma-trump-tardar%C3%A1-60-204010868.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Rubio afirma que Trump tardará hasta 60 días en valorar las sanciones a Rusia",
-        "capturado": "2026-10-18T16:17:22-05:00"
       }
     ]
   }
