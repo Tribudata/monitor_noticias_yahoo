@@ -1,9 +1,33 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-19T19:30:57-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-20T00:41:17-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Motivos por los cuales la farmacéutica Roche frena sus capitales en Alemania",
+        "url": "https://es.finance.yahoo.com/noticias/farmac%C3%A9utica-roche-congela-inversiones-alemania-040828541.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Por qué la farmacéutica Roche congela sus inversiones en Alemania",
+        "capturado": "2026-10-20T00:41:17-05:00"
+      },
+      {
+        "titulo": "Quién asumirá los perjuicios de los desmanes en Francia y la cuenta apunta a ser muy alta",
+        "url": "https://es.finance.yahoo.com/noticias/da%C3%B1os-disturbios-francia-duplican-paga-033421731.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "¿Quién pagará los daños de los disturbios en Francia? La factura amenaza con ser millonaria",
+        "capturado": "2026-10-20T00:41:17-05:00"
+      },
+      {
+        "titulo": "Administración de Trump intenta pasar buques petroleros castigados a naves legales",
+        "url": "https://es.finance.yahoo.com/noticias/gobierno-trump-busca-convertir-petroleros-203702764.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Gobierno de Trump busca convertir petroleros sancionados en buques legítimos",
+        "capturado": "2026-10-20T00:41:17-05:00"
+      },
       {
         "titulo": "Tres criptomonedas alternativas para seguir en la tercera semana de octubre de 2026",
         "url": "https://es.finance.yahoo.com/noticias/top-3-altcoins-observar-3ra-230701258.html",
@@ -458,30 +482,6 @@
         "resumen": "",
         "medio": "BeInCrypto",
         "titulo_fuente": "Raoul Pal tiene Bitcoin, Solana y Ethereum, pero dice que uno está extremadamente infravalorado",
-        "capturado": "2026-10-17T08:05:21-05:00"
-      },
-      {
-        "titulo": "Novedoso producto en dólares de KuCoin otorga hasta 6 por ciento en criptomonedas estables",
-        "url": "https://es.finance.yahoo.com/noticias/activo-usd-kucoin-paga-6-084400918.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Nuevo activo en USD de KuCoin paga hasta 6% en stablecoins: ¿Vale la pena usarlo?",
-        "capturado": "2026-10-17T08:05:21-05:00"
-      },
-      {
-        "titulo": "Títulos de deuda rivalizan otra vez con la Bolsa y surge duda sobre la ganancia bursátil",
-        "url": "https://es.finance.yahoo.com/noticias/bonos-vuelven-competir-bolsa-rentabilidad-043000278.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "Los bonos vuelven a competir con la Bolsa: ¿qué rentabilidad debe ofrecer ahora una acción para compensar el riesgo?",
-        "capturado": "2026-10-17T08:05:21-05:00"
-      },
-      {
-        "titulo": "Despertar para innovar",
-        "url": "https://es.finance.yahoo.com/noticias/despertar-innovar-040000220.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "Despertar para innovar",
         "capturado": "2026-10-17T08:05:21-05:00"
       }
     ]
