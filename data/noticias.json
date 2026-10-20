@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-20T00:41:17-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-20T05:59:21-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "El paso del Papa por España dejó 139 millones de euros al doblarse el gasto inicial de montaje",
+        "url": "https://es.finance.yahoo.com/noticias/visita-papa-espa%C3%B1a-gener%C3%B3-139-104126599.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "La visita del Papa a España generó 139 millones de euros tras duplicarse el coste inicial de la organización",
+        "capturado": "2026-10-20T05:59:21-05:00"
+      },
+      {
+        "titulo": "El Brent alcanza techo de cinco meses y ofensivas a plantas saudíes disparan alertas de abastecimiento",
+        "url": "https://es.finance.yahoo.com/noticias/brent-toca-m%C3%A1ximo-meses-ataques-103844983.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "El Brent toca máximo de cinco meses, ataques a instalaciones saudíes avivan temores sobre suministro",
+        "capturado": "2026-10-20T05:59:21-05:00"
+      },
+      {
+        "titulo": "Fondos cotizados de Bitcoin suman 526,6 millones en su jornada más alta desde el 22 de septiembre",
+        "url": "https://es.finance.yahoo.com/noticias/etf-bitcoin-registran-entradas-526-103400990.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Los ETF de Bitcoin registran entradas de $526.6 millones, su mejor día desde el 22 de septiembre",
+        "capturado": "2026-10-20T05:59:21-05:00"
+      },
+      {
+        "titulo": "El cronograma de entrega de reservas petroleras de la AIE recae en cada nación, afirma su líder",
+        "url": "https://es.finance.yahoo.com/noticias/calendario-liberaci%C3%B3n-reservas-petr%C3%B3leo-aie-101210281.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "El calendario de liberación de reservas de petróleo de la AIE depende de cada país, dice su director",
+        "capturado": "2026-10-20T05:59:21-05:00"
+      },
+      {
+        "titulo": "Inestabilidad del Bitcoin baja a piso de 30 meses al tiempo que operadores aguardan salto del 30%",
+        "url": "https://es.finance.yahoo.com/noticias/volatilidad-bitcoin-cae-m%C3%ADnimos-2-091600727.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Volatilidad de Bitcoin cae a mínimos de 2 años y medio mientras los traders se alistan para un movimiento del 30%",
+        "capturado": "2026-10-20T05:59:21-05:00"
+      },
+      {
+        "titulo": "Tasas de préstamos hipotecarios alemanes llegan al 4,5% y tocan picos no vistos desde la crisis de 2009",
+        "url": "https://es.finance.yahoo.com/noticias/hipotecas-alemania-rozan-4-5-091439269.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Las hipotecas en Alemania rozan el 4,5% y alcanzan máximos desde la crisis financiera de 2009",
+        "capturado": "2026-10-20T05:59:21-05:00"
+      },
+      {
+        "titulo": "El Congreso colombiano da luz verde al presupuesto de gastos de 2027 por 634,9 billones de pesos",
+        "url": "https://es.finance.yahoo.com/noticias/congreso-colombia-aprueba-presupuesto-gastos-090653848.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Congreso de Colombia aprueba presupuesto de gastos para 2027 por 634,9 billones de pesos",
+        "capturado": "2026-10-20T05:59:21-05:00"
+      },
+      {
+        "titulo": "Francia ordena a Amazon, eBay y Vinted bajar avisos de artículos hurtados en medio de los disturbios",
+        "url": "https://es.finance.yahoo.com/noticias/francia-insta-plataformas-reventa-retirar-073121037.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Francia exige a Vinted, Amazon y eBay retirar anuncios de productos robados durante los disturbios",
+        "capturado": "2026-10-20T05:59:21-05:00"
+      },
       {
         "titulo": "Motivos por los cuales la farmacéutica Roche frena sus capitales en Alemania",
         "url": "https://es.finance.yahoo.com/noticias/farmac%C3%A9utica-roche-congela-inversiones-alemania-040828541.html",
@@ -419,70 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "¿La IA le está quitando el trabajo a los jóvenes? El FMI lanza una advertencia crucial",
         "capturado": "2026-10-17T18:46:40-05:00"
-      },
-      {
-        "titulo": "Sector criptográfico brasileño presiona a aspirantes presidenciales previo al balotaje",
-        "url": "https://es.finance.yahoo.com/noticias/comunidad-cripto-brasil-presiona-candidatos-214400621.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Comunidad cripto de Brasil presiona a candidatos presidenciales antes de la segunda vuelta",
-        "capturado": "2026-10-17T18:46:40-05:00"
-      },
-      {
-        "titulo": "Ciclos pasados revelan pistas sobre el momento en que Bitcoin volverá a su cotización récord",
-        "url": "https://es.finance.yahoo.com/noticias/cu%C3%A1ndo-recuperar%C3%A1-precio-bitcoin-m%C3%A1ximo-193000327.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿Cuándo recuperará el precio de Bitcoin su máximo histórico? Datos del ciclo dan una pista",
-        "capturado": "2026-10-17T16:36:19-05:00"
-      },
-      {
-        "titulo": "Vitalik Buterin expone las razones por las que la inteligencia artificial reemplazaría a los mineros de Bitcoin",
-        "url": "https://es.finance.yahoo.com/noticias/vitalik-buterin-revela-ia-expulsar-181500990.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Vitalik Buterin revela por qué la IA podría expulsar a los mineros de Bitcoin",
-        "capturado": "2026-10-17T14:02:35-05:00"
-      },
-      {
-        "titulo": "Descubrimiento de Claude acerca de la NSA desata discusión sobre posibles errores de Satoshi en Bitcoin",
-        "url": "https://es.finance.yahoo.com/noticias/satoshi-equivoc%C3%B3-bitcoin-hallazgo-claude-172900013.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿Satoshi se equivocó con Bitcoin? Hallazgo de Claude sobre la NSA por genera debate",
-        "capturado": "2026-10-17T14:02:35-05:00"
-      },
-      {
-        "titulo": "Analistas afirman que surgen indicios alcistas de Bitcoin por doquier",
-        "url": "https://es.finance.yahoo.com/noticias/se%C3%B1ales-alcistas-bitcoin-aparecen-lados-151800857.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Señales alcistas de Bitcoin aparecen por todos lados, según analistas",
-        "capturado": "2026-10-17T11:34:39-05:00"
-      },
-      {
-        "titulo": "Exasesor de Ripple avisa que el reto más grande de XRP sigue pendiente",
-        "url": "https://es.finance.yahoo.com/noticias/prueba-xrp-venir-advierte-exasesor-130700155.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "La mayor prueba para XRP aún está por venir, advierte exasesor de Ripple",
-        "capturado": "2026-10-17T11:34:39-05:00"
-      },
-      {
-        "titulo": "Entidad reguladora española alerta acerca de cuatro empresas bitcoineras sin autorización MiCA",
-        "url": "https://es.finance.yahoo.com/noticias/cnmv-espa%C3%B1a-advierte-4-firmas-115307194.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "CNMV de España advierte sobre 4 firmas de criptomonedas sin licencia MiCA",
-        "capturado": "2026-10-17T08:05:21-05:00"
-      },
-      {
-        "titulo": "Raoul Pal posee BTC, SOL y ETH, aunque asegura que uno de ellos se halla muy subvalorado",
-        "url": "https://es.finance.yahoo.com/noticias/raoul-pal-bitcoin-solana-ethereum-105600979.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Raoul Pal tiene Bitcoin, Solana y Ethereum, pero dice que uno está extremadamente infravalorado",
-        "capturado": "2026-10-17T08:05:21-05:00"
       }
     ]
   }
