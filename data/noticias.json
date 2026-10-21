@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-20T17:56:32-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-20T20:24:00-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Grupo México registra un incremento en sus utilidades trimestrales y reduce sus proyecciones de cobre",
+        "url": "https://es.finance.yahoo.com/noticias/grupo-m%C3%A9xico-reporta-mayores-ganancias-225105266.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Grupo México reporta mayores ganancias trimestrales y recorta previsiones cupríferas",
+        "capturado": "2026-10-20T20:24:00-05:00"
+      },
       {
         "titulo": "Bolsas de EE. UU. con comportamiento variado por caída tecnológica y de servicios que frena al Nasdaq",
         "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-213459379.html",
@@ -474,14 +482,6 @@
         "resumen": "",
         "medio": "Euronews",
         "titulo_fuente": "Un anillo gasista de 5.000 millones de dólares podría reforzar la seguridad energética de Asia Central",
-        "capturado": "2026-10-19T04:37:53-05:00"
-      },
-      {
-        "titulo": "Presiones salariales y de precios tras las manifestaciones vividas en Europa",
-        "url": "https://es.finance.yahoo.com/noticias/salarios-frente-precios-presiones-econ%C3%B3micas-042011752.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Salarios y precios: las presiones económicas tras las protestas en Europa",
         "capturado": "2026-10-19T04:37:53-05:00"
       }
     ]
