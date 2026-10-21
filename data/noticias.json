@@ -1,9 +1,65 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-21T07:10:53-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-10-21T12:31:53-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Aumentan los fondos cotizados en bolsa cuando las acciones de Estados Unidos rebotan pasada la tarde",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-suben-medida-171218617.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa suben a medida que las acciones estadounidenses repuntan tras el mediodía",
+        "capturado": "2026-10-21T12:31:53-05:00"
+      },
+      {
+        "titulo": "Scotiabank calcula un aporte de 104 millones de dólares canadienses a la utilidad ajustada del cuarto trimestre por KeyCorp",
+        "url": "https://es.finance.yahoo.com/noticias/scotiabank-prev%C3%A9-contribuci%C3%B3n-ganancias-ajustadas-164139536.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Scotiabank prevé una contribución a las ganancias ajustadas del cuarto trimestre de 104 millones de dólares canadienses procedente de KeyCorp.",
+        "capturado": "2026-10-21T12:31:53-05:00"
+      },
+      {
+        "titulo": "Crece el déficit comercial colombiano en agosto debido a mayores compras externas",
+        "url": "https://es.finance.yahoo.com/noticias/d%C3%A9ficit-comercial-colombia-repunta-agosto-163646354.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Déficit comercial de Colombia repunta en agosto por aumento de importaciones",
+        "capturado": "2026-10-21T12:31:53-05:00"
+      },
+      {
+        "titulo": "Estados Unidos busca financiar hasta un tercio de las reservas de diésel para calefacción con el fin de regular tarifas",
+        "url": "https://es.finance.yahoo.com/noticias/eeuu-pretende-prestar-tercio-reservas-161353763.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "EEUU pretende prestar hasta un tercio de reservas de diésel de calefacción para controlar precios",
+        "capturado": "2026-10-21T12:31:53-05:00"
+      },
+      {
+        "titulo": "Cartas de Pokémon alcanzarían pronto a NVIDIA como el activo más rentable a nivel global",
+        "url": "https://es.finance.yahoo.com/noticias/cartas-pok%C3%A9mon-superar-pronto-nvidia-155700607.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Cartas de Pokémon podrían superar pronto a NVIDIA como el activo con mejor rendimiento del mundo",
+        "capturado": "2026-10-21T12:31:53-05:00"
+      },
+      {
+        "titulo": "El endeudamiento público de la eurozona trepa al 88,8% del PIB e Italia se aproxima a Grecia",
+        "url": "https://es.finance.yahoo.com/noticias/deuda-p%C3%BAblica-eurozona-sube-88-145454682.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "La deuda pública de la eurozona sube al 88,8% del PIB e Italia se acerca a Grecia",
+        "capturado": "2026-10-21T12:31:53-05:00"
+      },
+      {
+        "titulo": "Rumores del mercado: Segun informes, IDC sella un trato preliminar por la filial sudafricana de ArcelorMittal",
+        "url": "https://es.finance.yahoo.com/noticias/rumores-mercado-informes-idc-cierra-151651610.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Rumores del mercado: Según informes, IDC cierra un acuerdo inicial para la unidad sudafricana de ArcelorMittal.",
+        "capturado": "2026-10-21T12:31:53-05:00"
+      },
       {
         "titulo": "Mandatario indonesio señala a MSCI por buscar intimidar a la nación tras la baja bursátil",
         "url": "https://es.finance.yahoo.com/noticias/presidente-indonesia-acusa-msci-intentar-120228249.html",
@@ -427,62 +483,6 @@
         "medio": "Bloomberg",
         "titulo_fuente": "El Papa León XIV y Zelenski conversan por teléfono, informó el Vaticano",
         "capturado": "2026-10-19T16:20:46-05:00"
-      },
-      {
-        "titulo": "Arabia Saudita pospone su foro Davos en el desierto a causa de los atentados",
-        "url": "https://es.finance.yahoo.com/noticias/arabia-saudita-aplaza-conferencia-davos-172958528.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Arabia Saudita aplaza su conferencia \"Davos en el desierto\" tras ataques",
-        "capturado": "2026-10-19T16:20:46-05:00"
-      },
-      {
-        "titulo": "Los ETF ascienden conforme los títulos de EE UU se recuperan pasado el mediodía",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-suben-medida-172542616.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa suben a medida que las acciones estadounidenses repuntan después del mediodía.",
-        "capturado": "2026-10-19T16:20:46-05:00"
-      },
-      {
-        "titulo": "Apple lanzará su inicial MacBook Pro con panel táctil el 28 de octubre",
-        "url": "https://es.finance.yahoo.com/noticias/apple-presentar%C3%A1-macbook-pro-pantalla-172007822.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Apple presentará su primer MacBook Pro con pantalla táctil el 28 de octubre",
-        "capturado": "2026-10-19T16:20:46-05:00"
-      },
-      {
-        "titulo": "Brasil halla mal de Newcastle en criadero avícola de región sureña",
-        "url": "https://es.finance.yahoo.com/noticias/brasil-detecta-enfermedad-newcastle-granja-162618087.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Brasil detecta la enfermedad de Newcastle en una granja de pavos de un estado del sur",
-        "capturado": "2026-10-19T11:48:47-05:00"
-      },
-      {
-        "titulo": "Mercado cambiario de Argentina sigue estable bajo vigilancia de la autoridad monetaria",
-        "url": "https://es.finance.yahoo.com/noticias/plaza-cambiaria-argentina-mantiene-controlada-153103976.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Plaza cambiaria argentina se mantiene controlada con seguimiento de banco central",
-        "capturado": "2026-10-19T11:48:47-05:00"
-      },
-      {
-        "titulo": "Crecen miedos de liquidación de XRP tras pico anual en indicador principal",
-        "url": "https://es.finance.yahoo.com/noticias/aumentan-temores-venta-xrp-m%C3%A9trica-151100041.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Aumentan temores de venta de XRP mientras una métrica clave registra máximo anual",
-        "capturado": "2026-10-19T11:48:47-05:00"
-      },
-      {
-        "titulo": "Musk ofrece títulos de SpaceX a menores estadounidenses por 10.700 millones",
-        "url": "https://es.finance.yahoo.com/noticias/musk-promete-acciones-spacex-ni%C3%B1o-144210884.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Musk promete acciones de SpaceX a cada niño de EE.UU.: el regalo ascendería a 10.700 millones",
-        "capturado": "2026-10-19T11:48:47-05:00"
       }
     ]
   }
