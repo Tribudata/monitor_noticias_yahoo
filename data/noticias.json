@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-21T01:21:00-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-21T07:10:53-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Mandatario indonesio señala a MSCI por buscar intimidar a la nación tras la baja bursátil",
+        "url": "https://es.finance.yahoo.com/noticias/presidente-indonesia-acusa-msci-intentar-120228249.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Presidente de Indonesia acusa a MSCI de intentar intimidar al país tras la caída en los mercados",
+        "capturado": "2026-10-21T07:10:53-05:00"
+      },
+      {
+        "titulo": "Director ejecutivo de Ryanair pronostica el mayor incremento histórico en pasajes aéreos europeos",
+        "url": "https://es.finance.yahoo.com/noticias/ceo-ryanair-augura-subida-tarifas-114825759.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El CEO de Ryanair augura la mayor subida de tarifas aéreas de la historia en Europa",
+        "capturado": "2026-10-21T07:10:53-05:00"
+      },
+      {
+        "titulo": "Cotizaciones globales del diésel seguirán elevadas pese al pacto entre Trump y Rusia",
+        "url": "https://es.finance.yahoo.com/noticias/precios-mundiales-di%C3%A9sel-mantendr%C3%ADan-altos-113617140.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Los precios mundiales del diésel se mantendrían altos a pesar del acuerdo de Trump con Rusia",
+        "capturado": "2026-10-21T07:10:53-05:00"
+      },
+      {
+        "titulo": "Valores petroleros ascienden luego de que Irán disipa expectativas de progreso diplomático",
+        "url": "https://es.finance.yahoo.com/noticias/precios-crudo-suben-ir%C3%A1n-frustra-113152289.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Precios del crudo suben después que Irán frustra esperanzas de un avance diplomático",
+        "capturado": "2026-10-21T07:10:53-05:00"
+      },
+      {
+        "titulo": "Efecto multimillonario del huracán Shakira en Madrid: 400 millones de euros y 700.000 asistentes",
+        "url": "https://es.finance.yahoo.com/noticias/hurac%C3%A1n-shakira-deja-madrid-400-110707240.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El impacto millonario del 'huracán Shakira' en Madrid: 400 millones de euros y 700.000 espectadores",
+        "capturado": "2026-10-21T07:10:53-05:00"
+      },
+      {
+        "titulo": "Las cifras de SpaceX devuelven la fe en la IA en Wall Street previo a la apertura; Asia mixta y Europa al alza",
+        "url": "https://es.finance.yahoo.com/noticias/resultados-spacex-reavivan-optimismo-ia-111528395.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los resultados de SpaceX reavivan el optimismo sobre la IA en Wall Street antes de la apertura del mercado; Asia presenta resultados mixtos, Europa registra ganancias.",
+        "capturado": "2026-10-21T07:10:53-05:00"
+      },
+      {
+        "titulo": "Lufthansa invertirá cerca de 1.200 millones en TAP y las ganancias demorarán hasta el año 2030",
+        "url": "https://es.finance.yahoo.com/noticias/lufthansa-acuerdo-1-200-millones-104240820.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Lufthansa pagará hasta 1.200 millones por TAP, pero los beneficios podrían tardar hasta 2030",
+        "capturado": "2026-10-21T07:10:53-05:00"
+      },
+      {
+        "titulo": "Habrá una caída mayor del bitcóin El índice S&P 500 tendría la respuesta",
+        "url": "https://es.finance.yahoo.com/noticias/bitcoin-sufrir%C3%A1-correcci%C3%B3n-profunda-s-103900642.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿Bitcoin sufrirá una corrección más profunda? El S&P 500 podría tener la respuesta",
+        "capturado": "2026-10-21T07:10:53-05:00"
+      },
       {
         "titulo": "Las jubilaciones de Europa figuran entre las más destacadas del planeta y este es su nivel de solidez",
         "url": "https://es.finance.yahoo.com/noticias/pensiones-europeas-mejores-mundo-cu%C3%A1n-060924889.html",
@@ -419,70 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "Musk promete acciones de SpaceX a cada niño de EE.UU.: el regalo ascendería a 10.700 millones",
         "capturado": "2026-10-19T11:48:47-05:00"
-      },
-      {
-        "titulo": "Francia roza crisis de deuda y conflicto político enciende alertas bursátiles",
-        "url": "https://es.finance.yahoo.com/noticias/deuda-francia-empujar-italia-recesi%C3%B3n-142151981.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Francia, al borde de una crisis de deuda: la tensión política dispara las alarmas en los mercados",
-        "capturado": "2026-10-19T11:48:47-05:00"
-      },
-      {
-        "titulo": "Estados Unidos veda la IA china DeepSeek en equipos informáticos de oficinas estatales",
-        "url": "https://es.finance.yahoo.com/noticias/eeuu-proh%C3%ADbe-uso-ia-china-143918676.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "EEUU prohíbe el uso de la IA china DeepSeek en sistemas informáticos de agencias gubernamentales",
-        "capturado": "2026-10-19T11:48:47-05:00"
-      },
-      {
-        "titulo": "Google y McKinsey pactan en Brasil eliminar carbono por medio de silvopastoreo",
-        "url": "https://es.finance.yahoo.com/noticias/google-mckinsey-firman-acuerdo-brasil-135712672.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Google y McKinsey firman acuerdo en Brasil para eliminar carbono mediante proyecto de silvopastoreo",
-        "capturado": "2026-10-19T11:48:47-05:00"
-      },
-      {
-        "titulo": "Logrará Bitcoin sostenerse sobre los 80.000 dólares en el transcurso de esta semana",
-        "url": "https://es.finance.yahoo.com/noticias/bitcoin-mantenerse-encima-80-000-134900260.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿Podrá Bitcoin mantenerse por encima de $80,000 esta semana?",
-        "capturado": "2026-10-19T11:48:47-05:00"
-      },
-      {
-        "titulo": "Protestas en Francia impactan los mercados bursátiles de Europa y elevan el valor de los títulos soberanos",
-        "url": "https://es.finance.yahoo.com/noticias/bolsas-europeas-abren-rojo-empresas-090008925.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Los disturbios en Francia sacuden los mercados: caen las Bolsas europeas y sube el coste de la deuda",
-        "capturado": "2026-10-19T04:37:53-05:00"
-      },
-      {
-        "titulo": "Líneas aéreas de la región analizan retomar vuelos a Venezuela por el acercamiento político a pesar de trabas",
-        "url": "https://es.finance.yahoo.com/noticias/aerol%C3%ADneas-latinoamericanas-eval%C3%BAan-volver-venezuela-090330719.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Aerolíneas latinoamericanas evalúan volver a Venezuela ante el deshielo diplomático, pese a obstáculos",
-        "capturado": "2026-10-19T04:37:53-05:00"
-      },
-      {
-        "titulo": "Fondos cotizados de XRP cortan ciclo positivo de trece semanas y transferencias en red encienden alertas",
-        "url": "https://es.finance.yahoo.com/noticias/etf-xrp-pierden-racha-13-075000701.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "ETF de XRP pierden racha de 13 semanas de entradas mientras los pagos on-chain lanzan una advertencia",
-        "capturado": "2026-10-19T04:37:53-05:00"
-      },
-      {
-        "titulo": "Técnicas Reunidas obtiene un acuerdo por 200 millones de euros para la iniciativa Coastal GasLink en Canadá",
-        "url": "https://es.finance.yahoo.com/noticias/t%C3%A9cnicas-reunidas-gana-contrato-200-074118781.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Técnicas Reunidas gana un contrato de 200 millones de euros vinculado al proyecto Coastal GasLink de GNL de Canadá",
-        "capturado": "2026-10-19T04:37:53-05:00"
       }
     ]
   }
