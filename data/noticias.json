@@ -1,9 +1,33 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-20T20:24:00-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-21T01:21:00-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Las jubilaciones de Europa figuran entre las más destacadas del planeta y este es su nivel de solidez",
+        "url": "https://es.finance.yahoo.com/noticias/pensiones-europeas-mejores-mundo-cu%C3%A1n-060924889.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Las pensiones europeas, entre las mejores del mundo: cuán seguras son",
+        "capturado": "2026-10-21T01:21:00-05:00"
+      },
+      {
+        "titulo": "Las acciones de Netflix caen más del 5% en el mercado a pesar de rebasar las metas de ganancias",
+        "url": "https://es.finance.yahoo.com/noticias/netflix-desploma-5-bolsa-pese-055938972.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Netflix se desploma más de un 5% en Bolsa pese a superar las previsiones de beneficios",
+        "capturado": "2026-10-21T01:21:00-05:00"
+      },
+      {
+        "titulo": "Musk no descarta unir Tesla con SpaceX luego del fuerte incremento en las ganancias de esta última",
+        "url": "https://es.finance.yahoo.com/noticias/elon-musk-respalda-fusi%C3%B3n-spacex-043844253.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Musk abre la puerta a una fusión entre Tesla y SpaceX tras dispararse los beneficios de su empresa espacial",
+        "capturado": "2026-10-21T01:21:00-05:00"
+      },
       {
         "titulo": "Grupo México registra un incremento en sus utilidades trimestrales y reduce sus proyecciones de cobre",
         "url": "https://es.finance.yahoo.com/noticias/grupo-m%C3%A9xico-reporta-mayores-ganancias-225105266.html",
@@ -458,30 +482,6 @@
         "resumen": "",
         "medio": "MT Newswires",
         "titulo_fuente": "Técnicas Reunidas gana un contrato de 200 millones de euros vinculado al proyecto Coastal GasLink de GNL de Canadá",
-        "capturado": "2026-10-19T04:37:53-05:00"
-      },
-      {
-        "titulo": "Analistas detallan estrategias financieras ante la volatilidad: adquirir bienes, guardar dinero o aguardar",
-        "url": "https://es.finance.yahoo.com/noticias/comprar-ahorrar-esperar-expertos-explican-073828941.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "¿Comprar, ahorrar o esperar? Los expertos explican cómo afrontar la incertidumbre económica",
-        "capturado": "2026-10-19T04:37:53-05:00"
-      },
-      {
-        "titulo": "El impulso exportador acelera a China, aunque la vivienda y el consumo continúan flojos",
-        "url": "https://es.finance.yahoo.com/noticias/china-acelera-crecimiento-exportaciones-consumo-054537949.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "China acelera el crecimiento por las exportaciones, pero el consumo y la vivienda siguen débiles",
-        "capturado": "2026-10-19T04:37:53-05:00"
-      },
-      {
-        "titulo": "Un gasoducto circular de 5.000 millones de dólares afianzaría la energía de Asia Central",
-        "url": "https://es.finance.yahoo.com/noticias/anillo-gasista-5-000-millones-050051881.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Un anillo gasista de 5.000 millones de dólares podría reforzar la seguridad energética de Asia Central",
         "capturado": "2026-10-19T04:37:53-05:00"
       }
     ]
