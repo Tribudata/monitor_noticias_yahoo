@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-21T12:31:53-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-10-21T16:18:32-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Sanción histórica de 25 mil millones a Facebook y duda sobre caída de acciones de Meta",
+        "url": "https://es.finance.yahoo.com/noticias/facebook-recibe-multa-r%C3%A9cord-25-200300798.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Facebook recibe multa récord de $25 mil millones: ¿Se desplomarán las acciones de Meta?",
+        "capturado": "2026-10-21T16:18:32-05:00"
+      },
+      {
+        "titulo": "Inversionistas aguardarán comicios en Venezuela según el magnate británico Branson",
+        "url": "https://es.finance.yahoo.com/noticias/multimillonario-brit%C3%A1nico-branson-inversionistas-esperar%C3%A1n-194847107.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Multimillonario británico Branson dice que inversionistas esperarán a elecciones en Venezuela",
+        "capturado": "2026-10-21T16:18:32-05:00"
+      },
+      {
+        "titulo": "Turismo teme merma de viajeros internacionales por protestas en territorio francés",
+        "url": "https://es.finance.yahoo.com/noticias/disturbios-francia-turismo-teme-perder-180648743.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Disturbios en Francia: el turismo teme perder a los visitantes extranjeros",
+        "capturado": "2026-10-21T16:18:32-05:00"
+      },
+      {
+        "titulo": "Pandora expande su planta de joyería fina en Vietnam a la vez que baja emisiones",
+        "url": "https://es.finance.yahoo.com/noticias/f%C3%A1brica-joyer%C3%ADa-fina-pandora-crece-055845500.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "La mayor fábrica de joyería fina: Pandora crece y reduce emisiones en Vietnam",
+        "capturado": "2026-10-21T16:18:32-05:00"
+      },
+      {
+        "titulo": "Datos on-chain revelan indicios sobre la continua pérdida de fuerza del Bitcoin",
+        "url": "https://es.finance.yahoo.com/noticias/precio-bitcoin-perdiendo-fuerza-datos-192100599.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿Por qué el precio de Bitcoin sigue perdiendo fuerza? Los datos on-chain tienen una pista",
+        "capturado": "2026-10-21T16:18:32-05:00"
+      },
+      {
+        "titulo": "Meta tendrá que abonar US$25.000 millones a Nuevo México por estafar a compradores",
+        "url": "https://es.finance.yahoo.com/noticias/meta-deber%C3%A1-pagar-us-25-184653603.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Meta deberá pagar US$25.000 millones a Nuevo México por engañar a consumidores",
+        "capturado": "2026-10-21T16:18:32-05:00"
+      },
+      {
+        "titulo": "Sancionan a Meta con el pago de US$25.000 millones por defraudar a usuarios en privacidad",
+        "url": "https://es.finance.yahoo.com/noticias/condenan-meta-pagar-25-000-175749347.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Condenan a Meta a pagar 25.000 millones de dólares por engañar a consumidores sobre privacidad",
+        "capturado": "2026-10-21T16:18:32-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE. UU. suben por ganancias de SpaceX que animan al mercado y baja el crudo",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-avanzan-174739584.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses avanzan gracias a los excelentes resultados de SpaceX, que impulsan el optimismo en los mercados, mientras que el petróleo crudo retrocede.",
+        "capturado": "2026-10-21T16:18:32-05:00"
+      },
       {
         "titulo": "Aumentan los fondos cotizados en bolsa cuando las acciones de Estados Unidos rebotan pasada la tarde",
         "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-suben-medida-171218617.html",
@@ -419,70 +483,6 @@
         "medio": "MT Newswires",
         "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses cierran con resultados mixtos en medio de bajos volúmenes de negociación, con los sectores de consumo discrecional y tecnología liderando las listas sectoriales.",
         "capturado": "2026-10-19T19:30:57-05:00"
-      },
-      {
-        "titulo": "Swaps sin costo: la trampa que baja las ganancias de carteras cripto de menor tamaño",
-        "url": "https://es.finance.yahoo.com/noticias/swaps-comisiones-trampa-reduce-ingresos-210700832.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Swaps sin comisiones: la trampa que reduce los ingresos de las wallets pequeñas de criptomonedas",
-        "capturado": "2026-10-19T19:30:57-05:00"
-      },
-      {
-        "titulo": "Inteligencia artificial en videojuegos generará nueva era dorada, a ojos de Elon Musk",
-        "url": "https://es.finance.yahoo.com/noticias/gaming-ia-traer%C3%A1-edad-oro-204300506.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "El gaming con IA traerá una “nueva edad de oro”, según Elon Musk",
-        "capturado": "2026-10-19T19:30:57-05:00"
-      },
-      {
-        "titulo": "Merz avisa que Europa minimiza la dimensión del peligro que representa Rusia",
-        "url": "https://es.finance.yahoo.com/noticias/merz-advierte-europa-subestima-alcance-185702793.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Merz advierte que Europa subestima el alcance de la amenaza que plantea Rusia",
-        "capturado": "2026-10-19T19:30:57-05:00"
-      },
-      {
-        "titulo": "Aeromexico evalua mas rutas a USA luego de que Washington quite veto en la capital",
-        "url": "https://es.finance.yahoo.com/noticias/aerom%C3%A9xico-contempla-vuelos-eeuu-levantamiento-205418532.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Aeroméxico contempla nuevos vuelos a EEUU tras levantamiento restricciones de Washington en Ciudad México",
-        "capturado": "2026-10-19T16:20:46-05:00"
-      },
-      {
-        "titulo": "De que manera un pirata vacio 1404 billeteras de Qubic sin vulnerar la cadena de bloques",
-        "url": "https://es.finance.yahoo.com/noticias/atacante-vaci%C3%B3-1-404-wallets-192000265.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿Cómo un atacante vació 1,404 wallets de Qubic sin romper la blockchain?",
-        "capturado": "2026-10-19T16:20:46-05:00"
-      },
-      {
-        "titulo": "Reporte: Las bolsas de valores de Estados Unidos avanzan por al alza en tech y consumo",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-175802095.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben en medio de ganancias en tecnología y consumo discrecional.",
-        "capturado": "2026-10-19T16:20:46-05:00"
-      },
-      {
-        "titulo": "Los 3 principales desbloqueos de criptomonedas para la tercera semana de octubre de 2026",
-        "url": "https://es.finance.yahoo.com/noticias/top-3-desbloqueos-tokens-3ra-175800169.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Top 3 desbloqueos de tokens: 3ra semana de octubre de 2026",
-        "capturado": "2026-10-19T16:20:46-05:00"
-      },
-      {
-        "titulo": "El pontifice Leon XIV y Zelensky hablan por telefono segun comunicado del Vaticano",
-        "url": "https://es.finance.yahoo.com/noticias/papa-le%C3%B3n-xiv-zelenski-conversan-174540981.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "El Papa León XIV y Zelenski conversan por teléfono, informó el Vaticano",
-        "capturado": "2026-10-19T16:20:46-05:00"
       }
     ]
   }
