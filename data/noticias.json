@@ -1,9 +1,65 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-22T14:24:10-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-10-22T17:37:15-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "¿Claude descifró el enigma de Satoshi? Recrean el software inicial de Bitcoin",
+        "url": "https://es.finance.yahoo.com/noticias/claude-resuelto-misterio-satoshi-reconstruyen-213543617.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿Claude ha resuelto el misterio de Satoshi? Reconstruyen el primer software de Bitcoin",
+        "capturado": "2026-10-22T17:37:15-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE. UU. varían mientras capitales van de IA a bonos; crudo sube",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-211833139.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos a medida que los inversores rotan sus carteras desde el comercio con IA hacia los bonos gubernamentales; el petróleo crudo se dispara.",
+        "capturado": "2026-10-22T17:37:15-05:00"
+      },
+      {
+        "titulo": "Tesoro excluye a Venezuela de la lista de restricciones de inversión en el exterior",
+        "url": "https://es.finance.yahoo.com/noticias/tesoro-retira-venezuela-lista-pa%C3%ADses-211419446.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Tesoro retira a Venezuela de lista de países sujetos a restricciones inversión EEUU en el extranjero",
+        "capturado": "2026-10-22T17:37:15-05:00"
+      },
+      {
+        "titulo": "Directeur de Circle resta importancia a caída de Bitcoin y alaba monedas digitales",
+        "url": "https://es.finance.yahoo.com/noticias/ceo-circle-minimiza-ca%C3%ADda-bitcoin-205200937.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "CEO de Circle minimiza la caída de Bitcoin y promociona los dólares digitales para la era de la IA",
+        "capturado": "2026-10-22T17:37:15-05:00"
+      },
+      {
+        "titulo": "Estados Unidos prohíbe dos aparatos con chips espías hechos en China",
+        "url": "https://es.finance.yahoo.com/noticias/eeuu-bloquea-dispositivos-chips-vigilancia-201437650.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "EEUU bloquea dos dispositivos con chips de vigilancia fabricados en China",
+        "capturado": "2026-10-22T17:37:15-05:00"
+      },
+      {
+        "titulo": "Entidades financieras de EE. UU. hallan agentes de inteligencia artificial ilegítimos en perfiles",
+        "url": "https://es.finance.yahoo.com/noticias/bancos-eeuu-detectan-agentes-ia-192900898.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Bancos de EEUU detectan agentes de IA no autorizados operando dentro de las cuentas de clientes",
+        "capturado": "2026-10-22T17:37:15-05:00"
+      },
+      {
+        "titulo": "Inmunización de Merck y Moderna baja en más del 40 por ciento la probabilidad de deceso o retorno de melanoma",
+        "url": "https://es.finance.yahoo.com/noticias/vacuna-merck-moderna-reduce-40-192636460.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Vacuna de Merck/Moderna reduce más de 40% el riesgo de muerte o recurrencia de melanoma",
+        "capturado": "2026-10-22T17:37:15-05:00"
+      },
       {
         "titulo": "Heladas tardías generan mermas de hasta 15% en zonas trigueras argentinas",
         "url": "https://es.finance.yahoo.com/noticias/heladas-tard%C3%ADas-causan-p%C3%A9rdidas-15-190639561.html",
@@ -427,62 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "JPMorgan revela 3 posibles escenarios para Bitcoin en 2036",
         "capturado": "2026-10-20T17:56:32-05:00"
-      },
-      {
-        "titulo": "Citi México halla nuevos horizontes bancarios tras la separación de Banamex",
-        "url": "https://es.finance.yahoo.com/noticias/citi-m%C3%A9xico-ve-oportunidades-bancos-193158656.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Citi México ve nuevas oportunidades con bancos tras escisión de Banamex",
-        "capturado": "2026-10-20T14:50:45-05:00"
-      },
-      {
-        "titulo": "Francia fija nuevo tributo a criptoactivos en medio de protestas por carestía",
-        "url": "https://es.finance.yahoo.com/noticias/francia-establece-impuesto-criptomonedas-estallan-185100908.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Francia establece nuevo impuesto sobre criptomonedas mientras estallan protestas por el costo de vida",
-        "capturado": "2026-10-20T14:50:45-05:00"
-      },
-      {
-        "titulo": "Gobierno alemán acuerda alianza de inteligencia artificial con Nvidia",
-        "url": "https://es.finance.yahoo.com/noticias/cumbre-inversiones-gobierno-alem%C3%A1n-acuerda-181036172.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Alemania no se queda atrás: el Gobierno pacta un acuerdo de IA con Nvidia",
-        "capturado": "2026-10-20T14:50:45-05:00"
-      },
-      {
-        "titulo": "Meta sostiene ante la justicia electoral de Brasil que da trato equitativo a Lula y Bolsonaro",
-        "url": "https://es.finance.yahoo.com/noticias/meta-afirma-justicia-electoral-brasile%C3%B1a-181043104.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Meta afirma ante un justicia electoral brasileña que trata por igual a las campañas de Lula y Bolsonaro",
-        "capturado": "2026-10-20T14:50:45-05:00"
-      },
-      {
-        "titulo": "Resultados trimestrales robustos elevan las bolsas de EE UU y sostienen el optimismo en IA",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-s%C3%B3lidos-resultados-trimestrales-impulsan-180130904.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los sólidos resultados trimestrales impulsan al alza los índices bursátiles estadounidenses, mientras que el sentimiento comercial de la IA se mantiene positivo.",
-        "capturado": "2026-10-20T14:50:45-05:00"
-      },
-      {
-        "titulo": "Rubio impulsará a la firma india Reliance a extraer y refinar mayor crudo de Venezuela",
-        "url": "https://es.finance.yahoo.com/noticias/rubio-animar%C3%A1-empresa-india-reliance-180023962.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Rubio animará a la empresa india Reliance a producir y refinar más petróleo venezolano",
-        "capturado": "2026-10-20T14:50:45-05:00"
-      },
-      {
-        "titulo": "Soja y maíz bajan a mínimos de semanas por liquidación de fondos y recolección",
-        "url": "https://es.finance.yahoo.com/noticias/soja-ma%C3%ADz-caen-m%C3%ADnimos-semanas-174318674.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "La soja y el maíz caen a mínimos de varias semanas por ventas de fondos y cosechas",
-        "capturado": "2026-10-20T14:50:45-05:00"
       }
     ]
   }
