@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-22T10:29:56-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-22T14:24:10-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Heladas tardías generan mermas de hasta 15% en zonas trigueras argentinas",
+        "url": "https://es.finance.yahoo.com/noticias/heladas-tard%C3%ADas-causan-p%C3%A9rdidas-15-190639561.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Heladas tardías causan pérdidas de hasta 15% en áreas de trigo de Argentina",
+        "capturado": "2026-10-22T14:24:10-05:00"
+      },
+      {
+        "titulo": "Transportadores del sur italiano reducen paros luego de que el Gobierno aprueba subsidios",
+        "url": "https://es.finance.yahoo.com/noticias/camioneros-sur-italia-suavizan-protestas-185415841.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Camioneros del sur de Italia suavizan protestas tras aprobación de ayudas por parte del Gobierno",
+        "capturado": "2026-10-22T14:24:10-05:00"
+      },
+      {
+        "titulo": "Fireblocks descarta versión de adquisición por US$2.5 mil millones de parte de Visa",
+        "url": "https://es.finance.yahoo.com/noticias/fireblocks-niega-afirmaciones-compra-2-180600449.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Fireblocks niega afirmaciones sobre compra por $2.5 mil millones por parte de Visa",
+        "capturado": "2026-10-22T14:24:10-05:00"
+      },
+      {
+        "titulo": "Gremios obreros de Portugal y España organizan un eventual paro general ibérico",
+        "url": "https://es.finance.yahoo.com/noticias/sindicatos-portugal-espa%C3%B1a-preparan-huelga-180232001.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Sindicatos de Portugal y España preparan una posible huelga general ibérica",
+        "capturado": "2026-10-22T14:24:10-05:00"
+      },
+      {
+        "titulo": "Un cuadro inédito de Monet se comercializa por US$56 millones en Sotheby’s París",
+        "url": "https://es.finance.yahoo.com/noticias/monet-exhibido-vende-us-56-175806537.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Un Monet nunca exhibido se vende por US$56 millones en Sotheby’s París",
+        "capturado": "2026-10-22T14:24:10-05:00"
+      },
+      {
+        "titulo": "Ofertas públicas iniciales en EE.UU. se frenan mientras aguardan la llegada de Anthropic",
+        "url": "https://es.finance.yahoo.com/noticias/mercado-opi-ee-uu-paraliza-175601002.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Mercado de OPI de EE.UU. se paraliza a la espera del debut de Anthropic",
+        "capturado": "2026-10-22T14:24:10-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE.UU. retroceden por menor interés en IA tras Meta, y crudo avanza por alerta de Irán",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-174130774.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen a medida que el comercio basado en IA pierde atractivo tras los resultados de Meta, mientras que el petróleo crudo sube ante la advertencia de invasión de Irán.",
+        "capturado": "2026-10-22T14:24:10-05:00"
+      },
+      {
+        "titulo": "Elon Musk destina casi US$1.000M a Skydance, de acuerdo con Semafor",
+        "url": "https://es.finance.yahoo.com/noticias/elon-musk-invierte-us-1-172752636.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Elon Musk invierte cerca de US$1.000M en Skydance, según Semafor",
+        "capturado": "2026-10-22T14:24:10-05:00"
+      },
       {
         "titulo": "Barclays elimina 5.000 puestos y usa IA para ser más eficiente",
         "url": "https://es.finance.yahoo.com/noticias/barclays-recorta-5-000-empleos-101710874.html",
@@ -419,70 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "La soja y el maíz caen a mínimos de varias semanas por ventas de fondos y cosechas",
         "capturado": "2026-10-20T14:50:45-05:00"
-      },
-      {
-        "titulo": "Carrefour avisa que disturbios y saqueos en Francia impactarán sus utilidades",
-        "url": "https://es.finance.yahoo.com/noticias/carrefour-advierte-disturbios-saqueos-francia-173020427.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Carrefour advierte de que los disturbios y los saqueos en Francia afectarán a sus ganancias",
-        "capturado": "2026-10-20T14:50:45-05:00"
-      },
-      {
-        "titulo": "Importaciones de maíz comunitario aumentan 40% por sequía y ventas de trigo blando siguen firmes",
-        "url": "https://es.finance.yahoo.com/noticias/importaciones-ma%C3%ADz-ue-disparan-40-152729840.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Importaciones maíz UE se disparan 40% tras sequía, exportaciones trigo blando se mantienen estables",
-        "capturado": "2026-10-20T10:36:53-05:00"
-      },
-      {
-        "titulo": "Parlamentarios europeos pactan disminuir las metas de contaminación por CO₂ en automóviles",
-        "url": "https://es.finance.yahoo.com/noticias/legisladores-ue-llegan-acuerdo-rebajar-151958572.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Legisladores de la UE llegan a un acuerdo para rebajar objetivos de emisiones de CO₂ de los coches",
-        "capturado": "2026-10-20T10:36:53-05:00"
-      },
-      {
-        "titulo": "Indicador de riesgo soberano argentino rebasa los 700 puntos básicos, pico de doce meses",
-        "url": "https://es.finance.yahoo.com/noticias/riesgo-pa%C3%ADs-argentina-supera-700-145011091.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Riesgo país de Argentina supera 700 puntos básicos, su máximo nivel en un año",
-        "capturado": "2026-10-20T10:36:53-05:00"
-      },
-      {
-        "titulo": "NVIDIA y Alemania concretan alianza sobre inteligencia artificial por 10 mil millones de dólares",
-        "url": "https://es.finance.yahoo.com/noticias/alemania-nvidia-sellan-compromiso-ia-144600328.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Alemania y NVIDIA sellan compromiso de IA por $10 mil millones",
-        "capturado": "2026-10-20T10:36:53-05:00"
-      },
-      {
-        "titulo": "Bessent afirma que legislativo demócrata tendría escaso poder para frenar planes de Trump",
-        "url": "https://es.finance.yahoo.com/noticias/bessent-congreso-mayor%C3%ADa-dem%C3%B3crata-frenar-144021793.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Bessent dice que Congreso de mayoría demócrata no podría hacer mucho para frenar agenda de Trump",
-        "capturado": "2026-10-20T10:36:53-05:00"
-      },
-      {
-        "titulo": "En septiembre, los contratos de compraventa de casas en EE UU retrocedieron a un piso sin precedentes",
-        "url": "https://es.finance.yahoo.com/noticias/ventas-viviendas-pendientes-eeuu-caen-141523903.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Ventas de viviendas pendientes en EEUU caen a un mínimo histórico en septiembre",
-        "capturado": "2026-10-20T10:36:53-05:00"
-      },
-      {
-        "titulo": "Detalles sobre el gravamen reciente de Alemania a las bebidas azucaradas",
-        "url": "https://es.finance.yahoo.com/noticias/impuesto-alem%C3%A1n-bebidas-azucaradas-101540825.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Todo sobre el nuevo impuesto alemán a las bebidas azucaradas",
-        "capturado": "2026-10-20T10:36:53-05:00"
       }
     ]
   }
