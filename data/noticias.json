@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-21T19:06:04-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-22T00:11:41-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Canadá lanza estrategia de 6.200 millones para proteger industrias contra gravámenes de Trump",
+        "url": "https://es.finance.yahoo.com/noticias/canad%C3%A1-presenta-plan-6-200-045201925.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Canadá presenta plan de 6.200 millones para blindar fabricantes ante aranceles de Trump",
+        "capturado": "2026-10-22T00:11:41-05:00"
+      },
       {
         "titulo": "Bolsa Rosario eleva a 23,8 millones de toneladas la proyección de cosecha de trigo en Argentina",
         "url": "https://es.finance.yahoo.com/noticias/estimaci%C3%B3n-cosecha-trigo-argentina-sube-234118229.html",
@@ -474,14 +482,6 @@
         "resumen": "",
         "medio": "Reuters",
         "titulo_fuente": "Congreso de Colombia aprueba presupuesto de gastos para 2027 por 634,9 billones de pesos",
-        "capturado": "2026-10-20T05:59:21-05:00"
-      },
-      {
-        "titulo": "Francia ordena a Amazon, eBay y Vinted bajar avisos de artículos hurtados en medio de los disturbios",
-        "url": "https://es.finance.yahoo.com/noticias/francia-insta-plataformas-reventa-retirar-073121037.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Francia exige a Vinted, Amazon y eBay retirar anuncios de productos robados durante los disturbios",
         "capturado": "2026-10-20T05:59:21-05:00"
       }
     ]
