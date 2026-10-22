@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-22T00:11:41-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-22T05:26:16-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Barclays elimina 5.000 puestos y usa IA para ser más eficiente",
+        "url": "https://es.finance.yahoo.com/noticias/barclays-recorta-5-000-empleos-101710874.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Barclays recorta 5.000 empleos y apuesta por la IA para ganar eficiencia",
+        "capturado": "2026-10-22T05:26:16-05:00"
+      },
+      {
+        "titulo": "Banco Central paraguayo afronta presiones por banco con lazos políticos",
+        "url": "https://es.finance.yahoo.com/noticias/banco-central-paraguayo-enfrenta-presiones-100253195.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Banco Central paraguayo enfrenta presiones por entidad crediticia con vínculos políticos",
+        "capturado": "2026-10-22T05:26:16-05:00"
+      },
+      {
+        "titulo": "Acciones chinas caen a mercado bajista por presión vendedora en Asia",
+        "url": "https://es.finance.yahoo.com/noticias/acciones-china-entran-mercado-bajista-100000806.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Acciones de China entran en mercado bajista mientras la presión de venta se extiende por Asia",
+        "capturado": "2026-10-22T05:26:16-05:00"
+      },
+      {
+        "titulo": "Mayor fondo soberano mundial pierde 30.000 millones por tipos y bonos",
+        "url": "https://es.finance.yahoo.com/noticias/fondo-soberano-mundo-pierde-30-092511618.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El mayor fondo soberano del mundo pierde 30.000 millones por el alza de tipos y la caída de bonos",
+        "capturado": "2026-10-22T05:26:16-05:00"
+      },
+      {
+        "titulo": "Xi solicita mejora cualitativa y crecimiento medible en la economía china",
+        "url": "https://es.finance.yahoo.com/noticias/xi-pide-mejora-cualitativa-crecimiento-092420571.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Xi pide una mejora cualitativa y un crecimiento medible de la economía china",
+        "capturado": "2026-10-22T05:26:16-05:00"
+      },
+      {
+        "titulo": "CoinDCX descarta robo de 16 millones de dólares y sigue billeteras señaladas hasta su fallo de 2025",
+        "url": "https://es.finance.yahoo.com/noticias/coindcx-niega-hack-16-millones-083847235.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "CoinDCX niega hack de 16 millones de dólares y rastrea wallets marcadas hasta su brecha de 2025",
+        "capturado": "2026-10-22T05:26:16-05:00"
+      },
+      {
+        "titulo": "Acciones de Meta ganan 5% en el mercado al impulsar sus entradas de dinero con gasto en inteligencia artificial",
+        "url": "https://es.finance.yahoo.com/noticias/meta-sube-5-bolsa-inversi%C3%B3n-081955293.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Meta sube un 5% en bolsa mientras la inversión en IA dispara los ingresos",
+        "capturado": "2026-10-22T05:26:16-05:00"
+      },
+      {
+        "titulo": "Estados Unidos halla contagios de gusano barrenador en animales silvestres de Texas y un bovino de Nuevo México",
+        "url": "https://es.finance.yahoo.com/noticias/eeuu-detecta-casos-gusano-barrenador-082951514.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "EEUU detecta casos de gusano barrenador en fauna silvestre de Texas y una vaca de Nuevo México",
+        "capturado": "2026-10-22T05:26:16-05:00"
+      },
       {
         "titulo": "Canadá lanza estrategia de 6.200 millones para proteger industrias contra gravámenes de Trump",
         "url": "https://es.finance.yahoo.com/noticias/canad%C3%A1-presenta-plan-6-200-045201925.html",
@@ -419,70 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "Todo sobre el nuevo impuesto alemán a las bebidas azucaradas",
         "capturado": "2026-10-20T10:36:53-05:00"
-      },
-      {
-        "titulo": "Goldman Sachs selecciona 23 títulos seguros ante la incertidumbre en inteligencia artificial",
-        "url": "https://es.finance.yahoo.com/noticias/goldman-sachs-nombra-23-acciones-132100989.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Goldman Sachs nombra 23 acciones defensivas para inversores preocupados por el sector de IA",
-        "capturado": "2026-10-20T10:36:53-05:00"
-      },
-      {
-        "titulo": "El paso del Papa por España dejó 139 millones de euros al doblarse el gasto inicial de montaje",
-        "url": "https://es.finance.yahoo.com/noticias/visita-papa-espa%C3%B1a-gener%C3%B3-139-104126599.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La visita del Papa a España generó 139 millones de euros tras duplicarse el coste inicial de la organización",
-        "capturado": "2026-10-20T05:59:21-05:00"
-      },
-      {
-        "titulo": "El Brent alcanza techo de cinco meses y ofensivas a plantas saudíes disparan alertas de abastecimiento",
-        "url": "https://es.finance.yahoo.com/noticias/brent-toca-m%C3%A1ximo-meses-ataques-103844983.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "El Brent toca máximo de cinco meses, ataques a instalaciones saudíes avivan temores sobre suministro",
-        "capturado": "2026-10-20T05:59:21-05:00"
-      },
-      {
-        "titulo": "Fondos cotizados de Bitcoin suman 526,6 millones en su jornada más alta desde el 22 de septiembre",
-        "url": "https://es.finance.yahoo.com/noticias/etf-bitcoin-registran-entradas-526-103400990.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Los ETF de Bitcoin registran entradas de $526.6 millones, su mejor día desde el 22 de septiembre",
-        "capturado": "2026-10-20T05:59:21-05:00"
-      },
-      {
-        "titulo": "El cronograma de entrega de reservas petroleras de la AIE recae en cada nación, afirma su líder",
-        "url": "https://es.finance.yahoo.com/noticias/calendario-liberaci%C3%B3n-reservas-petr%C3%B3leo-aie-101210281.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "El calendario de liberación de reservas de petróleo de la AIE depende de cada país, dice su director",
-        "capturado": "2026-10-20T05:59:21-05:00"
-      },
-      {
-        "titulo": "Inestabilidad del Bitcoin baja a piso de 30 meses al tiempo que operadores aguardan salto del 30%",
-        "url": "https://es.finance.yahoo.com/noticias/volatilidad-bitcoin-cae-m%C3%ADnimos-2-091600727.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Volatilidad de Bitcoin cae a mínimos de 2 años y medio mientras los traders se alistan para un movimiento del 30%",
-        "capturado": "2026-10-20T05:59:21-05:00"
-      },
-      {
-        "titulo": "Tasas de préstamos hipotecarios alemanes llegan al 4,5% y tocan picos no vistos desde la crisis de 2009",
-        "url": "https://es.finance.yahoo.com/noticias/hipotecas-alemania-rozan-4-5-091439269.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Las hipotecas en Alemania rozan el 4,5% y alcanzan máximos desde la crisis financiera de 2009",
-        "capturado": "2026-10-20T05:59:21-05:00"
-      },
-      {
-        "titulo": "El Congreso colombiano da luz verde al presupuesto de gastos de 2027 por 634,9 billones de pesos",
-        "url": "https://es.finance.yahoo.com/noticias/congreso-colombia-aprueba-presupuesto-gastos-090653848.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Congreso de Colombia aprueba presupuesto de gastos para 2027 por 634,9 billones de pesos",
-        "capturado": "2026-10-20T05:59:21-05:00"
       }
     ]
   }
