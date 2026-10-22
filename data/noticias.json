@@ -1,9 +1,49 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-21T16:18:32-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-10-21T19:06:04-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Bolsa Rosario eleva a 23,8 millones de toneladas la proyección de cosecha de trigo en Argentina",
+        "url": "https://es.finance.yahoo.com/noticias/estimaci%C3%B3n-cosecha-trigo-argentina-sube-234118229.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Estimación cosecha trigo de Argentina sube a 23,8 million tons: Bolsa Rosario",
+        "capturado": "2026-10-21T19:06:04-05:00"
+      },
+      {
+        "titulo": "Motivos por los cuales la Unión Europea demanda la clausura de determinadas páginas web",
+        "url": "https://es.finance.yahoo.com/noticias/uni%C3%B3n-europea-insta-cierre-sitios-230600597.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿Por qué la Unión Europea insta al cierre de algunos sitios web?",
+        "capturado": "2026-10-21T19:06:04-05:00"
+      },
+      {
+        "titulo": "Exchange de criptomonedas advierte que grave fallo en PHP compromete plataformas de pago",
+        "url": "https://es.finance.yahoo.com/noticias/advertencia-exchange-criptomonedas-falla-cr%C3%ADtica-224238020.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Advertencia de exchange de criptomonedas: una falla crítica en PHP pone en riesgo los sitios de pago",
+        "capturado": "2026-10-21T19:06:04-05:00"
+      },
+      {
+        "titulo": "Wall Street avanza por buenos resultados de SpaceX y datos de Super Micro Computer, impulsando IA",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-213900057.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben gracias a los excelentes resultados de SpaceX y la actualización del primer trimestre fiscal de Super Micro Computer, lo que impulsa el comercio de IA.",
+        "capturado": "2026-10-21T19:06:04-05:00"
+      },
+      {
+        "titulo": "Inversor de riesgo plantea que la apuesta más sencilla en IA no involucra acciones de chips",
+        "url": "https://es.finance.yahoo.com/noticias/apuesta-simple-ia-acci%C3%B3n-chips-213700862.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "La apuesta más simple es IA no es una acción de chips, sugiere capitalista de riesgo",
+        "capturado": "2026-10-21T19:06:04-05:00"
+      },
       {
         "titulo": "Sanción histórica de 25 mil millones a Facebook y duda sobre caída de acciones de Meta",
         "url": "https://es.finance.yahoo.com/noticias/facebook-recibe-multa-r%C3%A9cord-25-200300798.html",
@@ -443,46 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "Francia exige a Vinted, Amazon y eBay retirar anuncios de productos robados durante los disturbios",
         "capturado": "2026-10-20T05:59:21-05:00"
-      },
-      {
-        "titulo": "Motivos por los cuales la farmacéutica Roche frena sus capitales en Alemania",
-        "url": "https://es.finance.yahoo.com/noticias/farmac%C3%A9utica-roche-congela-inversiones-alemania-040828541.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Por qué la farmacéutica Roche congela sus inversiones en Alemania",
-        "capturado": "2026-10-20T00:41:17-05:00"
-      },
-      {
-        "titulo": "Quién asumirá los perjuicios de los desmanes en Francia y la cuenta apunta a ser muy alta",
-        "url": "https://es.finance.yahoo.com/noticias/da%C3%B1os-disturbios-francia-duplican-paga-033421731.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "¿Quién pagará los daños de los disturbios en Francia? La factura amenaza con ser millonaria",
-        "capturado": "2026-10-20T00:41:17-05:00"
-      },
-      {
-        "titulo": "Administración de Trump intenta pasar buques petroleros castigados a naves legales",
-        "url": "https://es.finance.yahoo.com/noticias/gobierno-trump-busca-convertir-petroleros-203702764.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Gobierno de Trump busca convertir petroleros sancionados en buques legítimos",
-        "capturado": "2026-10-20T00:41:17-05:00"
-      },
-      {
-        "titulo": "Tres criptomonedas alternativas para seguir en la tercera semana de octubre de 2026",
-        "url": "https://es.finance.yahoo.com/noticias/top-3-altcoins-observar-3ra-230701258.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Top 3 altcoins a observar en la 3ra semana de octubre de 2026",
-        "capturado": "2026-10-19T19:30:57-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE. UU. cierran mixtas por baja contratación y consumo e informática al frente",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-cierran-213108798.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses cierran con resultados mixtos en medio de bajos volúmenes de negociación, con los sectores de consumo discrecional y tecnología liderando las listas sectoriales.",
-        "capturado": "2026-10-19T19:30:57-05:00"
       }
     ]
   }
