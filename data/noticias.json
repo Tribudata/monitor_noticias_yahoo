@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-22T20:15:11-05:00",
+  "actualizado": "2026-10-23T01:18:43-05:00",
   "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Crudo rebasa 113 dólares al tiempo que caída en IA golpea mercados y agentes adquieren títulos de deuda",
+        "url": "https://es.finance.yahoo.com/noticias/petr%C3%B3leo-supera-113-castigo-ia-051055246.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El petróleo supera los 113 dólares mientras el castigo a la IA sacude Bolsas y los inversores compran bonos",
+        "capturado": "2026-10-23T01:18:43-05:00"
+      },
+      {
+        "titulo": "Gobierno nacional ordena ajuste presupuestal de 4326 millones de dólares para el gasto de 2026",
+        "url": "https://es.finance.yahoo.com/noticias/colombia-decreta-recorte-gastos-4-031711823.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Colombia decreta recorte de gastos por 4.326 millones de dólares en presupuesto de gastos de 2026",
+        "capturado": "2026-10-23T01:18:43-05:00"
+      },
       {
         "titulo": "Plataformas cripto buscan gestionar tus futuras transacciones bursátiles para 2027",
         "url": "https://es.finance.yahoo.com/noticias/exchanges-criptomonedas-quieren-tu-pr%C3%B3xima-232700254.html",
@@ -467,22 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Grupo México reporta mayores ganancias trimestrales y recorta previsiones cupríferas",
         "capturado": "2026-10-20T20:24:00-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE. UU. con comportamiento variado por caída tecnológica y de servicios que frena al Nasdaq",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-213459379.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos, ya que la debilidad en los sectores de servicios de comunicaciones y tecnología frena al Nasdaq Composite.",
-        "capturado": "2026-10-20T17:56:32-05:00"
-      },
-      {
-        "titulo": "CEO afirma que Aerolíneas Argentinas no pedirá recursos del Estado a pesar del costo del combustible",
-        "url": "https://es.finance.yahoo.com/noticias/aerol%C3%ADneas-argentinas-solicitar%C3%A1-fondos-estatales-211009384.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Aerolíneas Argentinas no solicitará fondos estatales pese a presión por precio de combustible: CEO",
-        "capturado": "2026-10-20T17:56:32-05:00"
       }
     ]
   }
