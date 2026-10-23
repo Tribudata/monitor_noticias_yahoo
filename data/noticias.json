@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-23T11:39:01-05:00",
+  "actualizado": "2026-10-23T15:12:42-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Resultados desfavorables del medicamento de Novartis contra esclerosis múltiple según los datos",
+        "url": "https://es.finance.yahoo.com/noticias/novartis-presenta-datos-f%C3%A1rmaco-esclerosis-191643295.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Novartis presenta datos sobre fármaco para esclerosis múltiple peores de lo esperado",
+        "capturado": "2026-10-23T15:12:42-05:00"
+      },
+      {
+        "titulo": "Bitcoin cede nivel crucial previo al fin de semana y genera dudas sobre su futuro movimiento",
+        "url": "https://es.finance.yahoo.com/noticias/bitcoin-pierde-soporte-clave-semana-185100114.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Bitcoin pierde soporte clave antes del fin de semana: ¿Se aproxima un gran movimiento?",
+        "capturado": "2026-10-23T15:12:42-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE.UU. muestran cifras divididas mientras tecnológicas buscan repunte con crudo al alza",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-180315073.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos mientras el sector tecnológico intenta recuperarse en medio del alza del precio del petróleo crudo.",
+        "capturado": "2026-10-23T15:12:42-05:00"
+      },
+      {
+        "titulo": "Crudo alcanza pico de cinco meses en medio de la caída en tecnológicas y criptomonedas",
+        "url": "https://es.finance.yahoo.com/noticias/petr%C3%B3leo-registra-m%C3%A1ximo-5-meses-173300565.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "El petróleo registra máximo de 5 meses mientras el sector tecnológico y las criptomonedas se tambalean",
+        "capturado": "2026-10-23T15:12:42-05:00"
+      },
+      {
+        "titulo": "Estados Unidos sugiere luces cian para identificar carros autónomos",
+        "url": "https://es.finance.yahoo.com/noticias/ee-uu-propone-luces-cian-172920038.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "EE.UU. propone luces cian para distinguir a los vehículos autónomos",
+        "capturado": "2026-10-23T15:12:42-05:00"
+      },
+      {
+        "titulo": "Los ETF caen y los títulos de EE UU muestran cifras variadas pasada la mitad de la jornada",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-bajan-acciones-171437797.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa bajan y las acciones estadounidenses presentan resultados mixtos tras la media jornada.",
+        "capturado": "2026-10-23T15:12:42-05:00"
+      },
+      {
+        "titulo": "Estados Unidos avala la salida urgente de hasta 400000 barriles de petróleo de la reserva",
+        "url": "https://es.finance.yahoo.com/noticias/eeuu-autoriza-liberaci%C3%B3n-emergencia-400-165349249.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "EEUU autoriza liberación de emergencia de hasta 400.000 barriles de crudo de la reserva estratégica",
+        "capturado": "2026-10-23T15:12:42-05:00"
+      },
+      {
+        "titulo": "El comercio de armamento militar se incrementa en Francia por miedo a nuevos desmanes",
+        "url": "https://es.finance.yahoo.com/noticias/venta-armas-defensa-dispara-francia-163524171.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Venta de armas de defensa se dispara en Francia ante temor a nuevos disturbios",
+        "capturado": "2026-10-23T15:12:42-05:00"
+      },
       {
         "titulo": "Portavoz confirma que KLM anula numerosos trayectos a causa de intensas brisas",
         "url": "https://es.finance.yahoo.com/noticias/klm-cancela-decenas-vuelos-fuertes-162553387.html",
@@ -419,70 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "Disturbios en Francia: el turismo teme perder a los visitantes extranjeros",
         "capturado": "2026-10-21T16:18:32-05:00"
-      },
-      {
-        "titulo": "Pandora expande su planta de joyería fina en Vietnam a la vez que baja emisiones",
-        "url": "https://es.finance.yahoo.com/noticias/f%C3%A1brica-joyer%C3%ADa-fina-pandora-crece-055845500.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La mayor fábrica de joyería fina: Pandora crece y reduce emisiones en Vietnam",
-        "capturado": "2026-10-21T16:18:32-05:00"
-      },
-      {
-        "titulo": "Datos on-chain revelan indicios sobre la continua pérdida de fuerza del Bitcoin",
-        "url": "https://es.finance.yahoo.com/noticias/precio-bitcoin-perdiendo-fuerza-datos-192100599.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿Por qué el precio de Bitcoin sigue perdiendo fuerza? Los datos on-chain tienen una pista",
-        "capturado": "2026-10-21T16:18:32-05:00"
-      },
-      {
-        "titulo": "Meta tendrá que abonar US$25.000 millones a Nuevo México por estafar a compradores",
-        "url": "https://es.finance.yahoo.com/noticias/meta-deber%C3%A1-pagar-us-25-184653603.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Meta deberá pagar US$25.000 millones a Nuevo México por engañar a consumidores",
-        "capturado": "2026-10-21T16:18:32-05:00"
-      },
-      {
-        "titulo": "Sancionan a Meta con el pago de US$25.000 millones por defraudar a usuarios en privacidad",
-        "url": "https://es.finance.yahoo.com/noticias/condenan-meta-pagar-25-000-175749347.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Condenan a Meta a pagar 25.000 millones de dólares por engañar a consumidores sobre privacidad",
-        "capturado": "2026-10-21T16:18:32-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE. UU. suben por ganancias de SpaceX que animan al mercado y baja el crudo",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-avanzan-174739584.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses avanzan gracias a los excelentes resultados de SpaceX, que impulsan el optimismo en los mercados, mientras que el petróleo crudo retrocede.",
-        "capturado": "2026-10-21T16:18:32-05:00"
-      },
-      {
-        "titulo": "Aumentan los fondos cotizados en bolsa cuando las acciones de Estados Unidos rebotan pasada la tarde",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-suben-medida-171218617.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa suben a medida que las acciones estadounidenses repuntan tras el mediodía",
-        "capturado": "2026-10-21T12:31:53-05:00"
-      },
-      {
-        "titulo": "Scotiabank calcula un aporte de 104 millones de dólares canadienses a la utilidad ajustada del cuarto trimestre por KeyCorp",
-        "url": "https://es.finance.yahoo.com/noticias/scotiabank-prev%C3%A9-contribuci%C3%B3n-ganancias-ajustadas-164139536.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Scotiabank prevé una contribución a las ganancias ajustadas del cuarto trimestre de 104 millones de dólares canadienses procedente de KeyCorp.",
-        "capturado": "2026-10-21T12:31:53-05:00"
-      },
-      {
-        "titulo": "Crece el déficit comercial colombiano en agosto debido a mayores compras externas",
-        "url": "https://es.finance.yahoo.com/noticias/d%C3%A9ficit-comercial-colombia-repunta-agosto-163646354.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Déficit comercial de Colombia repunta en agosto por aumento de importaciones",
-        "capturado": "2026-10-21T12:31:53-05:00"
       }
     ]
   }
