@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-23T06:55:55-05:00",
+  "actualizado": "2026-10-23T11:39:01-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Portavoz confirma que KLM anula numerosos trayectos a causa de intensas brisas",
+        "url": "https://es.finance.yahoo.com/noticias/klm-cancela-decenas-vuelos-fuertes-162553387.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "KLM cancela decenas de vuelos debido a los fuertes vientos: portavoz",
+        "capturado": "2026-10-23T11:39:01-05:00"
+      },
+      {
+        "titulo": "Trump sostiene que Canadá se esfuerza al máximo para pactar con Estados Unidos",
+        "url": "https://es.finance.yahoo.com/noticias/trump-afirma-canad%C3%A1-trabajando-duro-162132441.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Trump afirma que Canadá \"está trabajando muy duro\" para llegar a un acuerdo con EEUU",
+        "capturado": "2026-10-23T11:39:01-05:00"
+      },
+      {
+        "titulo": "Agrícolas estadounidenses obtendrán 8000 millones de dólares para gasóleo tras comicios, señala empleado",
+        "url": "https://es.finance.yahoo.com/noticias/agricultores-eeuu-recibir%C3%A1n-8-000-155712477.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Agricultores EEUU recibirán 8.000 millones de dólares para diésel tras elecciones, dice funcionario",
+        "capturado": "2026-10-23T11:39:01-05:00"
+      },
+      {
+        "titulo": "Del territorio porteño a Colombo, el malestar crece lentamente bajo economías en repunte",
+        "url": "https://es.finance.yahoo.com/noticias/aires-colombo-descontento-hierve-fuego-152259822.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "De Buenos Aires a Colombo, el descontento se hierve a fuego lento bajo superficie de economías en recuperación",
+        "capturado": "2026-10-23T11:39:01-05:00"
+      },
+      {
+        "titulo": "Bolsa de valores argentina avanza con atención en comicios brasileños",
+        "url": "https://es.finance.yahoo.com/noticias/plaza-financiera-argentina-sube-ojos-150253381.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Plaza financiera de Argentina sube con ojos puestos en elección de Brasil",
+        "capturado": "2026-10-23T11:39:01-05:00"
+      },
+      {
+        "titulo": "Italia evaluaría alza de tributos a energéticas para el presupuesto, de acuerdo con fuentes",
+        "url": "https://es.finance.yahoo.com/noticias/italia-subir-impuestos-empresas-energ%C3%A9ticas-150056333.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Italia podría subir impuestos a empresas energéticas para financiar el presupuesto, según fuentes",
+        "capturado": "2026-10-23T11:39:01-05:00"
+      },
+      {
+        "titulo": "El problema de deuda en Francia acapara la atención previo al fallo del BCE",
+        "url": "https://es.finance.yahoo.com/noticias/crisis-deuda-francesa-centra-foco-131706243.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "La crisis de la deuda francesa centra el foco antes de la decisión del BCE",
+        "capturado": "2026-10-23T11:39:01-05:00"
+      },
+      {
+        "titulo": "Recuento de Bitcoin y activos digitales en la semana del 23 de octubre",
+        "url": "https://es.finance.yahoo.com/noticias/resumen-semanal-bitcoin-criptomonedas-23-144500322.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Resumen semanal de Bitcoin y criptomonedas: 23 de octubre",
+        "capturado": "2026-10-23T11:39:01-05:00"
+      },
       {
         "titulo": "Primer despacho de diésel ruso va hacia EE. UU. por pacto Trump-Putin",
         "url": "https://es.finance.yahoo.com/noticias/env%C3%ADo-di%C3%A9sel-ruso-dirige-ee-103506361.html",
@@ -419,70 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Déficit comercial de Colombia repunta en agosto por aumento de importaciones",
         "capturado": "2026-10-21T12:31:53-05:00"
-      },
-      {
-        "titulo": "Estados Unidos busca financiar hasta un tercio de las reservas de diésel para calefacción con el fin de regular tarifas",
-        "url": "https://es.finance.yahoo.com/noticias/eeuu-pretende-prestar-tercio-reservas-161353763.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "EEUU pretende prestar hasta un tercio de reservas de diésel de calefacción para controlar precios",
-        "capturado": "2026-10-21T12:31:53-05:00"
-      },
-      {
-        "titulo": "Cartas de Pokémon alcanzarían pronto a NVIDIA como el activo más rentable a nivel global",
-        "url": "https://es.finance.yahoo.com/noticias/cartas-pok%C3%A9mon-superar-pronto-nvidia-155700607.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Cartas de Pokémon podrían superar pronto a NVIDIA como el activo con mejor rendimiento del mundo",
-        "capturado": "2026-10-21T12:31:53-05:00"
-      },
-      {
-        "titulo": "El endeudamiento público de la eurozona trepa al 88,8% del PIB e Italia se aproxima a Grecia",
-        "url": "https://es.finance.yahoo.com/noticias/deuda-p%C3%BAblica-eurozona-sube-88-145454682.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La deuda pública de la eurozona sube al 88,8% del PIB e Italia se acerca a Grecia",
-        "capturado": "2026-10-21T12:31:53-05:00"
-      },
-      {
-        "titulo": "Rumores del mercado: Segun informes, IDC sella un trato preliminar por la filial sudafricana de ArcelorMittal",
-        "url": "https://es.finance.yahoo.com/noticias/rumores-mercado-informes-idc-cierra-151651610.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Rumores del mercado: Según informes, IDC cierra un acuerdo inicial para la unidad sudafricana de ArcelorMittal.",
-        "capturado": "2026-10-21T12:31:53-05:00"
-      },
-      {
-        "titulo": "Mandatario indonesio señala a MSCI por buscar intimidar a la nación tras la baja bursátil",
-        "url": "https://es.finance.yahoo.com/noticias/presidente-indonesia-acusa-msci-intentar-120228249.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Presidente de Indonesia acusa a MSCI de intentar intimidar al país tras la caída en los mercados",
-        "capturado": "2026-10-21T07:10:53-05:00"
-      },
-      {
-        "titulo": "Director ejecutivo de Ryanair pronostica el mayor incremento histórico en pasajes aéreos europeos",
-        "url": "https://es.finance.yahoo.com/noticias/ceo-ryanair-augura-subida-tarifas-114825759.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El CEO de Ryanair augura la mayor subida de tarifas aéreas de la historia en Europa",
-        "capturado": "2026-10-21T07:10:53-05:00"
-      },
-      {
-        "titulo": "Cotizaciones globales del diésel seguirán elevadas pese al pacto entre Trump y Rusia",
-        "url": "https://es.finance.yahoo.com/noticias/precios-mundiales-di%C3%A9sel-mantendr%C3%ADan-altos-113617140.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Los precios mundiales del diésel se mantendrían altos a pesar del acuerdo de Trump con Rusia",
-        "capturado": "2026-10-21T07:10:53-05:00"
-      },
-      {
-        "titulo": "Valores petroleros ascienden luego de que Irán disipa expectativas de progreso diplomático",
-        "url": "https://es.finance.yahoo.com/noticias/precios-crudo-suben-ir%C3%A1n-frustra-113152289.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Precios del crudo suben después que Irán frustra esperanzas de un avance diplomático",
-        "capturado": "2026-10-21T07:10:53-05:00"
       }
     ]
   }
