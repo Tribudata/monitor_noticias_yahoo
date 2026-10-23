@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-23T01:18:43-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-23T06:55:55-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Primer despacho de diésel ruso va hacia EE. UU. por pacto Trump-Putin",
+        "url": "https://es.finance.yahoo.com/noticias/env%C3%ADo-di%C3%A9sel-ruso-dirige-ee-103506361.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Primer envío de diésel ruso se dirige a EE.UU. bajo acuerdo Trump-Putin",
+        "capturado": "2026-10-23T06:55:55-05:00"
+      },
+      {
+        "titulo": "Tecnología impulsa Wall Street previo a abrir; Asia mixta y Europa en rojo",
+        "url": "https://es.finance.yahoo.com/noticias/sector-tecnol%C3%B3gico-recupera-terreno-apuntala-112518530.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "El sector tecnológico recupera terreno y apuntala a Wall Street antes de la apertura; Asia presenta resultados mixtos, Europa registra pérdidas.",
+        "capturado": "2026-10-23T06:55:55-05:00"
+      },
+      {
+        "titulo": "XRP alcanza máximo de inversores a pesar de la tendencia bajista en su precio",
+        "url": "https://es.finance.yahoo.com/noticias/xrp-registra-r%C3%A9cord-holders-precio-103600529.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "XRP registra récord de holders: ¿Por qué el precio sigue bajista?",
+        "capturado": "2026-10-23T06:55:55-05:00"
+      },
+      {
+        "titulo": "Brent alcanza máximo de más de cinco meses por tensiones en Oriente Medio",
+        "url": "https://es.finance.yahoo.com/noticias/brent-toca-pico-meses-preocupaciones-102637228.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Brent toca pico de más de cinco meses por preocupaciones sobre crisis en Oriente Medio",
+        "capturado": "2026-10-23T06:55:55-05:00"
+      },
+      {
+        "titulo": "Francia retorna a la contracción al desacelerarse la economía europea",
+        "url": "https://es.finance.yahoo.com/noticias/francia-vuelve-contracci%C3%B3n-ralentiza-crecimiento-095841357.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Francia vuelve a la contracción mientras se ralentiza el crecimiento europeo",
+        "capturado": "2026-10-23T06:55:55-05:00"
+      },
+      {
+        "titulo": "El oro desciende de los 4.000 dólares por primera vez desde julio y surgen interrogantes sobre su futuro",
+        "url": "https://es.finance.yahoo.com/noticias/oro-cae-debajo-4-000-091700890.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "El oro cae por debajo de $4,000 por primera vez desde julio: ¿Qué sigue?",
+        "capturado": "2026-10-23T06:55:55-05:00"
+      },
+      {
+        "titulo": "Apple debuta en la venta de móviles plegables mediante la comercialización del iPhone Duo",
+        "url": "https://es.finance.yahoo.com/noticias/apple-entra-mercado-tel%C3%A9fonos-plegables-085021227.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Apple entra en el mercado de los teléfonos plegables con el inicio de las ventas del iPhone Duo",
+        "capturado": "2026-10-23T06:55:55-05:00"
+      },
+      {
+        "titulo": "Las acciones de Volvo caen fuertemente tras reportar fuertes pérdidas y recortar 2.500 puestos",
+        "url": "https://es.finance.yahoo.com/noticias/volvo-desploma-bolsa-registrar-p%C3%A9rdidas-083931842.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Volvo se desploma en bolsa tras registrar grandes pérdidas y anunciar el recorte de 2.500 empleos más",
+        "capturado": "2026-10-23T06:55:55-05:00"
+      },
       {
         "titulo": "Crudo rebasa 113 dólares al tiempo que caída en IA golpea mercados y agentes adquieren títulos de deuda",
         "url": "https://es.finance.yahoo.com/noticias/petr%C3%B3leo-supera-113-castigo-ia-051055246.html",
@@ -419,70 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Precios del crudo suben después que Irán frustra esperanzas de un avance diplomático",
         "capturado": "2026-10-21T07:10:53-05:00"
-      },
-      {
-        "titulo": "Efecto multimillonario del huracán Shakira en Madrid: 400 millones de euros y 700.000 asistentes",
-        "url": "https://es.finance.yahoo.com/noticias/hurac%C3%A1n-shakira-deja-madrid-400-110707240.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El impacto millonario del 'huracán Shakira' en Madrid: 400 millones de euros y 700.000 espectadores",
-        "capturado": "2026-10-21T07:10:53-05:00"
-      },
-      {
-        "titulo": "Las cifras de SpaceX devuelven la fe en la IA en Wall Street previo a la apertura; Asia mixta y Europa al alza",
-        "url": "https://es.finance.yahoo.com/noticias/resultados-spacex-reavivan-optimismo-ia-111528395.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los resultados de SpaceX reavivan el optimismo sobre la IA en Wall Street antes de la apertura del mercado; Asia presenta resultados mixtos, Europa registra ganancias.",
-        "capturado": "2026-10-21T07:10:53-05:00"
-      },
-      {
-        "titulo": "Lufthansa invertirá cerca de 1.200 millones en TAP y las ganancias demorarán hasta el año 2030",
-        "url": "https://es.finance.yahoo.com/noticias/lufthansa-acuerdo-1-200-millones-104240820.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Lufthansa pagará hasta 1.200 millones por TAP, pero los beneficios podrían tardar hasta 2030",
-        "capturado": "2026-10-21T07:10:53-05:00"
-      },
-      {
-        "titulo": "Habrá una caída mayor del bitcóin El índice S&P 500 tendría la respuesta",
-        "url": "https://es.finance.yahoo.com/noticias/bitcoin-sufrir%C3%A1-correcci%C3%B3n-profunda-s-103900642.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿Bitcoin sufrirá una corrección más profunda? El S&P 500 podría tener la respuesta",
-        "capturado": "2026-10-21T07:10:53-05:00"
-      },
-      {
-        "titulo": "Las jubilaciones de Europa figuran entre las más destacadas del planeta y este es su nivel de solidez",
-        "url": "https://es.finance.yahoo.com/noticias/pensiones-europeas-mejores-mundo-cu%C3%A1n-060924889.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Las pensiones europeas, entre las mejores del mundo: cuán seguras son",
-        "capturado": "2026-10-21T01:21:00-05:00"
-      },
-      {
-        "titulo": "Las acciones de Netflix caen más del 5% en el mercado a pesar de rebasar las metas de ganancias",
-        "url": "https://es.finance.yahoo.com/noticias/netflix-desploma-5-bolsa-pese-055938972.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Netflix se desploma más de un 5% en Bolsa pese a superar las previsiones de beneficios",
-        "capturado": "2026-10-21T01:21:00-05:00"
-      },
-      {
-        "titulo": "Musk no descarta unir Tesla con SpaceX luego del fuerte incremento en las ganancias de esta última",
-        "url": "https://es.finance.yahoo.com/noticias/elon-musk-respalda-fusi%C3%B3n-spacex-043844253.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Musk abre la puerta a una fusión entre Tesla y SpaceX tras dispararse los beneficios de su empresa espacial",
-        "capturado": "2026-10-21T01:21:00-05:00"
-      },
-      {
-        "titulo": "Grupo México registra un incremento en sus utilidades trimestrales y reduce sus proyecciones de cobre",
-        "url": "https://es.finance.yahoo.com/noticias/grupo-m%C3%A9xico-reporta-mayores-ganancias-225105266.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Grupo México reporta mayores ganancias trimestrales y recorta previsiones cupríferas",
-        "capturado": "2026-10-20T20:24:00-05:00"
       }
     ]
   }
