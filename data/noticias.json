@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-23T15:12:42-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-10-23T18:19:27-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Bolsas de EE UU cierran mixtas por giro a bonos y activos seguros ante freno en comercio de inteligencia artificial",
+        "url": "https://es.finance.yahoo.com/noticias/%C3%ADndices-burs%C3%A1tiles-estadounidenses-cierran-resultados-203519782.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los índices bursátiles estadounidenses cierran con resultados mixtos esta semana, ya que los inversores rotan sus inversiones hacia bonos del Tesoro y activos defensivos ante el estancamiento del comercio de IA.",
+        "capturado": "2026-10-23T18:19:27-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE UU bajan y tasas de bonos suben mientras conflicto con Irán empuja al alza el valor del petróleo",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-202915313.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen, los rendimientos de los bonos del Tesoro suben mientras las tensiones con Irán impulsan al alza el precio del petróleo crudo.",
+        "capturado": "2026-10-23T18:19:27-05:00"
+      },
       {
         "titulo": "Resultados desfavorables del medicamento de Novartis contra esclerosis múltiple según los datos",
         "url": "https://es.finance.yahoo.com/noticias/novartis-presenta-datos-f%C3%A1rmaco-esclerosis-191643295.html",
@@ -466,22 +482,6 @@
         "resumen": "",
         "medio": "BeInCrypto",
         "titulo_fuente": "Facebook recibe multa récord de $25 mil millones: ¿Se desplomarán las acciones de Meta?",
-        "capturado": "2026-10-21T16:18:32-05:00"
-      },
-      {
-        "titulo": "Inversionistas aguardarán comicios en Venezuela según el magnate británico Branson",
-        "url": "https://es.finance.yahoo.com/noticias/multimillonario-brit%C3%A1nico-branson-inversionistas-esperar%C3%A1n-194847107.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Multimillonario británico Branson dice que inversionistas esperarán a elecciones en Venezuela",
-        "capturado": "2026-10-21T16:18:32-05:00"
-      },
-      {
-        "titulo": "Turismo teme merma de viajeros internacionales por protestas en territorio francés",
-        "url": "https://es.finance.yahoo.com/noticias/disturbios-francia-turismo-teme-perder-180648743.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Disturbios en Francia: el turismo teme perder a los visitantes extranjeros",
         "capturado": "2026-10-21T16:18:32-05:00"
       }
     ]
