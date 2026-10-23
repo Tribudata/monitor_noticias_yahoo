@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-22T17:37:15-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-10-22T20:15:11-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Plataformas cripto buscan gestionar tus futuras transacciones bursátiles para 2027",
+        "url": "https://es.finance.yahoo.com/noticias/exchanges-criptomonedas-quieren-tu-pr%C3%B3xima-232700254.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Los exchanges de criptomonedas quieren tu próxima operación de acciones en 2027",
+        "capturado": "2026-10-22T20:15:11-05:00"
+      },
+      {
+        "titulo": "El uno por ciento de consumidores de IA genera el ochenta por ciento del gasto y debilita el auge",
+        "url": "https://es.finance.yahoo.com/noticias/1-usuarios-ia-impulsa-80-225700575.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "El 1% de los usuarios de IA impulsa el 80% del gasto, dejando el boom muy frágil",
+        "capturado": "2026-10-22T20:15:11-05:00"
+      },
       {
         "titulo": "¿Claude descifró el enigma de Satoshi? Recrean el software inicial de Bitcoin",
         "url": "https://es.finance.yahoo.com/noticias/claude-resuelto-misterio-satoshi-reconstruyen-213543617.html",
@@ -466,22 +482,6 @@
         "resumen": "",
         "medio": "Reuters",
         "titulo_fuente": "Aerolíneas Argentinas no solicitará fondos estatales pese a presión por precio de combustible: CEO",
-        "capturado": "2026-10-20T17:56:32-05:00"
-      },
-      {
-        "titulo": "Ingresos de SpaceX suben 161 por ciento interanual y superan pronósticos del tercer trimestre de 2026",
-        "url": "https://es.finance.yahoo.com/noticias/spacex-supera-estimaciones-tercer-trimestre-204304399.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "SpaceX supera las estimaciones del tercer trimestre de 2026 mientras sus ingresos aumentan 161% interanual",
-        "capturado": "2026-10-20T17:56:32-05:00"
-      },
-      {
-        "titulo": "JPMorgan da a conocer tres posibles panoramas para el Bitcoin en el año 2036",
-        "url": "https://es.finance.yahoo.com/noticias/jpmorgan-revela-3-posibles-escenarios-203600289.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "JPMorgan revela 3 posibles escenarios para Bitcoin en 2036",
         "capturado": "2026-10-20T17:56:32-05:00"
       }
     ]
