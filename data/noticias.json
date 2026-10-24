@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-24T16:03:45-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-24T18:32:08-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Ethereum presenta idéntico indicador que causó el alza de junio: Qué quiere decir",
+        "url": "https://es.finance.yahoo.com/noticias/ethereum-muestra-se%C3%B1al-provoc%C3%B3-rally-231000881.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Ethereum muestra la misma señal que provocó el rally de junio: ¿Qué significa?",
+        "capturado": "2026-10-24T18:32:08-05:00"
+      },
+      {
+        "titulo": "Títulos de IA caerían en 2027: Tres maneras de cuidar su capital",
+        "url": "https://es.finance.yahoo.com/noticias/acciones-ia-desplomarse-2027-3-214700667.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Las acciones de IA podrían desplomarse en 2027: 3 formas de proteger tu dinero",
+        "capturado": "2026-10-24T18:32:08-05:00"
+      },
       {
         "titulo": "Los futuros criptoactivos triunfadores tal vez no coincidan con los de hoy",
         "url": "https://es.finance.yahoo.com/noticias/pr%C3%B3ximas-criptomonedas-ganadoras-ser-actuales-193619042.html",
@@ -466,22 +482,6 @@
         "resumen": "",
         "medio": "Bloomberg",
         "titulo_fuente": "Mercado de OPI de EE.UU. se paraliza a la espera del debut de Anthropic",
-        "capturado": "2026-10-22T14:24:10-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE.UU. retroceden por menor interés en IA tras Meta, y crudo avanza por alerta de Irán",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-174130774.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen a medida que el comercio basado en IA pierde atractivo tras los resultados de Meta, mientras que el petróleo crudo sube ante la advertencia de invasión de Irán.",
-        "capturado": "2026-10-22T14:24:10-05:00"
-      },
-      {
-        "titulo": "Elon Musk destina casi US$1.000M a Skydance, de acuerdo con Semafor",
-        "url": "https://es.finance.yahoo.com/noticias/elon-musk-invierte-us-1-172752636.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Elon Musk invierte cerca de US$1.000M en Skydance, según Semafor",
         "capturado": "2026-10-22T14:24:10-05:00"
       }
     ]
