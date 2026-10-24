@@ -1,9 +1,41 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-24T06:51:48-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-24T10:28:00-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Bitcoin afronta un fin de semana crucial al crecer los miedos de una caída en la plaza",
+        "url": "https://es.finance.yahoo.com/noticias/bitcoin-enfrenta-semana-decisivo-aumentan-142500474.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Bitcoin enfrenta un fin de semana decisivo mientras aumentan los temores de un desplome del mercado",
+        "capturado": "2026-10-24T10:28:00-05:00"
+      },
+      {
+        "titulo": "Uniswap reporta la mayor alza de billeteras en 4 años y analizan si UNI subirá",
+        "url": "https://es.finance.yahoo.com/noticias/uniswap-registra-aumento-wallets-4-120343429.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Uniswap registra el mayor aumento de wallets en 4 años. ¿UNI tendrá un rally?",
+        "capturado": "2026-10-24T10:28:00-05:00"
+      },
+      {
+        "titulo": "Bitcoin llegaría a un millón de dólares en 2030, de acuerdo con Mark Moss",
+        "url": "https://es.finance.yahoo.com/noticias/bitcoin-alcanzar-mill%C3%B3n-d%C3%B3lares-2030-100026819.html",
+        "resumen": "",
+        "medio": "Benzinga Espana",
+        "titulo_fuente": "Bitcoin podría alcanzar un millón de dólares en 2030, según Mark Moss",
+        "capturado": "2026-10-24T10:28:00-05:00"
+      },
+      {
+        "titulo": "Acciones, oro y bonos: el error es no invertir, aunque Francia genera inquietud",
+        "url": "https://es.finance.yahoo.com/noticias/bolsa-oro-deuda-error-invertido-060000128.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "Bolsa, oro y deuda: \"El error es no estar invertido, pero Francia puede dar un susto\"",
+        "capturado": "2026-10-24T10:28:00-05:00"
+      },
       {
         "titulo": "El auge de la economía de agentes de IA genera dudas tras 6.4 millones de pagos",
         "url": "https://es.finance.yahoo.com/noticias/realmente-auge-econom%C3%ADa-agentes-ia-105200406.html",
@@ -450,38 +482,6 @@
         "resumen": "",
         "medio": "Euronews",
         "titulo_fuente": "El mayor fondo soberano del mundo pierde 30.000 millones por el alza de tipos y la caída de bonos",
-        "capturado": "2026-10-22T05:26:16-05:00"
-      },
-      {
-        "titulo": "Xi solicita mejora cualitativa y crecimiento medible en la economía china",
-        "url": "https://es.finance.yahoo.com/noticias/xi-pide-mejora-cualitativa-crecimiento-092420571.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Xi pide una mejora cualitativa y un crecimiento medible de la economía china",
-        "capturado": "2026-10-22T05:26:16-05:00"
-      },
-      {
-        "titulo": "CoinDCX descarta robo de 16 millones de dólares y sigue billeteras señaladas hasta su fallo de 2025",
-        "url": "https://es.finance.yahoo.com/noticias/coindcx-niega-hack-16-millones-083847235.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "CoinDCX niega hack de 16 millones de dólares y rastrea wallets marcadas hasta su brecha de 2025",
-        "capturado": "2026-10-22T05:26:16-05:00"
-      },
-      {
-        "titulo": "Acciones de Meta ganan 5% en el mercado al impulsar sus entradas de dinero con gasto en inteligencia artificial",
-        "url": "https://es.finance.yahoo.com/noticias/meta-sube-5-bolsa-inversi%C3%B3n-081955293.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Meta sube un 5% en bolsa mientras la inversión en IA dispara los ingresos",
-        "capturado": "2026-10-22T05:26:16-05:00"
-      },
-      {
-        "titulo": "Estados Unidos halla contagios de gusano barrenador en animales silvestres de Texas y un bovino de Nuevo México",
-        "url": "https://es.finance.yahoo.com/noticias/eeuu-detecta-casos-gusano-barrenador-082951514.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "EEUU detecta casos de gusano barrenador en fauna silvestre de Texas y una vaca de Nuevo México",
         "capturado": "2026-10-22T05:26:16-05:00"
       }
     ]
