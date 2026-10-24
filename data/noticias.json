@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-24T13:19:16-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-24T16:03:45-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Los futuros criptoactivos triunfadores tal vez no coincidan con los de hoy",
+        "url": "https://es.finance.yahoo.com/noticias/pr%C3%B3ximas-criptomonedas-ganadoras-ser-actuales-193619042.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Las próximas criptomonedas ganadoras podrían ser diferentes a las actuales",
+        "capturado": "2026-10-24T16:03:45-05:00"
+      },
       {
         "titulo": "Bitcoin cae bajo los 80.000 dólares y liquidan 200 millones en apuestas apalancadas en una hora",
         "url": "https://es.finance.yahoo.com/noticias/bitcoin-pierde-80-000-200-164348366.html",
@@ -475,14 +483,6 @@
         "medio": "Bloomberg",
         "titulo_fuente": "Elon Musk invierte cerca de US$1.000M en Skydance, según Semafor",
         "capturado": "2026-10-22T14:24:10-05:00"
-      },
-      {
-        "titulo": "Barclays elimina 5.000 puestos y usa IA para ser más eficiente",
-        "url": "https://es.finance.yahoo.com/noticias/barclays-recorta-5-000-empleos-101710874.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Barclays recorta 5.000 empleos y apuesta por la IA para ganar eficiencia",
-        "capturado": "2026-10-22T05:26:16-05:00"
       }
     ]
   }
