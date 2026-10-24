@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-23T20:48:43-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-24T01:54:35-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Precio de mercado en Europa: desde 63 euros en España hasta 138 en Suiza",
+        "url": "https://es.finance.yahoo.com/noticias/precios-cesta-compra-europa-d%C3%B3nde-050050228.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "¿Dónde es más caro hacer la compra en Europa? de los 63 euros de España a los 138 de Suiza",
+        "capturado": "2026-10-24T01:54:35-05:00"
+      },
+      {
+        "titulo": "Disponible gratis la versión para PC de Metroid Dread sin emulador, con ratón y 240 FPS",
+        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-port-pc-metroid-181901338.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Descarga gratis el port para PC de Metroid Dread de Switch, que corre sin emulador, con soporte para mouse y hasta 240 FPS",
+        "capturado": "2026-10-24T01:54:35-05:00"
+      },
       {
         "titulo": "Bolsas de EE UU cierran mixtas por giro a bonos y activos seguros ante freno en comercio de inteligencia artificial",
         "url": "https://es.finance.yahoo.com/noticias/%C3%ADndices-burs%C3%A1tiles-estadounidenses-cierran-resultados-203519782.html",
@@ -467,22 +483,6 @@
         "medio": "MT Newswires",
         "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben gracias a los excelentes resultados de SpaceX y la actualización del primer trimestre fiscal de Super Micro Computer, lo que impulsa el comercio de IA.",
         "capturado": "2026-10-21T19:06:04-05:00"
-      },
-      {
-        "titulo": "Inversor de riesgo plantea que la apuesta más sencilla en IA no involucra acciones de chips",
-        "url": "https://es.finance.yahoo.com/noticias/apuesta-simple-ia-acci%C3%B3n-chips-213700862.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "La apuesta más simple es IA no es una acción de chips, sugiere capitalista de riesgo",
-        "capturado": "2026-10-21T19:06:04-05:00"
-      },
-      {
-        "titulo": "Sanción histórica de 25 mil millones a Facebook y duda sobre caída de acciones de Meta",
-        "url": "https://es.finance.yahoo.com/noticias/facebook-recibe-multa-r%C3%A9cord-25-200300798.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Facebook recibe multa récord de $25 mil millones: ¿Se desplomarán las acciones de Meta?",
-        "capturado": "2026-10-21T16:18:32-05:00"
       }
     ]
   }
