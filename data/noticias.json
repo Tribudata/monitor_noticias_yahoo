@@ -1,9 +1,49 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-24T01:54:35-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-24T06:51:48-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "El auge de la economía de agentes de IA genera dudas tras 6.4 millones de pagos",
+        "url": "https://es.finance.yahoo.com/noticias/realmente-auge-econom%C3%ADa-agentes-ia-105200406.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿Realmente está en auge la economía de agentes de IA? 6.4 millones de pagos cuentan una historia diferente",
+        "capturado": "2026-10-24T06:51:48-05:00"
+      },
+      {
+        "titulo": "El porvenir de las plataformas de intercambio de criptomonedas hacia 2027",
+        "url": "https://es.finance.yahoo.com/noticias/futuro-exchanges-criptomonedas-cara-2027-084100530.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "El futuro de los exchanges de criptomonedas de cara a 2027",
+        "capturado": "2026-10-24T06:51:48-05:00"
+      },
+      {
+        "titulo": "Francia libra la caída de nota con Moody's pero su endeudamiento preocupa",
+        "url": "https://es.finance.yahoo.com/noticias/deuda-moodys-leve-respiro-francia-072131662.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Francia evita la rebaja de Moody's, pero su deuda enciende todas las alarmas",
+        "capturado": "2026-10-24T06:51:48-05:00"
+      },
+      {
+        "titulo": "El obsequio ideal de bodas para un hijo: 50 euros mensuales desde su nacimiento",
+        "url": "https://es.finance.yahoo.com/noticias/regalo-boda-tu-hijo-50-043000270.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "El mejor regalo de boda para tu hijo: 50 euros al mes desde que nace",
+        "capturado": "2026-10-24T06:51:48-05:00"
+      },
+      {
+        "titulo": "Ciberseguridad con inteligencia artificial: invertir donde la necesidad es forzosa",
+        "url": "https://es.finance.yahoo.com/noticias/ciberseguridad-basada-ia-invertir-demanda-040000753.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "Ciberseguridad basada en IA: invertir donde la demanda no es opcional",
+        "capturado": "2026-10-24T06:51:48-05:00"
+      },
       {
         "titulo": "Precio de mercado en Europa: desde 63 euros en España hasta 138 en Suiza",
         "url": "https://es.finance.yahoo.com/noticias/precios-cesta-compra-europa-d%C3%B3nde-050050228.html",
@@ -443,46 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "EEUU detecta casos de gusano barrenador en fauna silvestre de Texas y una vaca de Nuevo México",
         "capturado": "2026-10-22T05:26:16-05:00"
-      },
-      {
-        "titulo": "Canadá lanza estrategia de 6.200 millones para proteger industrias contra gravámenes de Trump",
-        "url": "https://es.finance.yahoo.com/noticias/canad%C3%A1-presenta-plan-6-200-045201925.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Canadá presenta plan de 6.200 millones para blindar fabricantes ante aranceles de Trump",
-        "capturado": "2026-10-22T00:11:41-05:00"
-      },
-      {
-        "titulo": "Bolsa Rosario eleva a 23,8 millones de toneladas la proyección de cosecha de trigo en Argentina",
-        "url": "https://es.finance.yahoo.com/noticias/estimaci%C3%B3n-cosecha-trigo-argentina-sube-234118229.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Estimación cosecha trigo de Argentina sube a 23,8 million tons: Bolsa Rosario",
-        "capturado": "2026-10-21T19:06:04-05:00"
-      },
-      {
-        "titulo": "Motivos por los cuales la Unión Europea demanda la clausura de determinadas páginas web",
-        "url": "https://es.finance.yahoo.com/noticias/uni%C3%B3n-europea-insta-cierre-sitios-230600597.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿Por qué la Unión Europea insta al cierre de algunos sitios web?",
-        "capturado": "2026-10-21T19:06:04-05:00"
-      },
-      {
-        "titulo": "Exchange de criptomonedas advierte que grave fallo en PHP compromete plataformas de pago",
-        "url": "https://es.finance.yahoo.com/noticias/advertencia-exchange-criptomonedas-falla-cr%C3%ADtica-224238020.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Advertencia de exchange de criptomonedas: una falla crítica en PHP pone en riesgo los sitios de pago",
-        "capturado": "2026-10-21T19:06:04-05:00"
-      },
-      {
-        "titulo": "Wall Street avanza por buenos resultados de SpaceX y datos de Super Micro Computer, impulsando IA",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-213900057.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben gracias a los excelentes resultados de SpaceX y la actualización del primer trimestre fiscal de Super Micro Computer, lo que impulsa el comercio de IA.",
-        "capturado": "2026-10-21T19:06:04-05:00"
       }
     ]
   }
