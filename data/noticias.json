@@ -1,9 +1,33 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-24T10:28:00-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-24T13:19:16-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Bitcoin cae bajo los 80.000 dólares y liquidan 200 millones en apuestas apalancadas en una hora",
+        "url": "https://es.finance.yahoo.com/noticias/bitcoin-pierde-80-000-200-164348366.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Bitcoin pierde los $80,000 y $200 millones en posiciones apalancadas se liquidan en una hora",
+        "capturado": "2026-10-24T13:19:16-05:00"
+      },
+      {
+        "titulo": "Panorama económico mundial 2027: Nos dirigimos hacia otra crisis financiera",
+        "url": "https://es.finance.yahoo.com/noticias/perspectiva-econ%C3%B3mica-global-2027-crisis-160100933.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Perspectiva económica global 2027: ¿Vamos hacia otra crisis financiera?",
+        "capturado": "2026-10-24T13:19:16-05:00"
+      },
+      {
+        "titulo": "China pide a Estados Unidos detener la expansión de nuevas trabas a la inversión exterior",
+        "url": "https://es.finance.yahoo.com/noticias/china-insta-eeuu-frene-ampliaci%C3%B3n-153135664.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "China insta a EEUU a que frene ampliación propuesta de restricciones a la inversión en el extranjero",
+        "capturado": "2026-10-24T13:19:16-05:00"
+      },
       {
         "titulo": "Bitcoin afronta un fin de semana crucial al crecer los miedos de una caída en la plaza",
         "url": "https://es.finance.yahoo.com/noticias/bitcoin-enfrenta-semana-decisivo-aumentan-142500474.html",
@@ -458,30 +482,6 @@
         "resumen": "",
         "medio": "Euronews",
         "titulo_fuente": "Barclays recorta 5.000 empleos y apuesta por la IA para ganar eficiencia",
-        "capturado": "2026-10-22T05:26:16-05:00"
-      },
-      {
-        "titulo": "Banco Central paraguayo afronta presiones por banco con lazos políticos",
-        "url": "https://es.finance.yahoo.com/noticias/banco-central-paraguayo-enfrenta-presiones-100253195.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Banco Central paraguayo enfrenta presiones por entidad crediticia con vínculos políticos",
-        "capturado": "2026-10-22T05:26:16-05:00"
-      },
-      {
-        "titulo": "Acciones chinas caen a mercado bajista por presión vendedora en Asia",
-        "url": "https://es.finance.yahoo.com/noticias/acciones-china-entran-mercado-bajista-100000806.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Acciones de China entran en mercado bajista mientras la presión de venta se extiende por Asia",
-        "capturado": "2026-10-22T05:26:16-05:00"
-      },
-      {
-        "titulo": "Mayor fondo soberano mundial pierde 30.000 millones por tipos y bonos",
-        "url": "https://es.finance.yahoo.com/noticias/fondo-soberano-mundo-pierde-30-092511618.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El mayor fondo soberano del mundo pierde 30.000 millones por el alza de tipos y la caída de bonos",
         "capturado": "2026-10-22T05:26:16-05:00"
       }
     ]
