@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-25T14:52:13-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-25T17:19:25-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "El crudo sube a 110 dólares ante miedo a nuevos ataques iraníes y los mercados bajan",
+        "url": "https://es.finance.yahoo.com/noticias/petr%C3%B3leo-supera-110-d%C3%B3lares-eval%C3%BAan-080815863.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El petróleo se dispara hasta los 110 dólares por el temor a nuevos ataques de Irán y las bolsas caen",
+        "capturado": "2026-10-25T17:19:25-05:00"
+      },
+      {
+        "titulo": "María Corina Machado vuelve a Venezuela y reta la apertura política de Delcy Rodríguez",
+        "url": "https://es.finance.yahoo.com/noticias/mar%C3%ADa-corina-machado-regresa-venezuela-191824244.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "María Corina Machado regresa a Venezuela y pone a prueba la apertura política de Delcy Rodríguez",
+        "capturado": "2026-10-25T17:19:25-05:00"
+      },
       {
         "titulo": "Cual es la motivacion de las plataformas cripto para ser tu aplicacion financiera de uso diario",
         "url": "https://es.finance.yahoo.com/noticias/plataformas-cripto-quieren-convertirse-tu-181500106.html",
@@ -467,22 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Volvo se desploma en bolsa tras registrar grandes pérdidas y anunciar el recorte de 2.500 empleos más",
         "capturado": "2026-10-23T06:55:55-05:00"
-      },
-      {
-        "titulo": "Crudo rebasa 113 dólares al tiempo que caída en IA golpea mercados y agentes adquieren títulos de deuda",
-        "url": "https://es.finance.yahoo.com/noticias/petr%C3%B3leo-supera-113-castigo-ia-051055246.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El petróleo supera los 113 dólares mientras el castigo a la IA sacude Bolsas y los inversores compran bonos",
-        "capturado": "2026-10-23T01:18:43-05:00"
-      },
-      {
-        "titulo": "Gobierno nacional ordena ajuste presupuestal de 4326 millones de dólares para el gasto de 2026",
-        "url": "https://es.finance.yahoo.com/noticias/colombia-decreta-recorte-gastos-4-031711823.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Colombia decreta recorte de gastos por 4.326 millones de dólares en presupuesto de gastos de 2026",
-        "capturado": "2026-10-23T01:18:43-05:00"
       }
     ]
   }
