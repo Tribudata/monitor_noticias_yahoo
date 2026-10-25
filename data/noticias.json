@@ -1,9 +1,33 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-24T22:27:13-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-25T03:40:06-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Actualización del port gratis de los tres primeros Uncharted en PC trae logros trucos y soporte ultrawide",
+        "url": "https://es-us.noticias.yahoo.com/port-gratuito-uncharted-pc-actualiza-174224872.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Port gratuito de los tres primeros Uncharted para PC se actualiza con trofeos, trucos y soporte para ultrawide",
+        "capturado": "2026-10-25T03:40:06-05:00"
+      },
+      {
+        "titulo": "Próxima semana llegaría port de Zelda Tears of the Kingdom para PC nativo a 60 FPS sin emulador",
+        "url": "https://es-us.noticias.yahoo.com/zelda-tears-of-the-kingdom-170649553.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Zelda Tears of the Kingdom tendrá un port para PC que corre sin emulador a 60 FPS, y llegaría la próxima semana",
+        "capturado": "2026-10-25T03:40:06-05:00"
+      },
+      {
+        "titulo": "Consiguen ejecutar juegos de Steam directo en PS5 sin streaming transformando la consola en PC",
+        "url": "https://es-us.noticias.yahoo.com/logran-correr-juegos-steam-directamente-154227490.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Logran correr juegos de Steam directamente en PS5 y sin streaming, convirtiendo la consola en un PC",
+        "capturado": "2026-10-25T03:40:06-05:00"
+      },
       {
         "titulo": "Ya se puede bajar sin costo la adaptación para PC de Killzone de PS2 a 120 FPS, con 8x y ultrawide",
         "url": "https://es-us.noticias.yahoo.com/descarga-gratis-port-pc-killzone-142902617.html",
@@ -458,30 +482,6 @@
         "resumen": "",
         "medio": "Reuters",
         "titulo_fuente": "Camioneros del sur de Italia suavizan protestas tras aprobación de ayudas por parte del Gobierno",
-        "capturado": "2026-10-22T14:24:10-05:00"
-      },
-      {
-        "titulo": "Fireblocks descarta versión de adquisición por US$2.5 mil millones de parte de Visa",
-        "url": "https://es.finance.yahoo.com/noticias/fireblocks-niega-afirmaciones-compra-2-180600449.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Fireblocks niega afirmaciones sobre compra por $2.5 mil millones por parte de Visa",
-        "capturado": "2026-10-22T14:24:10-05:00"
-      },
-      {
-        "titulo": "Gremios obreros de Portugal y España organizan un eventual paro general ibérico",
-        "url": "https://es.finance.yahoo.com/noticias/sindicatos-portugal-espa%C3%B1a-preparan-huelga-180232001.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Sindicatos de Portugal y España preparan una posible huelga general ibérica",
-        "capturado": "2026-10-22T14:24:10-05:00"
-      },
-      {
-        "titulo": "Un cuadro inédito de Monet se comercializa por US$56 millones en Sotheby’s París",
-        "url": "https://es.finance.yahoo.com/noticias/monet-exhibido-vende-us-56-175806537.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Un Monet nunca exhibido se vende por US$56 millones en Sotheby’s París",
         "capturado": "2026-10-22T14:24:10-05:00"
       }
     ]
