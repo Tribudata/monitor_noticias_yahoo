@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-25T08:35:00-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-10-25T12:25:41-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Por qué las plataformas de criptomonedas incentivan la continuidad de tus operaciones",
+        "url": "https://es.finance.yahoo.com/noticias/exchanges-criptomonedas-pagan-sigas-trading-155900079.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿Por qué los exchanges de criptomonedas pagan para que sigas haciendo trading?",
+        "capturado": "2026-10-25T12:25:41-05:00"
+      },
+      {
+        "titulo": "Qué cantidad de capital pondrías bajo la administración de una inteligencia artificial",
+        "url": "https://es.finance.yahoo.com/noticias/cu%C3%A1nto-dinero-dejar%C3%ADas-controle-ia-134400122.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿Cuánto dinero dejarías que controle una IA?",
+        "capturado": "2026-10-25T12:25:41-05:00"
+      },
       {
         "titulo": "Sindicato alerta sobre gran destrucción de empleo en Suiza ante posible mudanza de UBS",
         "url": "https://es.finance.yahoo.com/noticias/grupo-trabajadores-advierte-importantes-p%C3%A9rdidas-121102791.html",
@@ -467,22 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "Los exchanges de criptomonedas quieren tu próxima operación de acciones en 2027",
         "capturado": "2026-10-22T20:15:11-05:00"
-      },
-      {
-        "titulo": "El uno por ciento de consumidores de IA genera el ochenta por ciento del gasto y debilita el auge",
-        "url": "https://es.finance.yahoo.com/noticias/1-usuarios-ia-impulsa-80-225700575.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "El 1% de los usuarios de IA impulsa el 80% del gasto, dejando el boom muy frágil",
-        "capturado": "2026-10-22T20:15:11-05:00"
-      },
-      {
-        "titulo": "¿Claude descifró el enigma de Satoshi? Recrean el software inicial de Bitcoin",
-        "url": "https://es.finance.yahoo.com/noticias/claude-resuelto-misterio-satoshi-reconstruyen-213543617.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿Claude ha resuelto el misterio de Satoshi? Reconstruyen el primer software de Bitcoin",
-        "capturado": "2026-10-22T17:37:15-05:00"
       }
     ]
   }
