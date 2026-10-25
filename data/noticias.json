@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-25T03:40:06-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-25T08:35:00-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Sindicato alerta sobre gran destrucción de empleo en Suiza ante posible mudanza de UBS",
+        "url": "https://es.finance.yahoo.com/noticias/grupo-trabajadores-advierte-importantes-p%C3%A9rdidas-121102791.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Grupo trabajadores advierte de importantes pérdidas de puestos de trabajo en Suiza si UBS se traslada",
+        "capturado": "2026-10-25T08:35:00-05:00"
+      },
+      {
+        "titulo": "Alphabet presenta balances enfocados en Cloud y semiconductores como impulsores",
+        "url": "https://es.finance.yahoo.com/noticias/alphabet-afronta-resultados-cloud-chips-120019773.html",
+        "resumen": "",
+        "medio": "Benzinga Espana",
+        "titulo_fuente": "Alphabet afronta sus resultados con Cloud y los chips como motores",
+        "capturado": "2026-10-25T08:35:00-05:00"
+      },
+      {
+        "titulo": "La decisión final de la Justicia frente a Javier Milei y el caso LIBRA",
+        "url": "https://es.finance.yahoo.com/noticias/javier-milei-esc%C3%A1ndalo-libra-finalmente-112300098.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Javier Milei y el escándalo LIBRA: lo que finalmente decidió la Justicia",
+        "capturado": "2026-10-25T08:35:00-05:00"
+      },
+      {
+        "titulo": "Audi apuesta por EE. UU. y Trump destaca la inyección del fabricante alemán en campaña",
+        "url": "https://es.finance.yahoo.com/noticias/audi-vuelca-ee-uu-trump-091807101.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Audi se vuelca con EE.UU.: Trump aprovecha la inversión del fabricante alemán en plena campaña electoral",
+        "capturado": "2026-10-25T08:35:00-05:00"
+      },
+      {
+        "titulo": "MoneyGram avanza en la tecnología blockchain mediante la red XDC",
+        "url": "https://es.finance.yahoo.com/noticias/moneygram-paso-blockchain-xdc-network-090200435.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "MoneyGram da otro gran paso en blockchain con XDC Network",
+        "capturado": "2026-10-25T08:35:00-05:00"
+      },
+      {
+        "titulo": "El Treasury alcanza el 5,34%: las empresas de Wall Street más afectadas",
+        "url": "https://es.finance.yahoo.com/noticias/treasury-llega-5-34-compa%C3%B1%C3%ADas-054000449.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "El Treasury llega al 5,34%: las compañías de Wall Street que más sufren",
+        "capturado": "2026-10-25T08:35:00-05:00"
+      },
+      {
+        "titulo": "Las calificaciones ESG externas deben ser guía para decidir, no reemplazo",
+        "url": "https://es.finance.yahoo.com/noticias/calificaciones-esg-externas-servir-referencia-052000576.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "Las calificaciones ESG externas deben servir de referencia para la toma de decisiones, no sustituirla",
+        "capturado": "2026-10-25T08:35:00-05:00"
+      },
+      {
+        "titulo": "Nuevas tendencias tecnológicas que transforman la economía",
+        "url": "https://es.finance.yahoo.com/noticias/tendencias-tecnol%C3%B3gicas-redefinen-econom%C3%ADa-050000138.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "Nuevas tendencias tecnológicas que redefinen la economía",
+        "capturado": "2026-10-25T08:35:00-05:00"
+      },
       {
         "titulo": "Actualización del port gratis de los tres primeros Uncharted en PC trae logros trucos y soporte ultrawide",
         "url": "https://es-us.noticias.yahoo.com/port-gratuito-uncharted-pc-actualiza-174224872.html",
@@ -419,70 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "¿Claude ha resuelto el misterio de Satoshi? Reconstruyen el primer software de Bitcoin",
         "capturado": "2026-10-22T17:37:15-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE. UU. varían mientras capitales van de IA a bonos; crudo sube",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-211833139.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos a medida que los inversores rotan sus carteras desde el comercio con IA hacia los bonos gubernamentales; el petróleo crudo se dispara.",
-        "capturado": "2026-10-22T17:37:15-05:00"
-      },
-      {
-        "titulo": "Tesoro excluye a Venezuela de la lista de restricciones de inversión en el exterior",
-        "url": "https://es.finance.yahoo.com/noticias/tesoro-retira-venezuela-lista-pa%C3%ADses-211419446.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Tesoro retira a Venezuela de lista de países sujetos a restricciones inversión EEUU en el extranjero",
-        "capturado": "2026-10-22T17:37:15-05:00"
-      },
-      {
-        "titulo": "Directeur de Circle resta importancia a caída de Bitcoin y alaba monedas digitales",
-        "url": "https://es.finance.yahoo.com/noticias/ceo-circle-minimiza-ca%C3%ADda-bitcoin-205200937.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "CEO de Circle minimiza la caída de Bitcoin y promociona los dólares digitales para la era de la IA",
-        "capturado": "2026-10-22T17:37:15-05:00"
-      },
-      {
-        "titulo": "Estados Unidos prohíbe dos aparatos con chips espías hechos en China",
-        "url": "https://es.finance.yahoo.com/noticias/eeuu-bloquea-dispositivos-chips-vigilancia-201437650.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "EEUU bloquea dos dispositivos con chips de vigilancia fabricados en China",
-        "capturado": "2026-10-22T17:37:15-05:00"
-      },
-      {
-        "titulo": "Entidades financieras de EE. UU. hallan agentes de inteligencia artificial ilegítimos en perfiles",
-        "url": "https://es.finance.yahoo.com/noticias/bancos-eeuu-detectan-agentes-ia-192900898.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Bancos de EEUU detectan agentes de IA no autorizados operando dentro de las cuentas de clientes",
-        "capturado": "2026-10-22T17:37:15-05:00"
-      },
-      {
-        "titulo": "Inmunización de Merck y Moderna baja en más del 40 por ciento la probabilidad de deceso o retorno de melanoma",
-        "url": "https://es.finance.yahoo.com/noticias/vacuna-merck-moderna-reduce-40-192636460.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Vacuna de Merck/Moderna reduce más de 40% el riesgo de muerte o recurrencia de melanoma",
-        "capturado": "2026-10-22T17:37:15-05:00"
-      },
-      {
-        "titulo": "Heladas tardías generan mermas de hasta 15% en zonas trigueras argentinas",
-        "url": "https://es.finance.yahoo.com/noticias/heladas-tard%C3%ADas-causan-p%C3%A9rdidas-15-190639561.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Heladas tardías causan pérdidas de hasta 15% en áreas de trigo de Argentina",
-        "capturado": "2026-10-22T14:24:10-05:00"
-      },
-      {
-        "titulo": "Transportadores del sur italiano reducen paros luego de que el Gobierno aprueba subsidios",
-        "url": "https://es.finance.yahoo.com/noticias/camioneros-sur-italia-suavizan-protestas-185415841.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Camioneros del sur de Italia suavizan protestas tras aprobación de ayudas por parte del Gobierno",
-        "capturado": "2026-10-22T14:24:10-05:00"
       }
     ]
   }
