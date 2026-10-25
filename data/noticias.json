@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-25T12:25:41-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-25T14:52:13-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Cual es la motivacion de las plataformas cripto para ser tu aplicacion financiera de uso diario",
+        "url": "https://es.finance.yahoo.com/noticias/plataformas-cripto-quieren-convertirse-tu-181500106.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿Por qué las plataformas cripto quieren convertirse en tu app diaria de dinero?",
+        "capturado": "2026-10-25T14:52:13-05:00"
+      },
       {
         "titulo": "Por qué las plataformas de criptomonedas incentivan la continuidad de tus operaciones",
         "url": "https://es.finance.yahoo.com/noticias/exchanges-criptomonedas-pagan-sigas-trading-155900079.html",
@@ -475,14 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Colombia decreta recorte de gastos por 4.326 millones de dólares en presupuesto de gastos de 2026",
         "capturado": "2026-10-23T01:18:43-05:00"
-      },
-      {
-        "titulo": "Plataformas cripto buscan gestionar tus futuras transacciones bursátiles para 2027",
-        "url": "https://es.finance.yahoo.com/noticias/exchanges-criptomonedas-quieren-tu-pr%C3%B3xima-232700254.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Los exchanges de criptomonedas quieren tu próxima operación de acciones en 2027",
-        "capturado": "2026-10-22T20:15:11-05:00"
       }
     ]
   }
