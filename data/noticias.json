@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-24T18:32:08-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-24T22:27:13-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Ya se puede bajar sin costo la adaptación para PC de Killzone de PS2 a 120 FPS, con 8x y ultrawide",
+        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-port-pc-killzone-142902617.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Descarga gratis el port para PC de Killzone de PS2, que corre a 120 FPS, con resolución 8x y soporte para ultrawide",
+        "capturado": "2026-10-24T22:27:13-05:00"
+      },
       {
         "titulo": "Ethereum presenta idéntico indicador que causó el alza de junio: Qué quiere decir",
         "url": "https://es.finance.yahoo.com/noticias/ethereum-muestra-se%C3%B1al-provoc%C3%B3-rally-231000881.html",
@@ -474,14 +482,6 @@
         "resumen": "",
         "medio": "Bloomberg",
         "titulo_fuente": "Un Monet nunca exhibido se vende por US$56 millones en Sotheby’s París",
-        "capturado": "2026-10-22T14:24:10-05:00"
-      },
-      {
-        "titulo": "Ofertas públicas iniciales en EE.UU. se frenan mientras aguardan la llegada de Anthropic",
-        "url": "https://es.finance.yahoo.com/noticias/mercado-opi-ee-uu-paraliza-175601002.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Mercado de OPI de EE.UU. se paraliza a la espera del debut de Anthropic",
         "capturado": "2026-10-22T14:24:10-05:00"
       }
     ]
