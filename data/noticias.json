@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-26T07:21:14-05:00",
+  "actualizado": "2026-10-26T13:47:58-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Un medicamento de Merck alarga la vida en un ensayo de cáncer endometrial",
+        "url": "https://es.finance.yahoo.com/noticias/f%C3%A1rmaco-merck-prolonga-supervivencia-prueba-174028031.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Un fármaco de Merck prolonga la supervivencia en una prueba sobre el cáncer de endometrio",
+        "capturado": "2026-10-26T13:47:58-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE. UU. suben por salida a bolsa de Anthropic en el Nasdaq y optimismo en IA",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-172924112.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben tras la presentación de la solicitud de salida a bolsa de Anthropic en el Nasdaq, lo que impulsa el optimismo en el mercado de la IA.",
+        "capturado": "2026-10-26T13:47:58-05:00"
+      },
+      {
+        "titulo": "Apple indaga fisuras en pantallas del iPhone Duo por reportes de clientes",
+        "url": "https://es.finance.yahoo.com/noticias/apple-investiga-grietas-pantallas-iphone-172632214.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Apple investiga grietas en pantallas del iPhone Duo tras quejas de usuarios",
+        "capturado": "2026-10-26T13:47:58-05:00"
+      },
+      {
+        "titulo": "ETFs repuntan a la par que las acciones de Estados Unidos avanzan pasado el mediodía",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-suben-medida-171302822.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa suben a medida que las acciones estadounidenses avanzan después del mediodía.",
+        "capturado": "2026-10-26T13:47:58-05:00"
+      },
+      {
+        "titulo": "Microsoft da retiros voluntarios a 60.000 empleados en nuevo ajuste de gastos",
+        "url": "https://es.finance.yahoo.com/noticias/microsoft-ofrece-salidas-voluntarias-60-161840934.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Microsoft ofrece salidas voluntarias a 60.000 trabajadores en nuevo recorte de costos",
+        "capturado": "2026-10-26T13:47:58-05:00"
+      },
+      {
+        "titulo": "Presidenta de Petrobras califica de especulativa la baja bursátil tras el triunfo de Lula",
+        "url": "https://es.finance.yahoo.com/noticias/jefa-petrobras-ca%C3%ADda-acciones-victoria-161150168.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Jefa de Petrobras dice caída de acciones tras victoria de Lula es especulativa",
+        "capturado": "2026-10-26T13:47:58-05:00"
+      },
+      {
+        "titulo": "Administradoras chilenas disminuyen descalces por alza en los títulos del tesoro norteamericano",
+        "url": "https://es.finance.yahoo.com/noticias/afp-chile-reducen-p%C3%A9rdidas-swaps-154058231.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "AFP de Chile reducen pérdidas en swaps ante repunte de bonos de EE.UU.",
+        "capturado": "2026-10-26T13:47:58-05:00"
+      },
+      {
+        "titulo": "Inversionistas con gran capital en Anthropic van desde Google hasta Amazon",
+        "url": "https://es.finance.yahoo.com/noticias/amazon-google-inversores-anthropic-recursos-151715917.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Desde Amazon hasta Google, los inversores de Anthropic con grandes recursos económicos",
+        "capturado": "2026-10-26T13:47:58-05:00"
+      },
       {
         "titulo": "Acciones de EE UU al alza antes de abrir por petróleo barato y expectativa de tasas de la Reserva Federal",
         "url": "https://es.finance.yahoo.com/noticias/futuros-acciones-estadounidenses-suben-apertura-115912938.html",
@@ -419,70 +483,6 @@
         "medio": "MT Newswires",
         "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos mientras el sector tecnológico intenta recuperarse en medio del alza del precio del petróleo crudo.",
         "capturado": "2026-10-23T15:12:42-05:00"
-      },
-      {
-        "titulo": "Crudo alcanza pico de cinco meses en medio de la caída en tecnológicas y criptomonedas",
-        "url": "https://es.finance.yahoo.com/noticias/petr%C3%B3leo-registra-m%C3%A1ximo-5-meses-173300565.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "El petróleo registra máximo de 5 meses mientras el sector tecnológico y las criptomonedas se tambalean",
-        "capturado": "2026-10-23T15:12:42-05:00"
-      },
-      {
-        "titulo": "Estados Unidos sugiere luces cian para identificar carros autónomos",
-        "url": "https://es.finance.yahoo.com/noticias/ee-uu-propone-luces-cian-172920038.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "EE.UU. propone luces cian para distinguir a los vehículos autónomos",
-        "capturado": "2026-10-23T15:12:42-05:00"
-      },
-      {
-        "titulo": "Los ETF caen y los títulos de EE UU muestran cifras variadas pasada la mitad de la jornada",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-bajan-acciones-171437797.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa bajan y las acciones estadounidenses presentan resultados mixtos tras la media jornada.",
-        "capturado": "2026-10-23T15:12:42-05:00"
-      },
-      {
-        "titulo": "Estados Unidos avala la salida urgente de hasta 400000 barriles de petróleo de la reserva",
-        "url": "https://es.finance.yahoo.com/noticias/eeuu-autoriza-liberaci%C3%B3n-emergencia-400-165349249.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "EEUU autoriza liberación de emergencia de hasta 400.000 barriles de crudo de la reserva estratégica",
-        "capturado": "2026-10-23T15:12:42-05:00"
-      },
-      {
-        "titulo": "El comercio de armamento militar se incrementa en Francia por miedo a nuevos desmanes",
-        "url": "https://es.finance.yahoo.com/noticias/venta-armas-defensa-dispara-francia-163524171.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Venta de armas de defensa se dispara en Francia ante temor a nuevos disturbios",
-        "capturado": "2026-10-23T15:12:42-05:00"
-      },
-      {
-        "titulo": "Portavoz confirma que KLM anula numerosos trayectos a causa de intensas brisas",
-        "url": "https://es.finance.yahoo.com/noticias/klm-cancela-decenas-vuelos-fuertes-162553387.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "KLM cancela decenas de vuelos debido a los fuertes vientos: portavoz",
-        "capturado": "2026-10-23T11:39:01-05:00"
-      },
-      {
-        "titulo": "Trump sostiene que Canadá se esfuerza al máximo para pactar con Estados Unidos",
-        "url": "https://es.finance.yahoo.com/noticias/trump-afirma-canad%C3%A1-trabajando-duro-162132441.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Trump afirma que Canadá \"está trabajando muy duro\" para llegar a un acuerdo con EEUU",
-        "capturado": "2026-10-23T11:39:01-05:00"
-      },
-      {
-        "titulo": "Agrícolas estadounidenses obtendrán 8000 millones de dólares para gasóleo tras comicios, señala empleado",
-        "url": "https://es.finance.yahoo.com/noticias/agricultores-eeuu-recibir%C3%A1n-8-000-155712477.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Agricultores EEUU recibirán 8.000 millones de dólares para diésel tras elecciones, dice funcionario",
-        "capturado": "2026-10-23T11:39:01-05:00"
       }
     ]
   }
