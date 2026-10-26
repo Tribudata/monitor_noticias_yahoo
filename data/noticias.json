@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-26T00:47:58-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-26T07:21:14-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Acciones de EE UU al alza antes de abrir por petróleo barato y expectativa de tasas de la Reserva Federal",
+        "url": "https://es.finance.yahoo.com/noticias/futuros-acciones-estadounidenses-suben-apertura-115912938.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los futuros de las acciones estadounidenses suben antes de la apertura del mercado, mientras los operadores evalúan la caída de los precios del petróleo y esperan la decisión de la Reserva Federal sobre las tasas de interés esta semana.",
+        "capturado": "2026-10-26T07:21:14-05:00"
+      },
+      {
+        "titulo": "Brasil halla un nuevo foco del mal de Newcastle en el estado de Santa Catarina",
+        "url": "https://es.finance.yahoo.com/noticias/brasil-detecta-brote-enfermedad-newcastle-115458915.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Brasil detecta segundo brote de la enfermedad de Newcastle en Santa Catarina",
+        "capturado": "2026-10-26T07:21:14-05:00"
+      },
+      {
+        "titulo": "Galp y Moeve fracasan en su intento de unir refinación y distribución",
+        "url": "https://es.finance.yahoo.com/noticias/galp-moeve-logran-acuerdo-fusionar-112818275.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Galp y Moeve no logran acuerdo para fusionar refino y distribución",
+        "capturado": "2026-10-26T07:21:14-05:00"
+      },
+      {
+        "titulo": "Revolut presentará un sistema para colocar capital en empresas tecnológicas cerradas",
+        "url": "https://es.finance.yahoo.com/noticias/revolut-lanzar%C3%A1-plataforma-invertir-tecnol%C3%B3gicas-105134488.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Revolut lanzará una plataforma para invertir en tecnológicas no cotizadas",
+        "capturado": "2026-10-26T07:21:14-05:00"
+      },
+      {
+        "titulo": "Wall Street sube levemente antes de abrir por beneficios, banca central y crudo; Asia mixta y Europa al alza",
+        "url": "https://es.finance.yahoo.com/noticias/perspectivas-ganancias-bancos-centrales-petr%C3%B3leo-110950437.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Las perspectivas sobre ganancias, bancos centrales y petróleo impulsan ligeramente a Wall Street antes de la apertura; Asia presenta resultados mixtos, Europa registra ganancias.",
+        "capturado": "2026-10-26T07:21:14-05:00"
+      },
+      {
+        "titulo": "El sondeo del Ifo revela un repunte en el optimismo corporativo germano durante octubre",
+        "url": "https://es.finance.yahoo.com/noticias/confianza-empresarial-alemana-mejora-octubre-110810831.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "La confianza empresarial alemana mejora en octubre, según la encuesta del Ifo",
+        "capturado": "2026-10-26T07:21:14-05:00"
+      },
+      {
+        "titulo": "Petróleo cede terreno aunque se mantiene cerca de picos semestrales tras ofensiva en Arabia Saudita",
+        "url": "https://es.finance.yahoo.com/noticias/crudo-baja-m%C3%A1ximos-seis-meses-105644482.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Crudo baja, pero sigue cerca de máximos de seis meses tras los ataques a Arabia Saudita",
+        "capturado": "2026-10-26T07:21:14-05:00"
+      },
+      {
+        "titulo": "El metal precioso avanza ante la baja del crudo, moderando temores inflacionarios",
+        "url": "https://es.finance.yahoo.com/noticias/oro-sube-ca%C3%ADda-petr%C3%B3leo-alivia-103330540.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "El oro sube por caída del petróleo, que alivia algunas preocupaciones sobre inflación",
+        "capturado": "2026-10-26T07:21:14-05:00"
+      },
       {
         "titulo": "Bolsonaro solicita invalidar los comicios tras su caída frente a Lula",
         "url": "https://es.finance.yahoo.com/noticias/bolsonaro-pide-anular-elecciones-derrota-015111780.html",
@@ -419,70 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Agricultores EEUU recibirán 8.000 millones de dólares para diésel tras elecciones, dice funcionario",
         "capturado": "2026-10-23T11:39:01-05:00"
-      },
-      {
-        "titulo": "Del territorio porteño a Colombo, el malestar crece lentamente bajo economías en repunte",
-        "url": "https://es.finance.yahoo.com/noticias/aires-colombo-descontento-hierve-fuego-152259822.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "De Buenos Aires a Colombo, el descontento se hierve a fuego lento bajo superficie de economías en recuperación",
-        "capturado": "2026-10-23T11:39:01-05:00"
-      },
-      {
-        "titulo": "Bolsa de valores argentina avanza con atención en comicios brasileños",
-        "url": "https://es.finance.yahoo.com/noticias/plaza-financiera-argentina-sube-ojos-150253381.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Plaza financiera de Argentina sube con ojos puestos en elección de Brasil",
-        "capturado": "2026-10-23T11:39:01-05:00"
-      },
-      {
-        "titulo": "Italia evaluaría alza de tributos a energéticas para el presupuesto, de acuerdo con fuentes",
-        "url": "https://es.finance.yahoo.com/noticias/italia-subir-impuestos-empresas-energ%C3%A9ticas-150056333.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Italia podría subir impuestos a empresas energéticas para financiar el presupuesto, según fuentes",
-        "capturado": "2026-10-23T11:39:01-05:00"
-      },
-      {
-        "titulo": "El problema de deuda en Francia acapara la atención previo al fallo del BCE",
-        "url": "https://es.finance.yahoo.com/noticias/crisis-deuda-francesa-centra-foco-131706243.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La crisis de la deuda francesa centra el foco antes de la decisión del BCE",
-        "capturado": "2026-10-23T11:39:01-05:00"
-      },
-      {
-        "titulo": "Recuento de Bitcoin y activos digitales en la semana del 23 de octubre",
-        "url": "https://es.finance.yahoo.com/noticias/resumen-semanal-bitcoin-criptomonedas-23-144500322.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Resumen semanal de Bitcoin y criptomonedas: 23 de octubre",
-        "capturado": "2026-10-23T11:39:01-05:00"
-      },
-      {
-        "titulo": "Primer despacho de diésel ruso va hacia EE. UU. por pacto Trump-Putin",
-        "url": "https://es.finance.yahoo.com/noticias/env%C3%ADo-di%C3%A9sel-ruso-dirige-ee-103506361.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Primer envío de diésel ruso se dirige a EE.UU. bajo acuerdo Trump-Putin",
-        "capturado": "2026-10-23T06:55:55-05:00"
-      },
-      {
-        "titulo": "Tecnología impulsa Wall Street previo a abrir; Asia mixta y Europa en rojo",
-        "url": "https://es.finance.yahoo.com/noticias/sector-tecnol%C3%B3gico-recupera-terreno-apuntala-112518530.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "El sector tecnológico recupera terreno y apuntala a Wall Street antes de la apertura; Asia presenta resultados mixtos, Europa registra pérdidas.",
-        "capturado": "2026-10-23T06:55:55-05:00"
-      },
-      {
-        "titulo": "XRP alcanza máximo de inversores a pesar de la tendencia bajista en su precio",
-        "url": "https://es.finance.yahoo.com/noticias/xrp-registra-r%C3%A9cord-holders-precio-103600529.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "XRP registra récord de holders: ¿Por qué el precio sigue bajista?",
-        "capturado": "2026-10-23T06:55:55-05:00"
       }
     ]
   }
