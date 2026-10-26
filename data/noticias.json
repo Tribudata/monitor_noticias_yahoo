@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-25T17:19:25-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-25T19:33:46-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "El triunfo de Lula en Brasil eleva el dólar a 5,60 reales y encarecería el Bitcoin en esa moneda",
+        "url": "https://es.finance.yahoo.com/noticias/lula-gana-elecciones-brasil-d%C3%B3lar-001150351.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Lula gana las elecciones en Brasil y el dólar sube hasta 5.60 reales, lo que podría encarecer el precio de Bitcoin en reales",
+        "capturado": "2026-10-25T19:33:46-05:00"
+      },
       {
         "titulo": "El crudo sube a 110 dólares ante miedo a nuevos ataques iraníes y los mercados bajan",
         "url": "https://es.finance.yahoo.com/noticias/petr%C3%B3leo-supera-110-d%C3%B3lares-eval%C3%BAan-080815863.html",
@@ -474,14 +482,6 @@
         "resumen": "",
         "medio": "Reuters",
         "titulo_fuente": "Apple entra en el mercado de los teléfonos plegables con el inicio de las ventas del iPhone Duo",
-        "capturado": "2026-10-23T06:55:55-05:00"
-      },
-      {
-        "titulo": "Las acciones de Volvo caen fuertemente tras reportar fuertes pérdidas y recortar 2.500 puestos",
-        "url": "https://es.finance.yahoo.com/noticias/volvo-desploma-bolsa-registrar-p%C3%A9rdidas-083931842.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Volvo se desploma en bolsa tras registrar grandes pérdidas y anunciar el recorte de 2.500 empleos más",
         "capturado": "2026-10-23T06:55:55-05:00"
       }
     ]
