@@ -1,9 +1,41 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-25T19:33:46-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-26T00:47:58-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Bolsonaro solicita invalidar los comicios tras su caída frente a Lula",
+        "url": "https://es.finance.yahoo.com/noticias/bolsonaro-pide-anular-elecciones-derrota-015111780.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Bolsonaro pide anular las elecciones tras su derrota ante Lula",
+        "capturado": "2026-10-26T00:47:58-05:00"
+      },
+      {
+        "titulo": "Cinco desafíos financieros que afronta el mandatario Lula en otro periodo en Brasil",
+        "url": "https://es.finance.yahoo.com/noticias/retos-econ%C3%B3micos-enfrenta-presidente-lula-010454182.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Cinco retos económicos a los que se enfrenta el presidente Lula en un nuevo mandato en Brasil",
+        "capturado": "2026-10-26T00:47:58-05:00"
+      },
+      {
+        "titulo": "Lula vence a Flávio Bolsonaro en la segunda vuelta y asumirá la presidencia brasileña por cuarta vez",
+        "url": "https://es.finance.yahoo.com/noticias/lula-supera-fl%C3%A1vio-bolsonaro-balotaje-003242522.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Lula supera a Flávio Bolsonaro en el balotaje y será presidente de Brasil por cuarta vez",
+        "capturado": "2026-10-26T00:47:58-05:00"
+      },
+      {
+        "titulo": "Descarga gratis el port para PC de Halo 5 Guardians con sus 15 misiones, el exclusivo de Xbox One que nunca llegó a computadores",
+        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-port-pc-halo-162449857.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Descarga gratis el port para PC de Halo 5 Guardians con sus 15 misiones, el exclusivo de Xbox One que nunca llegó a computadores",
+        "capturado": "2026-10-26T00:47:58-05:00"
+      },
       {
         "titulo": "El triunfo de Lula en Brasil eleva el dólar a 5,60 reales y encarecería el Bitcoin en esa moneda",
         "url": "https://es.finance.yahoo.com/noticias/lula-gana-elecciones-brasil-d%C3%B3lar-001150351.html",
@@ -450,38 +482,6 @@
         "resumen": "",
         "medio": "BeInCrypto",
         "titulo_fuente": "XRP registra récord de holders: ¿Por qué el precio sigue bajista?",
-        "capturado": "2026-10-23T06:55:55-05:00"
-      },
-      {
-        "titulo": "Brent alcanza máximo de más de cinco meses por tensiones en Oriente Medio",
-        "url": "https://es.finance.yahoo.com/noticias/brent-toca-pico-meses-preocupaciones-102637228.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Brent toca pico de más de cinco meses por preocupaciones sobre crisis en Oriente Medio",
-        "capturado": "2026-10-23T06:55:55-05:00"
-      },
-      {
-        "titulo": "Francia retorna a la contracción al desacelerarse la economía europea",
-        "url": "https://es.finance.yahoo.com/noticias/francia-vuelve-contracci%C3%B3n-ralentiza-crecimiento-095841357.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Francia vuelve a la contracción mientras se ralentiza el crecimiento europeo",
-        "capturado": "2026-10-23T06:55:55-05:00"
-      },
-      {
-        "titulo": "El oro desciende de los 4.000 dólares por primera vez desde julio y surgen interrogantes sobre su futuro",
-        "url": "https://es.finance.yahoo.com/noticias/oro-cae-debajo-4-000-091700890.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "El oro cae por debajo de $4,000 por primera vez desde julio: ¿Qué sigue?",
-        "capturado": "2026-10-23T06:55:55-05:00"
-      },
-      {
-        "titulo": "Apple debuta en la venta de móviles plegables mediante la comercialización del iPhone Duo",
-        "url": "https://es.finance.yahoo.com/noticias/apple-entra-mercado-tel%C3%A9fonos-plegables-085021227.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Apple entra en el mercado de los teléfonos plegables con el inicio de las ventas del iPhone Duo",
         "capturado": "2026-10-23T06:55:55-05:00"
       }
     ]
