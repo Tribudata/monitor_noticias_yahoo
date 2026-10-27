@@ -1,9 +1,33 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-27T14:50:34-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-10-27T18:31:21-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Ciberdelincuentes hurtan 400.000 dólares de plataforma de pronósticos conectada a Binance",
+        "url": "https://es.finance.yahoo.com/noticias/hackers-roban-400-000-mercado-214600899.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Hackers roban $400,000 de un mercado de predicciones vinculado a Binance",
+        "capturado": "2026-10-27T18:31:21-05:00"
+      },
+      {
+        "titulo": "Bolsas al alza con el sector tecnológico al frente previo a los balances de gigantes",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-suben-tecnolog%C3%ADa-204903817.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles suben mientras la tecnología lidera las listas sectoriales antes de la presentación de resultados de las hiperescaladoras.",
+        "capturado": "2026-10-27T18:31:21-05:00"
+      },
+      {
+        "titulo": "El Q-Day de Bitcoin a diez años vista: críticos afirman que ya acumula demoras",
+        "url": "https://es.finance.yahoo.com/noticias/q-day-bitcoin-d%C3%A9cada-distancia-193200512.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿El Q-Day de Bitcoin está a una década de distancia? Los escépticos dicen que ya se está retrasando",
+        "capturado": "2026-10-27T18:31:21-05:00"
+      },
       {
         "titulo": "Cinco aspectos esenciales para comprender la futura apertura bursátil de Anthropic",
         "url": "https://es.finance.yahoo.com/noticias/claves-entender-pasos-salida-bolsa-190904832.html",
@@ -458,30 +482,6 @@
         "resumen": "",
         "medio": "BeInCrypto",
         "titulo_fuente": "Javier Milei y el escándalo LIBRA: lo que finalmente decidió la Justicia",
-        "capturado": "2026-10-25T08:35:00-05:00"
-      },
-      {
-        "titulo": "Audi apuesta por EE. UU. y Trump destaca la inyección del fabricante alemán en campaña",
-        "url": "https://es.finance.yahoo.com/noticias/audi-vuelca-ee-uu-trump-091807101.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Audi se vuelca con EE.UU.: Trump aprovecha la inversión del fabricante alemán en plena campaña electoral",
-        "capturado": "2026-10-25T08:35:00-05:00"
-      },
-      {
-        "titulo": "MoneyGram avanza en la tecnología blockchain mediante la red XDC",
-        "url": "https://es.finance.yahoo.com/noticias/moneygram-paso-blockchain-xdc-network-090200435.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "MoneyGram da otro gran paso en blockchain con XDC Network",
-        "capturado": "2026-10-25T08:35:00-05:00"
-      },
-      {
-        "titulo": "El Treasury alcanza el 5,34%: las empresas de Wall Street más afectadas",
-        "url": "https://es.finance.yahoo.com/noticias/treasury-llega-5-34-compa%C3%B1%C3%ADas-054000449.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "El Treasury llega al 5,34%: las compañías de Wall Street que más sufren",
         "capturado": "2026-10-25T08:35:00-05:00"
       }
     ]
