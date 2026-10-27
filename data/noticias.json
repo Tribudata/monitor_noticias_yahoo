@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-27T09:48:27-05:00",
+  "actualizado": "2026-10-27T14:50:34-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Cinco aspectos esenciales para comprender la futura apertura bursátil de Anthropic",
+        "url": "https://es.finance.yahoo.com/noticias/claves-entender-pasos-salida-bolsa-190904832.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Cinco claves para entender los próximos pasos de la salida a bolsa de Anthropic",
+        "capturado": "2026-10-27T14:50:34-05:00"
+      },
+      {
+        "titulo": "Director ejecutivo de JPMorgan avisa sobre peligros que acechan títulos y bonos estadounidenses",
+        "url": "https://es.finance.yahoo.com/noticias/ceo-jpmorgan-advierte-riesgos-amenazan-181400304.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "CEO de JPMorgan advierte riesgos que amenazan acciones y bonos de EEUU",
+        "capturado": "2026-10-27T14:50:34-05:00"
+      },
+      {
+        "titulo": "Oracle agranda su pacto de chips con Nvidia y suma la propuesta de Google y Cerebras",
+        "url": "https://es.finance.yahoo.com/noticias/oracle-ampl%C3%ADa-acuerdo-suministro-chips-181138932.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Oracle amplía su acuerdo de suministro de chips con Nvidia e incorpora la oferta de Google y Cerebras",
+        "capturado": "2026-10-27T14:50:34-05:00"
+      },
+      {
+        "titulo": "Maíz baja por efecto de la recolección en EE UU; trigo roza piso de tres meses y medio",
+        "url": "https://es.finance.yahoo.com/noticias/ma%C3%ADz-cae-presi%C3%B3n-cosecha-eeuu-180225756.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Maíz cae por presión de la cosecha de EEUU; trigo, cerca de mínimo de tres meses y medio",
+        "capturado": "2026-10-27T14:50:34-05:00"
+      },
+      {
+        "titulo": "Colocación de títulos de Meta capta una demanda quintuplicada respecto a la oferta",
+        "url": "https://es.finance.yahoo.com/noticias/venta-acciones-meta-atrae-demanda-175012901.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Venta de acciones de Meta atrae demanda cinco veces mayor a la oferta",
+        "capturado": "2026-10-27T14:50:34-05:00"
+      },
+      {
+        "titulo": "Trump y Rubio recibirán en Texas crudo enviado desde Venezuela",
+        "url": "https://es.finance.yahoo.com/noticias/trump-rubio-recibir%C3%A1-texas-petrolero-173151641.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Trump y Rubio recibirá en Texas petrolero procedente de Venezuela",
+        "capturado": "2026-10-27T14:50:34-05:00"
+      },
+      {
+        "titulo": "Flávio Bolsonaro viaja hacia Estados Unidos, según Folha citando aliados",
+        "url": "https://es.finance.yahoo.com/noticias/fl%C3%A1vio-bolsonaro-ruta-ee-uu-163152164.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Flávio Bolsonaro en ruta hacia EE.UU., dice Folha mencionando a aliados",
+        "capturado": "2026-10-27T14:50:34-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE. UU. suben por impulso tecnológico y menor precio petrolero",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-172949884.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben gracias al avance de las grandes tecnológicas y la caída del petróleo crudo.",
+        "capturado": "2026-10-27T14:50:34-05:00"
+      },
       {
         "titulo": "Perspectivas de la Fed con Warsh evaluando inflación, petróleo y elecciones en Estados Unidos",
         "url": "https://es.finance.yahoo.com/noticias/esperar-fed-warsh-sopesa-inflaci%C3%B3n-142523609.html",
@@ -419,70 +483,6 @@
         "medio": "Estrategias de inversión",
         "titulo_fuente": "El Treasury llega al 5,34%: las compañías de Wall Street que más sufren",
         "capturado": "2026-10-25T08:35:00-05:00"
-      },
-      {
-        "titulo": "Las calificaciones ESG externas deben ser guía para decidir, no reemplazo",
-        "url": "https://es.finance.yahoo.com/noticias/calificaciones-esg-externas-servir-referencia-052000576.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "Las calificaciones ESG externas deben servir de referencia para la toma de decisiones, no sustituirla",
-        "capturado": "2026-10-25T08:35:00-05:00"
-      },
-      {
-        "titulo": "Nuevas tendencias tecnológicas que transforman la economía",
-        "url": "https://es.finance.yahoo.com/noticias/tendencias-tecnol%C3%B3gicas-redefinen-econom%C3%ADa-050000138.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "Nuevas tendencias tecnológicas que redefinen la economía",
-        "capturado": "2026-10-25T08:35:00-05:00"
-      },
-      {
-        "titulo": "Actualización del port gratis de los tres primeros Uncharted en PC trae logros trucos y soporte ultrawide",
-        "url": "https://es-us.noticias.yahoo.com/port-gratuito-uncharted-pc-actualiza-174224872.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Port gratuito de los tres primeros Uncharted para PC se actualiza con trofeos, trucos y soporte para ultrawide",
-        "capturado": "2026-10-25T03:40:06-05:00"
-      },
-      {
-        "titulo": "Próxima semana llegaría port de Zelda Tears of the Kingdom para PC nativo a 60 FPS sin emulador",
-        "url": "https://es-us.noticias.yahoo.com/zelda-tears-of-the-kingdom-170649553.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Zelda Tears of the Kingdom tendrá un port para PC que corre sin emulador a 60 FPS, y llegaría la próxima semana",
-        "capturado": "2026-10-25T03:40:06-05:00"
-      },
-      {
-        "titulo": "Consiguen ejecutar juegos de Steam directo en PS5 sin streaming transformando la consola en PC",
-        "url": "https://es-us.noticias.yahoo.com/logran-correr-juegos-steam-directamente-154227490.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Logran correr juegos de Steam directamente en PS5 y sin streaming, convirtiendo la consola en un PC",
-        "capturado": "2026-10-25T03:40:06-05:00"
-      },
-      {
-        "titulo": "Ya se puede bajar sin costo la adaptación para PC de Killzone de PS2 a 120 FPS, con 8x y ultrawide",
-        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-port-pc-killzone-142902617.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Descarga gratis el port para PC de Killzone de PS2, que corre a 120 FPS, con resolución 8x y soporte para ultrawide",
-        "capturado": "2026-10-24T22:27:13-05:00"
-      },
-      {
-        "titulo": "Ethereum presenta idéntico indicador que causó el alza de junio: Qué quiere decir",
-        "url": "https://es.finance.yahoo.com/noticias/ethereum-muestra-se%C3%B1al-provoc%C3%B3-rally-231000881.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Ethereum muestra la misma señal que provocó el rally de junio: ¿Qué significa?",
-        "capturado": "2026-10-24T18:32:08-05:00"
-      },
-      {
-        "titulo": "Títulos de IA caerían en 2027: Tres maneras de cuidar su capital",
-        "url": "https://es.finance.yahoo.com/noticias/acciones-ia-desplomarse-2027-3-214700667.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Las acciones de IA podrían desplomarse en 2027: 3 formas de proteger tu dinero",
-        "capturado": "2026-10-24T18:32:08-05:00"
       }
     ]
   }
