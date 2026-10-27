@@ -1,9 +1,57 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-26T21:18:38-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-27T03:13:18-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "El valor del gas natural en Europa sube y así impacta en los recibos de invierno",
+        "url": "https://es.finance.yahoo.com/noticias/precio-gas-natural-europa-dispara-074449226.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El precio del gas natural en Europa se dispara: así afecta a tus facturas de invierno",
+        "capturado": "2026-10-27T03:13:18-05:00"
+      },
+      {
+        "titulo": "La AIE advierte la concentración de las cadenas de suministro de energía limpia como un nuevo reto",
+        "url": "https://es.finance.yahoo.com/noticias/aie-se%C3%B1ala-concentraci%C3%B3n-cadenas-suministro-072358374.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "La AIE señala la concentración de las cadenas de suministro de energía limpia como un nuevo reto",
+        "capturado": "2026-10-27T03:13:18-05:00"
+      },
+      {
+        "titulo": "España flexibiliza su borrador inicial sobre la regulación para los centros de datos",
+        "url": "https://es.finance.yahoo.com/noticias/espa%C3%B1a-suaviza-propuesta-inicial-normativa-070158921.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "España suaviza su propuesta inicial sobre la normativa para los centros de datos",
+        "capturado": "2026-10-27T03:13:18-05:00"
+      },
+      {
+        "titulo": "Eventos en Europa: qué urbes resultan más económicas y cuáles más costosas",
+        "url": "https://es.finance.yahoo.com/noticias/citas-europa-ciudades-baratas-cu%C3%A1les-060048892.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Citas en Europa: qué ciudades son más baratas y cuáles más caras",
+        "capturado": "2026-10-27T03:13:18-05:00"
+      },
+      {
+        "titulo": "Resulta alarmante el bajo múltiplo de los títulos bursátiles de Amazon",
+        "url": "https://es.finance.yahoo.com/noticias/preocupante-m%C3%BAltiplo-acciones-amazon-001000411.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "¿Es preocupante el bajo múltiplo de las acciones de Amazon?",
+        "capturado": "2026-10-27T03:13:18-05:00"
+      },
+      {
+        "titulo": "Qué innovación de Bitcoin desestimada emplea Litecoin",
+        "url": "https://es.finance.yahoo.com/noticias/cu%C3%A1l-innovaci%C3%B3n-infravalorada-bitcoin-utiliza-000000178.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "¿Cuál es la innovación más infravalorada de Bitcoin que utiliza Litecoin?",
+        "capturado": "2026-10-27T03:13:18-05:00"
+      },
       {
         "titulo": "Tres criptomonedas alternativas para seguir en los siete días finales de octubre de dos mil veintiséis",
         "url": "https://es.finance.yahoo.com/noticias/top-3-altcoins-observar-semana-215400428.html",
@@ -435,54 +483,6 @@
         "medio": "Estrategias de inversión",
         "titulo_fuente": "Bolsa, oro y deuda: \"El error es no estar invertido, pero Francia puede dar un susto\"",
         "capturado": "2026-10-24T10:28:00-05:00"
-      },
-      {
-        "titulo": "El auge de la economía de agentes de IA genera dudas tras 6.4 millones de pagos",
-        "url": "https://es.finance.yahoo.com/noticias/realmente-auge-econom%C3%ADa-agentes-ia-105200406.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿Realmente está en auge la economía de agentes de IA? 6.4 millones de pagos cuentan una historia diferente",
-        "capturado": "2026-10-24T06:51:48-05:00"
-      },
-      {
-        "titulo": "El porvenir de las plataformas de intercambio de criptomonedas hacia 2027",
-        "url": "https://es.finance.yahoo.com/noticias/futuro-exchanges-criptomonedas-cara-2027-084100530.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "El futuro de los exchanges de criptomonedas de cara a 2027",
-        "capturado": "2026-10-24T06:51:48-05:00"
-      },
-      {
-        "titulo": "Francia libra la caída de nota con Moody's pero su endeudamiento preocupa",
-        "url": "https://es.finance.yahoo.com/noticias/deuda-moodys-leve-respiro-francia-072131662.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Francia evita la rebaja de Moody's, pero su deuda enciende todas las alarmas",
-        "capturado": "2026-10-24T06:51:48-05:00"
-      },
-      {
-        "titulo": "El obsequio ideal de bodas para un hijo: 50 euros mensuales desde su nacimiento",
-        "url": "https://es.finance.yahoo.com/noticias/regalo-boda-tu-hijo-50-043000270.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "El mejor regalo de boda para tu hijo: 50 euros al mes desde que nace",
-        "capturado": "2026-10-24T06:51:48-05:00"
-      },
-      {
-        "titulo": "Ciberseguridad con inteligencia artificial: invertir donde la necesidad es forzosa",
-        "url": "https://es.finance.yahoo.com/noticias/ciberseguridad-basada-ia-invertir-demanda-040000753.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "Ciberseguridad basada en IA: invertir donde la demanda no es opcional",
-        "capturado": "2026-10-24T06:51:48-05:00"
-      },
-      {
-        "titulo": "Precio de mercado en Europa: desde 63 euros en España hasta 138 en Suiza",
-        "url": "https://es.finance.yahoo.com/noticias/precios-cesta-compra-europa-d%C3%B3nde-050050228.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "¿Dónde es más caro hacer la compra en Europa? de los 63 euros de España a los 138 de Suiza",
-        "capturado": "2026-10-24T01:54:35-05:00"
       }
     ]
   }
