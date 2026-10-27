@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-26T18:02:09-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-26T21:18:38-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Tres criptomonedas alternativas para seguir en los siete días finales de octubre de dos mil veintiséis",
+        "url": "https://es.finance.yahoo.com/noticias/top-3-altcoins-observar-semana-215400428.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Top 3 altcoins a observar en la última semana de octubre de 2026",
+        "capturado": "2026-10-26T21:18:38-05:00"
+      },
+      {
+        "titulo": "Colapsa la burbuja de inteligencia artificial en China y esfuma cuatrocientos ochenta mil millones",
+        "url": "https://es.finance.yahoo.com/noticias/estalla-burbuja-ia-china-borra-202457707.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Estalla la burbuja de IA en China y borra $480 mil millones: ¿Se replicará en EEUU?",
+        "capturado": "2026-10-26T21:18:38-05:00"
+      },
       {
         "titulo": "Wall Street sube gracias a la solicitud de salida a bolsa de Anthropic y la caída del petróleo",
         "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-avanzan-210440089.html",
@@ -467,22 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "¿Dónde es más caro hacer la compra en Europa? de los 63 euros de España a los 138 de Suiza",
         "capturado": "2026-10-24T01:54:35-05:00"
-      },
-      {
-        "titulo": "Disponible gratis la versión para PC de Metroid Dread sin emulador, con ratón y 240 FPS",
-        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-port-pc-metroid-181901338.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Descarga gratis el port para PC de Metroid Dread de Switch, que corre sin emulador, con soporte para mouse y hasta 240 FPS",
-        "capturado": "2026-10-24T01:54:35-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE UU cierran mixtas por giro a bonos y activos seguros ante freno en comercio de inteligencia artificial",
-        "url": "https://es.finance.yahoo.com/noticias/%C3%ADndices-burs%C3%A1tiles-estadounidenses-cierran-resultados-203519782.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los índices bursátiles estadounidenses cierran con resultados mixtos esta semana, ya que los inversores rotan sus inversiones hacia bonos del Tesoro y activos defensivos ante el estancamiento del comercio de IA.",
-        "capturado": "2026-10-23T18:19:27-05:00"
       }
     ]
   }
