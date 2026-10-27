@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-27T03:13:18-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-10-27T09:48:27-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Perspectivas de la Fed con Warsh evaluando inflación, petróleo y elecciones en Estados Unidos",
+        "url": "https://es.finance.yahoo.com/noticias/esperar-fed-warsh-sopesa-inflaci%C3%B3n-142523609.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Qué esperar de la Fed mientras Warsh sopesa la inflación, el petróleo y las legislativas en EE.UU.",
+        "capturado": "2026-10-27T09:48:27-05:00"
+      },
+      {
+        "titulo": "Inversionistas de China apresuran adquisición de oro: ¿sostendrá los 4.000 dólares?",
+        "url": "https://es.finance.yahoo.com/noticias/inversores-chinos-aceleran-compra-oro-140700341.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Inversores chinos aceleran compra de oro: ¿Mantendrá los $4,000?",
+        "capturado": "2026-10-27T09:48:27-05:00"
+      },
+      {
+        "titulo": "Mercedes-Benz disminuye su proyección de ganancia para 2026 ante problemas en el mercado chino",
+        "url": "https://es.finance.yahoo.com/noticias/mercedes-benz-recorta-previsi%C3%B3n-beneficio-130818211.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Mercedes-Benz recorta su previsión de beneficio de 2026 por las dificultades del mercado chino",
+        "capturado": "2026-10-27T09:48:27-05:00"
+      },
+      {
+        "titulo": "Bienes de capital esenciales en Estados Unidos suben en septiembre y los despachos se aceleran",
+        "url": "https://es.finance.yahoo.com/noticias/bienes-capital-b%C3%A1sicos-eeuu-aumentan-132553571.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Los bienes de capital básicos en EEUU aumentan en septiembre; se aceleran los envíos",
+        "capturado": "2026-10-27T09:48:27-05:00"
+      },
+      {
+        "titulo": "Motivos por los que Elon Musk busca unir Tesla y SpaceX previo a la salida de Trump",
+        "url": "https://es.finance.yahoo.com/noticias/elon-musk-fusionar-tesla-spacex-120337234.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Por qué Elon Musk quiere fusionar Tesla y SpaceX antes de que Trump deje el cargo",
+        "capturado": "2026-10-27T09:48:27-05:00"
+      },
+      {
+        "titulo": "Avanzan los fondos cotizados y los futuros de acciones divergen este martes a la espera de balances corporativos",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-suben-futuros-131350151.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa suben, los futuros de renta variable presentan resultados mixtos antes de la apertura del mercado el martes, mientras los inversores evalúan los resultados corporativos.",
+        "capturado": "2026-10-27T09:48:27-05:00"
+      },
+      {
+        "titulo": "El creador de TikTok, matriz de ByteDance, encabeza de nuevo el ranking de millonarios en China por la IA",
+        "url": "https://es.finance.yahoo.com/noticias/fundador-bytedance-matriz-tiktok-lidera-124119725.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El fundador de ByteDance, matriz de TikTok, vuelve a liderar la lista de los más ricos de China por auge de IA",
+        "capturado": "2026-10-27T09:48:27-05:00"
+      },
+      {
+        "titulo": "Aumentan los títulos de Besi ante los planes de Applied Materials de duplicar su participación",
+        "url": "https://es.finance.yahoo.com/noticias/acciones-besi-suben-applied-materials-123729992.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Las acciones de Besi suben mientras Applied Materials prepara duplicar su participación",
+        "capturado": "2026-10-27T09:48:27-05:00"
+      },
       {
         "titulo": "El valor del gas natural en Europa sube y así impacta en los recibos de invierno",
         "url": "https://es.finance.yahoo.com/noticias/precio-gas-natural-europa-dispara-074449226.html",
@@ -419,70 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "Las acciones de IA podrían desplomarse en 2027: 3 formas de proteger tu dinero",
         "capturado": "2026-10-24T18:32:08-05:00"
-      },
-      {
-        "titulo": "Los futuros criptoactivos triunfadores tal vez no coincidan con los de hoy",
-        "url": "https://es.finance.yahoo.com/noticias/pr%C3%B3ximas-criptomonedas-ganadoras-ser-actuales-193619042.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Las próximas criptomonedas ganadoras podrían ser diferentes a las actuales",
-        "capturado": "2026-10-24T16:03:45-05:00"
-      },
-      {
-        "titulo": "Bitcoin cae bajo los 80.000 dólares y liquidan 200 millones en apuestas apalancadas en una hora",
-        "url": "https://es.finance.yahoo.com/noticias/bitcoin-pierde-80-000-200-164348366.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Bitcoin pierde los $80,000 y $200 millones en posiciones apalancadas se liquidan en una hora",
-        "capturado": "2026-10-24T13:19:16-05:00"
-      },
-      {
-        "titulo": "Panorama económico mundial 2027: Nos dirigimos hacia otra crisis financiera",
-        "url": "https://es.finance.yahoo.com/noticias/perspectiva-econ%C3%B3mica-global-2027-crisis-160100933.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Perspectiva económica global 2027: ¿Vamos hacia otra crisis financiera?",
-        "capturado": "2026-10-24T13:19:16-05:00"
-      },
-      {
-        "titulo": "China pide a Estados Unidos detener la expansión de nuevas trabas a la inversión exterior",
-        "url": "https://es.finance.yahoo.com/noticias/china-insta-eeuu-frene-ampliaci%C3%B3n-153135664.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "China insta a EEUU a que frene ampliación propuesta de restricciones a la inversión en el extranjero",
-        "capturado": "2026-10-24T13:19:16-05:00"
-      },
-      {
-        "titulo": "Bitcoin afronta un fin de semana crucial al crecer los miedos de una caída en la plaza",
-        "url": "https://es.finance.yahoo.com/noticias/bitcoin-enfrenta-semana-decisivo-aumentan-142500474.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Bitcoin enfrenta un fin de semana decisivo mientras aumentan los temores de un desplome del mercado",
-        "capturado": "2026-10-24T10:28:00-05:00"
-      },
-      {
-        "titulo": "Uniswap reporta la mayor alza de billeteras en 4 años y analizan si UNI subirá",
-        "url": "https://es.finance.yahoo.com/noticias/uniswap-registra-aumento-wallets-4-120343429.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Uniswap registra el mayor aumento de wallets en 4 años. ¿UNI tendrá un rally?",
-        "capturado": "2026-10-24T10:28:00-05:00"
-      },
-      {
-        "titulo": "Bitcoin llegaría a un millón de dólares en 2030, de acuerdo con Mark Moss",
-        "url": "https://es.finance.yahoo.com/noticias/bitcoin-alcanzar-mill%C3%B3n-d%C3%B3lares-2030-100026819.html",
-        "resumen": "",
-        "medio": "Benzinga Espana",
-        "titulo_fuente": "Bitcoin podría alcanzar un millón de dólares en 2030, según Mark Moss",
-        "capturado": "2026-10-24T10:28:00-05:00"
-      },
-      {
-        "titulo": "Acciones, oro y bonos: el error es no invertir, aunque Francia genera inquietud",
-        "url": "https://es.finance.yahoo.com/noticias/bolsa-oro-deuda-error-invertido-060000128.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "Bolsa, oro y deuda: \"El error es no estar invertido, pero Francia puede dar un susto\"",
-        "capturado": "2026-10-24T10:28:00-05:00"
       }
     ]
   }
