@@ -1,9 +1,57 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-28T12:00:17-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-10-28T16:49:21-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Ajuste: Alza en bolsas de EE. UU. y baja en tasas de bonos del Tesoro tras pausa de tipos de la Fed",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-210352573.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben y los rendimientos de los bonos del Tesoro caen después de que la Reserva Federal mantuviera sus tasas sin cambios.",
+        "capturado": "2026-10-28T16:49:21-05:00"
+      },
+      {
+        "titulo": "La Fed frena tasas previo a elecciones en EE. UU. y dos funcionarios solicitan alza adicional",
+        "url": "https://es.finance.yahoo.com/noticias/fed-mantiene-tipos-legislativas-ee-190245265.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "La Fed mantiene tipos antes de las legislativas de EE.UU. y 2 cargos piden otra subida",
+        "capturado": "2026-10-28T16:49:21-05:00"
+      },
+      {
+        "titulo": "Para 2030, China encabezaría la IA, aunque presenta una debilidad, según Bloomberg",
+        "url": "https://es.finance.yahoo.com/noticias/china-liderar-ia-2030-punto-194904733.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "China podría liderar la IA para 2030, pero tiene un punto débil: Bloomberg",
+        "capturado": "2026-10-28T16:49:21-05:00"
+      },
+      {
+        "titulo": "Warsh, miembro de la Fed, señala que la economía estadounidense no experimenta sobrecalentamiento",
+        "url": "https://es.finance.yahoo.com/noticias/warsh-fed-econom%C3%ADa-eeuu-sobrecalentando-193936594.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Warsh, de la Fed, dice que la economía de EEUU no se está sobrecalentando",
+        "capturado": "2026-10-28T16:49:21-05:00"
+      },
+      {
+        "titulo": "La Cámara de Representantes colombiana rechaza modificar artículos de reforma pensional vetados",
+        "url": "https://es.finance.yahoo.com/noticias/c%C3%A1mara-representantes-colombia-niega-cambios-193823816.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Cámara de Representantes de Colombia niega cambios a artículos de reforma pensional rechazados por corte",
+        "capturado": "2026-10-28T16:49:21-05:00"
+      },
+      {
+        "titulo": "Warsh anuncia modificaciones en las fechas de los encuentros de la Fed desde el siguiente año",
+        "url": "https://es.finance.yahoo.com/noticias/warsh-fed-ajustar%C3%A1-calendario-reuniones-191254225.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Warsh dice que la Fed ajustará su calendario de reuniones a partir del próximo año",
+        "capturado": "2026-10-28T16:49:21-05:00"
+      },
       {
         "titulo": "El gas europeo rebasa 100 € por primera vez desde 2022 y la UE advierte una nueva crisis",
         "url": "https://es.finance.yahoo.com/noticias/gas-europa-supera-100-2022-153427791.html",
@@ -435,54 +483,6 @@
         "medio": "Bloomberg",
         "titulo_fuente": "AFP de Chile reducen pérdidas en swaps ante repunte de bonos de EE.UU.",
         "capturado": "2026-10-26T13:47:58-05:00"
-      },
-      {
-        "titulo": "Inversionistas con gran capital en Anthropic van desde Google hasta Amazon",
-        "url": "https://es.finance.yahoo.com/noticias/amazon-google-inversores-anthropic-recursos-151715917.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Desde Amazon hasta Google, los inversores de Anthropic con grandes recursos económicos",
-        "capturado": "2026-10-26T13:47:58-05:00"
-      },
-      {
-        "titulo": "Acciones de EE UU al alza antes de abrir por petróleo barato y expectativa de tasas de la Reserva Federal",
-        "url": "https://es.finance.yahoo.com/noticias/futuros-acciones-estadounidenses-suben-apertura-115912938.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los futuros de las acciones estadounidenses suben antes de la apertura del mercado, mientras los operadores evalúan la caída de los precios del petróleo y esperan la decisión de la Reserva Federal sobre las tasas de interés esta semana.",
-        "capturado": "2026-10-26T07:21:14-05:00"
-      },
-      {
-        "titulo": "Brasil halla un nuevo foco del mal de Newcastle en el estado de Santa Catarina",
-        "url": "https://es.finance.yahoo.com/noticias/brasil-detecta-brote-enfermedad-newcastle-115458915.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Brasil detecta segundo brote de la enfermedad de Newcastle en Santa Catarina",
-        "capturado": "2026-10-26T07:21:14-05:00"
-      },
-      {
-        "titulo": "Galp y Moeve fracasan en su intento de unir refinación y distribución",
-        "url": "https://es.finance.yahoo.com/noticias/galp-moeve-logran-acuerdo-fusionar-112818275.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Galp y Moeve no logran acuerdo para fusionar refino y distribución",
-        "capturado": "2026-10-26T07:21:14-05:00"
-      },
-      {
-        "titulo": "Revolut presentará un sistema para colocar capital en empresas tecnológicas cerradas",
-        "url": "https://es.finance.yahoo.com/noticias/revolut-lanzar%C3%A1-plataforma-invertir-tecnol%C3%B3gicas-105134488.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Revolut lanzará una plataforma para invertir en tecnológicas no cotizadas",
-        "capturado": "2026-10-26T07:21:14-05:00"
-      },
-      {
-        "titulo": "Wall Street sube levemente antes de abrir por beneficios, banca central y crudo; Asia mixta y Europa al alza",
-        "url": "https://es.finance.yahoo.com/noticias/perspectivas-ganancias-bancos-centrales-petr%C3%B3leo-110950437.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Las perspectivas sobre ganancias, bancos centrales y petróleo impulsan ligeramente a Wall Street antes de la apertura; Asia presenta resultados mixtos, Europa registra ganancias.",
-        "capturado": "2026-10-26T07:21:14-05:00"
       }
     ]
   }
