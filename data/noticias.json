@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-28T05:44:02-05:00",
+  "actualizado": "2026-10-28T12:00:17-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "El gas europeo rebasa 100 € por primera vez desde 2022 y la UE advierte una nueva crisis",
+        "url": "https://es.finance.yahoo.com/noticias/gas-europa-supera-100-2022-153427791.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El gas en Europa supera los 100 € por primera vez desde 2022 y la UE alerta de nueva crisis",
+        "capturado": "2026-10-28T12:00:17-05:00"
+      },
+      {
+        "titulo": "La retatrutida de Lilly supera a Ozempic en adelgazamiento y glucemia en estudio clínico",
+        "url": "https://es.finance.yahoo.com/noticias/retatrutida-lilly-supera-ozempic-p%C3%A9rdida-150845657.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "La retatrutida de Lilly supera a Ozempic en pérdida de peso y control de glucemia en ensayo clínico",
+        "capturado": "2026-10-28T12:00:17-05:00"
+      },
+      {
+        "titulo": "Rumores bursátiles: EQT, Norges Bank y Ardian descartan la puja de 10.000 millones por Acciona Energía",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-rumores-mercado-eqt-norges-145703690.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Rumores del mercado: EQT, Norges Bank y Ardian se retiran de la oferta de 10.000 millones de euros por Acciona Energía.",
+        "capturado": "2026-10-28T12:00:17-05:00"
+      },
+      {
+        "titulo": "Bolsas argentinas operan de forma mixta y el riesgo país registra un descenso leve",
+        "url": "https://es.finance.yahoo.com/noticias/mercados-argentinos-cotizan-mixta-ligera-144919917.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Mercados argentinos cotizan de manera mixta, ligera caída del riesgo país",
+        "capturado": "2026-10-28T12:00:17-05:00"
+      },
+      {
+        "titulo": "Corea del Sur sanciona a Google y Apple por forzar a creadores a usar sus plataformas de pago",
+        "url": "https://es.finance.yahoo.com/noticias/corea-sur-multa-google-apple-140830601.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Corea del Sur multa a Google y Apple por presionar a desarrolladores con sus sistemas de pago",
+        "capturado": "2026-10-28T12:00:17-05:00"
+      },
+      {
+        "titulo": "Argentina halla chance para su harina de soja ante reglas de deforestación europea que afectan a Brasil",
+        "url": "https://es.finance.yahoo.com/noticias/argentina-ve-oportunidad-harina-soja-140745588.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Argentina ve oportunidad para su harina soja en normas deforestación de UE que amenazan a Brasil",
+        "capturado": "2026-10-28T12:00:17-05:00"
+      },
+      {
+        "titulo": "Banco Mundial calcula incremento del 23% en valores de materias primas para 2026 debido a conflicto en Medio Oriente",
+        "url": "https://es.finance.yahoo.com/noticias/banco-mundial-prev%C3%A9-precios-materias-140631744.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Banco Mundial prevé que precios de materias primas suban 23% en 2026 por guerra en Oriente Medio",
+        "capturado": "2026-10-28T12:00:17-05:00"
+      },
+      {
+        "titulo": "Presupuesto británico: los 5 puntos centrales de la alocución del titular de Hacienda",
+        "url": "https://es.finance.yahoo.com/noticias/presupuesto-reino-unido-5-claves-140135874.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Presupuesto del Reino Unido: las 5 claves del discurso del ministro de Finanzas",
+        "capturado": "2026-10-28T12:00:17-05:00"
+      },
       {
         "titulo": "BNP Paribas minimiza su pasivo en Francia y el mercado accionario estimula la utilidad",
         "url": "https://es.finance.yahoo.com/noticias/bnp-paribas-resta-importancia-deuda-103612731.html",
@@ -419,70 +483,6 @@
         "medio": "MT Newswires",
         "titulo_fuente": "Las perspectivas sobre ganancias, bancos centrales y petróleo impulsan ligeramente a Wall Street antes de la apertura; Asia presenta resultados mixtos, Europa registra ganancias.",
         "capturado": "2026-10-26T07:21:14-05:00"
-      },
-      {
-        "titulo": "El sondeo del Ifo revela un repunte en el optimismo corporativo germano durante octubre",
-        "url": "https://es.finance.yahoo.com/noticias/confianza-empresarial-alemana-mejora-octubre-110810831.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "La confianza empresarial alemana mejora en octubre, según la encuesta del Ifo",
-        "capturado": "2026-10-26T07:21:14-05:00"
-      },
-      {
-        "titulo": "Petróleo cede terreno aunque se mantiene cerca de picos semestrales tras ofensiva en Arabia Saudita",
-        "url": "https://es.finance.yahoo.com/noticias/crudo-baja-m%C3%A1ximos-seis-meses-105644482.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Crudo baja, pero sigue cerca de máximos de seis meses tras los ataques a Arabia Saudita",
-        "capturado": "2026-10-26T07:21:14-05:00"
-      },
-      {
-        "titulo": "El metal precioso avanza ante la baja del crudo, moderando temores inflacionarios",
-        "url": "https://es.finance.yahoo.com/noticias/oro-sube-ca%C3%ADda-petr%C3%B3leo-alivia-103330540.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "El oro sube por caída del petróleo, que alivia algunas preocupaciones sobre inflación",
-        "capturado": "2026-10-26T07:21:14-05:00"
-      },
-      {
-        "titulo": "Bolsonaro solicita invalidar los comicios tras su caída frente a Lula",
-        "url": "https://es.finance.yahoo.com/noticias/bolsonaro-pide-anular-elecciones-derrota-015111780.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Bolsonaro pide anular las elecciones tras su derrota ante Lula",
-        "capturado": "2026-10-26T00:47:58-05:00"
-      },
-      {
-        "titulo": "Cinco desafíos financieros que afronta el mandatario Lula en otro periodo en Brasil",
-        "url": "https://es.finance.yahoo.com/noticias/retos-econ%C3%B3micos-enfrenta-presidente-lula-010454182.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Cinco retos económicos a los que se enfrenta el presidente Lula en un nuevo mandato en Brasil",
-        "capturado": "2026-10-26T00:47:58-05:00"
-      },
-      {
-        "titulo": "Lula vence a Flávio Bolsonaro en la segunda vuelta y asumirá la presidencia brasileña por cuarta vez",
-        "url": "https://es.finance.yahoo.com/noticias/lula-supera-fl%C3%A1vio-bolsonaro-balotaje-003242522.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Lula supera a Flávio Bolsonaro en el balotaje y será presidente de Brasil por cuarta vez",
-        "capturado": "2026-10-26T00:47:58-05:00"
-      },
-      {
-        "titulo": "Descarga gratis el port para PC de Halo 5 Guardians con sus 15 misiones, el exclusivo de Xbox One que nunca llegó a computadores",
-        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-port-pc-halo-162449857.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Descarga gratis el port para PC de Halo 5 Guardians con sus 15 misiones, el exclusivo de Xbox One que nunca llegó a computadores",
-        "capturado": "2026-10-26T00:47:58-05:00"
-      },
-      {
-        "titulo": "El triunfo de Lula en Brasil eleva el dólar a 5,60 reales y encarecería el Bitcoin en esa moneda",
-        "url": "https://es.finance.yahoo.com/noticias/lula-gana-elecciones-brasil-d%C3%B3lar-001150351.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Lula gana las elecciones en Brasil y el dólar sube hasta 5.60 reales, lo que podría encarecer el precio de Bitcoin en reales",
-        "capturado": "2026-10-25T19:33:46-05:00"
       }
     ]
   }
