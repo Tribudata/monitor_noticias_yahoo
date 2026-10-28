@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-27T23:18:09-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-10-28T05:44:02-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "BNP Paribas minimiza su pasivo en Francia y el mercado accionario estimula la utilidad",
+        "url": "https://es.finance.yahoo.com/noticias/bnp-paribas-resta-importancia-deuda-103612731.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "BNP Paribas resta importancia a su deuda francesa y la bolsa impulsa el beneficio",
+        "capturado": "2026-10-28T05:44:02-05:00"
+      },
+      {
+        "titulo": "El oro retrocede por subida del petróleo previa al anuncio de la Reserva Federal",
+        "url": "https://es.finance.yahoo.com/noticias/oro-cae-alza-precios-petr%C3%B3leo-102505258.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "El oro cae por alza de los precios del petróleo antes de decisión de la Fed",
+        "capturado": "2026-10-28T05:44:02-05:00"
+      },
+      {
+        "titulo": "Morgan Stanley avisa sobre un eventual alto de la Fed y revela sus declaraciones",
+        "url": "https://es.finance.yahoo.com/noticias/morgan-stanley-advierte-pausa-fed-091700796.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Morgan Stanley advierte sobre posible pausa de la Fed: esto dijo",
+        "capturado": "2026-10-28T05:44:02-05:00"
+      },
+      {
+        "titulo": "Podría la caída del mercado de IA en China impactar la cotización de Bitcoin",
+        "url": "https://es.finance.yahoo.com/noticias/crash-mercado-ia-china-afectar%C3%A1-085000773.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿El crash del mercado de IA en China afectará al precio de Bitcoin?",
+        "capturado": "2026-10-28T05:44:02-05:00"
+      },
+      {
+        "titulo": "BASF, la firma química germana, mejora su pronóstico de ganancias al incrementar tarifas",
+        "url": "https://es.finance.yahoo.com/noticias/gigante-qu%C3%ADmico-alem%C3%A1n-basf-eleva-075620823.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El gigante químico alemán BASF eleva su previsión de beneficio tras subir los precios por la guerra en Irán",
+        "capturado": "2026-10-28T05:44:02-05:00"
+      },
+      {
+        "titulo": "Las dudas sobre la inteligencia artificial evidencian el conflicto del dinero especulativo en dólares",
+        "url": "https://es.finance.yahoo.com/noticias/preocupaciones-ia-ponen-manifiesto-problema-080537747.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Las preocupaciones sobre la IA ponen de manifiesto el problema del capital especulativo del dólar",
+        "capturado": "2026-10-28T05:44:02-05:00"
+      },
+      {
+        "titulo": "Alemania avanza hacia un desbalance comercial histórico con Asia-Pacífico para el año 2026",
+        "url": "https://es.finance.yahoo.com/noticias/alemania-encamina-d%C3%A9ficit-comercial-r%C3%A9cord-072354221.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Alemania se encamina hacia un déficit comercial récord con Asia-Pacífico en 2026",
+        "capturado": "2026-10-28T05:44:02-05:00"
+      },
+      {
+        "titulo": "Crecimiento de la ganancia neta y de los ingresos globales del Banco Santander hasta septiembre",
+        "url": "https://es.finance.yahoo.com/noticias/aumento-beneficio-atribuible-ingresos-totales-064318542.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Aumento del beneficio atribuible y de los ingresos totales de Banco Santander en los nueve meses",
+        "capturado": "2026-10-28T05:44:02-05:00"
+      },
       {
         "titulo": "Ciberdelincuentes hurtan 400.000 dólares de plataforma de pronósticos conectada a Binance",
         "url": "https://es.finance.yahoo.com/noticias/hackers-roban-400-000-mercado-214600899.html",
@@ -419,70 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "Lula gana las elecciones en Brasil y el dólar sube hasta 5.60 reales, lo que podría encarecer el precio de Bitcoin en reales",
         "capturado": "2026-10-25T19:33:46-05:00"
-      },
-      {
-        "titulo": "El crudo sube a 110 dólares ante miedo a nuevos ataques iraníes y los mercados bajan",
-        "url": "https://es.finance.yahoo.com/noticias/petr%C3%B3leo-supera-110-d%C3%B3lares-eval%C3%BAan-080815863.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El petróleo se dispara hasta los 110 dólares por el temor a nuevos ataques de Irán y las bolsas caen",
-        "capturado": "2026-10-25T17:19:25-05:00"
-      },
-      {
-        "titulo": "María Corina Machado vuelve a Venezuela y reta la apertura política de Delcy Rodríguez",
-        "url": "https://es.finance.yahoo.com/noticias/mar%C3%ADa-corina-machado-regresa-venezuela-191824244.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "María Corina Machado regresa a Venezuela y pone a prueba la apertura política de Delcy Rodríguez",
-        "capturado": "2026-10-25T17:19:25-05:00"
-      },
-      {
-        "titulo": "Cual es la motivacion de las plataformas cripto para ser tu aplicacion financiera de uso diario",
-        "url": "https://es.finance.yahoo.com/noticias/plataformas-cripto-quieren-convertirse-tu-181500106.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿Por qué las plataformas cripto quieren convertirse en tu app diaria de dinero?",
-        "capturado": "2026-10-25T14:52:13-05:00"
-      },
-      {
-        "titulo": "Por qué las plataformas de criptomonedas incentivan la continuidad de tus operaciones",
-        "url": "https://es.finance.yahoo.com/noticias/exchanges-criptomonedas-pagan-sigas-trading-155900079.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿Por qué los exchanges de criptomonedas pagan para que sigas haciendo trading?",
-        "capturado": "2026-10-25T12:25:41-05:00"
-      },
-      {
-        "titulo": "Qué cantidad de capital pondrías bajo la administración de una inteligencia artificial",
-        "url": "https://es.finance.yahoo.com/noticias/cu%C3%A1nto-dinero-dejar%C3%ADas-controle-ia-134400122.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿Cuánto dinero dejarías que controle una IA?",
-        "capturado": "2026-10-25T12:25:41-05:00"
-      },
-      {
-        "titulo": "Sindicato alerta sobre gran destrucción de empleo en Suiza ante posible mudanza de UBS",
-        "url": "https://es.finance.yahoo.com/noticias/grupo-trabajadores-advierte-importantes-p%C3%A9rdidas-121102791.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Grupo trabajadores advierte de importantes pérdidas de puestos de trabajo en Suiza si UBS se traslada",
-        "capturado": "2026-10-25T08:35:00-05:00"
-      },
-      {
-        "titulo": "Alphabet presenta balances enfocados en Cloud y semiconductores como impulsores",
-        "url": "https://es.finance.yahoo.com/noticias/alphabet-afronta-resultados-cloud-chips-120019773.html",
-        "resumen": "",
-        "medio": "Benzinga Espana",
-        "titulo_fuente": "Alphabet afronta sus resultados con Cloud y los chips como motores",
-        "capturado": "2026-10-25T08:35:00-05:00"
-      },
-      {
-        "titulo": "La decisión final de la Justicia frente a Javier Milei y el caso LIBRA",
-        "url": "https://es.finance.yahoo.com/noticias/javier-milei-esc%C3%A1ndalo-libra-finalmente-112300098.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Javier Milei y el escándalo LIBRA: lo que finalmente decidió la Justicia",
-        "capturado": "2026-10-25T08:35:00-05:00"
       }
     ]
   }
