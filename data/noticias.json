@@ -1,9 +1,65 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-29T03:05:31-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-10-29T10:24:56-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Raoul Pal afirma que la inversión en IA es infinita: ¿Corren riesgo los títulos tecnológicos?",
+        "url": "https://es.finance.yahoo.com/noticias/raoul-pal-gasto-ia-techo-150800800.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Raoul Pal dice que el gasto en IA no tiene techo: ¿Están en peligro las acciones tecnológicas?",
+        "capturado": "2026-10-29T10:24:56-05:00"
+      },
+      {
+        "titulo": "Bolsa de Argentina muestra cotizaciones estables debido a diversas circunstancias",
+        "url": "https://es.finance.yahoo.com/noticias/plaza-financiera-argentina-lateraliza-precios-144551998.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Plaza financiera de Argentina lateraliza precios condicionada por factores múltiples",
+        "capturado": "2026-10-29T10:24:56-05:00"
+      },
+      {
+        "titulo": "Banco Central Europeo conserva tasas en 2,5% y Lagarde comunica su retiro prematuro",
+        "url": "https://es.finance.yahoo.com/noticias/bce-mantiene-tipos-2-5-132703078.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El BCE mantiene los tipos en el 2,5% mientras Lagarde anuncia su salida anticipada",
+        "capturado": "2026-10-29T10:24:56-05:00"
+      },
+      {
+        "titulo": "Demanda de XRP en Binance toca pico trimestral: ¿Qué se prevé para noviembre?",
+        "url": "https://es.finance.yahoo.com/noticias/presi%C3%B3n-compra-xrp-binance-alcanza-134200197.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Presión de compra de XRP en Binance alcanza máximo de tres meses: ¿Qué esperar en noviembre?",
+        "capturado": "2026-10-29T10:24:56-05:00"
+      },
+      {
+        "titulo": "Peticiones semanales de ayuda por desempleo en EE. UU. siguen cerca de mínimos de 57 años",
+        "url": "https://es.finance.yahoo.com/noticias/solicitudes-semanales-subsidio-desempleo-eeuu-132127394.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Solicitudes semanales de subsidio por desempleo en EEUU se mantienen cerca de mínimos de 57 años",
+        "capturado": "2026-10-29T10:24:56-05:00"
+      },
+      {
+        "titulo": "Fondos cotizados en bolsa a la baja y futuros mixtos previos a la apertura del jueves por resultados de Alphabet",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-bajan-futuros-131506663.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa bajan y los futuros de renta variable presentan resultados mixtos antes de la apertura del mercado el jueves, en medio de los decepcionantes resultados de Alphabet.",
+        "capturado": "2026-10-29T10:24:56-05:00"
+      },
+      {
+        "titulo": "Microsoft pretende captar al menos US$25.000 millones mediante su primera colocación de bonos desde 2017",
+        "url": "https://es.finance.yahoo.com/noticias/microsoft-busca-recaudar-us-25-131144556.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Microsoft busca recaudar al menos US$25.000 millones con su primera emisión de bonos desde 2017",
+        "capturado": "2026-10-29T10:24:56-05:00"
+      },
       {
         "titulo": "Mercados accionarios con comportamiento dispar tras balances decepcionantes de Alphabet",
         "url": "https://es.finance.yahoo.com/noticias/bolsas-registran-signo-mixto-decepcionar-070424716.html",
@@ -427,62 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "La AIE señala la concentración de las cadenas de suministro de energía limpia como un nuevo reto",
         "capturado": "2026-10-27T03:13:18-05:00"
-      },
-      {
-        "titulo": "España flexibiliza su borrador inicial sobre la regulación para los centros de datos",
-        "url": "https://es.finance.yahoo.com/noticias/espa%C3%B1a-suaviza-propuesta-inicial-normativa-070158921.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "España suaviza su propuesta inicial sobre la normativa para los centros de datos",
-        "capturado": "2026-10-27T03:13:18-05:00"
-      },
-      {
-        "titulo": "Eventos en Europa: qué urbes resultan más económicas y cuáles más costosas",
-        "url": "https://es.finance.yahoo.com/noticias/citas-europa-ciudades-baratas-cu%C3%A1les-060048892.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Citas en Europa: qué ciudades son más baratas y cuáles más caras",
-        "capturado": "2026-10-27T03:13:18-05:00"
-      },
-      {
-        "titulo": "Resulta alarmante el bajo múltiplo de los títulos bursátiles de Amazon",
-        "url": "https://es.finance.yahoo.com/noticias/preocupante-m%C3%BAltiplo-acciones-amazon-001000411.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "¿Es preocupante el bajo múltiplo de las acciones de Amazon?",
-        "capturado": "2026-10-27T03:13:18-05:00"
-      },
-      {
-        "titulo": "Qué innovación de Bitcoin desestimada emplea Litecoin",
-        "url": "https://es.finance.yahoo.com/noticias/cu%C3%A1l-innovaci%C3%B3n-infravalorada-bitcoin-utiliza-000000178.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "¿Cuál es la innovación más infravalorada de Bitcoin que utiliza Litecoin?",
-        "capturado": "2026-10-27T03:13:18-05:00"
-      },
-      {
-        "titulo": "Tres criptomonedas alternativas para seguir en los siete días finales de octubre de dos mil veintiséis",
-        "url": "https://es.finance.yahoo.com/noticias/top-3-altcoins-observar-semana-215400428.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Top 3 altcoins a observar en la última semana de octubre de 2026",
-        "capturado": "2026-10-26T21:18:38-05:00"
-      },
-      {
-        "titulo": "Colapsa la burbuja de inteligencia artificial en China y esfuma cuatrocientos ochenta mil millones",
-        "url": "https://es.finance.yahoo.com/noticias/estalla-burbuja-ia-china-borra-202457707.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Estalla la burbuja de IA en China y borra $480 mil millones: ¿Se replicará en EEUU?",
-        "capturado": "2026-10-26T21:18:38-05:00"
-      },
-      {
-        "titulo": "Wall Street sube gracias a la solicitud de salida a bolsa de Anthropic y la caída del petróleo",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-avanzan-210440089.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses avanzan tras la presentación de la solicitud de salida a bolsa de Anthropic y el descenso del petróleo crudo.",
-        "capturado": "2026-10-26T18:02:09-05:00"
       }
     ]
   }
