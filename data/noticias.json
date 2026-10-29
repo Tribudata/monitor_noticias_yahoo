@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-29T10:24:56-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-10-29T15:27:10-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Presidenta encargada anuncia que Venezuela venderá activos estatales no esenciales a privados y dueños",
+        "url": "https://es.finance.yahoo.com/noticias/venezuela-ofrecer%C3%A1-activos-estatales-esenciales-201850264.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Venezuela ofrecerá activos estatales no esenciales a privados y antiguos propietarios, dice presidenta encargada",
+        "capturado": "2026-10-29T15:27:10-05:00"
+      },
+      {
+        "titulo": "El voto de Brasil y su impacto financiero a través de soja, tierras raras y combustibles",
+        "url": "https://es.finance.yahoo.com/noticias/soja-tierras-raras-combustibles-influye-200331444.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Soja, tierras raras y combustibles: cómo influye el voto de Brasil en el flujo de recursos",
+        "capturado": "2026-10-29T15:27:10-05:00"
+      },
+      {
+        "titulo": "Polymarket suspende operaciones tras denuncias de usuarios por robo de 1,4 millones de dólares",
+        "url": "https://es.finance.yahoo.com/noticias/polymarket-detiene-trading-reportes-usuarios-183518170.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Polymarket detiene el trading tras reportes de usuarios por drenaje de 1.4 millones de dólares",
+        "capturado": "2026-10-29T15:27:10-05:00"
+      },
+      {
+        "titulo": "Moraes representa un nuevo reto para Lula en el Tribunal Supremo",
+        "url": "https://es.finance.yahoo.com/noticias/lula-enfrenta-desaf%C3%ADo-tribunal-supremo-175127992.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Lula enfrenta un nuevo desafío en el Tribunal Supremo: Moraes",
+        "capturado": "2026-10-29T15:27:10-05:00"
+      },
+      {
+        "titulo": "Envíos de stablecoins suben 80% al tiempo que los bancos reconsideran su rol en MERGE Madrid",
+        "url": "https://es.finance.yahoo.com/noticias/transferencias-stablecoins-aumentan-80-bancos-175000153.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Transferencias de stablecoins aumentan un 80% mientras los bancos replantean su papel en MERGE Madrid",
+        "capturado": "2026-10-29T15:27:10-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE UU retroceden por los flojos balances trimestrales de Alphabet que afectan al sector",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-173557330.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen tras los malos resultados trimestrales de Alphabet, que perjudican a los servicios de comunicación.",
+        "capturado": "2026-10-29T15:27:10-05:00"
+      },
+      {
+        "titulo": "Sector demócrata considera viable competirle Florida a los republicanos",
+        "url": "https://es.finance.yahoo.com/noticias/dem%C3%B3cratas-ven-disputar-florida-republicanos-171817535.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Demócratas ven posible disputar Florida a los republicanos",
+        "capturado": "2026-10-29T15:27:10-05:00"
+      },
+      {
+        "titulo": "Lagarde justifica su salida anticipada del BCE afirmando que no puede seguir siendo neutral",
+        "url": "https://es.finance.yahoo.com/noticias/puedo-seguir-neutral-lagarde-explica-154507142.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "\"No puedo seguir siendo neutral\": Lagarde explica por fin su salida anticipada del BCE",
+        "capturado": "2026-10-29T15:27:10-05:00"
+      },
       {
         "titulo": "Raoul Pal afirma que la inversión en IA es infinita: ¿Corren riesgo los títulos tecnológicos?",
         "url": "https://es.finance.yahoo.com/noticias/raoul-pal-gasto-ia-techo-150800800.html",
@@ -419,70 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "Inversores chinos aceleran compra de oro: ¿Mantendrá los $4,000?",
         "capturado": "2026-10-27T09:48:27-05:00"
-      },
-      {
-        "titulo": "Mercedes-Benz disminuye su proyección de ganancia para 2026 ante problemas en el mercado chino",
-        "url": "https://es.finance.yahoo.com/noticias/mercedes-benz-recorta-previsi%C3%B3n-beneficio-130818211.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Mercedes-Benz recorta su previsión de beneficio de 2026 por las dificultades del mercado chino",
-        "capturado": "2026-10-27T09:48:27-05:00"
-      },
-      {
-        "titulo": "Bienes de capital esenciales en Estados Unidos suben en septiembre y los despachos se aceleran",
-        "url": "https://es.finance.yahoo.com/noticias/bienes-capital-b%C3%A1sicos-eeuu-aumentan-132553571.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Los bienes de capital básicos en EEUU aumentan en septiembre; se aceleran los envíos",
-        "capturado": "2026-10-27T09:48:27-05:00"
-      },
-      {
-        "titulo": "Motivos por los que Elon Musk busca unir Tesla y SpaceX previo a la salida de Trump",
-        "url": "https://es.finance.yahoo.com/noticias/elon-musk-fusionar-tesla-spacex-120337234.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Por qué Elon Musk quiere fusionar Tesla y SpaceX antes de que Trump deje el cargo",
-        "capturado": "2026-10-27T09:48:27-05:00"
-      },
-      {
-        "titulo": "Avanzan los fondos cotizados y los futuros de acciones divergen este martes a la espera de balances corporativos",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-suben-futuros-131350151.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa suben, los futuros de renta variable presentan resultados mixtos antes de la apertura del mercado el martes, mientras los inversores evalúan los resultados corporativos.",
-        "capturado": "2026-10-27T09:48:27-05:00"
-      },
-      {
-        "titulo": "El creador de TikTok, matriz de ByteDance, encabeza de nuevo el ranking de millonarios en China por la IA",
-        "url": "https://es.finance.yahoo.com/noticias/fundador-bytedance-matriz-tiktok-lidera-124119725.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El fundador de ByteDance, matriz de TikTok, vuelve a liderar la lista de los más ricos de China por auge de IA",
-        "capturado": "2026-10-27T09:48:27-05:00"
-      },
-      {
-        "titulo": "Aumentan los títulos de Besi ante los planes de Applied Materials de duplicar su participación",
-        "url": "https://es.finance.yahoo.com/noticias/acciones-besi-suben-applied-materials-123729992.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Las acciones de Besi suben mientras Applied Materials prepara duplicar su participación",
-        "capturado": "2026-10-27T09:48:27-05:00"
-      },
-      {
-        "titulo": "El valor del gas natural en Europa sube y así impacta en los recibos de invierno",
-        "url": "https://es.finance.yahoo.com/noticias/precio-gas-natural-europa-dispara-074449226.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El precio del gas natural en Europa se dispara: así afecta a tus facturas de invierno",
-        "capturado": "2026-10-27T03:13:18-05:00"
-      },
-      {
-        "titulo": "La AIE advierte la concentración de las cadenas de suministro de energía limpia como un nuevo reto",
-        "url": "https://es.finance.yahoo.com/noticias/aie-se%C3%B1ala-concentraci%C3%B3n-cadenas-suministro-072358374.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "La AIE señala la concentración de las cadenas de suministro de energía limpia como un nuevo reto",
-        "capturado": "2026-10-27T03:13:18-05:00"
       }
     ]
   }
