@@ -1,9 +1,57 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-28T20:35:00-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-10-29T03:05:31-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Mercados accionarios con comportamiento dispar tras balances decepcionantes de Alphabet",
+        "url": "https://es.finance.yahoo.com/noticias/bolsas-registran-signo-mixto-decepcionar-070424716.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Las Bolsas registran signo mixto tras decepcionar Alphabet con sus resultados",
+        "capturado": "2026-10-29T03:05:31-05:00"
+      },
+      {
+        "titulo": "Volkswagen deja de percibir 5.800 millones a causa de la rivalidad de China",
+        "url": "https://es.finance.yahoo.com/noticias/volkswagen-registra-p%C3%A9rdidas-5-800-071334934.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Volkswagen pierde 5.800 millones por la competencia china",
+        "capturado": "2026-10-29T03:05:31-05:00"
+      },
+      {
+        "titulo": "Ministros de Energía comunitarios discutirán incremento de combustibles por invierno",
+        "url": "https://es.finance.yahoo.com/noticias/ministros-energ%C3%ADa-ue-debatir%C3%A1n-alza-074923005.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Los ministros de Energía de la UE debatirán el alza de los combustibles ante la llegada del invierno",
+        "capturado": "2026-10-29T03:05:31-05:00"
+      },
+      {
+        "titulo": "Costo del crudo sube 56% en la UE a pesar de mantener similar volumen de compra",
+        "url": "https://es.finance.yahoo.com/noticias/factura-petrolera-europa-ue-paga-043007678.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "La factura del petróleo se dispara un 56% en la UE pese a importar casi la misma cantidad",
+        "capturado": "2026-10-29T03:05:31-05:00"
+      },
+      {
+        "titulo": "Airbus contempla nuevo caza con Reino Unido, Japón e Italia tras desacuerdo con Francia",
+        "url": "https://es.finance.yahoo.com/noticias/airbus-busca-acuerdo-caza-reino-051848696.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Airbus abre la puerta a un nuevo caza europeo con Reino Unido, Japón e Italia tras la ruptura con Francia",
+        "capturado": "2026-10-29T03:05:31-05:00"
+      },
+      {
+        "titulo": "Para RBC, la fuerte ejecución del cuarto trimestre resulta vital para recuperar la confianza de los inversores en Airbus",
+        "url": "https://es.finance.yahoo.com/noticias/rbc-s%C3%B3lida-ejecuci%C3%B3n-cuarto-trimestre-054701453.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Según RBC, la sólida ejecución del cuarto trimestre es clave para restablecer la confianza de los inversores en Airbus.",
+        "capturado": "2026-10-29T03:05:31-05:00"
+      },
       {
         "titulo": "Por qué acumular más fichas ya no basta para las billeteras de criptomonedas",
         "url": "https://es.finance.yahoo.com/noticias/tokens-suficiente-wallets-criptomonedas-231800932.html",
@@ -435,54 +483,6 @@
         "medio": "MT Newswires",
         "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses avanzan tras la presentación de la solicitud de salida a bolsa de Anthropic y el descenso del petróleo crudo.",
         "capturado": "2026-10-26T18:02:09-05:00"
-      },
-      {
-        "titulo": "Microsoft brinda retiros voluntarios pagados a cerca de 60.000 trabajadores",
-        "url": "https://es.finance.yahoo.com/noticias/microsoft-ofrece-bajas-voluntarias-incentivadas-202631495.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Microsoft ofrece bajas voluntarias incentivadas a unos 60.000 empleados",
-        "capturado": "2026-10-26T18:02:09-05:00"
-      },
-      {
-        "titulo": "Anthropic alcanza altas ganancias al debutar en bolsa y advierte riesgos de la IA para la humanidad",
-        "url": "https://es.finance.yahoo.com/noticias/anthropic-revela-fuertes-ingresos-salida-185651630.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Anthropic logra fuertes ingresos en su salida a bolsa y alerta de los riesgos de la IA para la humanidad",
-        "capturado": "2026-10-26T18:02:09-05:00"
-      },
-      {
-        "titulo": "El Ibex 35 trepa a los 19.000 puntos y rebasa el efecto Lula pese al castigo de Telefónica y Santander",
-        "url": "https://es.finance.yahoo.com/noticias/ibex-35-remonta-19-000-163000576.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "El Ibex 35 remonta a los 19.000 puntos y supera el 'efecto Lula' con el castigo de Telefónica y Santander",
-        "capturado": "2026-10-26T18:02:09-05:00"
-      },
-      {
-        "titulo": "Un medicamento de Merck alarga la vida en un ensayo de cáncer endometrial",
-        "url": "https://es.finance.yahoo.com/noticias/f%C3%A1rmaco-merck-prolonga-supervivencia-prueba-174028031.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Un fármaco de Merck prolonga la supervivencia en una prueba sobre el cáncer de endometrio",
-        "capturado": "2026-10-26T13:47:58-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE. UU. suben por salida a bolsa de Anthropic en el Nasdaq y optimismo en IA",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-172924112.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben tras la presentación de la solicitud de salida a bolsa de Anthropic en el Nasdaq, lo que impulsa el optimismo en el mercado de la IA.",
-        "capturado": "2026-10-26T13:47:58-05:00"
-      },
-      {
-        "titulo": "Apple indaga fisuras en pantallas del iPhone Duo por reportes de clientes",
-        "url": "https://es.finance.yahoo.com/noticias/apple-investiga-grietas-pantallas-iphone-172632214.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Apple investiga grietas en pantallas del iPhone Duo tras quejas de usuarios",
-        "capturado": "2026-10-26T13:47:58-05:00"
       }
     ]
   }
