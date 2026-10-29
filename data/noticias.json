@@ -1,9 +1,41 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-28T16:49:21-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-10-28T20:35:00-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Por qué acumular más fichas ya no basta para las billeteras de criptomonedas",
+        "url": "https://es.finance.yahoo.com/noticias/tokens-suficiente-wallets-criptomonedas-231800932.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿Por qué tener más tokens ya no es suficiente para las wallets de criptomonedas?",
+        "capturado": "2026-10-28T20:35:00-05:00"
+      },
+      {
+        "titulo": "El verdadero peligro para pagos con Bitcoin no es la tecnología, dice grupo de Jack Dorsey",
+        "url": "https://es.finance.yahoo.com/noticias/verdadero-riesgo-pagos-bitcoin-tecnolog%C3%ADa-225200188.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "El verdadero riesgo para pagos con Bitcoin no es la tecnología, según el equipo de Jack Dorsey",
+        "capturado": "2026-10-28T20:35:00-05:00"
+      },
+      {
+        "titulo": "Juez del caso SEC contra Ripple procesará a Nicolás Maduro en Nueva York",
+        "url": "https://es.finance.yahoo.com/noticias/jueza-caso-sec-vs-ripple-222731477.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Jueza del caso SEC vs. Ripple juzgará a Nicolás Maduro en NY",
+        "capturado": "2026-10-28T20:35:00-05:00"
+      },
+      {
+        "titulo": "Strategy avala entrega diaria de dividendos: ¿Retornará la adquisición de Bitcoin?",
+        "url": "https://es.finance.yahoo.com/noticias/strategy-aprueba-pago-diario-dividendos-211700462.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Strategy aprueba pago diario de dividendos: ¿Volverá la compra de Bitcoin?",
+        "capturado": "2026-10-28T20:35:00-05:00"
+      },
       {
         "titulo": "Ajuste: Alza en bolsas de EE. UU. y baja en tasas de bonos del Tesoro tras pausa de tipos de la Fed",
         "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-210352573.html",
@@ -450,38 +482,6 @@
         "resumen": "",
         "medio": "Bloomberg",
         "titulo_fuente": "Apple investiga grietas en pantallas del iPhone Duo tras quejas de usuarios",
-        "capturado": "2026-10-26T13:47:58-05:00"
-      },
-      {
-        "titulo": "ETFs repuntan a la par que las acciones de Estados Unidos avanzan pasado el mediodía",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-suben-medida-171302822.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa suben a medida que las acciones estadounidenses avanzan después del mediodía.",
-        "capturado": "2026-10-26T13:47:58-05:00"
-      },
-      {
-        "titulo": "Microsoft da retiros voluntarios a 60.000 empleados en nuevo ajuste de gastos",
-        "url": "https://es.finance.yahoo.com/noticias/microsoft-ofrece-salidas-voluntarias-60-161840934.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Microsoft ofrece salidas voluntarias a 60.000 trabajadores en nuevo recorte de costos",
-        "capturado": "2026-10-26T13:47:58-05:00"
-      },
-      {
-        "titulo": "Presidenta de Petrobras califica de especulativa la baja bursátil tras el triunfo de Lula",
-        "url": "https://es.finance.yahoo.com/noticias/jefa-petrobras-ca%C3%ADda-acciones-victoria-161150168.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Jefa de Petrobras dice caída de acciones tras victoria de Lula es especulativa",
-        "capturado": "2026-10-26T13:47:58-05:00"
-      },
-      {
-        "titulo": "Administradoras chilenas disminuyen descalces por alza en los títulos del tesoro norteamericano",
-        "url": "https://es.finance.yahoo.com/noticias/afp-chile-reducen-p%C3%A9rdidas-swaps-154058231.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "AFP de Chile reducen pérdidas en swaps ante repunte de bonos de EE.UU.",
         "capturado": "2026-10-26T13:47:58-05:00"
       }
     ]
