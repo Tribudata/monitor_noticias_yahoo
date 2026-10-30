@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-30T01:13:42-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-30T08:19:52-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Reseña de criptoactivos y Bitcoin al 30 de octubre",
+        "url": "https://es.finance.yahoo.com/noticias/resumen-semanal-bitcoin-criptomonedas-30-130100788.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Resumen semanal de Bitcoin y criptomonedas: 30 de octubre",
+        "capturado": "2026-10-30T08:19:52-05:00"
+      },
+      {
+        "titulo": "Reporte: Balances de Amazon e Intel afectan futuros bursátiles en EE UU previos a la apertura",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-resultados-amazon-intel-lastran-125220366.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los resultados de Amazon e Intel lastran los futuros de las acciones estadounidenses antes de la apertura del mercado.",
+        "capturado": "2026-10-30T08:19:52-05:00"
+      },
+      {
+        "titulo": "Alza inflacionaria en España e Italia enciende alertas financieras en la zona euro",
+        "url": "https://es.finance.yahoo.com/noticias/inflaci%C3%B3n-italia-dispara-5-4-123053790.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "La inflación golpea a España e Italia y dispara las alarmas económicas en la eurozona",
+        "capturado": "2026-10-30T08:19:52-05:00"
+      },
+      {
+        "titulo": "AstraZeneca aumenta su ganancia un 23% impulsada por comercialización de fármacos oncológicos",
+        "url": "https://es.finance.yahoo.com/noticias/astrazeneca-dispara-beneficio-23-gracias-122219976.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "AstraZeneca dispara su beneficio un 23% gracias a las ventas de medicamentos contra el cáncer",
+        "capturado": "2026-10-30T08:19:52-05:00"
+      },
+      {
+        "titulo": "PIB de la eurozona supera previsiones durante el tercer trimestre",
+        "url": "https://es.finance.yahoo.com/noticias/econom%C3%ADa-eurozona-crece-esperado-tercer-121543643.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "La economía de la eurozona crece más de lo esperado en el tercer trimestre.",
+        "capturado": "2026-10-30T08:19:52-05:00"
+      },
+      {
+        "titulo": "Los balances de Amazon e Intel bajaron los futuros bursátiles de EE UU previo a la apertura",
+        "url": "https://es.finance.yahoo.com/noticias/resultados-amazon-intel-lastraron-futuros-120829782.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los resultados de Amazon e Intel lastraron los futuros de las acciones estadounidenses antes de la apertura del mercado.",
+        "capturado": "2026-10-30T08:19:52-05:00"
+      },
+      {
+        "titulo": "El retroceso de tecnológicas se acentúa debido a interrogantes sobre inversión en IA",
+        "url": "https://es.finance.yahoo.com/noticias/ca%C3%ADda-tecnol%C3%B3gicas-intensifica-dudas-gasto-115214658.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Caída de tecnológicas se intensifica por dudas sobre gasto en IA",
+        "capturado": "2026-10-30T08:19:52-05:00"
+      },
+      {
+        "titulo": "Aranceles de la UE a Shein y Temu sumarían 6.000 millones de euros al erario",
+        "url": "https://es.finance.yahoo.com/noticias/impuestos-ue-shein-temu-aportar-114323387.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Los impuestos de la UE a Shein y Temu podrían aportar 6.000 millones de euros al presupuesto",
+        "capturado": "2026-10-30T08:19:52-05:00"
+      },
       {
         "titulo": "Un ataque informático a Binance afecta miles de millones de dólares y fuerza a congelar recursos",
         "url": "https://es.finance.yahoo.com/noticias/plataforma-criptomonedas-binance-confirma-hackeo-050737139.html",
@@ -419,70 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "El gigante químico alemán BASF eleva su previsión de beneficio tras subir los precios por la guerra en Irán",
         "capturado": "2026-10-28T05:44:02-05:00"
-      },
-      {
-        "titulo": "Las dudas sobre la inteligencia artificial evidencian el conflicto del dinero especulativo en dólares",
-        "url": "https://es.finance.yahoo.com/noticias/preocupaciones-ia-ponen-manifiesto-problema-080537747.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Las preocupaciones sobre la IA ponen de manifiesto el problema del capital especulativo del dólar",
-        "capturado": "2026-10-28T05:44:02-05:00"
-      },
-      {
-        "titulo": "Alemania avanza hacia un desbalance comercial histórico con Asia-Pacífico para el año 2026",
-        "url": "https://es.finance.yahoo.com/noticias/alemania-encamina-d%C3%A9ficit-comercial-r%C3%A9cord-072354221.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Alemania se encamina hacia un déficit comercial récord con Asia-Pacífico en 2026",
-        "capturado": "2026-10-28T05:44:02-05:00"
-      },
-      {
-        "titulo": "Crecimiento de la ganancia neta y de los ingresos globales del Banco Santander hasta septiembre",
-        "url": "https://es.finance.yahoo.com/noticias/aumento-beneficio-atribuible-ingresos-totales-064318542.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Aumento del beneficio atribuible y de los ingresos totales de Banco Santander en los nueve meses",
-        "capturado": "2026-10-28T05:44:02-05:00"
-      },
-      {
-        "titulo": "Ciberdelincuentes hurtan 400.000 dólares de plataforma de pronósticos conectada a Binance",
-        "url": "https://es.finance.yahoo.com/noticias/hackers-roban-400-000-mercado-214600899.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Hackers roban $400,000 de un mercado de predicciones vinculado a Binance",
-        "capturado": "2026-10-27T18:31:21-05:00"
-      },
-      {
-        "titulo": "Bolsas al alza con el sector tecnológico al frente previo a los balances de gigantes",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-suben-tecnolog%C3%ADa-204903817.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles suben mientras la tecnología lidera las listas sectoriales antes de la presentación de resultados de las hiperescaladoras.",
-        "capturado": "2026-10-27T18:31:21-05:00"
-      },
-      {
-        "titulo": "El Q-Day de Bitcoin a diez años vista: críticos afirman que ya acumula demoras",
-        "url": "https://es.finance.yahoo.com/noticias/q-day-bitcoin-d%C3%A9cada-distancia-193200512.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿El Q-Day de Bitcoin está a una década de distancia? Los escépticos dicen que ya se está retrasando",
-        "capturado": "2026-10-27T18:31:21-05:00"
-      },
-      {
-        "titulo": "Cinco aspectos esenciales para comprender la futura apertura bursátil de Anthropic",
-        "url": "https://es.finance.yahoo.com/noticias/claves-entender-pasos-salida-bolsa-190904832.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Cinco claves para entender los próximos pasos de la salida a bolsa de Anthropic",
-        "capturado": "2026-10-27T14:50:34-05:00"
-      },
-      {
-        "titulo": "Director ejecutivo de JPMorgan avisa sobre peligros que acechan títulos y bonos estadounidenses",
-        "url": "https://es.finance.yahoo.com/noticias/ceo-jpmorgan-advierte-riesgos-amenazan-181400304.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "CEO de JPMorgan advierte riesgos que amenazan acciones y bonos de EEUU",
-        "capturado": "2026-10-27T14:50:34-05:00"
       }
     ]
   }
