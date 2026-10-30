@@ -1,9 +1,57 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-29T15:27:10-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-10-29T19:09:04-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Gobierno nacional radica iniciativa tributaria para disminuir gastos y elevar recaudo",
+        "url": "https://es.finance.yahoo.com/noticias/gobierno-colombia-presenta-proyecto-reforma-232627737.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Gobierno de Colombia presenta proyecto de reforma fiscal para recortar gastos y aumentar ingresos",
+        "capturado": "2026-10-29T19:09:04-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE UU bajan tras malos resultados de Alphabet que afectan servicios de comunicación",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-210938000.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen a medida que los decepcionantes resultados de Alphabet diezman los servicios de comunicación.",
+        "capturado": "2026-10-29T19:09:04-05:00"
+      },
+      {
+        "titulo": "Liquidaciones cripto pasan de 628 millones de dólares en una hora por temor a hackeo en Binance que desploma a Bitcoin",
+        "url": "https://es.finance.yahoo.com/noticias/liquidaciones-cripto-superan-628-millones-210259727.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Las liquidaciones cripto superan los 628 millones de dólares en una hora mientras el miedo a un hack en Binance hunde el precio de Bitcoin",
+        "capturado": "2026-10-29T19:09:04-05:00"
+      },
+      {
+        "titulo": "Volumen de stablecoins en Visa aumentó diez veces en un año y estas son las beneficiadas",
+        "url": "https://es.finance.yahoo.com/noticias/volumen-stablecoins-visa-creci%C3%B3-10x-205800189.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Volumen de stablecoins de Visa creció 10x en un año: ¿Cuáles stablecoins se benefician?",
+        "capturado": "2026-10-29T19:09:04-05:00"
+      },
+      {
+        "titulo": "Salida de 2 mil millones de dólares en Binance genera dudas sobre los fondos de clientes ante posible hackeo",
+        "url": "https://es.finance.yahoo.com/noticias/hackeando-binance-salida-2-mil-204922706.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿Está siendo hackeado Binance? Salida de 2 mil millones de dólares pone en duda los fondos de los clientes",
+        "capturado": "2026-10-29T19:09:04-05:00"
+      },
+      {
+        "titulo": "Coinbase anuncia utilidad inesperada al tiempo que directivos proyectan venta accionaria por 2.000 millones",
+        "url": "https://es.finance.yahoo.com/noticias/coinbase-reporta-ganancia-sorpresa-insiders-203858827.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Coinbase reporta ganancia sorpresa mientras insiders planean venta de acciones por 2 mil millones de dólares: ¿por qué ahora?",
+        "capturado": "2026-10-29T19:09:04-05:00"
+      },
       {
         "titulo": "Presidenta encargada anuncia que Venezuela venderá activos estatales no esenciales a privados y dueños",
         "url": "https://es.finance.yahoo.com/noticias/venezuela-ofrecer%C3%A1-activos-estatales-esenciales-201850264.html",
@@ -435,54 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Maíz cae por presión de la cosecha de EEUU; trigo, cerca de mínimo de tres meses y medio",
         "capturado": "2026-10-27T14:50:34-05:00"
-      },
-      {
-        "titulo": "Colocación de títulos de Meta capta una demanda quintuplicada respecto a la oferta",
-        "url": "https://es.finance.yahoo.com/noticias/venta-acciones-meta-atrae-demanda-175012901.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Venta de acciones de Meta atrae demanda cinco veces mayor a la oferta",
-        "capturado": "2026-10-27T14:50:34-05:00"
-      },
-      {
-        "titulo": "Trump y Rubio recibirán en Texas crudo enviado desde Venezuela",
-        "url": "https://es.finance.yahoo.com/noticias/trump-rubio-recibir%C3%A1-texas-petrolero-173151641.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Trump y Rubio recibirá en Texas petrolero procedente de Venezuela",
-        "capturado": "2026-10-27T14:50:34-05:00"
-      },
-      {
-        "titulo": "Flávio Bolsonaro viaja hacia Estados Unidos, según Folha citando aliados",
-        "url": "https://es.finance.yahoo.com/noticias/fl%C3%A1vio-bolsonaro-ruta-ee-uu-163152164.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Flávio Bolsonaro en ruta hacia EE.UU., dice Folha mencionando a aliados",
-        "capturado": "2026-10-27T14:50:34-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE. UU. suben por impulso tecnológico y menor precio petrolero",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-172949884.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben gracias al avance de las grandes tecnológicas y la caída del petróleo crudo.",
-        "capturado": "2026-10-27T14:50:34-05:00"
-      },
-      {
-        "titulo": "Perspectivas de la Fed con Warsh evaluando inflación, petróleo y elecciones en Estados Unidos",
-        "url": "https://es.finance.yahoo.com/noticias/esperar-fed-warsh-sopesa-inflaci%C3%B3n-142523609.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Qué esperar de la Fed mientras Warsh sopesa la inflación, el petróleo y las legislativas en EE.UU.",
-        "capturado": "2026-10-27T09:48:27-05:00"
-      },
-      {
-        "titulo": "Inversionistas de China apresuran adquisición de oro: ¿sostendrá los 4.000 dólares?",
-        "url": "https://es.finance.yahoo.com/noticias/inversores-chinos-aceleran-compra-oro-140700341.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Inversores chinos aceleran compra de oro: ¿Mantendrá los $4,000?",
-        "capturado": "2026-10-27T09:48:27-05:00"
       }
     ]
   }
