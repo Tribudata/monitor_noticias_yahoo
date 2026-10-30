@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-29T19:09:04-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-10-30T01:13:42-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Un ataque informático a Binance afecta miles de millones de dólares y fuerza a congelar recursos",
+        "url": "https://es.finance.yahoo.com/noticias/plataforma-criptomonedas-binance-confirma-hackeo-050737139.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Un ciberataque a Binance compromete miles de millones de dólares y obliga a congelar fondos",
+        "capturado": "2026-10-30T01:13:42-05:00"
+      },
+      {
+        "titulo": "El Banco de Japón llega a la meta de inflación del dos por ciento tras más de diez años",
+        "url": "https://es.finance.yahoo.com/noticias/banco-jap%C3%B3n-inflaci%C3%B3n-alcanza-2-054756825.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El Banco de Japón alcanza el objetivo de inflación del dos por ciento tras más de una década",
+        "capturado": "2026-10-30T01:13:42-05:00"
+      },
       {
         "titulo": "Gobierno nacional radica iniciativa tributaria para disminuir gastos y elevar recaudo",
         "url": "https://es.finance.yahoo.com/noticias/gobierno-colombia-presenta-proyecto-reforma-232627737.html",
@@ -466,22 +482,6 @@
         "resumen": "",
         "medio": "BeInCrypto",
         "titulo_fuente": "CEO de JPMorgan advierte riesgos que amenazan acciones y bonos de EEUU",
-        "capturado": "2026-10-27T14:50:34-05:00"
-      },
-      {
-        "titulo": "Oracle agranda su pacto de chips con Nvidia y suma la propuesta de Google y Cerebras",
-        "url": "https://es.finance.yahoo.com/noticias/oracle-ampl%C3%ADa-acuerdo-suministro-chips-181138932.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Oracle amplía su acuerdo de suministro de chips con Nvidia e incorpora la oferta de Google y Cerebras",
-        "capturado": "2026-10-27T14:50:34-05:00"
-      },
-      {
-        "titulo": "Maíz baja por efecto de la recolección en EE UU; trigo roza piso de tres meses y medio",
-        "url": "https://es.finance.yahoo.com/noticias/ma%C3%ADz-cae-presi%C3%B3n-cosecha-eeuu-180225756.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Maíz cae por presión de la cosecha de EEUU; trigo, cerca de mínimo de tres meses y medio",
         "capturado": "2026-10-27T14:50:34-05:00"
       }
     ]
