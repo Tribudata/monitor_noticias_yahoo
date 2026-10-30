@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-30T08:19:52-05:00",
+  "actualizado": "2026-10-30T13:44:19-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "El Producto Interno Bruto de Francia retrocede 0,1% y acentúa la duda sobre el presupuesto",
+        "url": "https://es.finance.yahoo.com/noticias/econom%C3%ADa-francesa-estanca-incertidumbre-presupuestaria-175552056.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El PIB francés cae un 0,1% y agrava la incertidumbre presupuestaria",
+        "capturado": "2026-10-30T13:44:19-05:00"
+      },
+      {
+        "titulo": "Bitcoin se torna aburrido y eso es un factor al alza, afirma el analista James Check",
+        "url": "https://es.finance.yahoo.com/noticias/bitcoin-volviendo-aburrido-raz%C3%B3n-alcista-180300003.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Bitcoin se está volviendo “aburrido” y esa es una razón alcista, dice el analista James Check",
+        "capturado": "2026-10-30T13:44:19-05:00"
+      },
+      {
+        "titulo": "El Nasdaq se hunde 810 puntos luego del desplome de firmas de chips tras los datos de Intel",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-nasdaq-desploma-810-puntos-174623316.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: El Nasdaq se desploma 810 puntos tras la caída de los fabricantes de chips de gran capitalización después de los resultados de Intel.",
+        "capturado": "2026-10-30T13:44:19-05:00"
+      },
+      {
+        "titulo": "Los fondos cotizados caen en bolsa al tiempo que los títulos de EE UU bajan el viernes",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-bajan-medida-172229663.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa bajan a medida que las acciones estadounidenses caen tras el mediodía del viernes.",
+        "capturado": "2026-10-30T13:44:19-05:00"
+      },
+      {
+        "titulo": "Musalem, directivo de la Fed, señala que se requiere elevar los tipos de interés pronto",
+        "url": "https://es.finance.yahoo.com/noticias/musalem-fed-necesario-subir-tasas-164927632.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Musalem, de la Fed, dice que es necesario subir las tasas \"pronto\"",
+        "capturado": "2026-10-30T13:44:19-05:00"
+      },
+      {
+        "titulo": "Daly, de la Fed, señala que la IA importa para la política monetaria a corto y mediano plazo",
+        "url": "https://es.finance.yahoo.com/noticias/daly-fed-ia-importante-pol%C3%ADtica-164802435.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Daly, de la Fed, dice que IA es importante para la política monetaria a medio y corto plazo",
+        "capturado": "2026-10-30T13:44:19-05:00"
+      },
+      {
+        "titulo": "Exportaciones de petróleo saudí aumentan en octubre, según dos de tres firmas de rastreo",
+        "url": "https://es.finance.yahoo.com/noticias/exportaciones-petroleras-saud%C3%ADes-suben-octubre-164055188.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Exportaciones petroleras saudíes suben en octubre, según dos de tres empresas de seguimiento",
+        "capturado": "2026-10-30T13:44:19-05:00"
+      },
+      {
+        "titulo": "El negocio de IA de Intel subió 78%: por qué su acción cayó 30%",
+        "url": "https://es.finance.yahoo.com/noticias/negocio-ia-intel-creci%C3%B3-78-164000925.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "El negocio de IA de Intel creció 78%: ¿Por qué la acción se desplomó 30%?",
+        "capturado": "2026-10-30T13:44:19-05:00"
+      },
       {
         "titulo": "Reseña de criptoactivos y Bitcoin al 30 de octubre",
         "url": "https://es.finance.yahoo.com/noticias/resumen-semanal-bitcoin-criptomonedas-30-130100788.html",
@@ -419,70 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "Corea del Sur multa a Google y Apple por presionar a desarrolladores con sus sistemas de pago",
         "capturado": "2026-10-28T12:00:17-05:00"
-      },
-      {
-        "titulo": "Argentina halla chance para su harina de soja ante reglas de deforestación europea que afectan a Brasil",
-        "url": "https://es.finance.yahoo.com/noticias/argentina-ve-oportunidad-harina-soja-140745588.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Argentina ve oportunidad para su harina soja en normas deforestación de UE que amenazan a Brasil",
-        "capturado": "2026-10-28T12:00:17-05:00"
-      },
-      {
-        "titulo": "Banco Mundial calcula incremento del 23% en valores de materias primas para 2026 debido a conflicto en Medio Oriente",
-        "url": "https://es.finance.yahoo.com/noticias/banco-mundial-prev%C3%A9-precios-materias-140631744.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Banco Mundial prevé que precios de materias primas suban 23% en 2026 por guerra en Oriente Medio",
-        "capturado": "2026-10-28T12:00:17-05:00"
-      },
-      {
-        "titulo": "Presupuesto británico: los 5 puntos centrales de la alocución del titular de Hacienda",
-        "url": "https://es.finance.yahoo.com/noticias/presupuesto-reino-unido-5-claves-140135874.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Presupuesto del Reino Unido: las 5 claves del discurso del ministro de Finanzas",
-        "capturado": "2026-10-28T12:00:17-05:00"
-      },
-      {
-        "titulo": "BNP Paribas minimiza su pasivo en Francia y el mercado accionario estimula la utilidad",
-        "url": "https://es.finance.yahoo.com/noticias/bnp-paribas-resta-importancia-deuda-103612731.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "BNP Paribas resta importancia a su deuda francesa y la bolsa impulsa el beneficio",
-        "capturado": "2026-10-28T05:44:02-05:00"
-      },
-      {
-        "titulo": "El oro retrocede por subida del petróleo previa al anuncio de la Reserva Federal",
-        "url": "https://es.finance.yahoo.com/noticias/oro-cae-alza-precios-petr%C3%B3leo-102505258.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "El oro cae por alza de los precios del petróleo antes de decisión de la Fed",
-        "capturado": "2026-10-28T05:44:02-05:00"
-      },
-      {
-        "titulo": "Morgan Stanley avisa sobre un eventual alto de la Fed y revela sus declaraciones",
-        "url": "https://es.finance.yahoo.com/noticias/morgan-stanley-advierte-pausa-fed-091700796.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Morgan Stanley advierte sobre posible pausa de la Fed: esto dijo",
-        "capturado": "2026-10-28T05:44:02-05:00"
-      },
-      {
-        "titulo": "Podría la caída del mercado de IA en China impactar la cotización de Bitcoin",
-        "url": "https://es.finance.yahoo.com/noticias/crash-mercado-ia-china-afectar%C3%A1-085000773.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿El crash del mercado de IA en China afectará al precio de Bitcoin?",
-        "capturado": "2026-10-28T05:44:02-05:00"
-      },
-      {
-        "titulo": "BASF, la firma química germana, mejora su pronóstico de ganancias al incrementar tarifas",
-        "url": "https://es.finance.yahoo.com/noticias/gigante-qu%C3%ADmico-alem%C3%A1n-basf-eleva-075620823.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El gigante químico alemán BASF eleva su previsión de beneficio tras subir los precios por la guerra en Irán",
-        "capturado": "2026-10-28T05:44:02-05:00"
       }
     ]
   }
