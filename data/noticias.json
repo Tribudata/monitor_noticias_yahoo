@@ -1,9 +1,57 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-30T13:44:19-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-10-30T17:48:25-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "El oro cae bajo los 3.900 dólares y marca piso anual según expertos",
+        "url": "https://es.finance.yahoo.com/noticias/precio-oro-pierde-3-900-205500670.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "El precio del oro pierde los $3,900 y registra mínimo anual: ¿Qué dicen los analistas?",
+        "capturado": "2026-10-30T17:48:25-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE. UU. a la baja por resultados de hiperescaladoras y la OPI de Anthropic",
+        "url": "https://es.finance.yahoo.com/noticias/%C3%ADndices-burs%C3%A1tiles-estadounidenses-cayeron-semana-204054573.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los índices bursátiles estadounidenses cayeron esta semana, ya que los decepcionantes resultados de las hiperescaladoras contrarrestaron las ganancias derivadas del impulso de la salida a bolsa de Anthropic.",
+        "capturado": "2026-10-30T17:48:25-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE. UU. caen por Intel y se desatan ventas de papeles en chips",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-desploman-202046786.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses se desploman tras los resultados de Intel, que provocan una venta masiva de acciones de los fabricantes de chips de gran capitalización.",
+        "capturado": "2026-10-30T17:48:25-05:00"
+      },
+      {
+        "titulo": "Tether ganó 4.500 millones en 2026 pero sus bitcoins superan el respaldo de USDT",
+        "url": "https://es.finance.yahoo.com/noticias/tether-gan%C3%B3-4-5-mil-192800601.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Tether ganó $4.5 mil millones en 2026, pero su reserva de Bitcoin ahora supera el respaldo de seguridad de USDT",
+        "capturado": "2026-10-30T17:48:25-05:00"
+      },
+      {
+        "titulo": "EE. UU. sigue comprando ganado de México pese al gusano barrenador",
+        "url": "https://es.finance.yahoo.com/noticias/ee-uu-mantiene-ingreso-ganado-192037722.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "EE.UU. mantiene ingreso de ganado mexicano pese al avance del gusano barrenador",
+        "capturado": "2026-10-30T17:48:25-05:00"
+      },
+      {
+        "titulo": "El Banco de la República de Colombia conserva sus tasas de interés inalteradas",
+        "url": "https://es.finance.yahoo.com/noticias/banco-rep%C3%BAblica-colombia-mantiene-tasas-182834437.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Banco de la República de Colombia mantiene tasas sin cambios",
+        "capturado": "2026-10-30T17:48:25-05:00"
+      },
       {
         "titulo": "El Producto Interno Bruto de Francia retrocede 0,1% y acentúa la duda sobre el presupuesto",
         "url": "https://es.finance.yahoo.com/noticias/econom%C3%ADa-francesa-estanca-incertidumbre-presupuestaria-175552056.html",
@@ -435,54 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Cámara de Representantes de Colombia niega cambios a artículos de reforma pensional rechazados por corte",
         "capturado": "2026-10-28T16:49:21-05:00"
-      },
-      {
-        "titulo": "Warsh anuncia modificaciones en las fechas de los encuentros de la Fed desde el siguiente año",
-        "url": "https://es.finance.yahoo.com/noticias/warsh-fed-ajustar%C3%A1-calendario-reuniones-191254225.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Warsh dice que la Fed ajustará su calendario de reuniones a partir del próximo año",
-        "capturado": "2026-10-28T16:49:21-05:00"
-      },
-      {
-        "titulo": "El gas europeo rebasa 100 € por primera vez desde 2022 y la UE advierte una nueva crisis",
-        "url": "https://es.finance.yahoo.com/noticias/gas-europa-supera-100-2022-153427791.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El gas en Europa supera los 100 € por primera vez desde 2022 y la UE alerta de nueva crisis",
-        "capturado": "2026-10-28T12:00:17-05:00"
-      },
-      {
-        "titulo": "La retatrutida de Lilly supera a Ozempic en adelgazamiento y glucemia en estudio clínico",
-        "url": "https://es.finance.yahoo.com/noticias/retatrutida-lilly-supera-ozempic-p%C3%A9rdida-150845657.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "La retatrutida de Lilly supera a Ozempic en pérdida de peso y control de glucemia en ensayo clínico",
-        "capturado": "2026-10-28T12:00:17-05:00"
-      },
-      {
-        "titulo": "Rumores bursátiles: EQT, Norges Bank y Ardian descartan la puja de 10.000 millones por Acciona Energía",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-rumores-mercado-eqt-norges-145703690.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Rumores del mercado: EQT, Norges Bank y Ardian se retiran de la oferta de 10.000 millones de euros por Acciona Energía.",
-        "capturado": "2026-10-28T12:00:17-05:00"
-      },
-      {
-        "titulo": "Bolsas argentinas operan de forma mixta y el riesgo país registra un descenso leve",
-        "url": "https://es.finance.yahoo.com/noticias/mercados-argentinos-cotizan-mixta-ligera-144919917.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Mercados argentinos cotizan de manera mixta, ligera caída del riesgo país",
-        "capturado": "2026-10-28T12:00:17-05:00"
-      },
-      {
-        "titulo": "Corea del Sur sanciona a Google y Apple por forzar a creadores a usar sus plataformas de pago",
-        "url": "https://es.finance.yahoo.com/noticias/corea-sur-multa-google-apple-140830601.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Corea del Sur multa a Google y Apple por presionar a desarrolladores con sus sistemas de pago",
-        "capturado": "2026-10-28T12:00:17-05:00"
       }
     ]
   }
