@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-30T17:48:25-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-10-30T21:02:16-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Una calificación en grado especulativo amenaza la oferta pública inicial de Anthropic",
+        "url": "https://es.finance.yahoo.com/noticias/ipo-anthropic-enfrenta-riesgo-inesperado-222600754.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "La IPO de Anthropic enfrenta un riesgo inesperado: una nota de grado basura",
+        "capturado": "2026-10-30T21:02:16-05:00"
+      },
       {
         "titulo": "El oro cae bajo los 3.900 dólares y marca piso anual según expertos",
         "url": "https://es.finance.yahoo.com/noticias/precio-oro-pierde-3-900-205500670.html",
@@ -474,14 +482,6 @@
         "resumen": "",
         "medio": "Reuters",
         "titulo_fuente": "Warsh, de la Fed, dice que la economía de EEUU no se está sobrecalentando",
-        "capturado": "2026-10-28T16:49:21-05:00"
-      },
-      {
-        "titulo": "La Cámara de Representantes colombiana rechaza modificar artículos de reforma pensional vetados",
-        "url": "https://es.finance.yahoo.com/noticias/c%C3%A1mara-representantes-colombia-niega-cambios-193823816.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Cámara de Representantes de Colombia niega cambios a artículos de reforma pensional rechazados por corte",
         "capturado": "2026-10-28T16:49:21-05:00"
       }
     ]
