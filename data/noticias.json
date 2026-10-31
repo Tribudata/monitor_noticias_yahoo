@@ -1,9 +1,65 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-31T10:05:35-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-10-31T14:27:15-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Fuentes indican que OPEP+ mantendría metas de extracción de petróleo intactas en diciembre",
+        "url": "https://es.finance.yahoo.com/noticias/opep-acuerda-principio-mantener-metas-182937855.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "OPEP+ acuerda en principio mantener metas de bombeo de crudo sin cambios en diciembre, dicen fuentes",
+        "capturado": "2026-10-31T14:27:15-05:00"
+      },
+      {
+        "titulo": "Firma de rastreo cripto Chainalysis es vulnerada por agentes de inteligencia artificial",
+        "url": "https://es.finance.yahoo.com/noticias/chainalysis-firma-caza-hackers-criptomonedas-175200076.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Chainalysis, la firma que caza hackers de criptomonedas, sufre hack con agentes de IA",
+        "capturado": "2026-10-31T14:27:15-05:00"
+      },
+      {
+        "titulo": "Compañía petrolera de EE. UU. NABEP bajará su flota en Venezuela a 41 equipos en noviembre",
+        "url": "https://es.finance.yahoo.com/noticias/petrolera-estadounidense-nabep-reducir%C3%A1-flota-170623059.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Petrolera estadounidense NABEP dice reducirá la flota venezolana a 41 plataformas en noviembre",
+        "capturado": "2026-10-31T14:27:15-05:00"
+      },
+      {
+        "titulo": "Halloween compite con Nochevieja por ser la velada de mayor ganancia anual en España",
+        "url": "https://es.finance.yahoo.com/noticias/halloween-dispara-29-negocio-ocio-152452279.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Halloween desafía a Nochevieja como la noche más rentable del año en España",
+        "capturado": "2026-10-31T14:27:15-05:00"
+      },
+      {
+        "titulo": "¿Representan los autómatas de Musk un mercado masivo para Micron y SK hynix?",
+        "url": "https://es.finance.yahoo.com/noticias/robots-musk-negocio-volumen-micron-160007607.html",
+        "resumen": "",
+        "medio": "Benzinga Espana",
+        "titulo_fuente": "Los robots de Musk, ¿un negocio de volumen para Micron y SK hynix?",
+        "capturado": "2026-10-31T14:27:15-05:00"
+      },
+      {
+        "titulo": "Inversionistas sacan $643 millones de ETF spot de Bitcoin tras el hack cripto más grande de la historia",
+        "url": "https://es.finance.yahoo.com/noticias/inversores-retiran-643-millones-etf-150300948.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Inversores retiran $643 millones de los ETF spot de Bitcoin tras el mayor hack de criptomonedas de la historia",
+        "capturado": "2026-10-31T14:27:15-05:00"
+      },
+      {
+        "titulo": "Mark Cuban advierte burbuja y dice que Apple, Alphabet y Micron operan como acciones meme",
+        "url": "https://es.finance.yahoo.com/noticias/mark-cuban-ve-burbuja-apple-120009532.html",
+        "resumen": "",
+        "medio": "Benzinga Espana",
+        "titulo_fuente": "Mark Cuban ve una burbuja: Apple, Alphabet y Micron cotizan como acciones meme",
+        "capturado": "2026-10-31T14:27:15-05:00"
+      },
       {
         "titulo": "El dólar IA ya está aquí según Deutsche Bank y este sería su impacto en Bitcoin y oro",
         "url": "https://es.finance.yahoo.com/noticias/d%C3%B3lar-ia-deutsche-bank-afectar-130800640.html",
@@ -427,62 +483,6 @@
         "medio": "MT Newswires",
         "titulo_fuente": "Los fondos cotizados en bolsa bajan y los futuros de renta variable presentan resultados mixtos antes de la apertura del mercado el jueves, en medio de los decepcionantes resultados de Alphabet.",
         "capturado": "2026-10-29T10:24:56-05:00"
-      },
-      {
-        "titulo": "Microsoft pretende captar al menos US$25.000 millones mediante su primera colocación de bonos desde 2017",
-        "url": "https://es.finance.yahoo.com/noticias/microsoft-busca-recaudar-us-25-131144556.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Microsoft busca recaudar al menos US$25.000 millones con su primera emisión de bonos desde 2017",
-        "capturado": "2026-10-29T10:24:56-05:00"
-      },
-      {
-        "titulo": "Mercados accionarios con comportamiento dispar tras balances decepcionantes de Alphabet",
-        "url": "https://es.finance.yahoo.com/noticias/bolsas-registran-signo-mixto-decepcionar-070424716.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Las Bolsas registran signo mixto tras decepcionar Alphabet con sus resultados",
-        "capturado": "2026-10-29T03:05:31-05:00"
-      },
-      {
-        "titulo": "Volkswagen deja de percibir 5.800 millones a causa de la rivalidad de China",
-        "url": "https://es.finance.yahoo.com/noticias/volkswagen-registra-p%C3%A9rdidas-5-800-071334934.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Volkswagen pierde 5.800 millones por la competencia china",
-        "capturado": "2026-10-29T03:05:31-05:00"
-      },
-      {
-        "titulo": "Ministros de Energía comunitarios discutirán incremento de combustibles por invierno",
-        "url": "https://es.finance.yahoo.com/noticias/ministros-energ%C3%ADa-ue-debatir%C3%A1n-alza-074923005.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Los ministros de Energía de la UE debatirán el alza de los combustibles ante la llegada del invierno",
-        "capturado": "2026-10-29T03:05:31-05:00"
-      },
-      {
-        "titulo": "Costo del crudo sube 56% en la UE a pesar de mantener similar volumen de compra",
-        "url": "https://es.finance.yahoo.com/noticias/factura-petrolera-europa-ue-paga-043007678.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La factura del petróleo se dispara un 56% en la UE pese a importar casi la misma cantidad",
-        "capturado": "2026-10-29T03:05:31-05:00"
-      },
-      {
-        "titulo": "Airbus contempla nuevo caza con Reino Unido, Japón e Italia tras desacuerdo con Francia",
-        "url": "https://es.finance.yahoo.com/noticias/airbus-busca-acuerdo-caza-reino-051848696.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Airbus abre la puerta a un nuevo caza europeo con Reino Unido, Japón e Italia tras la ruptura con Francia",
-        "capturado": "2026-10-29T03:05:31-05:00"
-      },
-      {
-        "titulo": "Para RBC, la fuerte ejecución del cuarto trimestre resulta vital para recuperar la confianza de los inversores en Airbus",
-        "url": "https://es.finance.yahoo.com/noticias/rbc-s%C3%B3lida-ejecuci%C3%B3n-cuarto-trimestre-054701453.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Según RBC, la sólida ejecución del cuarto trimestre es clave para restablecer la confianza de los inversores en Airbus.",
-        "capturado": "2026-10-29T03:05:31-05:00"
       }
     ]
   }
