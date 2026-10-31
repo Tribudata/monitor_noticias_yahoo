@@ -1,9 +1,33 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-30T21:02:16-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-10-31T03:40:52-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Porcentaje de entrada que gastan los europeos en vivienda y naciones con más presión financiera",
+        "url": "https://es.finance.yahoo.com/noticias/d%C3%B3nde-europa-destina-40-renta-054639635.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "¿Qué parte de sus ingresos destinan los europeos a la vivienda? Los países con mayor sobrecarga",
+        "capturado": "2026-10-31T03:40:52-05:00"
+      },
+      {
+        "titulo": "Fitch conserva la nota de la deuda de Francia aunque empeora su perspectiva a negativa",
+        "url": "https://es.finance.yahoo.com/noticias/fitch-mantiene-nota-deuda-francesa-062711853.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Fitch mantiene la calificación de la deuda francesa, pero rebaja su perspectiva a negativa",
+        "capturado": "2026-10-31T03:40:52-05:00"
+      },
+      {
+        "titulo": "Torneo presencial de Call of Duty con clasificatorias abiertas al público el 31 de octubre en GameClub Mallplaza Vespucio",
+        "url": "https://es-us.noticias.yahoo.com/call-of-duty-torneo-presencial-193155196.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Call of Duty tendrá torneo presencial con clasificatorias abiertas a la comunidad gamer este 31 de octubre en GameClub Mallplaza Vespucio",
+        "capturado": "2026-10-31T03:40:52-05:00"
+      },
       {
         "titulo": "Una calificación en grado especulativo amenaza la oferta pública inicial de Anthropic",
         "url": "https://es.finance.yahoo.com/noticias/ipo-anthropic-enfrenta-riesgo-inesperado-222600754.html",
@@ -458,30 +482,6 @@
         "resumen": "",
         "medio": "MT Newswires",
         "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben y los rendimientos de los bonos del Tesoro caen después de que la Reserva Federal mantuviera sus tasas sin cambios.",
-        "capturado": "2026-10-28T16:49:21-05:00"
-      },
-      {
-        "titulo": "La Fed frena tasas previo a elecciones en EE. UU. y dos funcionarios solicitan alza adicional",
-        "url": "https://es.finance.yahoo.com/noticias/fed-mantiene-tipos-legislativas-ee-190245265.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La Fed mantiene tipos antes de las legislativas de EE.UU. y 2 cargos piden otra subida",
-        "capturado": "2026-10-28T16:49:21-05:00"
-      },
-      {
-        "titulo": "Para 2030, China encabezaría la IA, aunque presenta una debilidad, según Bloomberg",
-        "url": "https://es.finance.yahoo.com/noticias/china-liderar-ia-2030-punto-194904733.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "China podría liderar la IA para 2030, pero tiene un punto débil: Bloomberg",
-        "capturado": "2026-10-28T16:49:21-05:00"
-      },
-      {
-        "titulo": "Warsh, miembro de la Fed, señala que la economía estadounidense no experimenta sobrecalentamiento",
-        "url": "https://es.finance.yahoo.com/noticias/warsh-fed-econom%C3%ADa-eeuu-sobrecalentando-193936594.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Warsh, de la Fed, dice que la economía de EEUU no se está sobrecalentando",
         "capturado": "2026-10-28T16:49:21-05:00"
       }
     ]
