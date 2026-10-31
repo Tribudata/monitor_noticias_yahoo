@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-31T14:27:15-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-10-31T17:43:58-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Dieciocho años de la paradoja de Satoshi: Logrará Bitcoin sobrevivir a lo próximo",
+        "url": "https://es.finance.yahoo.com/noticias/18-a%C3%B1os-paradoja-satoshi-bitcoin-214455731.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "18 años de la paradoja de Satoshi: ¿Podrá Bitcoin sobrevivir a lo que viene?",
+        "capturado": "2026-10-31T17:43:58-05:00"
+      },
+      {
+        "titulo": "Pi Network efectúa cuatro modificaciones previo a su mayor impulso en el ecosistema",
+        "url": "https://es.finance.yahoo.com/noticias/pi-network-realiza-4-cambios-194100495.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Pi Network realiza 4 cambios antes de su mayor impulso en el ecosistema",
+        "capturado": "2026-10-31T17:43:58-05:00"
+      },
       {
         "titulo": "Fuentes indican que OPEP+ mantendría metas de extracción de petróleo intactas en diciembre",
         "url": "https://es.finance.yahoo.com/noticias/opep-acuerda-principio-mantener-metas-182937855.html",
@@ -466,22 +482,6 @@
         "resumen": "",
         "medio": "BeInCrypto",
         "titulo_fuente": "Presión de compra de XRP en Binance alcanza máximo de tres meses: ¿Qué esperar en noviembre?",
-        "capturado": "2026-10-29T10:24:56-05:00"
-      },
-      {
-        "titulo": "Peticiones semanales de ayuda por desempleo en EE. UU. siguen cerca de mínimos de 57 años",
-        "url": "https://es.finance.yahoo.com/noticias/solicitudes-semanales-subsidio-desempleo-eeuu-132127394.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Solicitudes semanales de subsidio por desempleo en EEUU se mantienen cerca de mínimos de 57 años",
-        "capturado": "2026-10-29T10:24:56-05:00"
-      },
-      {
-        "titulo": "Fondos cotizados en bolsa a la baja y futuros mixtos previos a la apertura del jueves por resultados de Alphabet",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-bajan-futuros-131506663.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa bajan y los futuros de renta variable presentan resultados mixtos antes de la apertura del mercado el jueves, en medio de los decepcionantes resultados de Alphabet.",
         "capturado": "2026-10-29T10:24:56-05:00"
       }
     ]
