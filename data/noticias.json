@@ -1,9 +1,49 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-31T03:40:52-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-10-31T10:05:35-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "El dólar IA ya está aquí según Deutsche Bank y este sería su impacto en Bitcoin y oro",
+        "url": "https://es.finance.yahoo.com/noticias/d%C3%B3lar-ia-deutsche-bank-afectar-130800640.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "El “dólar IA” llegó, según Deutsche Bank: así podría afectar a Bitcoin y al oro",
+        "capturado": "2026-10-31T10:05:35-05:00"
+      },
+      {
+        "titulo": "Detalles de la investigación sobre el ataque a Binance y el hurto de 6 mil millones",
+        "url": "https://es.finance.yahoo.com/noticias/ocurri%C3%B3-hack-binance-investigaci%C3%B3n-detallada-111700413.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿Cómo ocurrió el hack de Binance? Investigación detallada del robo de $6 mil millones",
+        "capturado": "2026-10-31T10:05:35-05:00"
+      },
+      {
+        "titulo": "Tres altcoins con opción de alcanzar máximos históricos este fin de semana",
+        "url": "https://es.finance.yahoo.com/noticias/top-3-altcoins-registrar-ath-092000582.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Top 3 altcoins que podrían registrar ATH este fin de semana",
+        "capturado": "2026-10-31T10:05:35-05:00"
+      },
+      {
+        "titulo": "Paradójicamente los mercados financieros suelen favorecer monopolios y la IA replica esto",
+        "url": "https://es.finance.yahoo.com/noticias/parad%C3%B3jicamente-mercados-financieros-tienden-beneficiar-054000424.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "\"Paradójicamente, los mercados financieros tienden a beneficiar a los monopolios y la IA sigue este modelo\"",
+        "capturado": "2026-10-31T10:05:35-05:00"
+      },
+      {
+        "titulo": "Situación de la inteligencia artificial y las tecnológicas del Dow Jones al Nasdaq",
+        "url": "https://es.finance.yahoo.com/noticias/pasa-ia-tecnol%C3%B3gicas-dow-jones-050000857.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "¿Qué pasa con la IA y con las tecnológicas desde el Dow Jones al Nasdaq?",
+        "capturado": "2026-10-31T10:05:35-05:00"
+      },
       {
         "titulo": "Porcentaje de entrada que gastan los europeos en vivienda y naciones con más presión financiera",
         "url": "https://es.finance.yahoo.com/noticias/d%C3%B3nde-europa-destina-40-renta-054639635.html",
@@ -443,46 +483,6 @@
         "medio": "MT Newswires",
         "titulo_fuente": "Según RBC, la sólida ejecución del cuarto trimestre es clave para restablecer la confianza de los inversores en Airbus.",
         "capturado": "2026-10-29T03:05:31-05:00"
-      },
-      {
-        "titulo": "Por qué acumular más fichas ya no basta para las billeteras de criptomonedas",
-        "url": "https://es.finance.yahoo.com/noticias/tokens-suficiente-wallets-criptomonedas-231800932.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿Por qué tener más tokens ya no es suficiente para las wallets de criptomonedas?",
-        "capturado": "2026-10-28T20:35:00-05:00"
-      },
-      {
-        "titulo": "El verdadero peligro para pagos con Bitcoin no es la tecnología, dice grupo de Jack Dorsey",
-        "url": "https://es.finance.yahoo.com/noticias/verdadero-riesgo-pagos-bitcoin-tecnolog%C3%ADa-225200188.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "El verdadero riesgo para pagos con Bitcoin no es la tecnología, según el equipo de Jack Dorsey",
-        "capturado": "2026-10-28T20:35:00-05:00"
-      },
-      {
-        "titulo": "Juez del caso SEC contra Ripple procesará a Nicolás Maduro en Nueva York",
-        "url": "https://es.finance.yahoo.com/noticias/jueza-caso-sec-vs-ripple-222731477.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Jueza del caso SEC vs. Ripple juzgará a Nicolás Maduro en NY",
-        "capturado": "2026-10-28T20:35:00-05:00"
-      },
-      {
-        "titulo": "Strategy avala entrega diaria de dividendos: ¿Retornará la adquisición de Bitcoin?",
-        "url": "https://es.finance.yahoo.com/noticias/strategy-aprueba-pago-diario-dividendos-211700462.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Strategy aprueba pago diario de dividendos: ¿Volverá la compra de Bitcoin?",
-        "capturado": "2026-10-28T20:35:00-05:00"
-      },
-      {
-        "titulo": "Ajuste: Alza en bolsas de EE. UU. y baja en tasas de bonos del Tesoro tras pausa de tipos de la Fed",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-210352573.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben y los rendimientos de los bonos del Tesoro caen después de que la Reserva Federal mantuviera sus tasas sin cambios.",
-        "capturado": "2026-10-28T16:49:21-05:00"
       }
     ]
   }
