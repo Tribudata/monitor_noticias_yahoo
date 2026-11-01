@@ -1,9 +1,57 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-01T03:47:04-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-11-01T10:48:32-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "OPEP+ conserva sin modificaciones las metas de extracción de petróleo para diciembre",
+        "url": "https://es.finance.yahoo.com/noticias/opep-mantiene-cambios-objetivos-producci%C3%B3n-143553187.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "OPEP+ mantiene sin cambios objetivos de producción de crudo para diciembre",
+        "capturado": "2026-11-01T10:48:32-05:00"
+      },
+      {
+        "titulo": "Magnate afirma que GTA 6 permitiría conservar cinco mil dólares de qué manera",
+        "url": "https://es.finance.yahoo.com/noticias/millonario-gta-6-ahorrarte-5-125554942.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Millonario dice que GTA 6 podría ahorrarte $5,000: ¿Cómo?",
+        "capturado": "2026-11-01T10:48:32-05:00"
+      },
+      {
+        "titulo": "Binance habilita de nuevo los retiros de criptoactivos tras hackeo histórico con el 95% cubierto",
+        "url": "https://es.finance.yahoo.com/noticias/binance-reanuda-retiros-criptomonedas-hack-114657116.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Binance reanuda los retiros de criptomonedas tras hack récord: el 95% de las pérdidas están cubiertas",
+        "capturado": "2026-11-01T10:48:32-05:00"
+      },
+      {
+        "titulo": "Tom Lee señala que un único inversionista causaría el desplome accionario en el Nasdaq",
+        "url": "https://es.finance.yahoo.com/noticias/tom-lee-cree-inversor-detr%C3%A1s-093800998.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Tom Lee cree que un solo inversor podría estar detrás de la caída de las acciones del Nasdaq",
+        "capturado": "2026-11-01T10:48:32-05:00"
+      },
+      {
+        "titulo": "Francia destraba sus reservas estratégicas de diésel y las estaciones reportan bajas",
+        "url": "https://es.finance.yahoo.com/noticias/francia-recurre-reservas-estrat%C3%A9gicas-gas%C3%B3leo-084613209.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Francia libera sus reservas estratégicas de gasóleo y las gasolineras anuncian rebajas",
+        "capturado": "2026-11-01T10:48:32-05:00"
+      },
+      {
+        "titulo": "Merlin Properties: centros de datos podrían sumar el 65% de rentas en 2032",
+        "url": "https://es.finance.yahoo.com/noticias/merlin-properties-data-centers-representar-050000225.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "Merlin Properties: \"Los data centers podrían representar el 65% de nuestros ingresos por rentas en 2032\"",
+        "capturado": "2026-11-01T10:48:32-05:00"
+      },
       {
         "titulo": "Aporte capitalino y áreas vitales: fórmula experta de la economía europea ante China y EE. UU.",
         "url": "https://es.finance.yahoo.com/noticias/inversi%C3%B3n-sectores-clave-receta-expertos-040026423.html",
@@ -435,54 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "Polymarket detiene el trading tras reportes de usuarios por drenaje de 1.4 millones de dólares",
         "capturado": "2026-10-29T15:27:10-05:00"
-      },
-      {
-        "titulo": "Moraes representa un nuevo reto para Lula en el Tribunal Supremo",
-        "url": "https://es.finance.yahoo.com/noticias/lula-enfrenta-desaf%C3%ADo-tribunal-supremo-175127992.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Lula enfrenta un nuevo desafío en el Tribunal Supremo: Moraes",
-        "capturado": "2026-10-29T15:27:10-05:00"
-      },
-      {
-        "titulo": "Envíos de stablecoins suben 80% al tiempo que los bancos reconsideran su rol en MERGE Madrid",
-        "url": "https://es.finance.yahoo.com/noticias/transferencias-stablecoins-aumentan-80-bancos-175000153.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Transferencias de stablecoins aumentan un 80% mientras los bancos replantean su papel en MERGE Madrid",
-        "capturado": "2026-10-29T15:27:10-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE UU retroceden por los flojos balances trimestrales de Alphabet que afectan al sector",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-173557330.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen tras los malos resultados trimestrales de Alphabet, que perjudican a los servicios de comunicación.",
-        "capturado": "2026-10-29T15:27:10-05:00"
-      },
-      {
-        "titulo": "Sector demócrata considera viable competirle Florida a los republicanos",
-        "url": "https://es.finance.yahoo.com/noticias/dem%C3%B3cratas-ven-disputar-florida-republicanos-171817535.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Demócratas ven posible disputar Florida a los republicanos",
-        "capturado": "2026-10-29T15:27:10-05:00"
-      },
-      {
-        "titulo": "Lagarde justifica su salida anticipada del BCE afirmando que no puede seguir siendo neutral",
-        "url": "https://es.finance.yahoo.com/noticias/puedo-seguir-neutral-lagarde-explica-154507142.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "\"No puedo seguir siendo neutral\": Lagarde explica por fin su salida anticipada del BCE",
-        "capturado": "2026-10-29T15:27:10-05:00"
-      },
-      {
-        "titulo": "Raoul Pal afirma que la inversión en IA es infinita: ¿Corren riesgo los títulos tecnológicos?",
-        "url": "https://es.finance.yahoo.com/noticias/raoul-pal-gasto-ia-techo-150800800.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Raoul Pal dice que el gasto en IA no tiene techo: ¿Están en peligro las acciones tecnológicas?",
-        "capturado": "2026-10-29T10:24:56-05:00"
       }
     ]
   }
