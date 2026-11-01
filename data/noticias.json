@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-31T20:54:07-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-11-01T03:47:04-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Aporte capitalino y áreas vitales: fórmula experta de la economía europea ante China y EE. UU.",
+        "url": "https://es.finance.yahoo.com/noticias/inversi%C3%B3n-sectores-clave-receta-expertos-040026423.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Inversión y sectores clave: La receta de los expertos para la economía europea frente a China y EE.UU.",
+        "capturado": "2026-11-01T03:47:04-05:00"
+      },
+      {
+        "titulo": "Descarga gratis el port para PC de Fire Emblem Three Houses que corre sin emulador a 60 FPS, con resoluciones más altas y soporte para DLC",
+        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-port-pc-fire-182719780.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Descarga gratis el port para PC de Fire Emblem Three Houses que corre sin emulador a 60 FPS, con resoluciones más altas y soporte para DLC",
+        "capturado": "2026-11-01T03:47:04-05:00"
+      },
       {
         "titulo": "Por qué la siguiente marca histórica de Bitcoin se ve lejana tras el ataque informático a Binance",
         "url": "https://es.finance.yahoo.com/noticias/m%C3%A1ximo-hist%C3%B3rico-bitcoin-lejano-hack-232200863.html",
@@ -466,22 +482,6 @@
         "resumen": "",
         "medio": "BeInCrypto",
         "titulo_fuente": "Raoul Pal dice que el gasto en IA no tiene techo: ¿Están en peligro las acciones tecnológicas?",
-        "capturado": "2026-10-29T10:24:56-05:00"
-      },
-      {
-        "titulo": "Bolsa de Argentina muestra cotizaciones estables debido a diversas circunstancias",
-        "url": "https://es.finance.yahoo.com/noticias/plaza-financiera-argentina-lateraliza-precios-144551998.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Plaza financiera de Argentina lateraliza precios condicionada por factores múltiples",
-        "capturado": "2026-10-29T10:24:56-05:00"
-      },
-      {
-        "titulo": "Banco Central Europeo conserva tasas en 2,5% y Lagarde comunica su retiro prematuro",
-        "url": "https://es.finance.yahoo.com/noticias/bce-mantiene-tipos-2-5-132703078.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El BCE mantiene los tipos en el 2,5% mientras Lagarde anuncia su salida anticipada",
         "capturado": "2026-10-29T10:24:56-05:00"
       }
     ]
