@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-10-31T17:43:58-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-10-31T20:54:07-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Por qué la siguiente marca histórica de Bitcoin se ve lejana tras el ataque informático a Binance",
+        "url": "https://es.finance.yahoo.com/noticias/m%C3%A1ximo-hist%C3%B3rico-bitcoin-lejano-hack-232200863.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿Por qué el próximo máximo histórico de Bitcoin parece lejano tras el hack de Binance?",
+        "capturado": "2026-10-31T20:54:07-05:00"
+      },
       {
         "titulo": "Dieciocho años de la paradoja de Satoshi: Logrará Bitcoin sobrevivir a lo próximo",
         "url": "https://es.finance.yahoo.com/noticias/18-a%C3%B1os-paradoja-satoshi-bitcoin-214455731.html",
@@ -474,14 +482,6 @@
         "resumen": "",
         "medio": "Euronews",
         "titulo_fuente": "El BCE mantiene los tipos en el 2,5% mientras Lagarde anuncia su salida anticipada",
-        "capturado": "2026-10-29T10:24:56-05:00"
-      },
-      {
-        "titulo": "Demanda de XRP en Binance toca pico trimestral: ¿Qué se prevé para noviembre?",
-        "url": "https://es.finance.yahoo.com/noticias/presi%C3%B3n-compra-xrp-binance-alcanza-134200197.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Presión de compra de XRP en Binance alcanza máximo de tres meses: ¿Qué esperar en noviembre?",
         "capturado": "2026-10-29T10:24:56-05:00"
       }
     ]
