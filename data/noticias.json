@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-01T15:15:19-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-11-01T18:46:39-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Genera dudas la seguridad de Coinbase luego del gigante ataque a Binance",
+        "url": "https://es.finance.yahoo.com/noticias/seguro-coinbase-monumental-hack-binance-210000377.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿Es seguro Coinbase tras el monumental hack de Binance?",
+        "capturado": "2026-11-01T18:46:39-05:00"
+      },
       {
         "titulo": "Impacto Lula: El mercado accionario de Brasil sufre su peor mes desde 2022 y la divisa norteamericana sube",
         "url": "https://es.finance.yahoo.com/noticias/efecto-lula-bolsa-brasile%C3%B1a-peor-173600143.html",
@@ -474,14 +482,6 @@
         "resumen": "",
         "medio": "BeInCrypto",
         "titulo_fuente": "¿Está siendo hackeado Binance? Salida de 2 mil millones de dólares pone en duda los fondos de los clientes",
-        "capturado": "2026-10-29T19:09:04-05:00"
-      },
-      {
-        "titulo": "Coinbase anuncia utilidad inesperada al tiempo que directivos proyectan venta accionaria por 2.000 millones",
-        "url": "https://es.finance.yahoo.com/noticias/coinbase-reporta-ganancia-sorpresa-insiders-203858827.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Coinbase reporta ganancia sorpresa mientras insiders planean venta de acciones por 2 mil millones de dólares: ¿por qué ahora?",
         "capturado": "2026-10-29T19:09:04-05:00"
       }
     ]
