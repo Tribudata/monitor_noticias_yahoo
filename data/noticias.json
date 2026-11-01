@@ -1,9 +1,33 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-01T10:48:32-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-11-01T15:15:19-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Impacto Lula: El mercado accionario de Brasil sufre su peor mes desde 2022 y la divisa norteamericana sube",
+        "url": "https://es.finance.yahoo.com/noticias/efecto-lula-bolsa-brasile%C3%B1a-peor-173600143.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Efecto Lula: La bolsa brasileña tiene su peor mes desde 2022 y el dólar se dispara",
+        "capturado": "2026-11-01T15:15:19-05:00"
+      },
+      {
+        "titulo": "Bitwise sube su pronóstico para Bitcoin a 1,6 millones de dólares hacia el año 2036",
+        "url": "https://es.finance.yahoo.com/noticias/bitwise-eleva-previsi%C3%B3n-bitcoin-1-170007541.html",
+        "resumen": "",
+        "medio": "Benzinga Espana",
+        "titulo_fuente": "Bitwise eleva su previsión para Bitcoin hasta 1,6 millones de dólares en 2036",
+        "capturado": "2026-11-01T15:15:19-05:00"
+      },
+      {
+        "titulo": "Quién asumirá sus decisiones financieras en el año 2027",
+        "url": "https://es.finance.yahoo.com/noticias/tomar%C3%A1-tus-decisiones-inversi%C3%B3n-2027-151300401.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿Quién tomará tus decisiones de inversión en 2027?",
+        "capturado": "2026-11-01T15:15:19-05:00"
+      },
       {
         "titulo": "OPEP+ conserva sin modificaciones las metas de extracción de petróleo para diciembre",
         "url": "https://es.finance.yahoo.com/noticias/opep-mantiene-cambios-objetivos-producci%C3%B3n-143553187.html",
@@ -459,30 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "Coinbase reporta ganancia sorpresa mientras insiders planean venta de acciones por 2 mil millones de dólares: ¿por qué ahora?",
         "capturado": "2026-10-29T19:09:04-05:00"
-      },
-      {
-        "titulo": "Presidenta encargada anuncia que Venezuela venderá activos estatales no esenciales a privados y dueños",
-        "url": "https://es.finance.yahoo.com/noticias/venezuela-ofrecer%C3%A1-activos-estatales-esenciales-201850264.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Venezuela ofrecerá activos estatales no esenciales a privados y antiguos propietarios, dice presidenta encargada",
-        "capturado": "2026-10-29T15:27:10-05:00"
-      },
-      {
-        "titulo": "El voto de Brasil y su impacto financiero a través de soja, tierras raras y combustibles",
-        "url": "https://es.finance.yahoo.com/noticias/soja-tierras-raras-combustibles-influye-200331444.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Soja, tierras raras y combustibles: cómo influye el voto de Brasil en el flujo de recursos",
-        "capturado": "2026-10-29T15:27:10-05:00"
-      },
-      {
-        "titulo": "Polymarket suspende operaciones tras denuncias de usuarios por robo de 1,4 millones de dólares",
-        "url": "https://es.finance.yahoo.com/noticias/polymarket-detiene-trading-reportes-usuarios-183518170.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Polymarket detiene el trading tras reportes de usuarios por drenaje de 1.4 millones de dólares",
-        "capturado": "2026-10-29T15:27:10-05:00"
       }
     ]
   }
