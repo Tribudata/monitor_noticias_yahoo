@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-01T23:43:22-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-11-02T08:09:01-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Ventas externas agrícolas argentinas crecen 157% anual en octubre según CIARA-CEC",
+        "url": "https://es.finance.yahoo.com/noticias/ingresos-exportaciones-agro-argentina-trepan-123727038.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Ingresos exportaciones agro Argentina trepan 157% interanual en octubre: CIARA-CEC",
+        "capturado": "2026-11-02T08:09:01-05:00"
+      },
+      {
+        "titulo": "Valores habitacionales portugueses aumentan 7,5% en octubre y alcanzan máximo histórico",
+        "url": "https://es.finance.yahoo.com/noticias/precios-vivienda-portugal-suben-7-122129435.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Los precios de la vivienda en Portugal suben un 7,5% en octubre y marcan récord histórico",
+        "capturado": "2026-11-02T08:09:01-05:00"
+      },
+      {
+        "titulo": "Fondos cotizados de Ethereum anotan su peor mes desde su estreno en 2024",
+        "url": "https://es.finance.yahoo.com/noticias/etf-ethereum-registran-peor-mes-115910346.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "ETF de Ethereum registran su peor mes desde su debut en 2024",
+        "capturado": "2026-11-02T08:09:01-05:00"
+      },
+      {
+        "titulo": "Kuwait incrementa bombeo de crudo en octubre y alcanza nivel máximo desde inicio de guerra con Irán",
+        "url": "https://es.finance.yahoo.com/noticias/kuwait-aumenta-producci%C3%B3n-petrolera-octubre-115722162.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Kuwait aumenta producción petrolera en octubre y toca pico desde inicio de guerra con Irán: fuente",
+        "capturado": "2026-11-02T08:09:01-05:00"
+      },
+      {
+        "titulo": "Apple divulga sus primeros balances con Ternus ante alza en valor de los microchips",
+        "url": "https://es.finance.yahoo.com/noticias/apple-presenta-resultados-ternus-pleno-114257367.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Apple presenta sus primeros resultados con Ternus en pleno aumento del coste de los chips",
+        "capturado": "2026-11-02T08:09:01-05:00"
+      },
+      {
+        "titulo": "Wall Street sube antes de abrir por avance tecnológico y baja del crudo; Asia mixto y Europa al alza",
+        "url": "https://es.finance.yahoo.com/noticias/repunte-tecnol%C3%B3gico-ca%C3%ADda-petr%C3%B3leo-impulsan-113558381.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "El repunte tecnológico y la caída del petróleo impulsan a Wall Street antes de la apertura; Asia presenta resultados mixtos, Europa registra ganancias.",
+        "capturado": "2026-11-02T08:09:01-05:00"
+      },
+      {
+        "titulo": "El sector manufacturero de la eurozona sigue creciendo en octubre con trabas en suministros",
+        "url": "https://es.finance.yahoo.com/noticias/producci%C3%B3n-manufacturera-eurozona-mantiene-crecimiento-110345093.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "La producción manufacturera de la eurozona mantiene un crecimiento \"sólido\" en octubre en medio de crecientes presiones en la cadena de suministro.",
+        "capturado": "2026-11-02T08:09:01-05:00"
+      },
+      {
+        "titulo": "Compañías argentinas padecen crisis y generan incertidumbre sobre la estrategia de Milei",
+        "url": "https://es.finance.yahoo.com/noticias/empresas-argentinas-sufren-recesi%C3%B3n-siembran-110207540.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Empresas argentinas sufren recesión y siembran dudas sobre plan de Milei",
+        "capturado": "2026-11-02T08:09:01-05:00"
+      },
       {
         "titulo": "Razones del cambio en el nuevo ciclo de Bitcoin según el director ejecutivo de BloFin",
         "url": "https://es.finance.yahoo.com/noticias/ciclo-bitcoin-ser-ceo-blofin-005700367.html",
@@ -419,70 +483,6 @@
         "medio": "MT Newswires",
         "titulo_fuente": "La economía de la eurozona crece más de lo esperado en el tercer trimestre.",
         "capturado": "2026-10-30T08:19:52-05:00"
-      },
-      {
-        "titulo": "Los balances de Amazon e Intel bajaron los futuros bursátiles de EE UU previo a la apertura",
-        "url": "https://es.finance.yahoo.com/noticias/resultados-amazon-intel-lastraron-futuros-120829782.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los resultados de Amazon e Intel lastraron los futuros de las acciones estadounidenses antes de la apertura del mercado.",
-        "capturado": "2026-10-30T08:19:52-05:00"
-      },
-      {
-        "titulo": "El retroceso de tecnológicas se acentúa debido a interrogantes sobre inversión en IA",
-        "url": "https://es.finance.yahoo.com/noticias/ca%C3%ADda-tecnol%C3%B3gicas-intensifica-dudas-gasto-115214658.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Caída de tecnológicas se intensifica por dudas sobre gasto en IA",
-        "capturado": "2026-10-30T08:19:52-05:00"
-      },
-      {
-        "titulo": "Aranceles de la UE a Shein y Temu sumarían 6.000 millones de euros al erario",
-        "url": "https://es.finance.yahoo.com/noticias/impuestos-ue-shein-temu-aportar-114323387.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Los impuestos de la UE a Shein y Temu podrían aportar 6.000 millones de euros al presupuesto",
-        "capturado": "2026-10-30T08:19:52-05:00"
-      },
-      {
-        "titulo": "Un ataque informático a Binance afecta miles de millones de dólares y fuerza a congelar recursos",
-        "url": "https://es.finance.yahoo.com/noticias/plataforma-criptomonedas-binance-confirma-hackeo-050737139.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Un ciberataque a Binance compromete miles de millones de dólares y obliga a congelar fondos",
-        "capturado": "2026-10-30T01:13:42-05:00"
-      },
-      {
-        "titulo": "El Banco de Japón llega a la meta de inflación del dos por ciento tras más de diez años",
-        "url": "https://es.finance.yahoo.com/noticias/banco-jap%C3%B3n-inflaci%C3%B3n-alcanza-2-054756825.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El Banco de Japón alcanza el objetivo de inflación del dos por ciento tras más de una década",
-        "capturado": "2026-10-30T01:13:42-05:00"
-      },
-      {
-        "titulo": "Gobierno nacional radica iniciativa tributaria para disminuir gastos y elevar recaudo",
-        "url": "https://es.finance.yahoo.com/noticias/gobierno-colombia-presenta-proyecto-reforma-232627737.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Gobierno de Colombia presenta proyecto de reforma fiscal para recortar gastos y aumentar ingresos",
-        "capturado": "2026-10-29T19:09:04-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE UU bajan tras malos resultados de Alphabet que afectan servicios de comunicación",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-210938000.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen a medida que los decepcionantes resultados de Alphabet diezman los servicios de comunicación.",
-        "capturado": "2026-10-29T19:09:04-05:00"
-      },
-      {
-        "titulo": "Liquidaciones cripto pasan de 628 millones de dólares en una hora por temor a hackeo en Binance que desploma a Bitcoin",
-        "url": "https://es.finance.yahoo.com/noticias/liquidaciones-cripto-superan-628-millones-210259727.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Las liquidaciones cripto superan los 628 millones de dólares en una hora mientras el miedo a un hack en Binance hunde el precio de Bitcoin",
-        "capturado": "2026-10-29T19:09:04-05:00"
       }
     ]
   }
