@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-01T18:46:39-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-11-01T23:43:22-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Razones del cambio en el nuevo ciclo de Bitcoin según el director ejecutivo de BloFin",
+        "url": "https://es.finance.yahoo.com/noticias/ciclo-bitcoin-ser-ceo-blofin-005700367.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿Por qué el próximo ciclo de Bitcoin podría ser muy diferente? El CEO de BloFin responde",
+        "capturado": "2026-11-01T23:43:22-05:00"
+      },
+      {
+        "titulo": "Obtenga sin costo adaptaciones para PC de títulos de PS Vita con mejor resolución y tasa",
+        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-ports-pc-uncharted-143003310.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Descarga gratis los ports para PC de Uncharted Golden Abyss, Killzone Mercenary y otros juegos de PS Vita que corren sin emulador, a 60 FPS y a mayor resolución",
+        "capturado": "2026-11-01T23:43:22-05:00"
+      },
       {
         "titulo": "Genera dudas la seguridad de Coinbase luego del gigante ataque a Binance",
         "url": "https://es.finance.yahoo.com/noticias/seguro-coinbase-monumental-hack-binance-210000377.html",
@@ -466,22 +482,6 @@
         "resumen": "",
         "medio": "BeInCrypto",
         "titulo_fuente": "Las liquidaciones cripto superan los 628 millones de dólares en una hora mientras el miedo a un hack en Binance hunde el precio de Bitcoin",
-        "capturado": "2026-10-29T19:09:04-05:00"
-      },
-      {
-        "titulo": "Volumen de stablecoins en Visa aumentó diez veces en un año y estas son las beneficiadas",
-        "url": "https://es.finance.yahoo.com/noticias/volumen-stablecoins-visa-creci%C3%B3-10x-205800189.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Volumen de stablecoins de Visa creció 10x en un año: ¿Cuáles stablecoins se benefician?",
-        "capturado": "2026-10-29T19:09:04-05:00"
-      },
-      {
-        "titulo": "Salida de 2 mil millones de dólares en Binance genera dudas sobre los fondos de clientes ante posible hackeo",
-        "url": "https://es.finance.yahoo.com/noticias/hackeando-binance-salida-2-mil-204922706.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿Está siendo hackeado Binance? Salida de 2 mil millones de dólares pone en duda los fondos de los clientes",
         "capturado": "2026-10-29T19:09:04-05:00"
       }
     ]
