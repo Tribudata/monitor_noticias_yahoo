@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-02T08:09:01-05:00",
+  "actualizado": "2026-11-02T17:24:43-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Wall Street repunta mientras bajan el crudo y los rendimientos de los bonos",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-191826313.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben en medio de la caída del petróleo crudo y los rendimientos de los bonos del Tesoro.",
+        "capturado": "2026-11-02T17:24:43-05:00"
+      },
+      {
+        "titulo": "Fabricantes de autos piden al Congreso estadounidense vetar de forma definitiva los vehículos de China",
+        "url": "https://es.finance.yahoo.com/noticias/automotrices-instan-congreso-eeuu-aprobar-185716930.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Automotrices instan al Congreso de EEUU a aprobar una prohibición permanente a los vehículos chinos",
+        "capturado": "2026-11-02T17:24:43-05:00"
+      },
+      {
+        "titulo": "Wall Street registra su mayor cambio sectorial desde la época de la burbuja puntocom",
+        "url": "https://es.finance.yahoo.com/noticias/wall-street-vive-rotaci%C3%B3n-sectorial-184007205.html",
+        "resumen": "",
+        "medio": "Benzinga Espana",
+        "titulo_fuente": "Wall Street vive su mayor rotación sectorial desde la burbuja puntocom",
+        "capturado": "2026-11-02T17:24:43-05:00"
+      },
+      {
+        "titulo": "Los fondos cotizados trepan al tiempo que las acciones de EE. UU. suben tras el mediodía",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-suben-medida-182141378.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa suben a medida que las acciones estadounidenses repuntan después del mediodía.",
+        "capturado": "2026-11-02T17:24:43-05:00"
+      },
+      {
+        "titulo": "Las acciones de American Airlines suben con fuerza debido al descenso del petróleo",
+        "url": "https://es.finance.yahoo.com/noticias/american-airlines-dispara-bolsa-ca%C3%ADda-182009941.html",
+        "resumen": "",
+        "medio": "Benzinga Espana",
+        "titulo_fuente": "American Airlines se dispara en bolsa por la caída del petróleo",
+        "capturado": "2026-11-02T17:24:43-05:00"
+      },
+      {
+        "titulo": "Meta contempla captar al menos US$20.000 millones mediante eventuales emisiones de bonos",
+        "url": "https://es.finance.yahoo.com/noticias/meta-prev%C3%A9-recaudar-us-20-180647292.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Meta prevé recaudar al menos US$20.000 millones en posibles emisiones de bonos",
+        "capturado": "2026-11-02T17:24:43-05:00"
+      },
+      {
+        "titulo": "Fox eleva su pauta comercial impulsada por la Copa del Mundo y los comicios",
+        "url": "https://es.finance.yahoo.com/noticias/fox-dispara-ingresos-publicitarios-gracias-180107434.html",
+        "resumen": "",
+        "medio": "Benzinga Espana",
+        "titulo_fuente": "Fox dispara sus ingresos publicitarios gracias al Mundial y las elecciones",
+        "capturado": "2026-11-02T17:24:43-05:00"
+      },
+      {
+        "titulo": "Ryanair analiza ajustes frente a un probable incremento de 2.000 millones de euros en carburante",
+        "url": "https://es.finance.yahoo.com/noticias/ryanair-revisa-costes-aerol%C3%ADnea-factura-101127125.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Ryanair estudia recortes ante una posible subida de 2.000 millones de euros en combustible",
+        "capturado": "2026-11-02T17:24:43-05:00"
+      },
       {
         "titulo": "Ventas externas agrícolas argentinas crecen 157% anual en octubre según CIARA-CEC",
         "url": "https://es.finance.yahoo.com/noticias/ingresos-exportaciones-agro-argentina-trepan-123727038.html",
@@ -419,70 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Musalem, de la Fed, dice que es necesario subir las tasas \"pronto\"",
         "capturado": "2026-10-30T13:44:19-05:00"
-      },
-      {
-        "titulo": "Daly, de la Fed, señala que la IA importa para la política monetaria a corto y mediano plazo",
-        "url": "https://es.finance.yahoo.com/noticias/daly-fed-ia-importante-pol%C3%ADtica-164802435.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Daly, de la Fed, dice que IA es importante para la política monetaria a medio y corto plazo",
-        "capturado": "2026-10-30T13:44:19-05:00"
-      },
-      {
-        "titulo": "Exportaciones de petróleo saudí aumentan en octubre, según dos de tres firmas de rastreo",
-        "url": "https://es.finance.yahoo.com/noticias/exportaciones-petroleras-saud%C3%ADes-suben-octubre-164055188.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Exportaciones petroleras saudíes suben en octubre, según dos de tres empresas de seguimiento",
-        "capturado": "2026-10-30T13:44:19-05:00"
-      },
-      {
-        "titulo": "El negocio de IA de Intel subió 78%: por qué su acción cayó 30%",
-        "url": "https://es.finance.yahoo.com/noticias/negocio-ia-intel-creci%C3%B3-78-164000925.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "El negocio de IA de Intel creció 78%: ¿Por qué la acción se desplomó 30%?",
-        "capturado": "2026-10-30T13:44:19-05:00"
-      },
-      {
-        "titulo": "Reseña de criptoactivos y Bitcoin al 30 de octubre",
-        "url": "https://es.finance.yahoo.com/noticias/resumen-semanal-bitcoin-criptomonedas-30-130100788.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Resumen semanal de Bitcoin y criptomonedas: 30 de octubre",
-        "capturado": "2026-10-30T08:19:52-05:00"
-      },
-      {
-        "titulo": "Reporte: Balances de Amazon e Intel afectan futuros bursátiles en EE UU previos a la apertura",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-resultados-amazon-intel-lastran-125220366.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los resultados de Amazon e Intel lastran los futuros de las acciones estadounidenses antes de la apertura del mercado.",
-        "capturado": "2026-10-30T08:19:52-05:00"
-      },
-      {
-        "titulo": "Alza inflacionaria en España e Italia enciende alertas financieras en la zona euro",
-        "url": "https://es.finance.yahoo.com/noticias/inflaci%C3%B3n-italia-dispara-5-4-123053790.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La inflación golpea a España e Italia y dispara las alarmas económicas en la eurozona",
-        "capturado": "2026-10-30T08:19:52-05:00"
-      },
-      {
-        "titulo": "AstraZeneca aumenta su ganancia un 23% impulsada por comercialización de fármacos oncológicos",
-        "url": "https://es.finance.yahoo.com/noticias/astrazeneca-dispara-beneficio-23-gracias-122219976.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "AstraZeneca dispara su beneficio un 23% gracias a las ventas de medicamentos contra el cáncer",
-        "capturado": "2026-10-30T08:19:52-05:00"
-      },
-      {
-        "titulo": "PIB de la eurozona supera previsiones durante el tercer trimestre",
-        "url": "https://es.finance.yahoo.com/noticias/econom%C3%ADa-eurozona-crece-esperado-tercer-121543643.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "La economía de la eurozona crece más de lo esperado en el tercer trimestre.",
-        "capturado": "2026-10-30T08:19:52-05:00"
       }
     ]
   }
