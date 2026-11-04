@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-04T10:08:59-05:00",
+  "actualizado": "2026-11-04T16:24:47-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Congreso de Paraguay aplaza nombramiento de cabeza del Banco Central",
+        "url": "https://es.finance.yahoo.com/noticias/senado-paraguayo-posterga-designaci%C3%B3n-titular-205643916.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Senado paraguayo posterga designación de nuevo titular del Banco Central",
+        "capturado": "2026-11-04T16:24:47-05:00"
+      },
+      {
+        "titulo": "Entidad financiera gala Crédit Mutuel Arkéa padece hackeo de 118 millones de euros",
+        "url": "https://es.finance.yahoo.com/noticias/banco-franc%C3%A9s-cr%C3%A9dit-mutuel-ark%C3%A9a-112538689.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El banco francés Crédit Mutuel Arkéa sufre un ciberataque de 118 millones de euros",
+        "capturado": "2026-11-04T16:24:47-05:00"
+      },
+      {
+        "titulo": "Apple disminuye la inversión de su personal en inteligencia artificial",
+        "url": "https://es.finance.yahoo.com/noticias/apple-recorta-gasto-empleados-inteligencia-200301422.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Apple recorta el gasto de sus empleados en inteligencia artificial",
+        "capturado": "2026-11-04T16:24:47-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE UU suben y baja el crudo por avance demócrata en comicios de mitad de término",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-disparan-194711459.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses se disparan mientras los avances sísmicos de los demócratas en las elecciones de mitad de mandato provocan una caída del petróleo crudo.",
+        "capturado": "2026-11-04T16:24:47-05:00"
+      },
+      {
+        "titulo": "Iniciativa tributaria a ricos fallaría al tiempo que California continúa conteo de votos",
+        "url": "https://es.finance.yahoo.com/noticias/medida-fiscal-multimillonarios-fracasar%C3%ADa-california-193418814.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Medida fiscal sobre multimillonarios fracasaría mientras California sigue recontando los votos",
+        "capturado": "2026-11-04T16:24:47-05:00"
+      },
+      {
+        "titulo": "Wall Street repunta al compás de la baja del crudo tras el avance demócrata en las elecciones",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-disparan-191222356.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses se disparan mientras los avances sísmicos de los demócratas en las elecciones de mitad de mandato provocan una caída del petróleo crudo.",
+        "capturado": "2026-11-04T16:24:47-05:00"
+      },
+      {
+        "titulo": "El revés electoral llevaría a Trump a intensificar su política exterior",
+        "url": "https://es.finance.yahoo.com/noticias/trump-redoblar-agenda-exterior-derrota-190308385.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Trump podría redoblar su agenda exterior tras derrota electoral",
+        "capturado": "2026-11-04T16:24:47-05:00"
+      },
+      {
+        "titulo": "El costo de vida en la eurozona trepa al 4% en octubre por el factor energético",
+        "url": "https://es.finance.yahoo.com/noticias/inflaci%C3%B3n-eurozona-sube-4-octubre-110114802.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "La inflación de la eurozona sube al 4% en octubre, impulsada por la energía",
+        "capturado": "2026-11-04T16:24:47-05:00"
+      },
       {
         "titulo": "Peso argentino toca nuevo mínimo y riesgo país permanece sobre los 800 puntos",
         "url": "https://es.finance.yahoo.com/noticias/peso-argentino-renueva-piso-r%C3%A9cord-142746078.html",
@@ -419,70 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Empresas argentinas sufren recesión y siembran dudas sobre plan de Milei",
         "capturado": "2026-11-02T08:09:01-05:00"
-      },
-      {
-        "titulo": "Razones del cambio en el nuevo ciclo de Bitcoin según el director ejecutivo de BloFin",
-        "url": "https://es.finance.yahoo.com/noticias/ciclo-bitcoin-ser-ceo-blofin-005700367.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿Por qué el próximo ciclo de Bitcoin podría ser muy diferente? El CEO de BloFin responde",
-        "capturado": "2026-11-01T23:43:22-05:00"
-      },
-      {
-        "titulo": "Obtenga sin costo adaptaciones para PC de títulos de PS Vita con mejor resolución y tasa",
-        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-ports-pc-uncharted-143003310.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Descarga gratis los ports para PC de Uncharted Golden Abyss, Killzone Mercenary y otros juegos de PS Vita que corren sin emulador, a 60 FPS y a mayor resolución",
-        "capturado": "2026-11-01T23:43:22-05:00"
-      },
-      {
-        "titulo": "Genera dudas la seguridad de Coinbase luego del gigante ataque a Binance",
-        "url": "https://es.finance.yahoo.com/noticias/seguro-coinbase-monumental-hack-binance-210000377.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿Es seguro Coinbase tras el monumental hack de Binance?",
-        "capturado": "2026-11-01T18:46:39-05:00"
-      },
-      {
-        "titulo": "Impacto Lula: El mercado accionario de Brasil sufre su peor mes desde 2022 y la divisa norteamericana sube",
-        "url": "https://es.finance.yahoo.com/noticias/efecto-lula-bolsa-brasile%C3%B1a-peor-173600143.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Efecto Lula: La bolsa brasileña tiene su peor mes desde 2022 y el dólar se dispara",
-        "capturado": "2026-11-01T15:15:19-05:00"
-      },
-      {
-        "titulo": "Bitwise sube su pronóstico para Bitcoin a 1,6 millones de dólares hacia el año 2036",
-        "url": "https://es.finance.yahoo.com/noticias/bitwise-eleva-previsi%C3%B3n-bitcoin-1-170007541.html",
-        "resumen": "",
-        "medio": "Benzinga Espana",
-        "titulo_fuente": "Bitwise eleva su previsión para Bitcoin hasta 1,6 millones de dólares en 2036",
-        "capturado": "2026-11-01T15:15:19-05:00"
-      },
-      {
-        "titulo": "Quién asumirá sus decisiones financieras en el año 2027",
-        "url": "https://es.finance.yahoo.com/noticias/tomar%C3%A1-tus-decisiones-inversi%C3%B3n-2027-151300401.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿Quién tomará tus decisiones de inversión en 2027?",
-        "capturado": "2026-11-01T15:15:19-05:00"
-      },
-      {
-        "titulo": "OPEP+ conserva sin modificaciones las metas de extracción de petróleo para diciembre",
-        "url": "https://es.finance.yahoo.com/noticias/opep-mantiene-cambios-objetivos-producci%C3%B3n-143553187.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "OPEP+ mantiene sin cambios objetivos de producción de crudo para diciembre",
-        "capturado": "2026-11-01T10:48:32-05:00"
-      },
-      {
-        "titulo": "Magnate afirma que GTA 6 permitiría conservar cinco mil dólares de qué manera",
-        "url": "https://es.finance.yahoo.com/noticias/millonario-gta-6-ahorrarte-5-125554942.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Millonario dice que GTA 6 podría ahorrarte $5,000: ¿Cómo?",
-        "capturado": "2026-11-01T10:48:32-05:00"
       }
     ]
   }
