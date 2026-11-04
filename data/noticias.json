@@ -1,9 +1,49 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-03T14:08:17-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-11-03T19:06:07-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Fuentes indican que trabajadores de OpenAI alertan sobre fallos de seguridad operativa desde hace años",
+        "url": "https://es.finance.yahoo.com/noticias/empleados-openai-llevan-a%C3%B1os-advirtiendo-200413579.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Empleados de OpenAI llevan años advirtiendo de fallos en la seguridad operativa: fuentes",
+        "capturado": "2026-11-03T19:06:07-05:00"
+      },
+      {
+        "titulo": "Wall Street opera mixto por cifras flojas de Apple y a la espera de las elecciones legislativas",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-191440220.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos tras las decepcionantes cifras del cuarto trimestre fiscal de Apple, mientras los inversores esperan los resultados de las elecciones de mitad de mandato.",
+        "capturado": "2026-11-03T19:06:07-05:00"
+      },
+      {
+        "titulo": "Dimite el titular del Banco Central de Paraguay luego de la intervención a una entidad local",
+        "url": "https://es.finance.yahoo.com/noticias/presidente-banco-central-paraguayo-renuncia-190752796.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Presidente del Banco Central paraguayo renuncia tras intervención a banco local",
+        "capturado": "2026-11-03T19:06:07-05:00"
+      },
+      {
+        "titulo": "SpaceX requiere antenas en tierra para rivalizar con AT&T, T-Mobile y Verizon",
+        "url": "https://es.finance.yahoo.com/noticias/spacex-spcx-necesita-antenas-terrestres-180108324.html",
+        "resumen": "",
+        "medio": "Benzinga Espana",
+        "titulo_fuente": "SpaceX (SPCX) necesita antenas terrestres para competir con AT&T, T-Mobile y Verizon",
+        "capturado": "2026-11-03T19:06:07-05:00"
+      },
+      {
+        "titulo": "Palantir baja a pesar de batir pronósticos, mas la inteligencia artificial soberana alzaría su valor",
+        "url": "https://es.finance.yahoo.com/noticias/palantir-cae-pese-superar-previsiones-174007292.html",
+        "resumen": "",
+        "medio": "Benzinga Espana",
+        "titulo_fuente": "Palantir cae pese a superar previsiones, pero la IA soberana podría impulsar su próximo rally",
+        "capturado": "2026-11-03T19:06:07-05:00"
+      },
       {
         "titulo": "Perú lanza estrategia naval para proteger ventas externas frente al fenómeno El Niño",
         "url": "https://es.finance.yahoo.com/noticias/per%C3%BA-anuncia-plan-transporte-mar%C3%ADtimo-182400060.html",
@@ -442,46 +482,6 @@
         "resumen": "",
         "medio": "Reuters",
         "titulo_fuente": "OPEP+ acuerda en principio mantener metas de bombeo de crudo sin cambios en diciembre, dicen fuentes",
-        "capturado": "2026-10-31T14:27:15-05:00"
-      },
-      {
-        "titulo": "Firma de rastreo cripto Chainalysis es vulnerada por agentes de inteligencia artificial",
-        "url": "https://es.finance.yahoo.com/noticias/chainalysis-firma-caza-hackers-criptomonedas-175200076.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Chainalysis, la firma que caza hackers de criptomonedas, sufre hack con agentes de IA",
-        "capturado": "2026-10-31T14:27:15-05:00"
-      },
-      {
-        "titulo": "Compañía petrolera de EE. UU. NABEP bajará su flota en Venezuela a 41 equipos en noviembre",
-        "url": "https://es.finance.yahoo.com/noticias/petrolera-estadounidense-nabep-reducir%C3%A1-flota-170623059.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Petrolera estadounidense NABEP dice reducirá la flota venezolana a 41 plataformas en noviembre",
-        "capturado": "2026-10-31T14:27:15-05:00"
-      },
-      {
-        "titulo": "Halloween compite con Nochevieja por ser la velada de mayor ganancia anual en España",
-        "url": "https://es.finance.yahoo.com/noticias/halloween-dispara-29-negocio-ocio-152452279.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Halloween desafía a Nochevieja como la noche más rentable del año en España",
-        "capturado": "2026-10-31T14:27:15-05:00"
-      },
-      {
-        "titulo": "¿Representan los autómatas de Musk un mercado masivo para Micron y SK hynix?",
-        "url": "https://es.finance.yahoo.com/noticias/robots-musk-negocio-volumen-micron-160007607.html",
-        "resumen": "",
-        "medio": "Benzinga Espana",
-        "titulo_fuente": "Los robots de Musk, ¿un negocio de volumen para Micron y SK hynix?",
-        "capturado": "2026-10-31T14:27:15-05:00"
-      },
-      {
-        "titulo": "Inversionistas sacan $643 millones de ETF spot de Bitcoin tras el hack cripto más grande de la historia",
-        "url": "https://es.finance.yahoo.com/noticias/inversores-retiran-643-millones-etf-150300948.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Inversores retiran $643 millones de los ETF spot de Bitcoin tras el mayor hack de criptomonedas de la historia",
         "capturado": "2026-10-31T14:27:15-05:00"
       }
     ]
