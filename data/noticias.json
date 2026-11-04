@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-03T19:06:07-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-11-04T01:51:43-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Caen mercados de Asia y divisa estadounidense ante progreso demócrata en comicios legislativos en USA",
+        "url": "https://es.finance.yahoo.com/noticias/bolsas-asi%C3%A1ticas-d%C3%B3lar-caen-dem%C3%B3cratas-054818042.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Las Bolsas asiáticas y el dólar caen mientras los demócratas avanzan en las legislativas de EE.UU.",
+        "capturado": "2026-11-04T01:51:43-05:00"
+      },
+      {
+        "titulo": "Los accionistas se alistan ante un posible triunfo del partido demócrata en el parlamento estadounidense",
+        "url": "https://es.finance.yahoo.com/noticias/inversores-preparan-avance-dem%C3%B3cratas-congreso-014921514.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Los inversores se preparan para un avance de los demócratas en el Congreso de EEUU",
+        "capturado": "2026-11-04T01:51:43-05:00"
+      },
       {
         "titulo": "Fuentes indican que trabajadores de OpenAI alertan sobre fallos de seguridad operativa desde hace años",
         "url": "https://es.finance.yahoo.com/noticias/empleados-openai-llevan-a%C3%B1os-advirtiendo-200413579.html",
@@ -467,22 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "18 años de la paradoja de Satoshi: ¿Podrá Bitcoin sobrevivir a lo que viene?",
         "capturado": "2026-10-31T17:43:58-05:00"
-      },
-      {
-        "titulo": "Pi Network efectúa cuatro modificaciones previo a su mayor impulso en el ecosistema",
-        "url": "https://es.finance.yahoo.com/noticias/pi-network-realiza-4-cambios-194100495.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Pi Network realiza 4 cambios antes de su mayor impulso en el ecosistema",
-        "capturado": "2026-10-31T17:43:58-05:00"
-      },
-      {
-        "titulo": "Fuentes indican que OPEP+ mantendría metas de extracción de petróleo intactas en diciembre",
-        "url": "https://es.finance.yahoo.com/noticias/opep-acuerda-principio-mantener-metas-182937855.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "OPEP+ acuerda en principio mantener metas de bombeo de crudo sin cambios en diciembre, dicen fuentes",
-        "capturado": "2026-10-31T14:27:15-05:00"
       }
     ]
   }
