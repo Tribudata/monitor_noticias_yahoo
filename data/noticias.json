@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-05T04:00:30-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-11-05T12:32:32-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Drummond Energy proyecta perforar su primer pozo de fracturación para buscar gas en el país en 2027",
+        "url": "https://es.finance.yahoo.com/noticias/drummond-energy-perforar-pozo-fracking-170744343.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Drummond Energy considera perforar su primer pozo de fracking para explorar gas en Colombia en 2027",
+        "capturado": "2026-11-05T12:32:32-05:00"
+      },
+      {
+        "titulo": "Crisis financiera en Paraguay: la caída de Ueno Bank cerca a la administración de Santiago Peña",
+        "url": "https://es.finance.yahoo.com/noticias/terremoto-paraguay-colapso-ueno-bank-143631657.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Terremoto financiero en Paraguay: el colapso de Ueno Bank acorrala al Gobierno de Santiago Peña",
+        "capturado": "2026-11-05T12:32:32-05:00"
+      },
+      {
+        "titulo": "Mandatario paraguayo Peña dimite acosado por juicio político tras la quiebra de una entidad",
+        "url": "https://es.finance.yahoo.com/noticias/presidente-paraguayo-pe%C3%B1a-renuncia-presionado-162346246.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Presidente paraguayo Peña renuncia presionado por juicio político tras el colapso de un banco",
+        "capturado": "2026-11-05T12:32:32-05:00"
+      },
+      {
+        "titulo": "Agreden a trabajadores petroleros en Ormuz; Teherán sostiene la presión tras los comicios en USA",
+        "url": "https://es.finance.yahoo.com/noticias/atacan-petroleros-ormuz-ir%C3%A1n-mantiene-154828500.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Atacan a petroleros en Ormuz; Irán mantiene la presión tras la elección en EEUU",
+        "capturado": "2026-11-05T12:32:32-05:00"
+      },
+      {
+        "titulo": "Títulos de inteligencia artificial y centros de datos descienden, triunfo demócrata ensombrece planes",
+        "url": "https://es.finance.yahoo.com/noticias/acciones-ia-centros-datos-caen-154750799.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Las acciones de IA y centros de datos caen, victoria demócrata nubla planes de expansión",
+        "capturado": "2026-11-05T12:32:32-05:00"
+      },
+      {
+        "titulo": "Barkin de Fed señala inflación generalizada muy alta y ve lógico ritmo gradual en alzas",
+        "url": "https://es.finance.yahoo.com/noticias/barkin-fed-inflaci%C3%B3n-generalizada-demasiado-153550759.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Barkin de Fed dice inflación \"generalizada\" sigue demasiado alta; ritmo gradual subidas \"tiene sentido\"",
+        "capturado": "2026-11-05T12:32:32-05:00"
+      },
+      {
+        "titulo": "Nasdaq cae 5 por ciento al intensificarse la liquidación mundial de chips",
+        "url": "https://es.finance.yahoo.com/noticias/chips-pierden-terreno-rotaci%C3%B3n-burs%C3%A1til-120003037.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Nasdaq se hunde 5% mientras se acelera la venta global de chips",
+        "capturado": "2026-11-05T12:32:32-05:00"
+      },
+      {
+        "titulo": "Hammack de la Fed apoya ruta gradual en aumento de tasas para frenar la inflación",
+        "url": "https://es.finance.yahoo.com/noticias/hammack-fed-aboga-trayectoria-gradual-144612572.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Hammack, de la Fed, aboga por una trayectoria gradual de alza de tasas para desacelerar la inflación",
+        "capturado": "2026-11-05T12:32:32-05:00"
+      },
       {
         "titulo": "Pekín insta a la Unión Europea a revisar los efectos de los gravámenes a envíos económicos",
         "url": "https://es.finance.yahoo.com/noticias/china-pide-ue-evaluar-impacto-083809428.html",
@@ -419,70 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "Corea del Norte niega el hack a Binance y califica la investigación del FBI de fabricada",
         "capturado": "2026-11-02T22:37:02-05:00"
-      },
-      {
-        "titulo": "Diálogos de paz EE. UU.-Irán: metales preciosos al alza y valores del crudo a la baja",
-        "url": "https://es.finance.yahoo.com/noticias/conversaciones-paz-eeuu-ir%C3%A1n-oro-193107892.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Conversaciones de paz entre EEUU e Irán: el oro y la plata suben, los precios del petróleo caen",
-        "capturado": "2026-11-02T22:37:02-05:00"
-      },
-      {
-        "titulo": "Nueva Jersey levanta veto al staking en Coinbase luego de tres años y se esperan más estados",
-        "url": "https://es.finance.yahoo.com/noticias/jersey-pone-prohibici%C3%B3n-staking-coinbase-192937279.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Nueva Jersey pone fin a la prohibición de staking en Coinbase tras 3 años: ¿qué estados serán los próximos?",
-        "capturado": "2026-11-02T22:37:02-05:00"
-      },
-      {
-        "titulo": "Wall Street repunta mientras bajan el crudo y los rendimientos de los bonos",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-191826313.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben en medio de la caída del petróleo crudo y los rendimientos de los bonos del Tesoro.",
-        "capturado": "2026-11-02T17:24:43-05:00"
-      },
-      {
-        "titulo": "Fabricantes de autos piden al Congreso estadounidense vetar de forma definitiva los vehículos de China",
-        "url": "https://es.finance.yahoo.com/noticias/automotrices-instan-congreso-eeuu-aprobar-185716930.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Automotrices instan al Congreso de EEUU a aprobar una prohibición permanente a los vehículos chinos",
-        "capturado": "2026-11-02T17:24:43-05:00"
-      },
-      {
-        "titulo": "Wall Street registra su mayor cambio sectorial desde la época de la burbuja puntocom",
-        "url": "https://es.finance.yahoo.com/noticias/wall-street-vive-rotaci%C3%B3n-sectorial-184007205.html",
-        "resumen": "",
-        "medio": "Benzinga Espana",
-        "titulo_fuente": "Wall Street vive su mayor rotación sectorial desde la burbuja puntocom",
-        "capturado": "2026-11-02T17:24:43-05:00"
-      },
-      {
-        "titulo": "Los fondos cotizados trepan al tiempo que las acciones de EE. UU. suben tras el mediodía",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-suben-medida-182141378.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa suben a medida que las acciones estadounidenses repuntan después del mediodía.",
-        "capturado": "2026-11-02T17:24:43-05:00"
-      },
-      {
-        "titulo": "Las acciones de American Airlines suben con fuerza debido al descenso del petróleo",
-        "url": "https://es.finance.yahoo.com/noticias/american-airlines-dispara-bolsa-ca%C3%ADda-182009941.html",
-        "resumen": "",
-        "medio": "Benzinga Espana",
-        "titulo_fuente": "American Airlines se dispara en bolsa por la caída del petróleo",
-        "capturado": "2026-11-02T17:24:43-05:00"
-      },
-      {
-        "titulo": "Meta contempla captar al menos US$20.000 millones mediante eventuales emisiones de bonos",
-        "url": "https://es.finance.yahoo.com/noticias/meta-prev%C3%A9-recaudar-us-20-180647292.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Meta prevé recaudar al menos US$20.000 millones en posibles emisiones de bonos",
-        "capturado": "2026-11-02T17:24:43-05:00"
       }
     ]
   }
