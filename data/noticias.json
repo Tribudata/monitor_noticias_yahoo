@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-05T12:32:32-05:00",
+  "actualizado": "2026-11-05T18:19:12-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "El Nasdaq cae en corrección y el Dow Jones cede más de 1.800 puntos por venta masiva de tecnológicas",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-nasdaq-entra-territorio-correcci%C3%B3n-223339444.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: El Nasdaq entra en territorio de corrección, el Dow Jones se desploma más de 1.800 puntos mientras los inversores se deshacen de las grandes tecnológicas.",
+        "capturado": "2026-11-05T18:19:12-05:00"
+      },
+      {
+        "titulo": "Origen de ueno y su rol en la crisis que provocó la dimisión del mandatario de Paraguay",
+        "url": "https://es.finance.yahoo.com/noticias/banco-ueno-desencaden%C3%B3-crisis-llev%C3%B3-194817121.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "¿Qué es el banco ueno y cómo desencadenó la crisis que llevó a renuncia de presidente Paraguay?",
+        "capturado": "2026-11-05T18:19:12-05:00"
+      },
+      {
+        "titulo": "Marco Rubio contempla salir del gobierno Trump tras la caída electoral republicana",
+        "url": "https://es.finance.yahoo.com/noticias/marco-rubio-eval%C3%BAa-dejar-administraci%C3%B3n-193902423.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Marco Rubio evalúa dejar administración Trump tras derrota republicana",
+        "capturado": "2026-11-05T18:19:12-05:00"
+      },
+      {
+        "titulo": "Nasdaq entra en corrección y Dow Jones anula ganancias poselectorales por desplome tecnológico",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-nasdaq-entra-territorio-correcci%C3%B3n-191906485.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: El Nasdaq entra en territorio de corrección, el Dow Jones borra el repunte posterior a las elecciones en medio del desplome de las grandes tecnológicas.",
+        "capturado": "2026-11-05T18:19:12-05:00"
+      },
+      {
+        "titulo": "Goldman registra aluvión de llamadas ante desplome en los títulos de inteligencia artificial",
+        "url": "https://es.finance.yahoo.com/noticias/goldman-recibe-avalancha-llamadas-acciones-191407390.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Goldman recibe avalancha de llamadas mientras acciones de IA se hunden",
+        "capturado": "2026-11-05T18:19:12-05:00"
+      },
+      {
+        "titulo": "Victoria de Lula frena anhelos de EE UU por lograr acceso veloz a tierras raras brasileñas",
+        "url": "https://es.finance.yahoo.com/noticias/triunfo-lula-frustra-esperanzas-eeuu-185553188.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Triunfo de Lula frustra esperanzas de EEUU de acceder rápido a las tierras raras de Brasil",
+        "capturado": "2026-11-05T18:19:12-05:00"
+      },
+      {
+        "titulo": "Fondos cotizados en bolsa descienden al bajar las acciones de EE UU pasada la media jornada",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-bajan-medida-181447307.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa bajan a medida que las acciones estadounidenses caen después del mediodía.",
+        "capturado": "2026-11-05T18:19:12-05:00"
+      },
+      {
+        "titulo": "Nvidia NVDA: seiscientos mil chips H200 aguardan permiso en Hong Kong al subir los precios",
+        "url": "https://es.finance.yahoo.com/noticias/nvidia-nvda-600-000-chips-175931816.html",
+        "resumen": "",
+        "medio": "Benzinga Espana",
+        "titulo_fuente": "Nvidia (NVDA): 600.000 chips H200 esperan autorización en Hong Kong mientras se disparan los precios",
+        "capturado": "2026-11-05T18:19:12-05:00"
+      },
       {
         "titulo": "Drummond Energy proyecta perforar su primer pozo de fracturación para buscar gas en el país en 2027",
         "url": "https://es.finance.yahoo.com/noticias/drummond-energy-perforar-pozo-fracking-170744343.html",
@@ -419,70 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "La eurozona inicia la carrera para sustituir a Lagarde en la presidencia del Banco Central Europeo",
         "capturado": "2026-11-03T06:39:25-05:00"
-      },
-      {
-        "titulo": "Lufthansa alcanza marca histórica de ventas trimestrales a pesar del aumento del combustible",
-        "url": "https://es.finance.yahoo.com/noticias/lufthansa-logra-r%C3%A9cord-ingresos-pese-100628967.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Lufthansa logra un récord de ingresos trimestrales pese al encarecimiento del combustible",
-        "capturado": "2026-11-03T06:39:25-05:00"
-      },
-      {
-        "titulo": "Habrá un repunte para XRP según muestran estadísticas de billeteras y el clima bursátil",
-        "url": "https://es.finance.yahoo.com/noticias/acerca-rally-alivio-xrp-datos-085000141.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "¿Se acerca un rally de alivio para XRP? Esto dicen los datos de wallets y el sentimiento del mercado",
-        "capturado": "2026-11-03T06:39:25-05:00"
-      },
-      {
-        "titulo": "Norcorea niega los señalamientos de Estados Unidos por el hurto de criptomonedas en Binance",
-        "url": "https://es.finance.yahoo.com/noticias/corea-norte-rechaza-acusaciones-eeuu-080920400.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Corea del Norte rechaza las acusaciones de EEUU por el robo de criptomonedas en Binance",
-        "capturado": "2026-11-03T06:39:25-05:00"
-      },
-      {
-        "titulo": "Aramco incrementa su utilidad trimestral cerca de un 35% a pesar de los ataques en Medio Oriente",
-        "url": "https://es.finance.yahoo.com/noticias/aramco-dispara-34-6-beneficio-071303243.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Aramco dispara su beneficio trimestral casi un 35% pese a los ataques en Oriente Medio",
-        "capturado": "2026-11-03T06:39:25-05:00"
-      },
-      {
-        "titulo": "Goldman Sachs sube sus proyecciones acerca del costo del gas en Europa para el año 2027",
-        "url": "https://es.finance.yahoo.com/noticias/goldman-sachs-eleva-previsiones-precio-065757834.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Goldman Sachs eleva sus previsiones sobre el precio del gas en Europa para 2027",
-        "capturado": "2026-11-03T06:39:25-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE. UU. con comportamiento variado en medio de desplome tecnológico y baja del crudo",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-223541147.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos mientras continúa la venta masiva de acciones tecnológicas y el petróleo crudo cae antes de las elecciones de mitad de mandato.",
-        "capturado": "2026-11-02T22:37:02-05:00"
-      },
-      {
-        "titulo": "Resultados del primer trimestre de Apple superan pronósticos de Ternus y la acción desciende",
-        "url": "https://es.finance.yahoo.com/noticias/apple-supera-expectativas-ganancias-trimestre-214420565.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Apple supera expectativas de ganancias en el primer trimestre de Ternus: ¿por qué cae la acción?",
-        "capturado": "2026-11-02T22:37:02-05:00"
-      },
-      {
-        "titulo": "Corea del Norte rechaza ciberataque a Binance y tilda indagación del FBI de inventada",
-        "url": "https://es.finance.yahoo.com/noticias/corea-norte-niega-hack-binance-212125127.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Corea del Norte niega el hack a Binance y califica la investigación del FBI de fabricada",
-        "capturado": "2026-11-02T22:37:02-05:00"
       }
     ]
   }
