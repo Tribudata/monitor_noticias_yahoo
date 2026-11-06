@@ -1,9 +1,65 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-06T13:56:38-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-11-06T18:40:47-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Wall Street muestra comportamiento variado tras sólido reporte laboral que sube rentabilidad de bonos",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-214822347.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos tras el excelente informe de empleo que impulsa al alza los rendimientos de los bonos del Tesoro.",
+        "capturado": "2026-11-06T18:40:47-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE. UU. bajaron semanalmente al caer tecnológicas por triunfo demócrata y dudas sobre IA",
+        "url": "https://es.finance.yahoo.com/noticias/%C3%ADndices-burs%C3%A1tiles-estadounidenses-cayeron-semana-213227037.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los índices bursátiles estadounidenses cayeron esta semana a medida que las grandes tecnológicas se desplomaron tras la victoria de los demócratas en las elecciones de mitad de mandato, lo que generó dudas sobre el desarrollo de la IA.",
+        "capturado": "2026-11-06T18:40:47-05:00"
+      },
+      {
+        "titulo": "UE pierde 8.000 millones en tributos por cuenta de los territorios fiscales británicos",
+        "url": "https://es.finance.yahoo.com/noticias/para%C3%ADsos-fiscales-brit%C3%A1nicos-cuestan-8-203038041.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Los paraísos fiscales británicos cuestan 8.000 millones en impuestos a la UE",
+        "capturado": "2026-11-06T18:40:47-05:00"
+      },
+      {
+        "titulo": "Adquisición de inmuebles por foráneos llega a pico del 16% en España con valores récord",
+        "url": "https://es.finance.yahoo.com/noticias/compra-vivienda-extranjeros-marca-r%C3%A9cord-204917107.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "La compra de vivienda por extranjeros marca un récord del 16% en España con precios en máximos históricos",
+        "capturado": "2026-11-06T18:40:47-05:00"
+      },
+      {
+        "titulo": "Actualización: Mercados accionarios de EE. UU. exhiben cifras mixtas tras robusto dato de empleo y alza de bonos",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-191548888.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos tras el excelente informe de empleo y las ganancias en los rendimientos de los bonos del Tesoro.",
+        "capturado": "2026-11-06T18:40:47-05:00"
+      },
+      {
+        "titulo": "Daly ve factible alza de tasas de la Fed a pesar de la fuerte baja en acciones tecnológicas",
+        "url": "https://es.finance.yahoo.com/noticias/daly-probable-fed-suba-tasas-184853859.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Daly dice es probable que la Fed suba las tasas, pese a \"dolorosa\" caída de acciones tecnológicas",
+        "capturado": "2026-11-06T18:40:47-05:00"
+      },
+      {
+        "titulo": "Alphabet eleva su porcentaje en SpaceX llegando a un valor aproximado de 69.000 M$",
+        "url": "https://es.finance.yahoo.com/noticias/alphabet-aumenta-participaci%C3%B3n-spacex-alcanzar-183344653.html",
+        "resumen": "",
+        "medio": "Benzinga Espana",
+        "titulo_fuente": "Alphabet aumenta su participación en SpaceX hasta alcanzar un valor cercano a 69.000 M$",
+        "capturado": "2026-11-06T18:40:47-05:00"
+      },
       {
         "titulo": "Jefe demócrata de la Cámara baja estadounidense promete quitar aranceles indebidos y conservar el TMEC",
         "url": "https://es.finance.yahoo.com/noticias/l%C3%ADder-dem%C3%B3crata-c%C3%A1mara-eeuu-compromete-182315702.html",
@@ -427,62 +483,6 @@
         "medio": "MT Newswires",
         "titulo_fuente": "Los fondos cotizados en bolsa y los futuros de renta variable subieron antes de la apertura del mercado el miércoles, mientras los inversores reaccionaban a los resultados de las elecciones de mitad de mandato en Estados Unidos.",
         "capturado": "2026-11-04T10:08:59-05:00"
-      },
-      {
-        "titulo": "Ecopetrol proyecta reactivar el gasoducto binacional hacia Venezuela",
-        "url": "https://es.finance.yahoo.com/noticias/colombiano-ecopetrol-planea-rehabilitar-gasoducto-140829201.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Colombiano Ecopetrol planea rehabilitar gasoducto binacional con Venezuela",
-        "capturado": "2026-11-04T10:08:59-05:00"
-      },
-      {
-        "titulo": "Rechazo a Trump en comicios legislativos daría espacio a la oposición de socios comerciales",
-        "url": "https://es.finance.yahoo.com/noticias/derrota-trump-elecciones-legislativas-margen-140400709.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Derrota de Trump en elecciones legislativas podría dar margen a oposición de socios comerciales",
-        "capturado": "2026-11-04T10:08:59-05:00"
-      },
-      {
-        "titulo": "Alza en futuros de acciones en EE. UU. previa apertura por análisis de victoria demócrata en comicios",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-futuros-acciones-estadounidenses-suben-135926490.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los futuros de las acciones estadounidenses suben antes de la apertura del mercado mientras los operadores evalúan las implicaciones de una victoria demócrata en las elecciones de mitad de mandato en EE. UU.",
-        "capturado": "2026-11-04T10:08:59-05:00"
-      },
-      {
-        "titulo": "JPMorgan señala que más exportaciones y baja demanda generan superávit en mercado petrolero global",
-        "url": "https://es.finance.yahoo.com/noticias/jpmorgan-aumento-exportaciones-d%C3%A9bil-demanda-133308207.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "JPMorgan dice aumento de exportaciones y débil demanda empujan mercado mundial del petróleo a un excedente",
-        "capturado": "2026-11-04T10:08:59-05:00"
-      },
-      {
-        "titulo": "Suben futuros de acciones en EE. UU. antes de abrir por lectura de triunfo demócrata en legislativas",
-        "url": "https://es.finance.yahoo.com/noticias/futuros-acciones-estadounidenses-suben-apertura-132919429.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los futuros de las acciones estadounidenses suben antes de la apertura del mercado, mientras los operadores evalúan las implicaciones de una victoria demócrata en las elecciones de mitad de mandato en Estados Unidos.",
-        "capturado": "2026-11-04T10:08:59-05:00"
-      },
-      {
-        "titulo": "Caen mercados de Asia y divisa estadounidense ante progreso demócrata en comicios legislativos en USA",
-        "url": "https://es.finance.yahoo.com/noticias/bolsas-asi%C3%A1ticas-d%C3%B3lar-caen-dem%C3%B3cratas-054818042.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Las Bolsas asiáticas y el dólar caen mientras los demócratas avanzan en las legislativas de EE.UU.",
-        "capturado": "2026-11-04T01:51:43-05:00"
-      },
-      {
-        "titulo": "Los accionistas se alistan ante un posible triunfo del partido demócrata en el parlamento estadounidense",
-        "url": "https://es.finance.yahoo.com/noticias/inversores-preparan-avance-dem%C3%B3cratas-congreso-014921514.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Los inversores se preparan para un avance de los demócratas en el Congreso de EEUU",
-        "capturado": "2026-11-04T01:51:43-05:00"
       }
     ]
   }
