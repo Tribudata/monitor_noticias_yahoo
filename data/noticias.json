@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-06T06:50:46-05:00",
+  "actualizado": "2026-11-06T13:56:38-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Jefe demócrata de la Cámara baja estadounidense promete quitar aranceles indebidos y conservar el TMEC",
+        "url": "https://es.finance.yahoo.com/noticias/l%C3%ADder-dem%C3%B3crata-c%C3%A1mara-eeuu-compromete-182315702.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Líder demócrata en Cámara de EEUU se compromete a revocar aranceles injustificados y mantener TMEC",
+        "capturado": "2026-11-06T13:56:38-05:00"
+      },
+      {
+        "titulo": "Planta de gas del Pacífico en Colombia, fichada por Ecopetrol, empezaría a funcionar en diciembre",
+        "url": "https://es.finance.yahoo.com/noticias/regasificadora-colombiana-pac%C3%ADfico-contratada-ecopetrol-181346577.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Regasificadora colombiana del Pacífico, contratada por Ecopetrol, entraría en operación en diciembre",
+        "capturado": "2026-11-06T13:56:38-05:00"
+      },
+      {
+        "titulo": "Los ETF trepan conforme los títulos valores de EE UU suben pasada la medianoche",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-suben-medida-181230073.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa suben a medida que las acciones estadounidenses avanzan después del mediodía.",
+        "capturado": "2026-11-06T13:56:38-05:00"
+      },
+      {
+        "titulo": "El FMI previene frente a aflojar más las normas fiscales del bloque europeo",
+        "url": "https://es.finance.yahoo.com/noticias/fmi-advierte-relajar-reglas-fiscales-180349288.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El FMI advierte contra relajar más las reglas fiscales de la zona euro",
+        "capturado": "2026-11-06T13:56:38-05:00"
+      },
+      {
+        "titulo": "Experto encuentra decenas de miles de trabas en la herramienta de autocompletado de Apple",
+        "url": "https://es.finance.yahoo.com/noticias/investigador-halla-decenas-miles-restricciones-172334113.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Investigador halla decenas de miles de restricciones a función de autocompletar de Apple",
+        "capturado": "2026-11-06T13:56:38-05:00"
+      },
+      {
+        "titulo": "Crecimiento de la UE: peligros y opciones de colocación de capital para negocios y agentes",
+        "url": "https://es.finance.yahoo.com/noticias/ampliaci%C3%B3n-ue-oportunidades-riesgos-inversi%C3%B3n-163935744.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Ampliación de la UE: las oportunidades y riesgos de inversión para empresas e inversores",
+        "capturado": "2026-11-06T13:56:38-05:00"
+      },
+      {
+        "titulo": "Tesla disminuirá la fabricación de la Cybertruck en 2027 para fomentar el Cybercab robotaxi",
+        "url": "https://es.finance.yahoo.com/noticias/tesla-reducir%C3%A1-producci%C3%B3n-cybertruck-2027-164545454.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Tesla reducirá la producción de la Cybertruck en 2027 para impulsar el Cybercab robotaxi",
+        "capturado": "2026-11-06T13:56:38-05:00"
+      },
+      {
+        "titulo": "Arreglo del gasoducto que une a Colombia con Venezuela empezará previo a terminar el año",
+        "url": "https://es.finance.yahoo.com/noticias/recuperaci%C3%B3n-gasoducto-conecta-colombia-venezuela-163648615.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Recuperación de gasoducto que conecta a Colombia con Venezuela iniciará antes de fin del año",
+        "capturado": "2026-11-06T13:56:38-05:00"
+      },
       {
         "titulo": "El temor por la inteligencia artificial cede en Wall Street antes de abrir; Asia y Europa van a la baja",
         "url": "https://es.finance.yahoo.com/noticias/elevada-ansiedad-ia-disminuye-wall-111154443.html",
@@ -419,70 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Los inversores se preparan para un avance de los demócratas en el Congreso de EEUU",
         "capturado": "2026-11-04T01:51:43-05:00"
-      },
-      {
-        "titulo": "Fuentes indican que trabajadores de OpenAI alertan sobre fallos de seguridad operativa desde hace años",
-        "url": "https://es.finance.yahoo.com/noticias/empleados-openai-llevan-a%C3%B1os-advirtiendo-200413579.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Empleados de OpenAI llevan años advirtiendo de fallos en la seguridad operativa: fuentes",
-        "capturado": "2026-11-03T19:06:07-05:00"
-      },
-      {
-        "titulo": "Wall Street opera mixto por cifras flojas de Apple y a la espera de las elecciones legislativas",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-191440220.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos tras las decepcionantes cifras del cuarto trimestre fiscal de Apple, mientras los inversores esperan los resultados de las elecciones de mitad de mandato.",
-        "capturado": "2026-11-03T19:06:07-05:00"
-      },
-      {
-        "titulo": "Dimite el titular del Banco Central de Paraguay luego de la intervención a una entidad local",
-        "url": "https://es.finance.yahoo.com/noticias/presidente-banco-central-paraguayo-renuncia-190752796.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Presidente del Banco Central paraguayo renuncia tras intervención a banco local",
-        "capturado": "2026-11-03T19:06:07-05:00"
-      },
-      {
-        "titulo": "SpaceX requiere antenas en tierra para rivalizar con AT&T, T-Mobile y Verizon",
-        "url": "https://es.finance.yahoo.com/noticias/spacex-spcx-necesita-antenas-terrestres-180108324.html",
-        "resumen": "",
-        "medio": "Benzinga Espana",
-        "titulo_fuente": "SpaceX (SPCX) necesita antenas terrestres para competir con AT&T, T-Mobile y Verizon",
-        "capturado": "2026-11-03T19:06:07-05:00"
-      },
-      {
-        "titulo": "Palantir baja a pesar de batir pronósticos, mas la inteligencia artificial soberana alzaría su valor",
-        "url": "https://es.finance.yahoo.com/noticias/palantir-cae-pese-superar-previsiones-174007292.html",
-        "resumen": "",
-        "medio": "Benzinga Espana",
-        "titulo_fuente": "Palantir cae pese a superar previsiones, pero la IA soberana podría impulsar su próximo rally",
-        "capturado": "2026-11-03T19:06:07-05:00"
-      },
-      {
-        "titulo": "Perú lanza estrategia naval para proteger ventas externas frente al fenómeno El Niño",
-        "url": "https://es.finance.yahoo.com/noticias/per%C3%BA-anuncia-plan-transporte-mar%C3%ADtimo-182400060.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Perú anuncia plan de transporte marítimo para asegurar exportaciones pese a efectos de El Niño",
-        "capturado": "2026-11-03T14:08:17-05:00"
-      },
-      {
-        "titulo": "ETF avanzan y mercado accionario de EE UU muestra comportamiento variado al mediodía",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-suben-bolsa-estadounidense-181052345.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados suben, mientras que la bolsa estadounidense presenta resultados mixtos al mediodía",
-        "capturado": "2026-11-03T14:08:17-05:00"
-      },
-      {
-        "titulo": "Portugal acuerda enajenación parcial de TAP a Lufthansa asegurando su sello nacional",
-        "url": "https://es.finance.yahoo.com/noticias/portugal-firma-venta-parcial-tap-180401775.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Portugal firma la venta parcial de TAP a Lufthansa y garantiza su identidad portuguesa",
-        "capturado": "2026-11-03T14:08:17-05:00"
       }
     ]
   }
