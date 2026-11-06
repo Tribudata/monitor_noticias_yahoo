@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-05T22:31:31-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-06T06:50:46-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "El temor por la inteligencia artificial cede en Wall Street antes de abrir; Asia y Europa van a la baja",
+        "url": "https://es.finance.yahoo.com/noticias/elevada-ansiedad-ia-disminuye-wall-111154443.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "La elevada ansiedad por la IA disminuye en Wall Street antes de la apertura; Asia y Europa registran descensos.",
+        "capturado": "2026-11-06T06:50:46-05:00"
+      },
+      {
+        "titulo": "Octubre trae caída en valores globales de comida, aunque superan los registros de hace doce meses",
+        "url": "https://es.finance.yahoo.com/noticias/precios-mundiales-alimentos-bajan-octubre-110043261.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Precios mundiales de los alimentos bajan en octubre, pero siguen siendo más altos que hace un año",
+        "capturado": "2026-11-06T06:50:46-05:00"
+      },
+      {
+        "titulo": "El oro retrocede pero apunta a su mejor semana en más de sesenta días previo a empleo en Estados Unidos",
+        "url": "https://es.finance.yahoo.com/noticias/oro-baja-encamina-semana-meses-104702722.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Oro baja y se encamina a mejor semana en más de dos meses antes de dato empleo EEUU",
+        "capturado": "2026-11-06T06:50:46-05:00"
+      },
+      {
+        "titulo": "Títulos de IAG repuntan por alza de ventas en tercer trimestre pese a más gastos en carburante y paradas",
+        "url": "https://es.finance.yahoo.com/noticias/acciones-iag-suben-gracias-crecimiento-100657452.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Las acciones de IAG suben gracias al crecimiento de los ingresos en el tercer trimestre, a pesar del aumento de los costes del combustible y las interrupciones en la actividad.",
+        "capturado": "2026-11-06T06:50:46-05:00"
+      },
+      {
+        "titulo": "Pekín indaga por posible dumping en hilados de para-aramida llegados desde la Unión Europea",
+        "url": "https://es.finance.yahoo.com/noticias/china-investiga-presunto-dumping-hilados-095526748.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "China investiga por presunto \"dumping\" los hilados de para-aramida procedentes de la UE",
+        "capturado": "2026-11-06T06:50:46-05:00"
+      },
+      {
+        "titulo": "Pekín inicia indagación antidumping a compras externas de ENB de la Unión Europea y Japón",
+        "url": "https://es.finance.yahoo.com/noticias/china-abre-investigaci%C3%B3n-antidumping-importaciones-095257691.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "China abre una investigación \"antidumping\" sobre las importaciones de ENB de la UE y Japón",
+        "capturado": "2026-11-06T06:50:46-05:00"
+      },
+      {
+        "titulo": "España saca del mercado el 12 por ciento de su producción de aceite de oliva para frenar la baja de precios",
+        "url": "https://es.finance.yahoo.com/noticias/espa%C3%B1a-ordena-almazaras-almacenar-12-091224848.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "España retira del mercado el 12% de su producción de aceite de oliva para frenar la caída de precios",
+        "capturado": "2026-11-06T06:50:46-05:00"
+      },
+      {
+        "titulo": "RBC ajusta el precio objetivo y las proyecciones para BBVA tras los balances del tercer trimestre",
+        "url": "https://es.finance.yahoo.com/noticias/rbc-actualiza-precio-objetivo-estimaciones-085707064.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "RBC actualiza el precio objetivo y las estimaciones para BBVA tras los resultados del tercer trimestre.",
+        "capturado": "2026-11-06T06:50:46-05:00"
+      },
       {
         "titulo": "El Nasdaq cae en corrección y el Dow Jones cede más de 1.800 puntos por venta masiva de tecnológicas",
         "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-nasdaq-entra-territorio-correcci%C3%B3n-223339444.html",
@@ -419,70 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "Portugal firma la venta parcial de TAP a Lufthansa y garantiza su identidad portuguesa",
         "capturado": "2026-11-03T14:08:17-05:00"
-      },
-      {
-        "titulo": "Supermercados de Europa buscan blindarse tras ciberataque contra plantas cárnicas",
-        "url": "https://es.finance.yahoo.com/noticias/supermercados-europeos-apresuran-parchear-vulnerabilidades-172517603.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Supermercados europeos se apresuran a parchear vulnerabilidades tras ataque informático a frigoríficos",
-        "capturado": "2026-11-03T14:08:17-05:00"
-      },
-      {
-        "titulo": "Órdenes fabriles estadounidenses superan pronósticos en septiembre con solidez general",
-        "url": "https://es.finance.yahoo.com/noticias/pedidos-industriales-eeuu-superan-expectativas-172447730.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Pedidos industriales EEUU superan expectativas en septiembre en contexto de fortaleza generalizada",
-        "capturado": "2026-11-03T14:08:17-05:00"
-      },
-      {
-        "titulo": "Elecciones legislativas de EE UU ponen a prueba los mercados de apuestas",
-        "url": "https://es.finance.yahoo.com/noticias/mercados-apuestas-enfrentan-prueba-elecciones-172436676.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Mercados de apuestas se enfrentan a la prueba de las elecciones legislativas de EEUU",
-        "capturado": "2026-11-03T14:08:17-05:00"
-      },
-      {
-        "titulo": "España abre expediente sancionador a Apple y Amazon por prácticas anticompetitivas",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-espa%C3%B1a-inicia-procedimiento-disciplinario-163955320.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: España inicia un procedimiento disciplinario contra Apple y Amazon por conducta anticompetitiva.",
-        "capturado": "2026-11-03T14:08:17-05:00"
-      },
-      {
-        "titulo": "Apple supera pronósticos pero el encarecimiento de la memoria preocupa a inversores",
-        "url": "https://es.finance.yahoo.com/noticias/apple-supera-previsiones-alza-chips-061759359.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Apple supera las previsiones pero el alza del coste de la memoria inquieta a los inversores",
-        "capturado": "2026-11-03T14:08:17-05:00"
-      },
-      {
-        "titulo": "Títulos tecnológicos suben luego de resultados trimestrales de Apple en Wall Street; Asia y Europa caen",
-        "url": "https://es.finance.yahoo.com/noticias/acciones-tecnol%C3%B3gicas-repuntan-informe-tercer-110938867.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Las acciones tecnológicas repuntan tras el informe del tercer trimestre de Apple en Wall Street antes de la apertura; Asia y Europa retroceden.",
-        "capturado": "2026-11-03T06:39:25-05:00"
-      },
-      {
-        "titulo": "El oro baja por miedos inflacionarios, con atención en las elecciones de Estados Unidos",
-        "url": "https://es.finance.yahoo.com/noticias/oro-cae-temores-inflaci%C3%B3n-foco-104104511.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Oro cae por temores sobre inflación, con foco en elecciones en EEUU",
-        "capturado": "2026-11-03T06:39:25-05:00"
-      },
-      {
-        "titulo": "Comienza la puja en la eurozona para relevar a Lagarde al frente del Banco Central Europeo",
-        "url": "https://es.finance.yahoo.com/noticias/eurozona-inicia-carrera-suceder-lagarde-101131204.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La eurozona inicia la carrera para sustituir a Lagarde en la presidencia del Banco Central Europeo",
-        "capturado": "2026-11-03T06:39:25-05:00"
       }
     ]
   }
