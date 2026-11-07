@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-06T18:40:47-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-11-06T23:52:26-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Echaron a Peña en Paraguay y se abren probables procesos judiciales por el caso Ueno",
+        "url": "https://es.finance.yahoo.com/noticias/paraguay-destituye-pe%C3%B1a-abre-paso-222609107.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Paraguay destituye a Peña y abre paso a posibles cargos por caso Ueno",
+        "capturado": "2026-11-06T23:52:26-05:00"
+      },
       {
         "titulo": "Wall Street muestra comportamiento variado tras sólido reporte laboral que sube rentabilidad de bonos",
         "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-214822347.html",
@@ -474,14 +482,6 @@
         "resumen": "",
         "medio": "Reuters",
         "titulo_fuente": "Déficit comercial de EEUU baja en septiembre pese a que importaciones alcanzan un máximo histórico",
-        "capturado": "2026-11-04T10:08:59-05:00"
-      },
-      {
-        "titulo": "Suman alza ETFs y futuros accionarios al abrir el miércoles por reacción electoral en EE UU",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-futuros-renta-141810259.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa y los futuros de renta variable subieron antes de la apertura del mercado el miércoles, mientras los inversores reaccionaban a los resultados de las elecciones de mitad de mandato en Estados Unidos.",
         "capturado": "2026-11-04T10:08:59-05:00"
       }
     ]
