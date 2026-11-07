@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-06T23:52:26-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-11-07T06:31:11-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "La OCDE advierte sobre las pensiones en Europa: cuánto dinero extra habrá que ahorrar para jubilarse",
+        "url": "https://es.finance.yahoo.com/noticias/pensiones-obligatorias-22-pa%C3%ADses-europeos-055914104.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "La OCDE advierte sobre las pensiones en Europa: cuánto dinero extra habrá que ahorrar para jubilarse",
+        "capturado": "2026-11-07T06:31:11-05:00"
+      },
+      {
+        "titulo": "Neinor acelera su crecimiento y eleva la remuneración al accionista con una estrategia basada en rentabilidad y disciplina de capital",
+        "url": "https://es.finance.yahoo.com/noticias/neinor-acelera-crecimiento-eleva-remuneraci%C3%B3n-050000318.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "\"Neinor acelera su crecimiento y eleva la remuneración al accionista con una estrategia basada en rentabilidad y disciplina de capital\"",
+        "capturado": "2026-11-07T06:31:11-05:00"
+      },
       {
         "titulo": "Echaron a Peña en Paraguay y se abren probables procesos judiciales por el caso Ueno",
         "url": "https://es.finance.yahoo.com/noticias/paraguay-destituye-pe%C3%B1a-abre-paso-222609107.html",
@@ -467,22 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "La inflación de la eurozona sube al 4% en octubre, impulsada por la energía",
         "capturado": "2026-11-04T16:24:47-05:00"
-      },
-      {
-        "titulo": "Peso argentino toca nuevo mínimo y riesgo país permanece sobre los 800 puntos",
-        "url": "https://es.finance.yahoo.com/noticias/peso-argentino-renueva-piso-r%C3%A9cord-142746078.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Peso argentino renueva piso récord, riesgo país sigue arriba de 800 puntos",
-        "capturado": "2026-11-04T10:08:59-05:00"
-      },
-      {
-        "titulo": "Cae déficit comercial estadounidense en septiembre con importaciones en récord histórico",
-        "url": "https://es.finance.yahoo.com/noticias/d%C3%A9ficit-comercial-eeuu-baja-septiembre-142105781.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Déficit comercial de EEUU baja en septiembre pese a que importaciones alcanzan un máximo histórico",
-        "capturado": "2026-11-04T10:08:59-05:00"
       }
     ]
   }
