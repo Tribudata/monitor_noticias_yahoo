@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-08T21:24:07-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-11-09T05:05:56-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Pekín aplaza hasta enero la aplicación de las nuevas restricciones a las tierras raras",
+        "url": "https://es.finance.yahoo.com/noticias/china-prorroga-suspensi%C3%B3n-medidas-control-093830120.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "China prorroga la suspensión de las nuevas medidas de control sobre las tierras raras hasta enero",
+        "capturado": "2026-11-09T05:05:56-05:00"
+      },
+      {
+        "titulo": "Un ministro de Países Bajos afirma que la presidencia del BCE se debe definir por méritos",
+        "url": "https://es.finance.yahoo.com/noticias/presidente-bce-ser-elegido-funci%C3%B3n-091442354.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "El presidente del BCE debe ser elegido en función de sus méritos, dice un ministro neerlandés",
+        "capturado": "2026-11-09T05:05:56-05:00"
+      },
+      {
+        "titulo": "Balance en el mercado europeo tras el revés de Trump en las elecciones de mitad de mandato",
+        "url": "https://es.finance.yahoo.com/noticias/derrota-trump-legislativas-ganadores-perdedores-064808292.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Derrota de Trump en las midterms: ganadores y perdedores en la Bolsa europea",
+        "capturado": "2026-11-09T05:05:56-05:00"
+      },
+      {
+        "titulo": "Pekín extiende la pausa del tributo del 24% a productos estadounidenses y cobros a barcos",
+        "url": "https://es.finance.yahoo.com/noticias/china-prorroga-suspensi%C3%B3n-arancel-24-072129040.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "China prorroga la suspensión del arancel del 24% a bienes de EEUU y de tasas portuarias a sus buques",
+        "capturado": "2026-11-09T05:05:56-05:00"
+      },
+      {
+        "titulo": "Títulos de Nvidia descienden al indagar si su director ejecutivo fue blanco de espionaje",
+        "url": "https://es.finance.yahoo.com/noticias/acciones-nvidia-caen-investiga-ceo-071813539.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Las acciones de Nvidia caen mientras investiga si su CEO fue objetivo de inteligencia extranjera",
+        "capturado": "2026-11-09T05:05:56-05:00"
+      },
+      {
+        "titulo": "Lula promete conservar el rigor fiscal en suelo brasileño",
+        "url": "https://es.finance.yahoo.com/noticias/lula-compromete-mantener-disciplina-presupuestaria-070810284.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Lula se compromete a mantener la disciplina presupuestaria en Brasil",
+        "capturado": "2026-11-09T05:05:56-05:00"
+      },
+      {
+        "titulo": "Mochila austriaca: significado y regreso al debate pensional del 29N",
+        "url": "https://es.finance.yahoo.com/noticias/mochila-austriaca-vuelve-debate-pensiones-045823571.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Mochila austriaca: Qué es y por qué vuelve al debate de las pensiones del 29N",
+        "capturado": "2026-11-09T05:05:56-05:00"
+      },
+      {
+        "titulo": "Empresas tecnológicas repuntan tras caída en elecciones de EE.UU. y Nvidia acapara miradas",
+        "url": "https://es.finance.yahoo.com/noticias/tecnol%C3%B3gicas-recuperan-batacazo-electoral-nvidia-063555059.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Las tecnológicas se recuperan tras el batacazo de las midterms en EE.UU. y Nvidia acapara la atención",
+        "capturado": "2026-11-09T05:05:56-05:00"
+      },
       {
         "titulo": "Fuentes reportan que el campo gasífero iraquí Khor Mor frena su extracción tras atentado con drones",
         "url": "https://es.finance.yahoo.com/noticias/yacimiento-iraqu%C3%AD-gas-khor-mor-225314216.html",
@@ -419,70 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "Terremoto financiero en Paraguay: el colapso de Ueno Bank acorrala al Gobierno de Santiago Peña",
         "capturado": "2026-11-05T12:32:32-05:00"
-      },
-      {
-        "titulo": "Mandatario paraguayo Peña dimite acosado por juicio político tras la quiebra de una entidad",
-        "url": "https://es.finance.yahoo.com/noticias/presidente-paraguayo-pe%C3%B1a-renuncia-presionado-162346246.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Presidente paraguayo Peña renuncia presionado por juicio político tras el colapso de un banco",
-        "capturado": "2026-11-05T12:32:32-05:00"
-      },
-      {
-        "titulo": "Agreden a trabajadores petroleros en Ormuz; Teherán sostiene la presión tras los comicios en USA",
-        "url": "https://es.finance.yahoo.com/noticias/atacan-petroleros-ormuz-ir%C3%A1n-mantiene-154828500.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Atacan a petroleros en Ormuz; Irán mantiene la presión tras la elección en EEUU",
-        "capturado": "2026-11-05T12:32:32-05:00"
-      },
-      {
-        "titulo": "Títulos de inteligencia artificial y centros de datos descienden, triunfo demócrata ensombrece planes",
-        "url": "https://es.finance.yahoo.com/noticias/acciones-ia-centros-datos-caen-154750799.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Las acciones de IA y centros de datos caen, victoria demócrata nubla planes de expansión",
-        "capturado": "2026-11-05T12:32:32-05:00"
-      },
-      {
-        "titulo": "Barkin de Fed señala inflación generalizada muy alta y ve lógico ritmo gradual en alzas",
-        "url": "https://es.finance.yahoo.com/noticias/barkin-fed-inflaci%C3%B3n-generalizada-demasiado-153550759.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Barkin de Fed dice inflación \"generalizada\" sigue demasiado alta; ritmo gradual subidas \"tiene sentido\"",
-        "capturado": "2026-11-05T12:32:32-05:00"
-      },
-      {
-        "titulo": "Nasdaq cae 5 por ciento al intensificarse la liquidación mundial de chips",
-        "url": "https://es.finance.yahoo.com/noticias/chips-pierden-terreno-rotaci%C3%B3n-burs%C3%A1til-120003037.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Nasdaq se hunde 5% mientras se acelera la venta global de chips",
-        "capturado": "2026-11-05T12:32:32-05:00"
-      },
-      {
-        "titulo": "Hammack de la Fed apoya ruta gradual en aumento de tasas para frenar la inflación",
-        "url": "https://es.finance.yahoo.com/noticias/hammack-fed-aboga-trayectoria-gradual-144612572.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Hammack, de la Fed, aboga por una trayectoria gradual de alza de tasas para desacelerar la inflación",
-        "capturado": "2026-11-05T12:32:32-05:00"
-      },
-      {
-        "titulo": "Pekín insta a la Unión Europea a revisar los efectos de los gravámenes a envíos económicos",
-        "url": "https://es.finance.yahoo.com/noticias/china-pide-ue-evaluar-impacto-083809428.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "China pide a la UE evaluar el impacto de las nuevas tasas a los paquetes de bajo valor",
-        "capturado": "2026-11-05T04:00:30-05:00"
-      },
-      {
-        "titulo": "Pekín supedita las adquisiciones agropecuarias norteamericanas a un pacto de rebaja arancelaria",
-        "url": "https://es.finance.yahoo.com/noticias/china-condiciona-compras-agr%C3%ADcolas-eeuu-082622189.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "China condiciona las compras agrícolas a EEUU a un acuerdo de recorte de aranceles",
-        "capturado": "2026-11-05T04:00:30-05:00"
       }
     ]
   }
