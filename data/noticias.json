@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-09T05:05:56-05:00",
+  "actualizado": "2026-11-09T15:57:07-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Estudian lazos de Trump con Huang de Nvidia por miedos de espionaje foráneo",
+        "url": "https://es.finance.yahoo.com/noticias/analizan-v%C3%ADnculos-trump-huang-nvidia-190857555.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Analizan vínculos de Trump con Huang, de Nvidia, tras temores sobre operación inteligencia extranjera",
+        "capturado": "2026-11-09T15:57:07-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE UU trepan por impulso tecnológico y el petróleo baja",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-182137459.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben con fuerza gracias al repunte de los sectores de crecimiento, mientras que el petróleo crudo cae.",
+        "capturado": "2026-11-09T15:57:07-05:00"
+      },
+      {
+        "titulo": "Fondos cotizados trepan mientras papeles de EE UU suben pasada la mitad del día",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-suben-medida-180817978.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa suben a medida que las acciones estadounidenses avanzan después del mediodía.",
+        "capturado": "2026-11-09T15:57:07-05:00"
+      },
+      {
+        "titulo": "Paraguay nombra nuevo líder de su banco central para manejar crisis por caída de entidad",
+        "url": "https://es.finance.yahoo.com/noticias/presidente-paraguayo-propone-economista-jorge-114913392.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Paraguay designa nuevo jefe del Banco Central para gestionar crisis tras colapso de banco",
+        "capturado": "2026-11-09T15:57:07-05:00"
+      },
+      {
+        "titulo": "Thales Alenia Space, filial de Airbus, logra contrato de 1.500 millones de euros por satélites IRIS",
+        "url": "https://es.finance.yahoo.com/noticias/filial-airbus-thales-alenia-space-172419442.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "La filial de Airbus, Thales Alenia Space, gana un contrato de 1.500 millones de euros para los satélites IRIS.",
+        "capturado": "2026-11-09T15:57:07-05:00"
+      },
+      {
+        "titulo": "Barkin afirma que la Fed tiene que obrar con prudencia ante la subida de precios",
+        "url": "https://es.finance.yahoo.com/noticias/fed-deber%C3%ADa-actuar-cautela-hora-172120462.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Fed debería actuar \"con cautela\" a la hora de responder a la inflación, dice Barkin",
+        "capturado": "2026-11-09T15:57:07-05:00"
+      },
+      {
+        "titulo": "El conservador Thomas Massie pretende destituir a Hegseth tras el conflicto iraní",
+        "url": "https://es.finance.yahoo.com/noticias/republicano-thomas-massie-busca-destituir-170238812.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Republicano Thomas Massie busca destituir a Hegseth tras la guerra con Irán",
+        "capturado": "2026-11-09T15:57:07-05:00"
+      },
+      {
+        "titulo": "El valor de los combustibles cae 9 céntimos en Portugal, su mayor retroceso desde marzo",
+        "url": "https://es.finance.yahoo.com/noticias/precio-combustibles-baja-9-c%C3%A9ntimos-160032172.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El precio de los combustibles baja 9 céntimos en Portugal, la mayor caída desde marzo",
+        "capturado": "2026-11-09T15:57:07-05:00"
+      },
       {
         "titulo": "Pekín aplaza hasta enero la aplicación de las nuevas restricciones a las tierras raras",
         "url": "https://es.finance.yahoo.com/noticias/china-prorroga-suspensi%C3%B3n-medidas-control-093830120.html",
@@ -419,70 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "¿Qué es el banco ueno y cómo desencadenó la crisis que llevó a renuncia de presidente Paraguay?",
         "capturado": "2026-11-05T18:19:12-05:00"
-      },
-      {
-        "titulo": "Marco Rubio contempla salir del gobierno Trump tras la caída electoral republicana",
-        "url": "https://es.finance.yahoo.com/noticias/marco-rubio-eval%C3%BAa-dejar-administraci%C3%B3n-193902423.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Marco Rubio evalúa dejar administración Trump tras derrota republicana",
-        "capturado": "2026-11-05T18:19:12-05:00"
-      },
-      {
-        "titulo": "Nasdaq entra en corrección y Dow Jones anula ganancias poselectorales por desplome tecnológico",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-nasdaq-entra-territorio-correcci%C3%B3n-191906485.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: El Nasdaq entra en territorio de corrección, el Dow Jones borra el repunte posterior a las elecciones en medio del desplome de las grandes tecnológicas.",
-        "capturado": "2026-11-05T18:19:12-05:00"
-      },
-      {
-        "titulo": "Goldman registra aluvión de llamadas ante desplome en los títulos de inteligencia artificial",
-        "url": "https://es.finance.yahoo.com/noticias/goldman-recibe-avalancha-llamadas-acciones-191407390.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Goldman recibe avalancha de llamadas mientras acciones de IA se hunden",
-        "capturado": "2026-11-05T18:19:12-05:00"
-      },
-      {
-        "titulo": "Victoria de Lula frena anhelos de EE UU por lograr acceso veloz a tierras raras brasileñas",
-        "url": "https://es.finance.yahoo.com/noticias/triunfo-lula-frustra-esperanzas-eeuu-185553188.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Triunfo de Lula frustra esperanzas de EEUU de acceder rápido a las tierras raras de Brasil",
-        "capturado": "2026-11-05T18:19:12-05:00"
-      },
-      {
-        "titulo": "Fondos cotizados en bolsa descienden al bajar las acciones de EE UU pasada la media jornada",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-bajan-medida-181447307.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa bajan a medida que las acciones estadounidenses caen después del mediodía.",
-        "capturado": "2026-11-05T18:19:12-05:00"
-      },
-      {
-        "titulo": "Nvidia NVDA: seiscientos mil chips H200 aguardan permiso en Hong Kong al subir los precios",
-        "url": "https://es.finance.yahoo.com/noticias/nvidia-nvda-600-000-chips-175931816.html",
-        "resumen": "",
-        "medio": "Benzinga Espana",
-        "titulo_fuente": "Nvidia (NVDA): 600.000 chips H200 esperan autorización en Hong Kong mientras se disparan los precios",
-        "capturado": "2026-11-05T18:19:12-05:00"
-      },
-      {
-        "titulo": "Drummond Energy proyecta perforar su primer pozo de fracturación para buscar gas en el país en 2027",
-        "url": "https://es.finance.yahoo.com/noticias/drummond-energy-perforar-pozo-fracking-170744343.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Drummond Energy considera perforar su primer pozo de fracking para explorar gas en Colombia en 2027",
-        "capturado": "2026-11-05T12:32:32-05:00"
-      },
-      {
-        "titulo": "Crisis financiera en Paraguay: la caída de Ueno Bank cerca a la administración de Santiago Peña",
-        "url": "https://es.finance.yahoo.com/noticias/terremoto-paraguay-colapso-ueno-bank-143631657.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Terremoto financiero en Paraguay: el colapso de Ueno Bank acorrala al Gobierno de Santiago Peña",
-        "capturado": "2026-11-05T12:32:32-05:00"
       }
     ]
   }
