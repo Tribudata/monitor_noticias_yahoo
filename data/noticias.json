@@ -1,9 +1,33 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-08T17:44:07-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-08T21:24:07-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Fuentes reportan que el campo gasífero iraquí Khor Mor frena su extracción tras atentado con drones",
+        "url": "https://es.finance.yahoo.com/noticias/yacimiento-iraqu%C3%AD-gas-khor-mor-225314216.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Yacimiento iraquí de gas de Khor Mor suspende producción tras ataque con drones: fuentes",
+        "capturado": "2026-11-08T21:24:07-05:00"
+      },
+      {
+        "titulo": "Descarga gratis el port para PC de Pokémon Legends Z-A sin emulador y con Multijugador Online",
+        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-port-pc-pok%C3%A9mon-141757609.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Descarga gratis el port para PC de Pokémon Legends Z-A sin emulador y con Multijugador Online, donde chateas, intercambias y combates con otros jugadores",
+        "capturado": "2026-11-08T21:24:07-05:00"
+      },
+      {
+        "titulo": "Descarga gratis para PC el simulador espacial Fate of the Galaxy de Star Wars creado en veinte años",
+        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-pc-simulador-espacial-132000947.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Descarga gratis para PC el simulador espacial Fate of the Galaxy de Star Wars que desarrolladores tardaron veinte años en completar",
+        "capturado": "2026-11-08T21:24:07-05:00"
+      },
       {
         "titulo": "Egipto halla reserva gasífera marina de 200.000 millones de pies cúbicos",
         "url": "https://es.finance.yahoo.com/noticias/egipto-descubre-yacimiento-gas-mediterr%C3%A1neo-133504816.html",
@@ -458,30 +482,6 @@
         "resumen": "",
         "medio": "Reuters",
         "titulo_fuente": "China condiciona las compras agrícolas a EEUU a un acuerdo de recorte de aranceles",
-        "capturado": "2026-11-05T04:00:30-05:00"
-      },
-      {
-        "titulo": "Demócratas ganan peso comercial, pero Trump bloqueará modificaciones a sus tributos aduaneros",
-        "url": "https://es.finance.yahoo.com/noticias/dem%C3%B3cratas-ganan-influencia-pol%C3%ADtica-comercial-072333491.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Los demócratas ganan influencia en la política comercial, pero Trump vetará cambios en sus aranceles",
-        "capturado": "2026-11-05T04:00:30-05:00"
-      },
-      {
-        "titulo": "Alimentación encarece otra vez en territorio europeo y estas naciones son las más golpeadas",
-        "url": "https://es.finance.yahoo.com/noticias/precios-alimentos-europa-chipre-encabeza-055408360.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Los precios de los alimentos vuelven a subir en Europa: estos son los países más afectados",
-        "capturado": "2026-11-05T04:00:30-05:00"
-      },
-      {
-        "titulo": "Mercados bursátiles de Asia avanzan tras alza neoyorquina y títulos tecnológicos caen",
-        "url": "https://es.finance.yahoo.com/noticias/bolsas-suben-rally-wall-street-053126830.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Las bolsas asiáticas suben tras el repunte de Wall Street, mientras las acciones de IA se desploman",
         "capturado": "2026-11-05T04:00:30-05:00"
       }
     ]
