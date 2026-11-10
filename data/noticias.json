@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-10T06:32:01-05:00",
+  "actualizado": "2026-11-10T14:23:18-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Las bolsas de EE. UU. bajan tras subir la inflación de octubre y crecer las apuestas de alza de tasas de la Fed",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-183806425.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen a medida que el dato de inflación de octubre aumenta las probabilidades de que la Reserva Federal endurezca su política monetaria.",
+        "capturado": "2026-11-10T14:23:18-05:00"
+      },
+      {
+        "titulo": "Los fondos cotizados caen al descender las acciones norteamericanas pasada la mitad de la jornada",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-bajan-medida-181343666.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa bajan a medida que las acciones estadounidenses caen después del mediodía.",
+        "capturado": "2026-11-10T14:23:18-05:00"
+      },
+      {
+        "titulo": "Super Copper halla cobre en cada sondeo del blanco El Alto en Cordillera Cobre",
+        "url": "https://es.finance.yahoo.com/noticias/super-copper-cobre-perforaci%C3%B3n-objetivo-175821274.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Super Copper encuentra cobre en cada perforación en el objetivo El Alto del proyecto Cordillera Cobre.",
+        "capturado": "2026-11-10T14:23:18-05:00"
+      },
+      {
+        "titulo": "Exxon avanza hacia su eventual retorno de petróleo a territorio venezolano",
+        "url": "https://es.finance.yahoo.com/noticias/exxon-paso-regreso-petrolero-venezuela-175321412.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Exxon da un primer paso hacia su posible regreso petrolero a Venezuela",
+        "capturado": "2026-11-10T14:23:18-05:00"
+      },
+      {
+        "titulo": "El crecimiento de la banca en la sombra en Brasil genera alertas en el banco central",
+        "url": "https://es.finance.yahoo.com/noticias/impagos-sacuden-banca-sombra-brasil-173916353.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "El auge de la banca en la sombra de Brasil enciende las alarmas del banco central",
+        "capturado": "2026-11-10T14:23:18-05:00"
+      },
+      {
+        "titulo": "Rubio afirma que no hacen falta grandes acciones bélicas en Irán debido al plan económico de EE UU",
+        "url": "https://es.finance.yahoo.com/noticias/rubio-necesitan-operaciones-combate-ir%C3%A1n-171402367.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Rubio dice que no se necesitan grandes operaciones de combate en Irán, dada campaña económica de EEUU",
+        "capturado": "2026-11-10T14:23:18-05:00"
+      },
+      {
+        "titulo": "Banco de la Reserva Federal de Nueva York halla que la deuda peligrosa sube en el tercer trimestre",
+        "url": "https://es.finance.yahoo.com/noticias/fed-york-niveles-deuda-situaci%C3%B3n-164140584.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Fed de Nueva York encuentra que niveles de deuda en situación de riesgo aumentan en tercer trimestre",
+        "capturado": "2026-11-10T14:23:18-05:00"
+      },
+      {
+        "titulo": "Logan, funcionaria de la Fed, apoya dos aumentos adicionales de tipos, tal vez pronto",
+        "url": "https://es.finance.yahoo.com/noticias/logan-fed-aboga-alzas-tasas-163335538.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Logan de la Fed aboga por dos alzas más de tasas, posiblemente en un plazo breve",
+        "capturado": "2026-11-10T14:23:18-05:00"
+      },
       {
         "titulo": "Emisor brasileño afirma que choques de oferta causan el incremento inflacionario",
         "url": "https://es.finance.yahoo.com/noticias/banco-central-brasil-perturbaciones-oferta-112606231.html",
@@ -419,70 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Daly dice es probable que la Fed suba las tasas, pese a \"dolorosa\" caída de acciones tecnológicas",
         "capturado": "2026-11-06T18:40:47-05:00"
-      },
-      {
-        "titulo": "Alphabet eleva su porcentaje en SpaceX llegando a un valor aproximado de 69.000 M$",
-        "url": "https://es.finance.yahoo.com/noticias/alphabet-aumenta-participaci%C3%B3n-spacex-alcanzar-183344653.html",
-        "resumen": "",
-        "medio": "Benzinga Espana",
-        "titulo_fuente": "Alphabet aumenta su participación en SpaceX hasta alcanzar un valor cercano a 69.000 M$",
-        "capturado": "2026-11-06T18:40:47-05:00"
-      },
-      {
-        "titulo": "Jefe demócrata de la Cámara baja estadounidense promete quitar aranceles indebidos y conservar el TMEC",
-        "url": "https://es.finance.yahoo.com/noticias/l%C3%ADder-dem%C3%B3crata-c%C3%A1mara-eeuu-compromete-182315702.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Líder demócrata en Cámara de EEUU se compromete a revocar aranceles injustificados y mantener TMEC",
-        "capturado": "2026-11-06T13:56:38-05:00"
-      },
-      {
-        "titulo": "Planta de gas del Pacífico en Colombia, fichada por Ecopetrol, empezaría a funcionar en diciembre",
-        "url": "https://es.finance.yahoo.com/noticias/regasificadora-colombiana-pac%C3%ADfico-contratada-ecopetrol-181346577.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Regasificadora colombiana del Pacífico, contratada por Ecopetrol, entraría en operación en diciembre",
-        "capturado": "2026-11-06T13:56:38-05:00"
-      },
-      {
-        "titulo": "Los ETF trepan conforme los títulos valores de EE UU suben pasada la medianoche",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-suben-medida-181230073.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa suben a medida que las acciones estadounidenses avanzan después del mediodía.",
-        "capturado": "2026-11-06T13:56:38-05:00"
-      },
-      {
-        "titulo": "El FMI previene frente a aflojar más las normas fiscales del bloque europeo",
-        "url": "https://es.finance.yahoo.com/noticias/fmi-advierte-relajar-reglas-fiscales-180349288.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El FMI advierte contra relajar más las reglas fiscales de la zona euro",
-        "capturado": "2026-11-06T13:56:38-05:00"
-      },
-      {
-        "titulo": "Experto encuentra decenas de miles de trabas en la herramienta de autocompletado de Apple",
-        "url": "https://es.finance.yahoo.com/noticias/investigador-halla-decenas-miles-restricciones-172334113.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Investigador halla decenas de miles de restricciones a función de autocompletar de Apple",
-        "capturado": "2026-11-06T13:56:38-05:00"
-      },
-      {
-        "titulo": "Crecimiento de la UE: peligros y opciones de colocación de capital para negocios y agentes",
-        "url": "https://es.finance.yahoo.com/noticias/ampliaci%C3%B3n-ue-oportunidades-riesgos-inversi%C3%B3n-163935744.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Ampliación de la UE: las oportunidades y riesgos de inversión para empresas e inversores",
-        "capturado": "2026-11-06T13:56:38-05:00"
-      },
-      {
-        "titulo": "Tesla disminuirá la fabricación de la Cybertruck en 2027 para fomentar el Cybercab robotaxi",
-        "url": "https://es.finance.yahoo.com/noticias/tesla-reducir%C3%A1-producci%C3%B3n-cybertruck-2027-164545454.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Tesla reducirá la producción de la Cybertruck en 2027 para impulsar el Cybercab robotaxi",
-        "capturado": "2026-11-06T13:56:38-05:00"
       }
     ]
   }
