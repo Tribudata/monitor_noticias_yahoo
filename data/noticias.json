@@ -1,9 +1,33 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-09T15:57:07-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-11-09T22:19:28-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Inflación colombiana de octubre menor a la prevista por agentes y sitúa la tasa anual en 6,30 por ciento",
+        "url": "https://es.finance.yahoo.com/noticias/colombia-reporta-inflaci%C3%B3n-octubre-inferior-002649626.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Colombia reporta inflación en octubre inferior a la esperada por el mercado, acumula 6,30% anual",
+        "capturado": "2026-11-09T22:19:28-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE UU anulan retrocesos postelectorales impulsadas por sectores de crecimiento y baja el crudo",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-recuperan-221526995.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses recuperan las pérdidas posteriores a las elecciones gracias al fuerte repunte de los sectores de crecimiento, mientras que el petróleo crudo cae.",
+        "capturado": "2026-11-09T22:19:28-05:00"
+      },
+      {
+        "titulo": "Anthropic lanza nuevos modelos Fable y Mythos previos a su oferta pública inicial",
+        "url": "https://es.finance.yahoo.com/noticias/anthropic-presenta-modelos-fable-mythos-194148125.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Anthropic presenta nuevos modelos de Fable y Mythos antes de su salida a bolsa",
+        "capturado": "2026-11-09T22:19:28-05:00"
+      },
       {
         "titulo": "Estudian lazos de Trump con Huang de Nvidia por miedos de espionaje foráneo",
         "url": "https://es.finance.yahoo.com/noticias/analizan-v%C3%ADnculos-trump-huang-nvidia-190857555.html",
@@ -459,30 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "España retira del mercado el 12% de su producción de aceite de oliva para frenar la caída de precios",
         "capturado": "2026-11-06T06:50:46-05:00"
-      },
-      {
-        "titulo": "RBC ajusta el precio objetivo y las proyecciones para BBVA tras los balances del tercer trimestre",
-        "url": "https://es.finance.yahoo.com/noticias/rbc-actualiza-precio-objetivo-estimaciones-085707064.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "RBC actualiza el precio objetivo y las estimaciones para BBVA tras los resultados del tercer trimestre.",
-        "capturado": "2026-11-06T06:50:46-05:00"
-      },
-      {
-        "titulo": "El Nasdaq cae en corrección y el Dow Jones cede más de 1.800 puntos por venta masiva de tecnológicas",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-nasdaq-entra-territorio-correcci%C3%B3n-223339444.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: El Nasdaq entra en territorio de corrección, el Dow Jones se desploma más de 1.800 puntos mientras los inversores se deshacen de las grandes tecnológicas.",
-        "capturado": "2026-11-05T18:19:12-05:00"
-      },
-      {
-        "titulo": "Origen de ueno y su rol en la crisis que provocó la dimisión del mandatario de Paraguay",
-        "url": "https://es.finance.yahoo.com/noticias/banco-ueno-desencaden%C3%B3-crisis-llev%C3%B3-194817121.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "¿Qué es el banco ueno y cómo desencadenó la crisis que llevó a renuncia de presidente Paraguay?",
-        "capturado": "2026-11-05T18:19:12-05:00"
       }
     ]
   }
