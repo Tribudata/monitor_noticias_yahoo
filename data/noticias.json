@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-10T19:10:52-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-11-11T01:56:02-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Compañías tech repuntan luego de la caída, mas persisten miedos por alzas de tasas en EE. UU.",
+        "url": "https://es.finance.yahoo.com/noticias/tecnol%C3%B3gicas-rebotan-desplome-pesan-temores-061639809.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Las tecnológicas rebotan tras el desplome, pero pesan los temores a más subidas de tipos en EE.UU.",
+        "capturado": "2026-11-11T01:56:02-05:00"
+      },
+      {
+        "titulo": "Oferta pública de Anthropic actúa como indicador de la burbuja de IA en Norteamérica",
+        "url": "https://es.finance.yahoo.com/noticias/anthropic-apunta-valoraci%C3%B3n-1-4-052737469.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "La salida a Bolsa de Anthropic se convierte en un termómetro de la burbuja en IA en Estados Unidos",
+        "capturado": "2026-11-11T01:56:02-05:00"
+      },
       {
         "titulo": "Bolsas en EE. UU. descienden por mayor probabilidad de alza de tasas de la Fed tras inflación superior a la esperada",
         "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-215350718.html",
@@ -467,22 +483,6 @@
         "medio": "Bloomberg",
         "titulo_fuente": "Paraguay destituye a Peña y abre paso a posibles cargos por caso Ueno",
         "capturado": "2026-11-06T23:52:26-05:00"
-      },
-      {
-        "titulo": "Wall Street muestra comportamiento variado tras sólido reporte laboral que sube rentabilidad de bonos",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-214822347.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos tras el excelente informe de empleo que impulsa al alza los rendimientos de los bonos del Tesoro.",
-        "capturado": "2026-11-06T18:40:47-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE. UU. bajaron semanalmente al caer tecnológicas por triunfo demócrata y dudas sobre IA",
-        "url": "https://es.finance.yahoo.com/noticias/%C3%ADndices-burs%C3%A1tiles-estadounidenses-cayeron-semana-213227037.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los índices bursátiles estadounidenses cayeron esta semana a medida que las grandes tecnológicas se desplomaron tras la victoria de los demócratas en las elecciones de mitad de mandato, lo que generó dudas sobre el desarrollo de la IA.",
-        "capturado": "2026-11-06T18:40:47-05:00"
       }
     ]
   }
