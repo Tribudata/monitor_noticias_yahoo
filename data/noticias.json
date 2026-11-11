@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-11T09:57:31-05:00",
+  "actualizado": "2026-11-11T16:49:03-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Lula conversa con la mandataria interina de Venezuela sobre recursos para el petróleo",
+        "url": "https://es.finance.yahoo.com/noticias/lula-re%C3%BAne-presidenta-encargada-venezuela-195834438.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Lula se reúne con presidenta encargada de Venezuela, hablan de inversiones en el sector petrolero",
+        "capturado": "2026-11-11T16:49:03-05:00"
+      },
+      {
+        "titulo": "Moscú reporta más de 11.000 foráneos fallecidos en el conflicto bélico con Ucrania",
+        "url": "https://es.finance.yahoo.com/noticias/rusia-registra-11-000-extranjeros-194419828.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Rusia registra más de 11.000 extranjeros muertos en la guerra contra Ucrania",
+        "capturado": "2026-11-11T16:49:03-05:00"
+      },
+      {
+        "titulo": "Titular del emisor brasileño ve efecto negativo en guías de tasas con alta duda",
+        "url": "https://es.finance.yahoo.com/noticias/jefe-banco-central-brasile%C3%B1o-valor-193224078.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Jefe Banco Central brasileño dice valor de orientaciones política monetaria es negativo en contexto incierto",
+        "capturado": "2026-11-11T16:49:03-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE. UU. suben por balances y proyecciones de CoreWeave ligadas a la IA",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-repuntan-185545925.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses repuntan gracias a los sólidos resultados trimestrales y las previsiones de CoreWeave, que impulsan el comercio basado en IA.",
+        "capturado": "2026-11-11T16:49:03-05:00"
+      },
+      {
+        "titulo": "Los ETF trepan al tiempo que los papeles norteamericanos ganan tras el mediodía",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-suben-medida-181134671.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa suben a medida que las acciones estadounidenses avanzan después del mediodía.",
+        "capturado": "2026-11-11T16:49:03-05:00"
+      },
+      {
+        "titulo": "Iberdrola evaluaría enajenar sus parques solares germanos según trascendidos bursátiles",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-rumores-mercado-iberdrola-estar%C3%ADa-173129856.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Rumores del mercado: Iberdrola estaría considerando la venta de sus activos solares en Alemania.",
+        "capturado": "2026-11-11T16:49:03-05:00"
+      },
+      {
+        "titulo": "Meta, TikTok y Google rechazan modificaciones normativas de propiedad intelectual indonesias",
+        "url": "https://es.finance.yahoo.com/noticias/meta-tiktok-unen-google-oponerse-162630169.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Meta y TikTok se unen a Google para oponerse a revisiones a ley de derechos de autor de Indonesia",
+        "capturado": "2026-11-11T16:49:03-05:00"
+      },
+      {
+        "titulo": "Iberdrola evaluaría enajenar sus parques solares germanos según trascendidos bursátiles",
+        "url": "https://es.finance.yahoo.com/noticias/rumores-mercado-iberdrola-estar%C3%ADa-considerando-155518268.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Rumores del mercado: Iberdrola estaría considerando la venta de sus activos solares en Alemania.",
+        "capturado": "2026-11-11T16:49:03-05:00"
+      },
       {
         "titulo": "Mercados asiáticos compran crudo de África y Brasil por abaratamiento de fletes marítimos",
         "url": "https://es.finance.yahoo.com/noticias/asia-acapara-petr%C3%B3leo-africano-brasile%C3%B1o-144047407.html",
@@ -419,70 +483,6 @@
         "medio": "Tarreo",
         "titulo_fuente": "Descarga gratis para PC el simulador espacial Fate of the Galaxy de Star Wars que desarrolladores tardaron veinte años en completar",
         "capturado": "2026-11-08T21:24:07-05:00"
-      },
-      {
-        "titulo": "Egipto halla reserva gasífera marina de 200.000 millones de pies cúbicos",
-        "url": "https://es.finance.yahoo.com/noticias/egipto-descubre-yacimiento-gas-mediterr%C3%A1neo-133504816.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Egipto descubre un yacimiento de gas en el Mediterráneo con 200.000 millones de pies cúbicos",
-        "capturado": "2026-11-08T09:09:30-05:00"
-      },
-      {
-        "titulo": "Larimar evoluciona de fase constructiva y comercial a operación real",
-        "url": "https://es.finance.yahoo.com/noticias/larimar-pasando-progresivamente-ser-proyecto-050000409.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "\"Larimar está pasando progresivamente de ser un proyecto en construcción y comercialización a convertirse en una realidad operativa\"",
-        "capturado": "2026-11-08T09:09:30-05:00"
-      },
-      {
-        "titulo": "PlayStation al Salón de la Vergüenza por fin de discos desde 2028 y no poseer juegos digitales",
-        "url": "https://es-us.noticias.yahoo.com/playstation-entra-sal%C3%B3n-verg%C3%BCenza-discos-194502131.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "PlayStation entra al Salón de la Vergüenza por el fin de los discos físicos desde 2028 y por decir que compras juegos digitales cuando en realidad no son tuyos",
-        "capturado": "2026-11-08T09:09:30-05:00"
-      },
-      {
-        "titulo": "Ya se puede bajar sin costo para PC el remake de Zelda Ocarina of Time a 120 FPS y sin emulador",
-        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-port-pc-remake-164056314.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Descarga gratis el port para PC del remake de Zelda Ocarina of Time, sin emulador, que alcanza los 120 FPS con ajuste de resolución, reescalado y Frame Generation hasta 4x",
-        "capturado": "2026-11-08T01:56:39-05:00"
-      },
-      {
-        "titulo": "Para AMD el foco son los centros de datos de IA pese a la baja del 40 por ciento en juegos",
-        "url": "https://es-us.noticias.yahoo.com/amd-asegura-empresa-prioriza-centros-151632347.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "AMD asegura que es una empresa que prioriza los centros de datos de IA, mientras sus ingresos de gaming caen 40%",
-        "capturado": "2026-11-08T01:56:39-05:00"
-      },
-      {
-        "titulo": "Dan Ives descarta temores en tecnología y selecciona seis papeles de inteligencia artificial",
-        "url": "https://es.finance.yahoo.com/noticias/ives-teme-ca%C3%ADda-tecnol%C3%B3gica-elige-150007291.html",
-        "resumen": "",
-        "medio": "Benzinga Espana",
-        "titulo_fuente": "Dan Ives no teme la caída tecnológica y elige seis acciones de IA",
-        "capturado": "2026-11-07T19:50:38-05:00"
-      },
-      {
-        "titulo": "Bill Ackman adquiriría Microsoft, Amazon y Netflix aun si el mercado cerrara dos décadas",
-        "url": "https://es.finance.yahoo.com/noticias/bill-ackman-comprar%C3%ADa-microsoft-amazon-130009270.html",
-        "resumen": "",
-        "medio": "Benzinga Espana",
-        "titulo_fuente": "Bill Ackman compraría Microsoft, Amazon y Netflix aunque la Bolsa cerrara 20 años",
-        "capturado": "2026-11-07T19:50:38-05:00"
-      },
-      {
-        "titulo": "Gary Black advierte que si Tesla pierde terreno en EV, su múltiplo carecerá de sentido",
-        "url": "https://es.finance.yahoo.com/noticias/gary-black-tesla-cediendo-cuota-100007382.html",
-        "resumen": "",
-        "medio": "Benzinga Espana",
-        "titulo_fuente": "Gary Black: si Tesla sigue cediendo cuota en eléctricos, su PER será injustificable",
-        "capturado": "2026-11-07T19:50:38-05:00"
       }
     ]
   }
