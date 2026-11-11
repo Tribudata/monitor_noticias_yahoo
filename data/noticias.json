@@ -1,9 +1,41 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-10T14:23:18-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-11-10T19:10:52-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Bolsas en EE. UU. descienden por mayor probabilidad de alza de tasas de la Fed tras inflación superior a la esperada",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-215350718.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen ante el aumento de las probabilidades de un endurecimiento de la política monetaria de la Fed, luego de que la inflación superara las previsiones.",
+        "capturado": "2026-11-10T19:10:52-05:00"
+      },
+      {
+        "titulo": "Congreso de Venezuela avala modificación legal para permitir capital privado en la industria eléctrica",
+        "url": "https://es.finance.yahoo.com/noticias/parlamento-venezolano-aprueba-reforma-legal-212031740.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Parlamento venezolano aprueba reforma legal que abre sector eléctrico a inversión privada",
+        "capturado": "2026-11-10T19:10:52-05:00"
+      },
+      {
+        "titulo": "SpaceX afrontará juicio por discriminación de género tras negativa de corte de apelaciones a arbitraje",
+        "url": "https://es.finance.yahoo.com/noticias/spacex-deber%C3%A1-enfrentar-demanda-discriminaci%C3%B3n-201308899.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "SpaceX deberá enfrentar demanda por discriminación sexual ya que corte de apelación rechaza solicitud arbitraje",
+        "capturado": "2026-11-10T19:10:52-05:00"
+      },
+      {
+        "titulo": "Anthropic compite con Microsoft y Google al presentar funciones recientes de Claude",
+        "url": "https://es.finance.yahoo.com/noticias/anthropic-desaf%C3%ADa-microsoft-google-herramientas-184246618.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Anthropic desafía a Microsoft y Google con nuevas herramientas de Claude",
+        "capturado": "2026-11-10T19:10:52-05:00"
+      },
       {
         "titulo": "Las bolsas de EE. UU. bajan tras subir la inflación de octubre y crecer las apuestas de alza de tasas de la Fed",
         "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-183806425.html",
@@ -450,38 +482,6 @@
         "resumen": "",
         "medio": "MT Newswires",
         "titulo_fuente": "Los índices bursátiles estadounidenses cayeron esta semana a medida que las grandes tecnológicas se desplomaron tras la victoria de los demócratas en las elecciones de mitad de mandato, lo que generó dudas sobre el desarrollo de la IA.",
-        "capturado": "2026-11-06T18:40:47-05:00"
-      },
-      {
-        "titulo": "UE pierde 8.000 millones en tributos por cuenta de los territorios fiscales británicos",
-        "url": "https://es.finance.yahoo.com/noticias/para%C3%ADsos-fiscales-brit%C3%A1nicos-cuestan-8-203038041.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Los paraísos fiscales británicos cuestan 8.000 millones en impuestos a la UE",
-        "capturado": "2026-11-06T18:40:47-05:00"
-      },
-      {
-        "titulo": "Adquisición de inmuebles por foráneos llega a pico del 16% en España con valores récord",
-        "url": "https://es.finance.yahoo.com/noticias/compra-vivienda-extranjeros-marca-r%C3%A9cord-204917107.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La compra de vivienda por extranjeros marca un récord del 16% en España con precios en máximos históricos",
-        "capturado": "2026-11-06T18:40:47-05:00"
-      },
-      {
-        "titulo": "Actualización: Mercados accionarios de EE. UU. exhiben cifras mixtas tras robusto dato de empleo y alza de bonos",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-191548888.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos tras el excelente informe de empleo y las ganancias en los rendimientos de los bonos del Tesoro.",
-        "capturado": "2026-11-06T18:40:47-05:00"
-      },
-      {
-        "titulo": "Daly ve factible alza de tasas de la Fed a pesar de la fuerte baja en acciones tecnológicas",
-        "url": "https://es.finance.yahoo.com/noticias/daly-probable-fed-suba-tasas-184853859.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Daly dice es probable que la Fed suba las tasas, pese a \"dolorosa\" caída de acciones tecnológicas",
         "capturado": "2026-11-06T18:40:47-05:00"
       }
     ]
