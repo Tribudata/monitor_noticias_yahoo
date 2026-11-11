@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-11T01:56:02-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-11-11T09:57:31-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Mercados asiáticos compran crudo de África y Brasil por abaratamiento de fletes marítimos",
+        "url": "https://es.finance.yahoo.com/noticias/asia-acapara-petr%C3%B3leo-africano-brasile%C3%B1o-144047407.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Asia acapara el petróleo africano y brasileño ante la caída de los costes de transporte marítimo",
+        "capturado": "2026-11-11T09:57:31-05:00"
+      },
+      {
+        "titulo": "Plaza bursátil argentina repunta con volumen bajo por día festivo estadounidense",
+        "url": "https://es.finance.yahoo.com/noticias/bolsa-argentina-recupera-precios-mercado-142048990.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Bolsa argentina recupera precios, mercado reducido por feriado en EEUU",
+        "capturado": "2026-11-11T09:57:31-05:00"
+      },
+      {
+        "titulo": "ETF y futuros bursátiles avanzaron el miércoles antes de abrir, y títulos de Nvidia repuntan",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-futuros-acciones-141131175.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa y los futuros de acciones subieron el miércoles antes de la apertura del mercado, mientras que las acciones de Nvidia se recuperan.",
+        "capturado": "2026-11-11T09:57:31-05:00"
+      },
+      {
+        "titulo": "Moscú usa grandes sacos plásticos para guardar la cosecha de grano sin vender al exterior",
+        "url": "https://es.finance.yahoo.com/noticias/rusia-recurre-bolsas-pl%C3%A1stico-gigantes-141102697.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Rusia recurre a bolsas de plástico gigantes para almacenar el grano no exportado",
+        "capturado": "2026-11-11T09:57:31-05:00"
+      },
+      {
+        "titulo": "Futuros de EE. UU. suben antes de abrir, impulsados por Nvidia y CoreWeave en sector tecnológico",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-futuros-acciones-estadounidenses-suben-135149422.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los futuros de las acciones estadounidenses suben antes de la apertura, con Nvidia y CoreWeave al alza en medio del repunte del sector tecnológico.",
+        "capturado": "2026-11-11T09:57:31-05:00"
+      },
+      {
+        "titulo": "Directivos de la COP31 ensayan nueva tesis para impulsar política verde: defendamos la economía",
+        "url": "https://es.finance.yahoo.com/noticias/l%C3%ADderes-cop31-prueban-argumento-promover-133612579.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Líderes COP31 prueban nuevo argumento para promover la acción climática: hagámoslo por la economía",
+        "capturado": "2026-11-11T09:57:31-05:00"
+      },
+      {
+        "titulo": "El BCE ratifica la continuidad del euro digital tras la renuncia de Christine Lagarde",
+        "url": "https://es.finance.yahoo.com/noticias/bce-asegura-salida-lagarde-retrasa-124621702.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El BCE confirma que el euro digital seguirá adelante pese a la dimisión de Christine Lagarde",
+        "capturado": "2026-11-11T09:57:31-05:00"
+      },
+      {
+        "titulo": "Los contratos de futuros en Wall Street avanzan antes de iniciar, impulsados por Nvidia y CoreWeave",
+        "url": "https://es.finance.yahoo.com/noticias/futuros-acciones-estadounidenses-suben-apertura-130206241.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los futuros de las acciones estadounidenses suben antes de la apertura, con Nvidia y CoreWeave al alza en medio del repunte del sector tecnológico.",
+        "capturado": "2026-11-11T09:57:31-05:00"
+      },
       {
         "titulo": "Compañías tech repuntan luego de la caída, mas persisten miedos por alzas de tasas en EE. UU.",
         "url": "https://es.finance.yahoo.com/noticias/tecnol%C3%B3gicas-rebotan-desplome-pesan-temores-061639809.html",
@@ -419,70 +483,6 @@
         "medio": "Benzinga Espana",
         "titulo_fuente": "Gary Black: si Tesla sigue cediendo cuota en eléctricos, su PER será injustificable",
         "capturado": "2026-11-07T19:50:38-05:00"
-      },
-      {
-        "titulo": "Putin extiende el control temporal sobre los bienes de Japan Tobacco en Rusia",
-        "url": "https://es.finance.yahoo.com/noticias/putin-ampl%C3%ADa-administraci%C3%B3n-temporal-activos-152403858.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Putin amplía la administración temporal de los activos de Japan Tobacco en Rusia",
-        "capturado": "2026-11-07T12:29:04-05:00"
-      },
-      {
-        "titulo": "Ministro anuncia que la extracción de petróleo en Irak rebasa los 5 millones de bpd",
-        "url": "https://es.finance.yahoo.com/noticias/producci%C3%B3n-petrolera-irak-supera-5-121833731.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "La producción petrolera de Irak supera los 5 millones de bpd: ministro",
-        "capturado": "2026-11-07T12:29:04-05:00"
-      },
-      {
-        "titulo": "Francia, con un 57% de gasto público y riesgo de crisis de deuda europea: la salida forzosa es reducir el Estado",
-        "url": "https://es.finance.yahoo.com/noticias/francia-57-gasto-p%C3%BAblico-riesgo-070000101.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "Francia, con un 57% de gasto público y el riesgo de una crisis de deuda europea: la solución inevitable es menos Estado",
-        "capturado": "2026-11-07T12:29:04-05:00"
-      },
-      {
-        "titulo": "Las principales entidades financieras de Wall Street se alistan para una mayor vigilancia legislativa",
-        "url": "https://es.finance.yahoo.com/noticias/bancos-wall-street-preparan-escrutinio-060000255.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "Los grandes bancos de Wall Street se preparan para un mayor escrutinio del Congreso",
-        "capturado": "2026-11-07T12:29:04-05:00"
-      },
-      {
-        "titulo": "Qué revela el pasado tras un salto del VIX en un 70%",
-        "url": "https://es.finance.yahoo.com/noticias/historia-impulso-vix-70-055000380.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "¿Qué dice la historia tras un impulso del VIX en un 70%?",
-        "capturado": "2026-11-07T12:29:04-05:00"
-      },
-      {
-        "titulo": "La OCDE advierte sobre las pensiones en Europa: cuánto dinero extra habrá que ahorrar para jubilarse",
-        "url": "https://es.finance.yahoo.com/noticias/pensiones-obligatorias-22-pa%C3%ADses-europeos-055914104.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La OCDE advierte sobre las pensiones en Europa: cuánto dinero extra habrá que ahorrar para jubilarse",
-        "capturado": "2026-11-07T06:31:11-05:00"
-      },
-      {
-        "titulo": "Neinor acelera su crecimiento y eleva la remuneración al accionista con una estrategia basada en rentabilidad y disciplina de capital",
-        "url": "https://es.finance.yahoo.com/noticias/neinor-acelera-crecimiento-eleva-remuneraci%C3%B3n-050000318.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "\"Neinor acelera su crecimiento y eleva la remuneración al accionista con una estrategia basada en rentabilidad y disciplina de capital\"",
-        "capturado": "2026-11-07T06:31:11-05:00"
-      },
-      {
-        "titulo": "Echaron a Peña en Paraguay y se abren probables procesos judiciales por el caso Ueno",
-        "url": "https://es.finance.yahoo.com/noticias/paraguay-destituye-pe%C3%B1a-abre-paso-222609107.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Paraguay destituye a Peña y abre paso a posibles cargos por caso Ueno",
-        "capturado": "2026-11-06T23:52:26-05:00"
       }
     ]
   }
