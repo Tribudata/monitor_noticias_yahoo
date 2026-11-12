@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-12T13:42:33-05:00",
+  "actualizado": "2026-11-12T18:58:28-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Bolsa de Rosario incrementa pronóstico de cosecha triguera argentina por menor efecto de El Niño",
+        "url": "https://es.finance.yahoo.com/noticias/bolsa-rosario-sube-estimaci%C3%B3n-cosecha-223826760.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Bolsa Rosario sube estimación cosecha trigo argentino gracias a menor impacto de El Niño",
+        "capturado": "2026-11-12T18:58:28-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE UU bajan, crisis de Nvidia se ampliaría y crudo al alza sube tasas de bonos del Tesoro",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-220045018.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen, la crisis de Nvidia amenaza con extenderse, mientras que el alza del petróleo crudo eleva los rendimientos de los bonos del Tesoro.",
+        "capturado": "2026-11-12T18:58:28-05:00"
+      },
+      {
+        "titulo": "Web Summit enfoca su cierre en marcha de Huang, burbuja de IA y pasivos de Estados Unidos",
+        "url": "https://es.finance.yahoo.com/noticias/web-summit-centra-jornada-salida-213245774.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Web Summit centra su última jornada en la salida de Huang, burbuja de IA y deuda de EE.UU.",
+        "capturado": "2026-11-12T18:58:28-05:00"
+      },
+      {
+        "titulo": "Mercedes frena nuevas inversiones en suelo alemán y evalúa clausurar plantas",
+        "url": "https://es.finance.yahoo.com/noticias/mercedes-congela-inversiones-alemania-baraja-192201726.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Mercedes congela nuevas inversiones en Alemania y baraja cerrar fábricas",
+        "capturado": "2026-11-12T18:58:28-05:00"
+      },
+      {
+        "titulo": "Demanda contra OpenAI, Google y Anthropic busca detener creación de IA avanzada",
+        "url": "https://es.finance.yahoo.com/noticias/openai-google-anthropic-objeto-demanda-194001619.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "OpenAI, Google y Anthropic, objeto de una demanda que busca frenar desarrollo de la IA de vanguardia",
+        "capturado": "2026-11-12T18:58:28-05:00"
+      },
+      {
+        "titulo": "Venta de chips IA a China afrontaría mayores trabas tras salida del CEO de Nvidia",
+        "url": "https://es.finance.yahoo.com/noticias/probable-impongan-restricciones-venta-chips-193015992.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Es probable que se impongan más restricciones a venta chips IA a China tras dimisión CEO Nvidia",
+        "capturado": "2026-11-12T18:58:28-05:00"
+      },
+      {
+        "titulo": "Estados Unidos arranca año fiscal 2027 con histórico déficit de 404.000 millones en octubre",
+        "url": "https://es.finance.yahoo.com/noticias/eeuu-inicia-ejercicio-fiscal-2027-191951513.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "EEUU inicia ejercicio fiscal 2027 con déficit presupuestario récord de 404.000 millones de dólares en octubre",
+        "capturado": "2026-11-12T18:58:28-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE UU muestran cifras mixtas tras dimisión en Nvidia y alza de bonos del Tesoro",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-185020267.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos tras la dimisión del CEO de Nvidia y el aumento vertiginoso de los rendimientos de los bonos del Tesoro.",
+        "capturado": "2026-11-12T18:58:28-05:00"
+      },
       {
         "titulo": "Frena repunte de soja en Chicago y caen trigo y maíz debido al dólar fuerte",
         "url": "https://es.finance.yahoo.com/noticias/alza-soja-estanca-chicago-ma%C3%ADz-182434489.html",
@@ -419,70 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Banco Central de Brasil dice que perturbaciones de la oferta están detrás de repunte de la inflación",
         "capturado": "2026-11-10T06:32:01-05:00"
-      },
-      {
-        "titulo": "Compras externas chinas de soya bajan en octubre por altos inventarios y flojos márgenes",
-        "url": "https://es.finance.yahoo.com/noticias/importaciones-soja-china-caen-octubre-112432763.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Importaciones de soja de China caen en octubre por altas existencias, débiles márgenes de molienda",
-        "capturado": "2026-11-10T06:32:01-05:00"
-      },
-      {
-        "titulo": "Lingote baja 1% por postura de Waller sobre tipos y atención en costo de vida",
-        "url": "https://es.finance.yahoo.com/noticias/oro-cae-1-apuesta-alza-111850313.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Oro cae 1% tras apuesta por alza de tasas de Waller, de la Fed, con foco en inflación",
-        "capturado": "2026-11-10T06:32:01-05:00"
-      },
-      {
-        "titulo": "Proyecciones de precios y crudo impulsan a Wall Street en la apertura; bolsas de Asia y Europa suben",
-        "url": "https://es.finance.yahoo.com/noticias/perspectivas-ipc-petr%C3%B3leo-respaldan-wall-111250044.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Las perspectivas sobre el IPC y el petróleo respaldan a Wall Street antes de la apertura; Asia y Europa registran ganancias.",
-        "capturado": "2026-11-10T06:32:01-05:00"
-      },
-      {
-        "titulo": "Compras externas chinas de crudo en octubre llegan a su pico desde marzo",
-        "url": "https://es.finance.yahoo.com/noticias/importaciones-petr%C3%B3leo-china-octubre-alcanzan-111203356.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Las importaciones de petróleo de China de octubre alcanzan su nivel más alto desde marzo",
-        "capturado": "2026-11-10T06:32:01-05:00"
-      },
-      {
-        "titulo": "Mercados bursátiles de Europa escalan con vigor apoyados por Asia y Norteamérica previo a cifras inflacionarias",
-        "url": "https://es.finance.yahoo.com/noticias/bolsas-europeas-suben-fuerza-rebote-105418620.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Las bolsas europeas suben con fuerza tras el rebote en Asia y EE.UU., a la espera de los datos de inflación",
-        "capturado": "2026-11-10T06:32:01-05:00"
-      },
-      {
-        "titulo": "Gobierno australiano proyecta crear autoridad en inteligencia artificial tras vulneración a datos sanitarios",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-australia-planea-establecer-regulador-104730829.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Australia planea establecer un regulador de IA tras el hackeo de datos de salud nacionales.",
-        "capturado": "2026-11-10T06:32:01-05:00"
-      },
-      {
-        "titulo": "Turquía organizará la COP31 y promoverá la época eléctrica pero persiste la duda sobre su origen ecológico",
-        "url": "https://es.finance.yahoo.com/noticias/turqu%C3%ADa-anfitriona-cop31-impulsar%C3%A1-electricidad-103459219.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Turquía, anfitriona de la COP31, impulsará la \"era de la electricidad\", ¿pero será verde?",
-        "capturado": "2026-11-10T06:32:01-05:00"
-      },
-      {
-        "titulo": "Inflación colombiana de octubre menor a la prevista por agentes y sitúa la tasa anual en 6,30 por ciento",
-        "url": "https://es.finance.yahoo.com/noticias/colombia-reporta-inflaci%C3%B3n-octubre-inferior-002649626.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Colombia reporta inflación en octubre inferior a la esperada por el mercado, acumula 6,30% anual",
-        "capturado": "2026-11-09T22:19:28-05:00"
       }
     ]
   }
