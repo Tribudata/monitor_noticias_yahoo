@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-11T21:42:45-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-11-12T05:41:29-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "El oro profundiza su caída a piso de siete días por el alza del dólar",
+        "url": "https://es.finance.yahoo.com/noticias/oro-ampl%C3%ADa-p%C3%A9rdidas-m%C3%ADnimo-semana-102218431.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "El oro amplía pérdidas a mínimo de una semana mientras el dólar se fortalece",
+        "capturado": "2026-11-12T05:41:29-05:00"
+      },
+      {
+        "titulo": "PIB británico sube 0,7% en el tercer trimestre empujado por demanda de IA",
+        "url": "https://es.finance.yahoo.com/noticias/econom%C3%ADa-reino-unido-crece-0-101925540.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "La economía del Reino Unido crece un 0,7% en el tercer trimestre impulsada por la demanda de IA",
+        "capturado": "2026-11-12T05:41:29-05:00"
+      },
+      {
+        "titulo": "Mercados europeos tocan récord histórico gracias a los balances corporativos",
+        "url": "https://es.finance.yahoo.com/noticias/bolsas-europeas-alcanzan-m%C3%A1ximo-hist%C3%B3rico-090729173.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Las bolsas europeas alcanzan un máximo histórico ante el empuje de los resultados empresariales",
+        "capturado": "2026-11-12T05:41:29-05:00"
+      },
+      {
+        "titulo": "El S&P 500 está a 2,5% de un nuevo ATH: ¿Le seguirá Bitcoin?",
+        "url": "https://es.finance.yahoo.com/noticias/s-p-500-2-5-085200741.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "El S&P 500 está a 2.5% de un nuevo ATH: ¿Le seguirá Bitcoin?",
+        "capturado": "2026-11-12T05:41:29-05:00"
+      },
+      {
+        "titulo": "Títulos de Nvidia caen tras reportes de posible destitución de Jensen Huang",
+        "url": "https://es.finance.yahoo.com/noticias/acciones-nvidia-hunden-informes-consejo-075517802.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Las acciones de Nvidia se hunden tras informes de que el consejo podría destituir a Jensen Huang",
+        "capturado": "2026-11-12T05:41:29-05:00"
+      },
+      {
+        "titulo": "Santander sube un 5 por ciento su propuesta para adquirir el 10 por ciento pendiente de su filial en Brasil",
+        "url": "https://es.finance.yahoo.com/noticias/santander-anuncia-aumento-5-oferta-081020968.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Santander anuncia un aumento del 5% en su oferta para comprar el 10% restante de su filial brasileña",
+        "capturado": "2026-11-12T05:41:29-05:00"
+      },
+      {
+        "titulo": "Disminuyen las tarifas de luz y gas para hogares en la Union Europea durante el primer semestre de 2026",
+        "url": "https://es.finance.yahoo.com/noticias/ue-bajan-precios-luz-gas-065031029.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Bajan los precios de luz y gas domésticos en la UE en la primera mitad de 2026",
+        "capturado": "2026-11-12T05:41:29-05:00"
+      },
+      {
+        "titulo": "La junta directiva de Nvidia se convoca para definir el porvenir del director ejecutivo Jensen Huang",
+        "url": "https://es.finance.yahoo.com/noticias/consejo-administraci%C3%B3n-nvidia-re%C3%BAne-decidir-072459270.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "El consejo de administración de Nvidia se reúne para decidir el futuro del CEO Jensen Huang",
+        "capturado": "2026-11-12T05:41:29-05:00"
+      },
       {
         "titulo": "Fuentes señalan que Exxon analiza siete zonas venezolanas con miras a planes energéticos",
         "url": "https://es.finance.yahoo.com/noticias/exxon-eval%C3%BAa-7-%C3%A1reas-venezuela-225604175.html",
@@ -419,70 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Fed debería actuar \"con cautela\" a la hora de responder a la inflación, dice Barkin",
         "capturado": "2026-11-09T15:57:07-05:00"
-      },
-      {
-        "titulo": "El conservador Thomas Massie pretende destituir a Hegseth tras el conflicto iraní",
-        "url": "https://es.finance.yahoo.com/noticias/republicano-thomas-massie-busca-destituir-170238812.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Republicano Thomas Massie busca destituir a Hegseth tras la guerra con Irán",
-        "capturado": "2026-11-09T15:57:07-05:00"
-      },
-      {
-        "titulo": "El valor de los combustibles cae 9 céntimos en Portugal, su mayor retroceso desde marzo",
-        "url": "https://es.finance.yahoo.com/noticias/precio-combustibles-baja-9-c%C3%A9ntimos-160032172.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El precio de los combustibles baja 9 céntimos en Portugal, la mayor caída desde marzo",
-        "capturado": "2026-11-09T15:57:07-05:00"
-      },
-      {
-        "titulo": "Pekín aplaza hasta enero la aplicación de las nuevas restricciones a las tierras raras",
-        "url": "https://es.finance.yahoo.com/noticias/china-prorroga-suspensi%C3%B3n-medidas-control-093830120.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "China prorroga la suspensión de las nuevas medidas de control sobre las tierras raras hasta enero",
-        "capturado": "2026-11-09T05:05:56-05:00"
-      },
-      {
-        "titulo": "Un ministro de Países Bajos afirma que la presidencia del BCE se debe definir por méritos",
-        "url": "https://es.finance.yahoo.com/noticias/presidente-bce-ser-elegido-funci%C3%B3n-091442354.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "El presidente del BCE debe ser elegido en función de sus méritos, dice un ministro neerlandés",
-        "capturado": "2026-11-09T05:05:56-05:00"
-      },
-      {
-        "titulo": "Balance en el mercado europeo tras el revés de Trump en las elecciones de mitad de mandato",
-        "url": "https://es.finance.yahoo.com/noticias/derrota-trump-legislativas-ganadores-perdedores-064808292.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Derrota de Trump en las midterms: ganadores y perdedores en la Bolsa europea",
-        "capturado": "2026-11-09T05:05:56-05:00"
-      },
-      {
-        "titulo": "Pekín extiende la pausa del tributo del 24% a productos estadounidenses y cobros a barcos",
-        "url": "https://es.finance.yahoo.com/noticias/china-prorroga-suspensi%C3%B3n-arancel-24-072129040.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "China prorroga la suspensión del arancel del 24% a bienes de EEUU y de tasas portuarias a sus buques",
-        "capturado": "2026-11-09T05:05:56-05:00"
-      },
-      {
-        "titulo": "Títulos de Nvidia descienden al indagar si su director ejecutivo fue blanco de espionaje",
-        "url": "https://es.finance.yahoo.com/noticias/acciones-nvidia-caen-investiga-ceo-071813539.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Las acciones de Nvidia caen mientras investiga si su CEO fue objetivo de inteligencia extranjera",
-        "capturado": "2026-11-09T05:05:56-05:00"
-      },
-      {
-        "titulo": "Lula promete conservar el rigor fiscal en suelo brasileño",
-        "url": "https://es.finance.yahoo.com/noticias/lula-compromete-mantener-disciplina-presupuestaria-070810284.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Lula se compromete a mantener la disciplina presupuestaria en Brasil",
-        "capturado": "2026-11-09T05:05:56-05:00"
       }
     ]
   }
