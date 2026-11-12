@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-12T05:41:29-05:00",
+  "actualizado": "2026-11-12T13:42:33-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Frena repunte de soja en Chicago y caen trigo y maíz debido al dólar fuerte",
+        "url": "https://es.finance.yahoo.com/noticias/alza-soja-estanca-chicago-ma%C3%ADz-182434489.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Alza de soja se estanca en Chicago, maíz y trigo bajan por fortaleza del dólar",
+        "capturado": "2026-11-12T13:42:33-05:00"
+      },
+      {
+        "titulo": "Acciones y fondos cotizados de EE. UU. muestran cifras diversas a mitad de jornada",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-acciones-estadounidenses-182008227.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa y las acciones estadounidenses presentan resultados mixtos tras la media jornada.",
+        "capturado": "2026-11-12T13:42:33-05:00"
+      },
+      {
+        "titulo": "Utilidades de Citgo trepan a US$2.200 millones al tercer trimestre por márgenes altos",
+        "url": "https://es.finance.yahoo.com/noticias/ganancias-citgo-disparan-2-200-172140329.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Ganancias de Citgo se disparan a 2.200 millones de dólares en tercer trimestre por altos márgenes",
+        "capturado": "2026-11-12T13:42:33-05:00"
+      },
+      {
+        "titulo": "Goolsbee de la Fed alerta sobre alta inflación persistente según entrevista",
+        "url": "https://es.finance.yahoo.com/noticias/goolsbee-fed-muestra-preocupaci%C3%B3n-persistencia-170533647.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Goolsbee, de la Fed, muestra preocupación por persistencia de elevada inflación: entrevista a Yahoo Finance",
+        "capturado": "2026-11-12T13:42:33-05:00"
+      },
+      {
+        "titulo": "US$12.100 millones desembolsó la cuenta de venta de petróleo venezolano bajo control de EE. UU.",
+        "url": "https://es.finance.yahoo.com/noticias/controlada-ee-uu-ventas-crudo-165453415.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Cuenta controlada por EE.UU. de ventas de crudo venezolano desembolsó US$12.100M",
+        "capturado": "2026-11-12T13:42:33-05:00"
+      },
+      {
+        "titulo": "Partida de Jensen Huang centra atención en colocación de Nvidia en OPI de Anthropic",
+        "url": "https://es.finance.yahoo.com/noticias/salida-jensen-huang-pone-foco-164031740.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Salida de Jensen Huang pone en foco inversión de Nvidia en OPI de Anthropic",
+        "capturado": "2026-11-12T13:42:33-05:00"
+      },
+      {
+        "titulo": "Venta de casas usadas en Estados Unidos baja en octubre a su piso de más de 16 años",
+        "url": "https://es.finance.yahoo.com/noticias/ventas-viviendas-usadas-eeuu-caen-155034452.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Ventas de viviendas usadas en EEUU caen en octubre a su nivel más bajo en más de 16 años",
+        "capturado": "2026-11-12T13:42:33-05:00"
+      },
+      {
+        "titulo": "Centro estadounidense señala más de 79 por ciento de opción de Fenómeno El Niño intenso entre enero y marzo",
+        "url": "https://es.finance.yahoo.com/noticias/centro-eeuu-79-probabilidades-fen%C3%B3meno-152221619.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Centro en EEUU dice hay más de 79% de probabilidades de un fenómeno El Niño fuerte a muy fuerte entre enero-marzo",
+        "capturado": "2026-11-12T13:42:33-05:00"
+      },
       {
         "titulo": "El oro profundiza su caída a piso de siete días por el alza del dólar",
         "url": "https://es.finance.yahoo.com/noticias/oro-ampl%C3%ADa-p%C3%A9rdidas-m%C3%ADnimo-semana-102218431.html",
@@ -419,70 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Colombia reporta inflación en octubre inferior a la esperada por el mercado, acumula 6,30% anual",
         "capturado": "2026-11-09T22:19:28-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE UU anulan retrocesos postelectorales impulsadas por sectores de crecimiento y baja el crudo",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-recuperan-221526995.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses recuperan las pérdidas posteriores a las elecciones gracias al fuerte repunte de los sectores de crecimiento, mientras que el petróleo crudo cae.",
-        "capturado": "2026-11-09T22:19:28-05:00"
-      },
-      {
-        "titulo": "Anthropic lanza nuevos modelos Fable y Mythos previos a su oferta pública inicial",
-        "url": "https://es.finance.yahoo.com/noticias/anthropic-presenta-modelos-fable-mythos-194148125.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Anthropic presenta nuevos modelos de Fable y Mythos antes de su salida a bolsa",
-        "capturado": "2026-11-09T22:19:28-05:00"
-      },
-      {
-        "titulo": "Estudian lazos de Trump con Huang de Nvidia por miedos de espionaje foráneo",
-        "url": "https://es.finance.yahoo.com/noticias/analizan-v%C3%ADnculos-trump-huang-nvidia-190857555.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Analizan vínculos de Trump con Huang, de Nvidia, tras temores sobre operación inteligencia extranjera",
-        "capturado": "2026-11-09T15:57:07-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE UU trepan por impulso tecnológico y el petróleo baja",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-suben-182137459.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses suben con fuerza gracias al repunte de los sectores de crecimiento, mientras que el petróleo crudo cae.",
-        "capturado": "2026-11-09T15:57:07-05:00"
-      },
-      {
-        "titulo": "Fondos cotizados trepan mientras papeles de EE UU suben pasada la mitad del día",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-suben-medida-180817978.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa suben a medida que las acciones estadounidenses avanzan después del mediodía.",
-        "capturado": "2026-11-09T15:57:07-05:00"
-      },
-      {
-        "titulo": "Paraguay nombra nuevo líder de su banco central para manejar crisis por caída de entidad",
-        "url": "https://es.finance.yahoo.com/noticias/presidente-paraguayo-propone-economista-jorge-114913392.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Paraguay designa nuevo jefe del Banco Central para gestionar crisis tras colapso de banco",
-        "capturado": "2026-11-09T15:57:07-05:00"
-      },
-      {
-        "titulo": "Thales Alenia Space, filial de Airbus, logra contrato de 1.500 millones de euros por satélites IRIS",
-        "url": "https://es.finance.yahoo.com/noticias/filial-airbus-thales-alenia-space-172419442.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "La filial de Airbus, Thales Alenia Space, gana un contrato de 1.500 millones de euros para los satélites IRIS.",
-        "capturado": "2026-11-09T15:57:07-05:00"
-      },
-      {
-        "titulo": "Barkin afirma que la Fed tiene que obrar con prudencia ante la subida de precios",
-        "url": "https://es.finance.yahoo.com/noticias/fed-deber%C3%ADa-actuar-cautela-hora-172120462.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Fed debería actuar \"con cautela\" a la hora de responder a la inflación, dice Barkin",
-        "capturado": "2026-11-09T15:57:07-05:00"
       }
     ]
   }
