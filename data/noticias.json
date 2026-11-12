@@ -1,9 +1,49 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-11T16:49:03-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-11-11T21:42:45-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Fuentes señalan que Exxon analiza siete zonas venezolanas con miras a planes energéticos",
+        "url": "https://es.finance.yahoo.com/noticias/exxon-eval%C3%BAa-7-%C3%A1reas-venezuela-225604175.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Exxon evalúa 7 áreas en Venezuela para posibles proyectos energéticos: fuentes",
+        "capturado": "2026-11-11T21:42:45-05:00"
+      },
+      {
+        "titulo": "México sostiene que frenar compras de acero asiático rinde frutos en pláticas con EE UU",
+        "url": "https://es.finance.yahoo.com/noticias/m%C3%A9xico-afirma-restricciones-importaciones-acero-223949766.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "México afirma restricciones a importaciones acero asiático dan frutos mientras avanzan negociaciones con EEUU",
+        "capturado": "2026-11-11T21:42:45-05:00"
+      },
+      {
+        "titulo": "Fitch sitúa calificación BB+ de Paraguay bajo observación negativa tras quiebra de ueno",
+        "url": "https://es.finance.yahoo.com/noticias/fitch-coloca-nota-bb-paraguay-215842405.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Fitch coloca nota \"BB+\" de Paraguay en vigilancia negativa tras la quiebra de ueno",
+        "capturado": "2026-11-11T21:42:45-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE UU suben por buenos datos del tercer trimestre de CoreWeave que impulsan chips",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-repuntan-215702751.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses repuntan tras los sólidos resultados del tercer trimestre de CoreWeave, que impulsan la subida de los fabricantes de chips.",
+        "capturado": "2026-11-11T21:42:45-05:00"
+      },
+      {
+        "titulo": "Afore Sura elevará su colocación en obras civiles por US$2.000 millones",
+        "url": "https://es.finance.yahoo.com/noticias/afore-sura-aumentar%C3%A1-us-2-190153193.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Afore Sura aumentará en US$2.000 millones su inversión en infraestructura",
+        "capturado": "2026-11-11T21:42:45-05:00"
+      },
       {
         "titulo": "Lula conversa con la mandataria interina de Venezuela sobre recursos para el petróleo",
         "url": "https://es.finance.yahoo.com/noticias/lula-re%C3%BAne-presidenta-encargada-venezuela-195834438.html",
@@ -443,46 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Lula se compromete a mantener la disciplina presupuestaria en Brasil",
         "capturado": "2026-11-09T05:05:56-05:00"
-      },
-      {
-        "titulo": "Mochila austriaca: significado y regreso al debate pensional del 29N",
-        "url": "https://es.finance.yahoo.com/noticias/mochila-austriaca-vuelve-debate-pensiones-045823571.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Mochila austriaca: Qué es y por qué vuelve al debate de las pensiones del 29N",
-        "capturado": "2026-11-09T05:05:56-05:00"
-      },
-      {
-        "titulo": "Empresas tecnológicas repuntan tras caída en elecciones de EE.UU. y Nvidia acapara miradas",
-        "url": "https://es.finance.yahoo.com/noticias/tecnol%C3%B3gicas-recuperan-batacazo-electoral-nvidia-063555059.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Las tecnológicas se recuperan tras el batacazo de las midterms en EE.UU. y Nvidia acapara la atención",
-        "capturado": "2026-11-09T05:05:56-05:00"
-      },
-      {
-        "titulo": "Fuentes reportan que el campo gasífero iraquí Khor Mor frena su extracción tras atentado con drones",
-        "url": "https://es.finance.yahoo.com/noticias/yacimiento-iraqu%C3%AD-gas-khor-mor-225314216.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Yacimiento iraquí de gas de Khor Mor suspende producción tras ataque con drones: fuentes",
-        "capturado": "2026-11-08T21:24:07-05:00"
-      },
-      {
-        "titulo": "Descarga gratis el port para PC de Pokémon Legends Z-A sin emulador y con Multijugador Online",
-        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-port-pc-pok%C3%A9mon-141757609.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Descarga gratis el port para PC de Pokémon Legends Z-A sin emulador y con Multijugador Online, donde chateas, intercambias y combates con otros jugadores",
-        "capturado": "2026-11-08T21:24:07-05:00"
-      },
-      {
-        "titulo": "Descarga gratis para PC el simulador espacial Fate of the Galaxy de Star Wars creado en veinte años",
-        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-pc-simulador-espacial-132000947.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Descarga gratis para PC el simulador espacial Fate of the Galaxy de Star Wars que desarrolladores tardaron veinte años en completar",
-        "capturado": "2026-11-08T21:24:07-05:00"
       }
     ]
   }
