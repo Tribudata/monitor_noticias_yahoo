@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-13T09:48:18-05:00",
+  "actualizado": "2026-11-13T16:12:42-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Capitalistas del exterior van a Venezuela por el nuevo trato con EE UU",
+        "url": "https://es.finance.yahoo.com/noticias/inversionistas-extranjeros-viajan-venezuela-medio-200657839.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Inversionistas extranjeros viajan a Venezuela en medio de nueva relación con EEUU",
+        "capturado": "2026-11-13T16:12:42-05:00"
+      },
+      {
+        "titulo": "Francia y Alemania cierran pacto para que Hernández de Cos lidere el BCE",
+        "url": "https://es.finance.yahoo.com/noticias/francia-alemania-ultiman-acuerdo-cos-173800428.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Francia y Alemania ultiman un acuerdo para que Hernández de Cos presida el BCE",
+        "capturado": "2026-11-13T16:12:42-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE UU bajan por caída de Nvidia y bonos del Tesoro a plazos largos suben por costos altos de productores",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-190946679.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen tras el fracaso de Nvidia que afecta a los fabricantes de chips; los rendimientos de los bonos del Tesoro a largo plazo suben debido a los elevados precios de los productores.",
+        "capturado": "2026-11-13T16:12:42-05:00"
+      },
+      {
+        "titulo": "ETF descienden al tiempo que los títulos de valores de EE UU retroceden pasada la tarde",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-bajan-medida-181215629.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa bajan a medida que las acciones estadounidenses caen después del mediodía.",
+        "capturado": "2026-11-13T16:12:42-05:00"
+      },
+      {
+        "titulo": "Daly advierte que la Fed tal vez deba elevar los tipos por deterioro inflacionario",
+        "url": "https://es.finance.yahoo.com/noticias/fed-probablemente-subir-tasas-empeoramiento-180128207.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Fed probablemente tenga que subir las tasas ante empeoramiento de la inflación: Daly",
+        "capturado": "2026-11-13T16:12:42-05:00"
+      },
+      {
+        "titulo": "Ecopetrol dialoga con PDVSA un pacto decenal para adquirir gas natural de Venezuela",
+        "url": "https://es.finance.yahoo.com/noticias/ecopetrol-negocia-pdvsa-acuerdo-10-172618772.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Ecopetrol negocia con PDVSA un acuerdo a 10 años para comprar gas natural venezolano",
+        "capturado": "2026-11-13T16:12:42-05:00"
+      },
+      {
+        "titulo": "Problemas de Nvidia generan disputas entre integrantes del gabinete de Donald Trump",
+        "url": "https://es.finance.yahoo.com/noticias/crisis-nvidia-causa-rencillas-miembros-170209667.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Crisis de Nvidia causa rencillas entre miembros del gabinete de Donald Trump",
+        "capturado": "2026-11-13T16:12:42-05:00"
+      },
+      {
+        "titulo": "Jóvenes talentos financieros y tecnológicos lideran leve tendencia de regreso a Venezuela",
+        "url": "https://es.finance.yahoo.com/noticias/talento-joven-finanzas-tecnolog%C3%ADa-protagoniza-170121288.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Talento joven en finanzas y tecnología protagoniza incipiente ola de retorno a Venezuela",
+        "capturado": "2026-11-13T16:12:42-05:00"
+      },
       {
         "titulo": "Nvidia pierde 1,6 billones de euros bursátiles y genera incertidumbre sin Jensen Huang al mando",
         "url": "https://es.finance.yahoo.com/noticias/nvidia-pierde-1-8-billones-135502816.html",
@@ -419,70 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "El BCE confirma que el euro digital seguirá adelante pese a la dimisión de Christine Lagarde",
         "capturado": "2026-11-11T09:57:31-05:00"
-      },
-      {
-        "titulo": "Los contratos de futuros en Wall Street avanzan antes de iniciar, impulsados por Nvidia y CoreWeave",
-        "url": "https://es.finance.yahoo.com/noticias/futuros-acciones-estadounidenses-suben-apertura-130206241.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los futuros de las acciones estadounidenses suben antes de la apertura, con Nvidia y CoreWeave al alza en medio del repunte del sector tecnológico.",
-        "capturado": "2026-11-11T09:57:31-05:00"
-      },
-      {
-        "titulo": "Compañías tech repuntan luego de la caída, mas persisten miedos por alzas de tasas en EE. UU.",
-        "url": "https://es.finance.yahoo.com/noticias/tecnol%C3%B3gicas-rebotan-desplome-pesan-temores-061639809.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Las tecnológicas rebotan tras el desplome, pero pesan los temores a más subidas de tipos en EE.UU.",
-        "capturado": "2026-11-11T01:56:02-05:00"
-      },
-      {
-        "titulo": "Oferta pública de Anthropic actúa como indicador de la burbuja de IA en Norteamérica",
-        "url": "https://es.finance.yahoo.com/noticias/anthropic-apunta-valoraci%C3%B3n-1-4-052737469.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La salida a Bolsa de Anthropic se convierte en un termómetro de la burbuja en IA en Estados Unidos",
-        "capturado": "2026-11-11T01:56:02-05:00"
-      },
-      {
-        "titulo": "Bolsas en EE. UU. descienden por mayor probabilidad de alza de tasas de la Fed tras inflación superior a la esperada",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-215350718.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen ante el aumento de las probabilidades de un endurecimiento de la política monetaria de la Fed, luego de que la inflación superara las previsiones.",
-        "capturado": "2026-11-10T19:10:52-05:00"
-      },
-      {
-        "titulo": "Congreso de Venezuela avala modificación legal para permitir capital privado en la industria eléctrica",
-        "url": "https://es.finance.yahoo.com/noticias/parlamento-venezolano-aprueba-reforma-legal-212031740.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Parlamento venezolano aprueba reforma legal que abre sector eléctrico a inversión privada",
-        "capturado": "2026-11-10T19:10:52-05:00"
-      },
-      {
-        "titulo": "SpaceX afrontará juicio por discriminación de género tras negativa de corte de apelaciones a arbitraje",
-        "url": "https://es.finance.yahoo.com/noticias/spacex-deber%C3%A1-enfrentar-demanda-discriminaci%C3%B3n-201308899.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "SpaceX deberá enfrentar demanda por discriminación sexual ya que corte de apelación rechaza solicitud arbitraje",
-        "capturado": "2026-11-10T19:10:52-05:00"
-      },
-      {
-        "titulo": "Anthropic compite con Microsoft y Google al presentar funciones recientes de Claude",
-        "url": "https://es.finance.yahoo.com/noticias/anthropic-desaf%C3%ADa-microsoft-google-herramientas-184246618.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Anthropic desafía a Microsoft y Google con nuevas herramientas de Claude",
-        "capturado": "2026-11-10T19:10:52-05:00"
-      },
-      {
-        "titulo": "Las bolsas de EE. UU. bajan tras subir la inflación de octubre y crecer las apuestas de alza de tasas de la Fed",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-183806425.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen a medida que el dato de inflación de octubre aumenta las probabilidades de que la Reserva Federal endurezca su política monetaria.",
-        "capturado": "2026-11-10T14:23:18-05:00"
       }
     ]
   }
