@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-13T01:22:35-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-13T09:48:18-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Nvidia pierde 1,6 billones de euros bursátiles y genera incertidumbre sin Jensen Huang al mando",
+        "url": "https://es.finance.yahoo.com/noticias/nvidia-pierde-1-8-billones-135502816.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Nvidia se deja 1,6 billones de euros en bolsa y siembra dudas en el mercado sin Jensen Huang al frente",
+        "capturado": "2026-11-13T09:48:18-05:00"
+      },
+      {
+        "titulo": "Secretario del Tesoro de EE. UU. afirma que la Fed no debe subir tasas por choque energético con Irán",
+        "url": "https://es.finance.yahoo.com/noticias/secretario-tesoro-eeuu-fed-deber%C3%ADa-141442993.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Secretario Tesoro EEUU dice Fed no debería subir las tasas por shock energético ligado a guerra con Irán",
+        "capturado": "2026-11-13T09:48:18-05:00"
+      },
+      {
+        "titulo": "ETF y futuros de acciones subieron antes de abrir porque la inflación de productores bajó de lo previsto",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-futuros-renta-141316329.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa y los futuros de renta variable subieron el viernes antes de la apertura del mercado, ya que la inflación en los países productores se situó por debajo de las previsiones.",
+        "capturado": "2026-11-13T09:48:18-05:00"
+      },
+      {
+        "titulo": "MOL solicita dinero europeo y advierte protestas en Hungría y Eslovaquia por vetar petróleo ruso",
+        "url": "https://es.finance.yahoo.com/noticias/mol-hungr%C3%ADa-pide-fondos-ue-122549603.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "MOL pide fondos de la UE y alerta de disturbios en Hungría y Eslovaquia por dejar el crudo ruso",
+        "capturado": "2026-11-13T09:48:18-05:00"
+      },
+      {
+        "titulo": "Costos de producción en Estados Unidos incrementan nuevamente durante octubre",
+        "url": "https://es.finance.yahoo.com/noticias/precios-productor-eeuu-vuelven-aumentar-135642297.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Precios al productor en EEUU vuelven a aumentar en octubre",
+        "capturado": "2026-11-13T09:48:18-05:00"
+      },
+      {
+        "titulo": "Apertura en alza moderada para los futuros de Wall Street tras valorarse la marcha de Jensen Huang, CEO de Nvidia",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-futuros-acciones-estadounidenses-suben-134910714.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los futuros de las acciones estadounidenses suben ligeramente antes de la apertura del mercado mientras los operadores evalúan la salida del CEO de Nvidia, Jensen Huang.",
+        "capturado": "2026-11-13T09:48:18-05:00"
+      },
+      {
+        "titulo": "La partida de Jensen Huang desata un nuevo pulso entre Estados Unidos y China por los microchips de inteligencia artificial",
+        "url": "https://es.finance.yahoo.com/noticias/salida-jensen-huang-abre-batalla-134820668.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Salida de Jensen Huang abre nueva batalla entre EE.UU. y China por chips de IA",
+        "capturado": "2026-11-13T09:48:18-05:00"
+      },
+      {
+        "titulo": "Una falla en la plataforma de Microsoft impacta a compañías y entidades estatales a nivel global",
+        "url": "https://es.finance.yahoo.com/noticias/corte-servicio-microsoft-afecta-empresas-132556656.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Un corte del servicio de Microsoft afecta a empresas y administraciones públicas de todo el mundo",
+        "capturado": "2026-11-13T09:48:18-05:00"
+      },
       {
         "titulo": "Bolsa de Rosario incrementa pronóstico de cosecha triguera argentina por menor efecto de El Niño",
         "url": "https://es.finance.yahoo.com/noticias/bolsa-rosario-sube-estimaci%C3%B3n-cosecha-223826760.html",
@@ -419,70 +483,6 @@
         "medio": "MT Newswires",
         "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen a medida que el dato de inflación de octubre aumenta las probabilidades de que la Reserva Federal endurezca su política monetaria.",
         "capturado": "2026-11-10T14:23:18-05:00"
-      },
-      {
-        "titulo": "Los fondos cotizados caen al descender las acciones norteamericanas pasada la mitad de la jornada",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-bajan-medida-181343666.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa bajan a medida que las acciones estadounidenses caen después del mediodía.",
-        "capturado": "2026-11-10T14:23:18-05:00"
-      },
-      {
-        "titulo": "Super Copper halla cobre en cada sondeo del blanco El Alto en Cordillera Cobre",
-        "url": "https://es.finance.yahoo.com/noticias/super-copper-cobre-perforaci%C3%B3n-objetivo-175821274.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Super Copper encuentra cobre en cada perforación en el objetivo El Alto del proyecto Cordillera Cobre.",
-        "capturado": "2026-11-10T14:23:18-05:00"
-      },
-      {
-        "titulo": "Exxon avanza hacia su eventual retorno de petróleo a territorio venezolano",
-        "url": "https://es.finance.yahoo.com/noticias/exxon-paso-regreso-petrolero-venezuela-175321412.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Exxon da un primer paso hacia su posible regreso petrolero a Venezuela",
-        "capturado": "2026-11-10T14:23:18-05:00"
-      },
-      {
-        "titulo": "El crecimiento de la banca en la sombra en Brasil genera alertas en el banco central",
-        "url": "https://es.finance.yahoo.com/noticias/impagos-sacuden-banca-sombra-brasil-173916353.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "El auge de la banca en la sombra de Brasil enciende las alarmas del banco central",
-        "capturado": "2026-11-10T14:23:18-05:00"
-      },
-      {
-        "titulo": "Rubio afirma que no hacen falta grandes acciones bélicas en Irán debido al plan económico de EE UU",
-        "url": "https://es.finance.yahoo.com/noticias/rubio-necesitan-operaciones-combate-ir%C3%A1n-171402367.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Rubio dice que no se necesitan grandes operaciones de combate en Irán, dada campaña económica de EEUU",
-        "capturado": "2026-11-10T14:23:18-05:00"
-      },
-      {
-        "titulo": "Banco de la Reserva Federal de Nueva York halla que la deuda peligrosa sube en el tercer trimestre",
-        "url": "https://es.finance.yahoo.com/noticias/fed-york-niveles-deuda-situaci%C3%B3n-164140584.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Fed de Nueva York encuentra que niveles de deuda en situación de riesgo aumentan en tercer trimestre",
-        "capturado": "2026-11-10T14:23:18-05:00"
-      },
-      {
-        "titulo": "Logan, funcionaria de la Fed, apoya dos aumentos adicionales de tipos, tal vez pronto",
-        "url": "https://es.finance.yahoo.com/noticias/logan-fed-aboga-alzas-tasas-163335538.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Logan de la Fed aboga por dos alzas más de tasas, posiblemente en un plazo breve",
-        "capturado": "2026-11-10T14:23:18-05:00"
-      },
-      {
-        "titulo": "Emisor brasileño afirma que choques de oferta causan el incremento inflacionario",
-        "url": "https://es.finance.yahoo.com/noticias/banco-central-brasil-perturbaciones-oferta-112606231.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Banco Central de Brasil dice que perturbaciones de la oferta están detrás de repunte de la inflación",
-        "capturado": "2026-11-10T06:32:01-05:00"
       }
     ]
   }
