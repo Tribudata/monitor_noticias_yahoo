@@ -1,9 +1,57 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-14T03:39:28-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-11-14T10:35:51-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Collins asegura que incrementos paulatinos en tasas son ideales para manejar riesgos",
+        "url": "https://es.finance.yahoo.com/noticias/collins-fed-alzas-graduales-tasas-150429891.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Collins, de la Fed, dice alzas graduales de tasas son la mejor forma de gestionar los riesgos",
+        "capturado": "2026-11-14T10:35:51-05:00"
+      },
+      {
+        "titulo": "Estados Unidos retomará vuelos tras la crisis por falla en sistema aéreo",
+        "url": "https://es.finance.yahoo.com/noticias/eeuu-reanudar%C3%A1-vuelos-caos-provocado-112529832.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "EEUU reanudará vuelos tras el caos provocado por un fallo en la red de tráfico aéreo",
+        "capturado": "2026-11-14T10:35:51-05:00"
+      },
+      {
+        "titulo": "XRP afronta un posible descenso del 20 por ciento y muestra zonas críticas",
+        "url": "https://es.finance.yahoo.com/noticias/precio-xrp-enfrenta-ca%C3%ADda-20-102400701.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "El precio de XRP enfrenta una posible caída del 20%: niveles clave a vigilar",
+        "capturado": "2026-11-14T10:35:51-05:00"
+      },
+      {
+        "titulo": "Expertos discuten en X si Bitcoin volverá a alcanzar un récord histórico",
+        "url": "https://es.finance.yahoo.com/noticias/bitcoin-registrar%C3%A1-m%C3%A1ximo-hist%C3%B3rico-analistas-083500740.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "¿Bitcoin nunca más registrará un nuevo máximo histórico? Analistas debaten en X",
+        "capturado": "2026-11-14T10:35:51-05:00"
+      },
+      {
+        "titulo": "Las acciones de Repsol suben el doble en doce meses y analizan su potencial",
+        "url": "https://es.finance.yahoo.com/noticias/repsol-duplicado-valor-bolsa-a%C3%B1o-055000955.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "Repsol ha duplicado su valor en Bolsa en un año: ¿cuánto recorrido le queda después de esta subida?",
+        "capturado": "2026-11-14T10:35:51-05:00"
+      },
+      {
+        "titulo": "Madrid posee claves, ahora toca utilizarlas",
+        "url": "https://es.finance.yahoo.com/noticias/madrid-claves-usarlas-050000175.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "Madrid tiene claves, ahora hay que usarlas",
+        "capturado": "2026-11-14T10:35:51-05:00"
+      },
       {
         "titulo": "Europa carece de profesores, personal de salud y expertos TIC mas sobran peones y ayudantes de cocina",
         "url": "https://es.finance.yahoo.com/noticias/europa-faltan-docentes-sanitarios-inform%C3%A1ticos-060710615.html",
@@ -435,54 +483,6 @@
         "medio": "MT Newswires",
         "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses repuntan gracias a los sólidos resultados trimestrales y las previsiones de CoreWeave, que impulsan el comercio basado en IA.",
         "capturado": "2026-11-11T16:49:03-05:00"
-      },
-      {
-        "titulo": "Los ETF trepan al tiempo que los papeles norteamericanos ganan tras el mediodía",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-suben-medida-181134671.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa suben a medida que las acciones estadounidenses avanzan después del mediodía.",
-        "capturado": "2026-11-11T16:49:03-05:00"
-      },
-      {
-        "titulo": "Iberdrola evaluaría enajenar sus parques solares germanos según trascendidos bursátiles",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-rumores-mercado-iberdrola-estar%C3%ADa-173129856.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Rumores del mercado: Iberdrola estaría considerando la venta de sus activos solares en Alemania.",
-        "capturado": "2026-11-11T16:49:03-05:00"
-      },
-      {
-        "titulo": "Meta, TikTok y Google rechazan modificaciones normativas de propiedad intelectual indonesias",
-        "url": "https://es.finance.yahoo.com/noticias/meta-tiktok-unen-google-oponerse-162630169.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Meta y TikTok se unen a Google para oponerse a revisiones a ley de derechos de autor de Indonesia",
-        "capturado": "2026-11-11T16:49:03-05:00"
-      },
-      {
-        "titulo": "Iberdrola evaluaría enajenar sus parques solares germanos según trascendidos bursátiles",
-        "url": "https://es.finance.yahoo.com/noticias/rumores-mercado-iberdrola-estar%C3%ADa-considerando-155518268.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Rumores del mercado: Iberdrola estaría considerando la venta de sus activos solares en Alemania.",
-        "capturado": "2026-11-11T16:49:03-05:00"
-      },
-      {
-        "titulo": "Mercados asiáticos compran crudo de África y Brasil por abaratamiento de fletes marítimos",
-        "url": "https://es.finance.yahoo.com/noticias/asia-acapara-petr%C3%B3leo-africano-brasile%C3%B1o-144047407.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Asia acapara el petróleo africano y brasileño ante la caída de los costes de transporte marítimo",
-        "capturado": "2026-11-11T09:57:31-05:00"
-      },
-      {
-        "titulo": "Plaza bursátil argentina repunta con volumen bajo por día festivo estadounidense",
-        "url": "https://es.finance.yahoo.com/noticias/bolsa-argentina-recupera-precios-mercado-142048990.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Bolsa argentina recupera precios, mercado reducido por feriado en EEUU",
-        "capturado": "2026-11-11T09:57:31-05:00"
       }
     ]
   }
