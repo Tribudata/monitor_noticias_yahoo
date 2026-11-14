@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-13T16:12:42-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-11-13T20:35:32-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Wall Street muestra indicadores mixtos por la caída de Nvidia y la persistencia de costos de producción altos",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-registran-215300080.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses registran resultados dispares mientras la crisis de Nvidia afecta a los fabricantes de chips; los precios al productor se mantienen «elevados»",
+        "capturado": "2026-11-13T20:35:32-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE UU al alza semanal gracias al efecto poselectoral y la IA, pese a Nvidia y la inflación al consumo",
+        "url": "https://es.finance.yahoo.com/noticias/%C3%ADndices-burs%C3%A1tiles-estadounidenses-subieron-semana-212028742.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los índices bursátiles estadounidenses subieron esta semana, ya que el repunte posterior a las elecciones de mitad de mandato y la demanda de infraestructura de IA compensaron los altos precios al consumidor y la crisis de Nvidia.",
+        "capturado": "2026-11-13T20:35:32-05:00"
+      },
       {
         "titulo": "Capitalistas del exterior van a Venezuela por el nuevo trato con EE UU",
         "url": "https://es.finance.yahoo.com/noticias/inversionistas-extranjeros-viajan-venezuela-medio-200657839.html",
@@ -466,22 +482,6 @@
         "resumen": "",
         "medio": "MT Newswires",
         "titulo_fuente": "Actualización: Los futuros de las acciones estadounidenses suben antes de la apertura, con Nvidia y CoreWeave al alza en medio del repunte del sector tecnológico.",
-        "capturado": "2026-11-11T09:57:31-05:00"
-      },
-      {
-        "titulo": "Directivos de la COP31 ensayan nueva tesis para impulsar política verde: defendamos la economía",
-        "url": "https://es.finance.yahoo.com/noticias/l%C3%ADderes-cop31-prueban-argumento-promover-133612579.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Líderes COP31 prueban nuevo argumento para promover la acción climática: hagámoslo por la economía",
-        "capturado": "2026-11-11T09:57:31-05:00"
-      },
-      {
-        "titulo": "El BCE ratifica la continuidad del euro digital tras la renuncia de Christine Lagarde",
-        "url": "https://es.finance.yahoo.com/noticias/bce-asegura-salida-lagarde-retrasa-124621702.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El BCE confirma que el euro digital seguirá adelante pese a la dimisión de Christine Lagarde",
         "capturado": "2026-11-11T09:57:31-05:00"
       }
     ]
