@@ -1,9 +1,41 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-14T10:35:51-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-11-14T15:27:04-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Ensayos clínicos confirman que fármacos de Lilly contra la obesidad redujeron el peso de pacientes",
+        "url": "https://es.finance.yahoo.com/noticias/lilly-medicamentos-obesidad-ayudaron-pacientes-194754407.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Lilly dice sus medicamentos contra la obesidad ayudaron a pacientes a perder peso en ensayos clínicos",
+        "capturado": "2026-11-14T15:27:04-05:00"
+      },
+      {
+        "titulo": "El vuelo de prueba quince y reingreso del Starship de SpaceX llega a su etapa final",
+        "url": "https://es.finance.yahoo.com/noticias/starship-spacex-acerca-final-decimoquinto-194525197.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Starship de SpaceX se acerca al final de su decimoquinto vuelo de prueba e intento de aterrizaje de regreso",
+        "capturado": "2026-11-14T15:27:04-05:00"
+      },
+      {
+        "titulo": "Cifras revelan que el Wegovy de Novo reduce cerca del 6 por ciento del peso en tres meses",
+        "url": "https://es.finance.yahoo.com/noticias/datos-muestran-wegovy-novo-ayuda-190122054.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Datos muestran que Wegovy de Novo ayuda a pacientes a perder en torno a 6% de su peso en tres meses",
+        "capturado": "2026-11-14T15:27:04-05:00"
+      },
+      {
+        "titulo": "Outlook y Teams de Microsoft recuperan su funcionamiento tras un fallo global",
+        "url": "https://es.finance.yahoo.com/noticias/microsoft-restablece-servicio-outlook-teams-180034140.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Microsoft restablece el servicio de Outlook y Teams tras una interrupción a nivel mundial",
+        "capturado": "2026-11-14T15:27:04-05:00"
+      },
       {
         "titulo": "Collins asegura que incrementos paulatinos en tasas son ideales para manejar riesgos",
         "url": "https://es.finance.yahoo.com/noticias/collins-fed-alzas-graduales-tasas-150429891.html",
@@ -451,38 +483,6 @@
         "medio": "Bloomberg",
         "titulo_fuente": "Afore Sura aumentará en US$2.000 millones su inversión en infraestructura",
         "capturado": "2026-11-11T21:42:45-05:00"
-      },
-      {
-        "titulo": "Lula conversa con la mandataria interina de Venezuela sobre recursos para el petróleo",
-        "url": "https://es.finance.yahoo.com/noticias/lula-re%C3%BAne-presidenta-encargada-venezuela-195834438.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Lula se reúne con presidenta encargada de Venezuela, hablan de inversiones en el sector petrolero",
-        "capturado": "2026-11-11T16:49:03-05:00"
-      },
-      {
-        "titulo": "Moscú reporta más de 11.000 foráneos fallecidos en el conflicto bélico con Ucrania",
-        "url": "https://es.finance.yahoo.com/noticias/rusia-registra-11-000-extranjeros-194419828.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Rusia registra más de 11.000 extranjeros muertos en la guerra contra Ucrania",
-        "capturado": "2026-11-11T16:49:03-05:00"
-      },
-      {
-        "titulo": "Titular del emisor brasileño ve efecto negativo en guías de tasas con alta duda",
-        "url": "https://es.finance.yahoo.com/noticias/jefe-banco-central-brasile%C3%B1o-valor-193224078.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Jefe Banco Central brasileño dice valor de orientaciones política monetaria es negativo en contexto incierto",
-        "capturado": "2026-11-11T16:49:03-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE. UU. suben por balances y proyecciones de CoreWeave ligadas a la IA",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-repuntan-185545925.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses repuntan gracias a los sólidos resultados trimestrales y las previsiones de CoreWeave, que impulsan el comercio basado en IA.",
-        "capturado": "2026-11-11T16:49:03-05:00"
       }
     ]
   }
