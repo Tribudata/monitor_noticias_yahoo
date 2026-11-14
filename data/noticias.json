@@ -1,9 +1,33 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-13T20:35:32-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-11-14T03:39:28-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Europa carece de profesores, personal de salud y expertos TIC mas sobran peones y ayudantes de cocina",
+        "url": "https://es.finance.yahoo.com/noticias/europa-faltan-docentes-sanitarios-inform%C3%A1ticos-060710615.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "En Europa faltan docentes, sanitarios y expertos TIC pero abundan peones y ayudantes de cocina",
+        "capturado": "2026-11-14T03:39:28-05:00"
+      },
+      {
+        "titulo": "EE. UU. cancela la totalidad de vuelos; la bolsa de valores afronta un peligro considerable",
+        "url": "https://es.finance.yahoo.com/noticias/ee-uu-suspende-vuelos-mercado-214939287.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "EE. UU. suspende todos los vuelos; mercado de valores enfrenta un riesgo importante",
+        "capturado": "2026-11-14T03:39:28-05:00"
+      },
+      {
+        "titulo": "Twenty One Capital obtuvo mil millones con Bitcoin, pero ya se dejó el 60 por ciento",
+        "url": "https://es.finance.yahoo.com/noticias/twenty-one-capital-gan%C3%B3-1-195200251.html",
+        "resumen": "",
+        "medio": "BeInCrypto",
+        "titulo_fuente": "Twenty One Capital ganó $1 mil millones con Bitcoin, pero ya ha perdido el 60%",
+        "capturado": "2026-11-14T03:39:28-05:00"
+      },
       {
         "titulo": "Wall Street muestra indicadores mixtos por la caída de Nvidia y la persistencia de costos de producción altos",
         "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-registran-215300080.html",
@@ -458,30 +482,6 @@
         "resumen": "",
         "medio": "Reuters",
         "titulo_fuente": "Bolsa argentina recupera precios, mercado reducido por feriado en EEUU",
-        "capturado": "2026-11-11T09:57:31-05:00"
-      },
-      {
-        "titulo": "ETF y futuros bursátiles avanzaron el miércoles antes de abrir, y títulos de Nvidia repuntan",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-futuros-acciones-141131175.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa y los futuros de acciones subieron el miércoles antes de la apertura del mercado, mientras que las acciones de Nvidia se recuperan.",
-        "capturado": "2026-11-11T09:57:31-05:00"
-      },
-      {
-        "titulo": "Moscú usa grandes sacos plásticos para guardar la cosecha de grano sin vender al exterior",
-        "url": "https://es.finance.yahoo.com/noticias/rusia-recurre-bolsas-pl%C3%A1stico-gigantes-141102697.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Rusia recurre a bolsas de plástico gigantes para almacenar el grano no exportado",
-        "capturado": "2026-11-11T09:57:31-05:00"
-      },
-      {
-        "titulo": "Futuros de EE. UU. suben antes de abrir, impulsados por Nvidia y CoreWeave en sector tecnológico",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-futuros-acciones-estadounidenses-suben-135149422.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los futuros de las acciones estadounidenses suben antes de la apertura, con Nvidia y CoreWeave al alza en medio del repunte del sector tecnológico.",
         "capturado": "2026-11-11T09:57:31-05:00"
       }
     ]
