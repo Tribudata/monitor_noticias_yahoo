@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-14T19:07:09-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-11-15T01:57:37-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "NVIDIA financiaba con miles de millones a firmas de IA insolventes para mantener sus ventas de GPUs",
+        "url": "https://es-us.noticias.yahoo.com/nvidia-prestaba-miles-millones-d%C3%B3lares-155651409.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "NVIDIA prestaba miles de millones de dólares a empresas de IA que no podían pagar sus GPUs, para que siguieran comprándolas y la demanda no bajara",
+        "capturado": "2026-11-15T01:57:37-05:00"
+      },
+      {
+        "titulo": "Obtenga sin costo y sin emulador el port para PC de God of War Betrayal con pantalla ancha y 240 FPS",
+        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-port-pc-god-150612300.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Descarga gratis el port para PC de God of War Betrayal sin emulador, el juego 2D de Kratos que llega con widescreen y hasta 240 FPS",
+        "capturado": "2026-11-15T01:57:37-05:00"
+      },
       {
         "titulo": "Caída de la aviación en EE. UU. se atribuye a un enrutador instalado por L3 Harris",
         "url": "https://es.finance.yahoo.com/noticias/colapso-sector-aviaci%C3%B3n-estadounidense-achaca-213522560.html",
@@ -466,22 +482,6 @@
         "resumen": "",
         "medio": "Reuters",
         "titulo_fuente": "México afirma restricciones a importaciones acero asiático dan frutos mientras avanzan negociaciones con EEUU",
-        "capturado": "2026-11-11T21:42:45-05:00"
-      },
-      {
-        "titulo": "Fitch sitúa calificación BB+ de Paraguay bajo observación negativa tras quiebra de ueno",
-        "url": "https://es.finance.yahoo.com/noticias/fitch-coloca-nota-bb-paraguay-215842405.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Fitch coloca nota \"BB+\" de Paraguay en vigilancia negativa tras la quiebra de ueno",
-        "capturado": "2026-11-11T21:42:45-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE UU suben por buenos datos del tercer trimestre de CoreWeave que impulsan chips",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-repuntan-215702751.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses repuntan tras los sólidos resultados del tercer trimestre de CoreWeave, que impulsan la subida de los fabricantes de chips.",
         "capturado": "2026-11-11T21:42:45-05:00"
       }
     ]
