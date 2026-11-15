@@ -1,9 +1,57 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-15T01:57:37-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-11-15T09:38:27-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Naciones del sudeste asiático sellan pacto digital para acelerar pagos y recortar trámites",
+        "url": "https://es.finance.yahoo.com/noticias/pa%C3%ADses-sudeste-asi%C3%A1tico-firman-acuerdo-142529221.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Países del sudeste asiático firman acuerdo digital para agilizar pagos y reducir trámites",
+        "capturado": "2026-11-15T09:38:27-05:00"
+      },
+      {
+        "titulo": "Primer ministro reporta que tres naves sufrieron impacto de drones en el Mar Negro",
+        "url": "https://es.finance.yahoo.com/noticias/buques-alcanzados-drones-mar-negro-133752418.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Tres buques son alcanzados por drones en el Mar Negro, cerca de canal marítimo rumano: primer ministro",
+        "capturado": "2026-11-15T09:38:27-05:00"
+      },
+      {
+        "titulo": "Estrategia de Trump con minerales no rompe dominio de China previo a diálogo con Xi",
+        "url": "https://es.finance.yahoo.com/noticias/ofensiva-trump-minerales-logra-aflojar-123136227.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Ofensiva Trump sobre minerales aún no logra aflojar control de China antes de conversaciones con Xi",
+        "capturado": "2026-11-15T09:38:27-05:00"
+      },
+      {
+        "titulo": "Asuntos íntimos llegan al directorio corporativo y a la evaluación de acciones",
+        "url": "https://es.finance.yahoo.com/noticias/l%C3%ADos-cama-entran-consejo-administraci%C3%B3n-060000082.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "Los líos de cama entran en el consejo de administración y el análisis bursátil",
+        "capturado": "2026-11-15T09:38:27-05:00"
+      },
+      {
+        "titulo": "Evolución del sector inmobiliario y fondos alternativos: el caso de residencias estudiantiles",
+        "url": "https://es.finance.yahoo.com/noticias/transformaci%C3%B3n-mercado-inmobiliario-inversiones-alternativas-050000404.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "La transformación del mercado inmobiliario y las inversiones alternativas: el caso de las residencias universitarias",
+        "capturado": "2026-11-15T09:38:27-05:00"
+      },
+      {
+        "titulo": "Gamers se molestan tras ver a streamer de la nueva versión de Zelda Ocarina of Time arrojar a Malon a un foso hasta borrarla",
+        "url": "https://es-us.noticias.yahoo.com/streamer-remake-zelda-ocarina-of-014025559.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Streamer del remake de Zelda Ocarina of Time empuja a Malon dentro de un hoyo hasta hacerla desaparecer, y jugadores se enfurecen",
+        "capturado": "2026-11-15T09:38:27-05:00"
+      },
       {
         "titulo": "NVIDIA financiaba con miles de millones a firmas de IA insolventes para mantener sus ventas de GPUs",
         "url": "https://es-us.noticias.yahoo.com/nvidia-prestaba-miles-millones-d%C3%B3lares-155651409.html",
@@ -435,54 +483,6 @@
         "medio": "BeInCrypto",
         "titulo_fuente": "El S&P 500 está a 2.5% de un nuevo ATH: ¿Le seguirá Bitcoin?",
         "capturado": "2026-11-12T05:41:29-05:00"
-      },
-      {
-        "titulo": "Títulos de Nvidia caen tras reportes de posible destitución de Jensen Huang",
-        "url": "https://es.finance.yahoo.com/noticias/acciones-nvidia-hunden-informes-consejo-075517802.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Las acciones de Nvidia se hunden tras informes de que el consejo podría destituir a Jensen Huang",
-        "capturado": "2026-11-12T05:41:29-05:00"
-      },
-      {
-        "titulo": "Santander sube un 5 por ciento su propuesta para adquirir el 10 por ciento pendiente de su filial en Brasil",
-        "url": "https://es.finance.yahoo.com/noticias/santander-anuncia-aumento-5-oferta-081020968.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Santander anuncia un aumento del 5% en su oferta para comprar el 10% restante de su filial brasileña",
-        "capturado": "2026-11-12T05:41:29-05:00"
-      },
-      {
-        "titulo": "Disminuyen las tarifas de luz y gas para hogares en la Union Europea durante el primer semestre de 2026",
-        "url": "https://es.finance.yahoo.com/noticias/ue-bajan-precios-luz-gas-065031029.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Bajan los precios de luz y gas domésticos en la UE en la primera mitad de 2026",
-        "capturado": "2026-11-12T05:41:29-05:00"
-      },
-      {
-        "titulo": "La junta directiva de Nvidia se convoca para definir el porvenir del director ejecutivo Jensen Huang",
-        "url": "https://es.finance.yahoo.com/noticias/consejo-administraci%C3%B3n-nvidia-re%C3%BAne-decidir-072459270.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "El consejo de administración de Nvidia se reúne para decidir el futuro del CEO Jensen Huang",
-        "capturado": "2026-11-12T05:41:29-05:00"
-      },
-      {
-        "titulo": "Fuentes señalan que Exxon analiza siete zonas venezolanas con miras a planes energéticos",
-        "url": "https://es.finance.yahoo.com/noticias/exxon-eval%C3%BAa-7-%C3%A1reas-venezuela-225604175.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Exxon evalúa 7 áreas en Venezuela para posibles proyectos energéticos: fuentes",
-        "capturado": "2026-11-11T21:42:45-05:00"
-      },
-      {
-        "titulo": "México sostiene que frenar compras de acero asiático rinde frutos en pláticas con EE UU",
-        "url": "https://es.finance.yahoo.com/noticias/m%C3%A9xico-afirma-restricciones-importaciones-acero-223949766.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "México afirma restricciones a importaciones acero asiático dan frutos mientras avanzan negociaciones con EEUU",
-        "capturado": "2026-11-11T21:42:45-05:00"
       }
     ]
   }
