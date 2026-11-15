@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-14T15:27:04-05:00",
-  "nuevos_en_esta_corrida": 4,
+  "actualizado": "2026-11-14T19:07:09-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Caída de la aviación en EE. UU. se atribuye a un enrutador instalado por L3 Harris",
+        "url": "https://es.finance.yahoo.com/noticias/colapso-sector-aviaci%C3%B3n-estadounidense-achaca-213522560.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Colapso del sector de la aviación estadounidense se achaca a un router instalado por L3 Harris",
+        "capturado": "2026-11-14T19:07:09-05:00"
+      },
       {
         "titulo": "Ensayos clínicos confirman que fármacos de Lilly contra la obesidad redujeron el peso de pacientes",
         "url": "https://es.finance.yahoo.com/noticias/lilly-medicamentos-obesidad-ayudaron-pacientes-194754407.html",
@@ -474,14 +482,6 @@
         "resumen": "",
         "medio": "MT Newswires",
         "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses repuntan tras los sólidos resultados del tercer trimestre de CoreWeave, que impulsan la subida de los fabricantes de chips.",
-        "capturado": "2026-11-11T21:42:45-05:00"
-      },
-      {
-        "titulo": "Afore Sura elevará su colocación en obras civiles por US$2.000 millones",
-        "url": "https://es.finance.yahoo.com/noticias/afore-sura-aumentar%C3%A1-us-2-190153193.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Afore Sura aumentará en US$2.000 millones su inversión en infraestructura",
         "capturado": "2026-11-11T21:42:45-05:00"
       }
     ]
