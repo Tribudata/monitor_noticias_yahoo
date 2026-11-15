@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-15T09:38:27-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-11-15T15:10:00-05:00",
+  "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Bessent afirma que Nvidia precisa buscar un nuevo CEO por fuera de la compañía",
+        "url": "https://es.finance.yahoo.com/noticias/bessent-nvidia-buscar-empresa-encontrar-163124299.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Bessent dice Nvidia debe \"buscar fuera de la empresa\" para encontrar un nuevo director general",
+        "capturado": "2026-11-15T15:10:00-05:00"
+      },
       {
         "titulo": "Naciones del sudeste asiático sellan pacto digital para acelerar pagos y recortar trámites",
         "url": "https://es.finance.yahoo.com/noticias/pa%C3%ADses-sudeste-asi%C3%A1tico-firman-acuerdo-142529221.html",
@@ -474,14 +482,6 @@
         "resumen": "",
         "medio": "Reuters",
         "titulo_fuente": "Las bolsas europeas alcanzan un máximo histórico ante el empuje de los resultados empresariales",
-        "capturado": "2026-11-12T05:41:29-05:00"
-      },
-      {
-        "titulo": "El S&P 500 está a 2,5% de un nuevo ATH: ¿Le seguirá Bitcoin?",
-        "url": "https://es.finance.yahoo.com/noticias/s-p-500-2-5-085200741.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "El S&P 500 está a 2.5% de un nuevo ATH: ¿Le seguirá Bitcoin?",
         "capturado": "2026-11-12T05:41:29-05:00"
       }
     ]
