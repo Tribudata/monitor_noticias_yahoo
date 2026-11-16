@@ -1,9 +1,17 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-15T15:10:00-05:00",
+  "actualizado": "2026-11-15T19:10:42-05:00",
   "nuevos_en_esta_corrida": 1,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Según el FT, Jensen Huang discute con sus socios su retorno a la dirección ejecutiva de Nvidia",
+        "url": "https://es.finance.yahoo.com/noticias/jensen-huang-habla-aliados-regreso-231456459.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Jensen Huang habla con sus aliados sobre su regreso como director ejecutivo de Nvidia, según el FT",
+        "capturado": "2026-11-15T19:10:42-05:00"
+      },
       {
         "titulo": "Bessent afirma que Nvidia precisa buscar un nuevo CEO por fuera de la compañía",
         "url": "https://es.finance.yahoo.com/noticias/bessent-nvidia-buscar-empresa-encontrar-163124299.html",
@@ -474,14 +482,6 @@
         "resumen": "",
         "medio": "Euronews",
         "titulo_fuente": "La economía del Reino Unido crece un 0,7% en el tercer trimestre impulsada por la demanda de IA",
-        "capturado": "2026-11-12T05:41:29-05:00"
-      },
-      {
-        "titulo": "Mercados europeos tocan récord histórico gracias a los balances corporativos",
-        "url": "https://es.finance.yahoo.com/noticias/bolsas-europeas-alcanzan-m%C3%A1ximo-hist%C3%B3rico-090729173.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Las bolsas europeas alcanzan un máximo histórico ante el empuje de los resultados empresariales",
         "capturado": "2026-11-12T05:41:29-05:00"
       }
     ]
