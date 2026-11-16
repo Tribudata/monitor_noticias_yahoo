@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-16T02:03:39-05:00",
-  "nuevos_en_esta_corrida": 7,
+  "actualizado": "2026-11-16T12:17:45-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Bruselas autoriza la adquisición de la entidad alemana Commerzbank por parte de UniCredit",
+        "url": "https://es.finance.yahoo.com/noticias/bruselas-luz-verde-compra-banco-105417750.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Bruselas da luz verde a la compra del banco alemán Commerzbank por UniCredit",
+        "capturado": "2026-11-16T12:17:45-05:00"
+      },
+      {
+        "titulo": "Abastecedor de café de Nestlé Brasil afronta una diligencia por acusaciones de maltrato laboral",
+        "url": "https://es.finance.yahoo.com/noticias/proveedor-caf%C3%A9-nestl%C3%A9-brasil-enfrenta-165826663.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Proveedor de café de Nestlé Brasil se enfrenta a una audiencia por denuncias de abusos laborales",
+        "capturado": "2026-11-16T12:17:45-05:00"
+      },
+      {
+        "titulo": "Crudo cae al pesar más la sobreoferta que los roces con Irán",
+        "url": "https://es.finance.yahoo.com/noticias/petr%C3%B3leo-retrocede-oferta-pesa-tensiones-164401334.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Petróleo retrocede mientras mayor oferta pesa más que las tensiones con Irán",
+        "capturado": "2026-11-16T12:17:45-05:00"
+      },
+      {
+        "titulo": "Bank of America ratifica compra de ACS al ver valiosas ganancias hacia el 2030",
+        "url": "https://es.finance.yahoo.com/noticias/bank-of-america-objetivos-acs-162944917.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Bank of America: Los objetivos de ACS para el año fiscal 2030 indican un potencial de ganancias \"significativo\"; se mantiene la recomendación de compra.",
+        "capturado": "2026-11-16T12:17:45-05:00"
+      },
+      {
+        "titulo": "Trump respalda la vuelta de Jensen Huang a la dirección general de Nvidia",
+        "url": "https://es.finance.yahoo.com/noticias/trump-apoya-regreso-jensen-huang-162049543.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Trump apoya el regreso de Jensen Huang como CEO de Nvidia",
+        "capturado": "2026-11-16T12:17:45-05:00"
+      },
+      {
+        "titulo": "Administración española elevará sueldo básico un 5,3 por ciento en vista de comicios cercanos",
+        "url": "https://es.finance.yahoo.com/noticias/gobierno-espa%C3%B1ol-aumentar%C3%A1-salario-m%C3%ADnimo-160634404.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Gobierno español aumentará el salario mínimo un 5,3% mientras se aproximan elecciones",
+        "capturado": "2026-11-16T12:17:45-05:00"
+      },
+      {
+        "titulo": "Trump afirma que se vería con Kim Jong Un en el marco de la reunión APEC",
+        "url": "https://es.finance.yahoo.com/noticias/trump-reunirse-kim-jong-cumbre-160428335.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Trump dice que podría reunirse con Kim Jong Un durante cumbre APEC",
+        "capturado": "2026-11-16T12:17:45-05:00"
+      },
+      {
+        "titulo": "Robert Pattinson asumirá el papel del nuevo James Bond en la nueva etapa de MGM",
+        "url": "https://es.finance.yahoo.com/noticias/robert-pattinson-james-bond-relanzamiento-160007977.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Robert Pattinson será el nuevo James Bond en el relanzamiento de MGM",
+        "capturado": "2026-11-16T12:17:45-05:00"
+      },
       {
         "titulo": "Carney avisa que Canadá buscará proveedores chinos si no hay acuerdo comercial con EE. UU.",
         "url": "https://es.finance.yahoo.com/noticias/canad%C3%A1-recurrir%C3%ADa-fabricantes-chinos-fracasan-044121875.html",
@@ -419,70 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "Web Summit centra su última jornada en la salida de Huang, burbuja de IA y deuda de EE.UU.",
         "capturado": "2026-11-12T18:58:28-05:00"
-      },
-      {
-        "titulo": "Mercedes frena nuevas inversiones en suelo alemán y evalúa clausurar plantas",
-        "url": "https://es.finance.yahoo.com/noticias/mercedes-congela-inversiones-alemania-baraja-192201726.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Mercedes congela nuevas inversiones en Alemania y baraja cerrar fábricas",
-        "capturado": "2026-11-12T18:58:28-05:00"
-      },
-      {
-        "titulo": "Demanda contra OpenAI, Google y Anthropic busca detener creación de IA avanzada",
-        "url": "https://es.finance.yahoo.com/noticias/openai-google-anthropic-objeto-demanda-194001619.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "OpenAI, Google y Anthropic, objeto de una demanda que busca frenar desarrollo de la IA de vanguardia",
-        "capturado": "2026-11-12T18:58:28-05:00"
-      },
-      {
-        "titulo": "Venta de chips IA a China afrontaría mayores trabas tras salida del CEO de Nvidia",
-        "url": "https://es.finance.yahoo.com/noticias/probable-impongan-restricciones-venta-chips-193015992.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Es probable que se impongan más restricciones a venta chips IA a China tras dimisión CEO Nvidia",
-        "capturado": "2026-11-12T18:58:28-05:00"
-      },
-      {
-        "titulo": "Estados Unidos arranca año fiscal 2027 con histórico déficit de 404.000 millones en octubre",
-        "url": "https://es.finance.yahoo.com/noticias/eeuu-inicia-ejercicio-fiscal-2027-191951513.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "EEUU inicia ejercicio fiscal 2027 con déficit presupuestario récord de 404.000 millones de dólares en octubre",
-        "capturado": "2026-11-12T18:58:28-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE UU muestran cifras mixtas tras dimisión en Nvidia y alza de bonos del Tesoro",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-185020267.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos tras la dimisión del CEO de Nvidia y el aumento vertiginoso de los rendimientos de los bonos del Tesoro.",
-        "capturado": "2026-11-12T18:58:28-05:00"
-      },
-      {
-        "titulo": "Frena repunte de soja en Chicago y caen trigo y maíz debido al dólar fuerte",
-        "url": "https://es.finance.yahoo.com/noticias/alza-soja-estanca-chicago-ma%C3%ADz-182434489.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Alza de soja se estanca en Chicago, maíz y trigo bajan por fortaleza del dólar",
-        "capturado": "2026-11-12T13:42:33-05:00"
-      },
-      {
-        "titulo": "Acciones y fondos cotizados de EE. UU. muestran cifras diversas a mitad de jornada",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-acciones-estadounidenses-182008227.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa y las acciones estadounidenses presentan resultados mixtos tras la media jornada.",
-        "capturado": "2026-11-12T13:42:33-05:00"
-      },
-      {
-        "titulo": "Utilidades de Citgo trepan a US$2.200 millones al tercer trimestre por márgenes altos",
-        "url": "https://es.finance.yahoo.com/noticias/ganancias-citgo-disparan-2-200-172140329.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Ganancias de Citgo se disparan a 2.200 millones de dólares en tercer trimestre por altos márgenes",
-        "capturado": "2026-11-12T13:42:33-05:00"
       }
     ]
   }
