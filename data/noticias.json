@@ -1,9 +1,65 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-15T19:10:42-05:00",
-  "nuevos_en_esta_corrida": 1,
+  "actualizado": "2026-11-16T02:03:39-05:00",
+  "nuevos_en_esta_corrida": 7,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Carney avisa que Canadá buscará proveedores chinos si no hay acuerdo comercial con EE. UU.",
+        "url": "https://es.finance.yahoo.com/noticias/canad%C3%A1-recurrir%C3%ADa-fabricantes-chinos-fracasan-044121875.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Carney advierte de que Canadá recurrirá a fabricantes de China si fracasa el pacto comercial con EE.UU.",
+        "capturado": "2026-11-16T02:03:39-05:00"
+      },
+      {
+        "titulo": "Bolsas de Asia bajan por problema en Nvidia y dudas sobre la inteligencia artificial",
+        "url": "https://es.finance.yahoo.com/noticias/bolsas-asi%C3%A1ticas-ampl%C3%ADan-p%C3%A9rdidas-esperan-054638808.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Las Bolsas asiáticas caen por la crisis de Nvidia y la incertidumbre sobre la inteligencia artificial",
+        "capturado": "2026-11-16T02:03:39-05:00"
+      },
+      {
+        "titulo": "El sector alimentario de Europa dinamiza la economía y es vital para la seguridad",
+        "url": "https://es.finance.yahoo.com/noticias/industria-alimentaria-europea-mueve-1-051101946.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "La industria alimentaria europea impulsa la economía y es clave para la seguridad",
+        "capturado": "2026-11-16T02:03:39-05:00"
+      },
+      {
+        "titulo": "Rumores bursátiles indican que IG Group eliminará 50 empleos al cerrar sedes en Francia, España e Italia",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-rumores-mercado-informes-ig-043824888.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Rumores del mercado: Según informes, IG Group recortará 50 puestos de trabajo en medio del cierre de oficinas en Francia, España e Italia.",
+        "capturado": "2026-11-16T02:03:39-05:00"
+      },
+      {
+        "titulo": "Acciones de Alibaba: análisis sobre la conveniencia de adquirirlas o no",
+        "url": "https://es.finance.yahoo.com/noticias/alibaba-comprar-comprar-cuesti%C3%B3n-002000897.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "Alibaba ¿comprar o no comprar? Esa es la cuestión",
+        "capturado": "2026-11-16T02:03:39-05:00"
+      },
+      {
+        "titulo": "Las denuncias por fraude en Ripple llegan a cifras preocupantes",
+        "url": "https://es.finance.yahoo.com/noticias/casos-estafa-ripple-alcanzan-niveles-001000488.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "Los casos de estafa en Ripple alcanzan niveles alarmantes",
+        "capturado": "2026-11-16T02:03:39-05:00"
+      },
+      {
+        "titulo": "Descarga gratis el port para PC de Pokémon Legends Arceus sin emulador, que corre en 4K y hasta 240 FPS con paisajes que se ven cuatro veces más lejos",
+        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-port-pc-pok%C3%A9mon-182904620.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Descarga gratis el port para PC de Pokémon Legends Arceus sin emulador, que corre en 4K y hasta 240 FPS con paisajes que se ven cuatro veces más lejos",
+        "capturado": "2026-11-16T02:03:39-05:00"
+      },
       {
         "titulo": "Según el FT, Jensen Huang discute con sus socios su retorno a la dirección ejecutiva de Nvidia",
         "url": "https://es.finance.yahoo.com/noticias/jensen-huang-habla-aliados-regreso-231456459.html",
@@ -427,62 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Ganancias de Citgo se disparan a 2.200 millones de dólares en tercer trimestre por altos márgenes",
         "capturado": "2026-11-12T13:42:33-05:00"
-      },
-      {
-        "titulo": "Goolsbee de la Fed alerta sobre alta inflación persistente según entrevista",
-        "url": "https://es.finance.yahoo.com/noticias/goolsbee-fed-muestra-preocupaci%C3%B3n-persistencia-170533647.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Goolsbee, de la Fed, muestra preocupación por persistencia de elevada inflación: entrevista a Yahoo Finance",
-        "capturado": "2026-11-12T13:42:33-05:00"
-      },
-      {
-        "titulo": "US$12.100 millones desembolsó la cuenta de venta de petróleo venezolano bajo control de EE. UU.",
-        "url": "https://es.finance.yahoo.com/noticias/controlada-ee-uu-ventas-crudo-165453415.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Cuenta controlada por EE.UU. de ventas de crudo venezolano desembolsó US$12.100M",
-        "capturado": "2026-11-12T13:42:33-05:00"
-      },
-      {
-        "titulo": "Partida de Jensen Huang centra atención en colocación de Nvidia en OPI de Anthropic",
-        "url": "https://es.finance.yahoo.com/noticias/salida-jensen-huang-pone-foco-164031740.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Salida de Jensen Huang pone en foco inversión de Nvidia en OPI de Anthropic",
-        "capturado": "2026-11-12T13:42:33-05:00"
-      },
-      {
-        "titulo": "Venta de casas usadas en Estados Unidos baja en octubre a su piso de más de 16 años",
-        "url": "https://es.finance.yahoo.com/noticias/ventas-viviendas-usadas-eeuu-caen-155034452.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Ventas de viviendas usadas en EEUU caen en octubre a su nivel más bajo en más de 16 años",
-        "capturado": "2026-11-12T13:42:33-05:00"
-      },
-      {
-        "titulo": "Centro estadounidense señala más de 79 por ciento de opción de Fenómeno El Niño intenso entre enero y marzo",
-        "url": "https://es.finance.yahoo.com/noticias/centro-eeuu-79-probabilidades-fen%C3%B3meno-152221619.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Centro en EEUU dice hay más de 79% de probabilidades de un fenómeno El Niño fuerte a muy fuerte entre enero-marzo",
-        "capturado": "2026-11-12T13:42:33-05:00"
-      },
-      {
-        "titulo": "El oro profundiza su caída a piso de siete días por el alza del dólar",
-        "url": "https://es.finance.yahoo.com/noticias/oro-ampl%C3%ADa-p%C3%A9rdidas-m%C3%ADnimo-semana-102218431.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "El oro amplía pérdidas a mínimo de una semana mientras el dólar se fortalece",
-        "capturado": "2026-11-12T05:41:29-05:00"
-      },
-      {
-        "titulo": "PIB británico sube 0,7% en el tercer trimestre empujado por demanda de IA",
-        "url": "https://es.finance.yahoo.com/noticias/econom%C3%ADa-reino-unido-crece-0-101925540.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La economía del Reino Unido crece un 0,7% en el tercer trimestre impulsada por la demanda de IA",
-        "capturado": "2026-11-12T05:41:29-05:00"
       }
     ]
   }
