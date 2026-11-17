@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-17T03:56:22-05:00",
+  "actualizado": "2026-11-17T13:17:49-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Los ETF retroceden a medida que los títulos de EE. UU. descienden pasada la hora del almuerzo",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-caen-acciones-181122148.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa caen mientras las acciones estadounidenses bajan después del mediodía.",
+        "capturado": "2026-11-17T13:17:49-05:00"
+      },
+      {
+        "titulo": "Quimbaya Gold arranca perforación inicial en una tercera meta del proyecto Tahami en Colombia",
+        "url": "https://es.finance.yahoo.com/noticias/quimbaya-gold-inicia-programa-perforaci%C3%B3n-180605956.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Quimbaya Gold inicia un programa de perforación inaugural en un tercer objetivo del proyecto Tahami en Colombia.",
+        "capturado": "2026-11-17T13:17:49-05:00"
+      },
+      {
+        "titulo": "Los títulos de Deutsche Bank descienden tras filtración que involucra a Trump",
+        "url": "https://es.finance.yahoo.com/noticias/acciones-deutsche-bank-caen-filtrarse-133539559.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Las acciones de Deutsche Bank caen tras una filtración que afecta a Trump",
+        "capturado": "2026-11-17T13:17:49-05:00"
+      },
+      {
+        "titulo": "El oro y la plata bajan a su piso de más de un año por dólar fuerte y tasas de interés",
+        "url": "https://es.finance.yahoo.com/noticias/oro-plata-caen-nivel-a%C3%B1o-152356169.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El oro y la plata caen al nivel más bajo en más de un año por un dólar fuerte y los tipos de interés",
+        "capturado": "2026-11-17T13:17:49-05:00"
+      },
+      {
+        "titulo": "Al Sisi solicita mayor capital extranjero para Egipto en el Foro Económico Mundial",
+        "url": "https://es.finance.yahoo.com/noticias/sisi-pide-inversi%C3%B3n-extranjera-detalla-144708109.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Al Sisi pide más inversión extranjera para Egipto en el Foro Económico Mundial",
+        "capturado": "2026-11-17T13:17:49-05:00"
+      },
+      {
+        "titulo": "Nvidia evalúa el destino de Jensen Huang al revelarse un segundo amorío fuera del matrimonio",
+        "url": "https://es.finance.yahoo.com/noticias/nvidia-sopesa-futuro-jensen-huang-171711719.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Nvidia sopesa el futuro de Jensen Huang tras conocerse que mantuvo una segunda relación extramatrimonial",
+        "capturado": "2026-11-17T13:17:49-05:00"
+      },
+      {
+        "titulo": "Ventas externas de trigo blando 2026/27 de la UE llegan a 10,51 millones de toneladas al 15 de noviembre",
+        "url": "https://es.finance.yahoo.com/noticias/exportaciones-trigo-blando-2026-27-163145786.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Exportaciones de trigo blando 2026/27 de la UE ascienden a 10,51 millones de toneladas al 15 de noviembre",
+        "capturado": "2026-11-17T13:17:49-05:00"
+      },
+      {
+        "titulo": "Producción de cereales de Ucrania descendería a la mitad en 2027 por clausura de puertos, afirma ministro",
+        "url": "https://es.finance.yahoo.com/noticias/cosecha-granos-ucrania-caer-mitad-162020428.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Cosecha de granos de Ucrania podría caer a la mitad en 2027 por cierre de puertos, dice ministro",
+        "capturado": "2026-11-17T13:17:49-05:00"
+      },
       {
         "titulo": "Canadá y China estrechan lazos comerciales y Xi dialoga con Carney previo al foro de APEC",
         "url": "https://es.finance.yahoo.com/noticias/canad%C3%A1-china-ampl%C3%ADan-acuerdos-comerciales-081630509.html",
@@ -419,70 +483,6 @@
         "medio": "Estrategias de inversión",
         "titulo_fuente": "Madrid tiene claves, ahora hay que usarlas",
         "capturado": "2026-11-14T10:35:51-05:00"
-      },
-      {
-        "titulo": "Europa carece de profesores, personal de salud y expertos TIC mas sobran peones y ayudantes de cocina",
-        "url": "https://es.finance.yahoo.com/noticias/europa-faltan-docentes-sanitarios-inform%C3%A1ticos-060710615.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "En Europa faltan docentes, sanitarios y expertos TIC pero abundan peones y ayudantes de cocina",
-        "capturado": "2026-11-14T03:39:28-05:00"
-      },
-      {
-        "titulo": "EE. UU. cancela la totalidad de vuelos; la bolsa de valores afronta un peligro considerable",
-        "url": "https://es.finance.yahoo.com/noticias/ee-uu-suspende-vuelos-mercado-214939287.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "EE. UU. suspende todos los vuelos; mercado de valores enfrenta un riesgo importante",
-        "capturado": "2026-11-14T03:39:28-05:00"
-      },
-      {
-        "titulo": "Twenty One Capital obtuvo mil millones con Bitcoin, pero ya se dejó el 60 por ciento",
-        "url": "https://es.finance.yahoo.com/noticias/twenty-one-capital-gan%C3%B3-1-195200251.html",
-        "resumen": "",
-        "medio": "BeInCrypto",
-        "titulo_fuente": "Twenty One Capital ganó $1 mil millones con Bitcoin, pero ya ha perdido el 60%",
-        "capturado": "2026-11-14T03:39:28-05:00"
-      },
-      {
-        "titulo": "Wall Street muestra indicadores mixtos por la caída de Nvidia y la persistencia de costos de producción altos",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-registran-215300080.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses registran resultados dispares mientras la crisis de Nvidia afecta a los fabricantes de chips; los precios al productor se mantienen «elevados»",
-        "capturado": "2026-11-13T20:35:32-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE UU al alza semanal gracias al efecto poselectoral y la IA, pese a Nvidia y la inflación al consumo",
-        "url": "https://es.finance.yahoo.com/noticias/%C3%ADndices-burs%C3%A1tiles-estadounidenses-subieron-semana-212028742.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los índices bursátiles estadounidenses subieron esta semana, ya que el repunte posterior a las elecciones de mitad de mandato y la demanda de infraestructura de IA compensaron los altos precios al consumidor y la crisis de Nvidia.",
-        "capturado": "2026-11-13T20:35:32-05:00"
-      },
-      {
-        "titulo": "Capitalistas del exterior van a Venezuela por el nuevo trato con EE UU",
-        "url": "https://es.finance.yahoo.com/noticias/inversionistas-extranjeros-viajan-venezuela-medio-200657839.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Inversionistas extranjeros viajan a Venezuela en medio de nueva relación con EEUU",
-        "capturado": "2026-11-13T16:12:42-05:00"
-      },
-      {
-        "titulo": "Francia y Alemania cierran pacto para que Hernández de Cos lidere el BCE",
-        "url": "https://es.finance.yahoo.com/noticias/francia-alemania-ultiman-acuerdo-cos-173800428.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Francia y Alemania ultiman un acuerdo para que Hernández de Cos presida el BCE",
-        "capturado": "2026-11-13T16:12:42-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE UU bajan por caída de Nvidia y bonos del Tesoro a plazos largos suben por costos altos de productores",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-190946679.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen tras el fracaso de Nvidia que afecta a los fabricantes de chips; los rendimientos de los bonos del Tesoro a largo plazo suben debido a los elevados precios de los productores.",
-        "capturado": "2026-11-13T16:12:42-05:00"
       }
     ]
   }
