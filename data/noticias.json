@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-16T12:17:45-05:00",
+  "actualizado": "2026-11-16T19:57:12-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Nueva caída en bolsas de EE. UU. tras desplome de fabricantes de chips por plan de comercio de frenar brechas",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-222335169.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen a medida que los fabricantes de chips se hunden después de que el Departamento de Comercio planeara cerrar las lagunas legales para adquirir chips de IA restringidos.",
+        "capturado": "2026-11-16T19:57:12-05:00"
+      },
+      {
+        "titulo": "Bahaia Metals informa emisión privada de acciones por 1,2 millones de dólares canadienses",
+        "url": "https://es.finance.yahoo.com/noticias/bahaia-metals-anuncia-colocaci%C3%B3n-privada-212601317.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Bahaia Metals anuncia una colocación privada de acciones por valor de 1,2 millones de dólares canadienses.",
+        "capturado": "2026-11-16T19:57:12-05:00"
+      },
+      {
+        "titulo": "PPX Mining señala que perforaciones en el proyecto Igor en Perú aportan datos sobre el objetivo Portachuelos",
+        "url": "https://es.finance.yahoo.com/noticias/ppx-mining-afirma-perforaciones-proyecto-204352615.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "PPX Mining afirma que las perforaciones en el proyecto Igor en Perú brindan más información sobre el objetivo Portachuelos.",
+        "capturado": "2026-11-16T19:57:12-05:00"
+      },
+      {
+        "titulo": "JPMorgan informa falla técnica que retrasa ciertas operaciones",
+        "url": "https://es.finance.yahoo.com/noticias/jpmorgan-reporta-problema-t%C3%A9cnico-demora-200526213.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "JPMorgan reporta problema técnico que demora algunas transacciones",
+        "capturado": "2026-11-16T19:57:12-05:00"
+      },
+      {
+        "titulo": "Fallido oculto desde julio causó el apagón global que afectó a Microsoft",
+        "url": "https://es.finance.yahoo.com/noticias/error-oculto-julio-provoc%C3%B3-falla-194845564.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Error oculto desde julio provocó la falla global que paralizó los servicios de Microsoft",
+        "capturado": "2026-11-16T19:57:12-05:00"
+      },
+      {
+        "titulo": "Gobierno Trump alista nuevas trabas para personal foráneo calificado",
+        "url": "https://es.finance.yahoo.com/noticias/gobierno-trump-propone-imponer-restricciones-193548678.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Gobierno Trump se propone imponer nuevas restricciones a los trabajadores extranjeros cualificados",
+        "capturado": "2026-11-16T19:57:12-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE UU caen por derrumbe tecnológico tras anuncio del Departamento de Comercio sobre IA",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-desploman-192245218.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses se desploman tras el desplome de las grandes tecnológicas después de que el Departamento de Comercio planeara restringir el acceso a la infraestructura avanzada de IA.",
+        "capturado": "2026-11-16T19:57:12-05:00"
+      },
+      {
+        "titulo": "Caen activos de Brasil ante crecientes dudas sobre la estrategia fiscal de Lula",
+        "url": "https://es.finance.yahoo.com/noticias/activos-brasile%C3%B1os-desploman-crecen-dudas-185030162.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Activos brasileños se desploman mientras crecen las dudas sobre el plan fiscal de Lula",
+        "capturado": "2026-11-16T19:57:12-05:00"
+      },
       {
         "titulo": "Bruselas autoriza la adquisición de la entidad alemana Commerzbank por parte de UniCredit",
         "url": "https://es.finance.yahoo.com/noticias/bruselas-luz-verde-compra-banco-105417750.html",
@@ -419,70 +483,6 @@
         "medio": "MT Newswires",
         "titulo_fuente": "Los fondos cotizados en bolsa y los futuros de renta variable subieron el viernes antes de la apertura del mercado, ya que la inflación en los países productores se situó por debajo de las previsiones.",
         "capturado": "2026-11-13T09:48:18-05:00"
-      },
-      {
-        "titulo": "MOL solicita dinero europeo y advierte protestas en Hungría y Eslovaquia por vetar petróleo ruso",
-        "url": "https://es.finance.yahoo.com/noticias/mol-hungr%C3%ADa-pide-fondos-ue-122549603.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "MOL pide fondos de la UE y alerta de disturbios en Hungría y Eslovaquia por dejar el crudo ruso",
-        "capturado": "2026-11-13T09:48:18-05:00"
-      },
-      {
-        "titulo": "Costos de producción en Estados Unidos incrementan nuevamente durante octubre",
-        "url": "https://es.finance.yahoo.com/noticias/precios-productor-eeuu-vuelven-aumentar-135642297.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Precios al productor en EEUU vuelven a aumentar en octubre",
-        "capturado": "2026-11-13T09:48:18-05:00"
-      },
-      {
-        "titulo": "Apertura en alza moderada para los futuros de Wall Street tras valorarse la marcha de Jensen Huang, CEO de Nvidia",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-futuros-acciones-estadounidenses-suben-134910714.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los futuros de las acciones estadounidenses suben ligeramente antes de la apertura del mercado mientras los operadores evalúan la salida del CEO de Nvidia, Jensen Huang.",
-        "capturado": "2026-11-13T09:48:18-05:00"
-      },
-      {
-        "titulo": "La partida de Jensen Huang desata un nuevo pulso entre Estados Unidos y China por los microchips de inteligencia artificial",
-        "url": "https://es.finance.yahoo.com/noticias/salida-jensen-huang-abre-batalla-134820668.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Salida de Jensen Huang abre nueva batalla entre EE.UU. y China por chips de IA",
-        "capturado": "2026-11-13T09:48:18-05:00"
-      },
-      {
-        "titulo": "Una falla en la plataforma de Microsoft impacta a compañías y entidades estatales a nivel global",
-        "url": "https://es.finance.yahoo.com/noticias/corte-servicio-microsoft-afecta-empresas-132556656.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Un corte del servicio de Microsoft afecta a empresas y administraciones públicas de todo el mundo",
-        "capturado": "2026-11-13T09:48:18-05:00"
-      },
-      {
-        "titulo": "Bolsa de Rosario incrementa pronóstico de cosecha triguera argentina por menor efecto de El Niño",
-        "url": "https://es.finance.yahoo.com/noticias/bolsa-rosario-sube-estimaci%C3%B3n-cosecha-223826760.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Bolsa Rosario sube estimación cosecha trigo argentino gracias a menor impacto de El Niño",
-        "capturado": "2026-11-12T18:58:28-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE UU bajan, crisis de Nvidia se ampliaría y crudo al alza sube tasas de bonos del Tesoro",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-220045018.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen, la crisis de Nvidia amenaza con extenderse, mientras que el alza del petróleo crudo eleva los rendimientos de los bonos del Tesoro.",
-        "capturado": "2026-11-12T18:58:28-05:00"
-      },
-      {
-        "titulo": "Web Summit enfoca su cierre en marcha de Huang, burbuja de IA y pasivos de Estados Unidos",
-        "url": "https://es.finance.yahoo.com/noticias/web-summit-centra-jornada-salida-213245774.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Web Summit centra su última jornada en la salida de Huang, burbuja de IA y deuda de EE.UU.",
-        "capturado": "2026-11-12T18:58:28-05:00"
       }
     ]
   }
