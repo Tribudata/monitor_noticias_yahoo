@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-16T19:57:12-05:00",
+  "actualizado": "2026-11-17T03:56:22-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Canadá y China estrechan lazos comerciales y Xi dialoga con Carney previo al foro de APEC",
+        "url": "https://es.finance.yahoo.com/noticias/canad%C3%A1-china-ampl%C3%ADan-acuerdos-comerciales-081630509.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Canadá y China amplían acuerdos comerciales y Xi se reúne con Carney antes de la cumbre de APEC",
+        "capturado": "2026-11-17T03:56:22-05:00"
+      },
+      {
+        "titulo": "HSBC señala a Italia como referente tributario frente a las demás naciones del G7",
+        "url": "https://es.finance.yahoo.com/noticias/italia-convierte-modelo-fiscal-resto-065001018.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Italia se convierte en modelo fiscal para el resto del G7, según HSBC",
+        "capturado": "2026-11-17T03:56:22-05:00"
+      },
+      {
+        "titulo": "Le Pen expondrá su propuesta pensional en medio de una mayor vigilancia bursátil",
+        "url": "https://es.finance.yahoo.com/noticias/pen-presentar%C3%A1-planes-pensiones-escrutinio-073129502.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Le Pen presentará sus planes para las pensiones ante un mayor escrutinio del mercado",
+        "capturado": "2026-11-17T03:56:22-05:00"
+      },
+      {
+        "titulo": "Portugal promueve subsidios para hogares vulnerables y microempresas en la compra de eléctricos",
+        "url": "https://es.finance.yahoo.com/noticias/portugal-impulsa-ayudas-familias-vulnerables-071630059.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Portugal impulsa ayudas a familias vulnerables y microempresas para comprar coches eléctricos",
+        "capturado": "2026-11-17T03:56:22-05:00"
+      },
+      {
+        "titulo": "Japón sugiere la creación de un bloque para garantizar el abastecimiento petrolero en Asia",
+        "url": "https://es.finance.yahoo.com/noticias/jap%C3%B3n-propone-crear-grupo-seguridad-065105374.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Japón propone crear un grupo para la seguridad del suministro de petróleo en Asia",
+        "capturado": "2026-11-17T03:56:22-05:00"
+      },
+      {
+        "titulo": "Nuevos problemas informáticos afectan al sector bancario en Estados Unidos tras incidentes previos",
+        "url": "https://es.finance.yahoo.com/noticias/aplicaciones-bancarias-ee-uu-sufren-052625906.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Primero Microsoft y los aeropuertos, ahora los bancos: otra caída por fallos de software sacude EE.UU.",
+        "capturado": "2026-11-17T03:56:22-05:00"
+      },
+      {
+        "titulo": "Renault creará 2000 puestos en Francia y eliminará 1000 debido a la competencia de China",
+        "url": "https://es.finance.yahoo.com/noticias/renault-crear%C3%A1-2-000-empleos-054027246.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Renault anuncia 2.000 nuevos empleos en Francia y recorta otros 1.000 ante la presión de China",
+        "capturado": "2026-11-17T03:56:22-05:00"
+      },
+      {
+        "titulo": "Es Meta una inversión atractiva tras su emisión reciente de deuda",
+        "url": "https://es.finance.yahoo.com/noticias/meta-inversi%C3%B3n-emisi%C3%B3n-deuda-012000139.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "¿Sigue siendo Meta una buena inversión tras la última emisión de deuda?",
+        "capturado": "2026-11-17T03:56:22-05:00"
+      },
       {
         "titulo": "Nueva caída en bolsas de EE. UU. tras desplome de fabricantes de chips por plan de comercio de frenar brechas",
         "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-222335169.html",
@@ -419,70 +483,6 @@
         "medio": "MT Newswires",
         "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen tras el fracaso de Nvidia que afecta a los fabricantes de chips; los rendimientos de los bonos del Tesoro a largo plazo suben debido a los elevados precios de los productores.",
         "capturado": "2026-11-13T16:12:42-05:00"
-      },
-      {
-        "titulo": "ETF descienden al tiempo que los títulos de valores de EE UU retroceden pasada la tarde",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-bajan-medida-181215629.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa bajan a medida que las acciones estadounidenses caen después del mediodía.",
-        "capturado": "2026-11-13T16:12:42-05:00"
-      },
-      {
-        "titulo": "Daly advierte que la Fed tal vez deba elevar los tipos por deterioro inflacionario",
-        "url": "https://es.finance.yahoo.com/noticias/fed-probablemente-subir-tasas-empeoramiento-180128207.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Fed probablemente tenga que subir las tasas ante empeoramiento de la inflación: Daly",
-        "capturado": "2026-11-13T16:12:42-05:00"
-      },
-      {
-        "titulo": "Ecopetrol dialoga con PDVSA un pacto decenal para adquirir gas natural de Venezuela",
-        "url": "https://es.finance.yahoo.com/noticias/ecopetrol-negocia-pdvsa-acuerdo-10-172618772.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Ecopetrol negocia con PDVSA un acuerdo a 10 años para comprar gas natural venezolano",
-        "capturado": "2026-11-13T16:12:42-05:00"
-      },
-      {
-        "titulo": "Problemas de Nvidia generan disputas entre integrantes del gabinete de Donald Trump",
-        "url": "https://es.finance.yahoo.com/noticias/crisis-nvidia-causa-rencillas-miembros-170209667.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Crisis de Nvidia causa rencillas entre miembros del gabinete de Donald Trump",
-        "capturado": "2026-11-13T16:12:42-05:00"
-      },
-      {
-        "titulo": "Jóvenes talentos financieros y tecnológicos lideran leve tendencia de regreso a Venezuela",
-        "url": "https://es.finance.yahoo.com/noticias/talento-joven-finanzas-tecnolog%C3%ADa-protagoniza-170121288.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Talento joven en finanzas y tecnología protagoniza incipiente ola de retorno a Venezuela",
-        "capturado": "2026-11-13T16:12:42-05:00"
-      },
-      {
-        "titulo": "Nvidia pierde 1,6 billones de euros bursátiles y genera incertidumbre sin Jensen Huang al mando",
-        "url": "https://es.finance.yahoo.com/noticias/nvidia-pierde-1-8-billones-135502816.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Nvidia se deja 1,6 billones de euros en bolsa y siembra dudas en el mercado sin Jensen Huang al frente",
-        "capturado": "2026-11-13T09:48:18-05:00"
-      },
-      {
-        "titulo": "Secretario del Tesoro de EE. UU. afirma que la Fed no debe subir tasas por choque energético con Irán",
-        "url": "https://es.finance.yahoo.com/noticias/secretario-tesoro-eeuu-fed-deber%C3%ADa-141442993.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Secretario Tesoro EEUU dice Fed no debería subir las tasas por shock energético ligado a guerra con Irán",
-        "capturado": "2026-11-13T09:48:18-05:00"
-      },
-      {
-        "titulo": "ETF y futuros de acciones subieron antes de abrir porque la inflación de productores bajó de lo previsto",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-futuros-renta-141316329.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa y los futuros de renta variable subieron el viernes antes de la apertura del mercado, ya que la inflación en los países productores se situó por debajo de las previsiones.",
-        "capturado": "2026-11-13T09:48:18-05:00"
       }
     ]
   }
