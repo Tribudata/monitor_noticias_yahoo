@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-18T12:49:23-05:00",
+  "actualizado": "2026-11-18T18:56:08-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Bolsas de EE. UU. con comportamiento variado ante debut de Anthropic, efecto Nvidia y minutas de la Fed",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-221521260.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos mientras los inversores esperan la salida a bolsa de Anthropic tras el impacto de Nvidia en el sentimiento de riesgo y la publicación de las actas de la Reserva Federal a favor de una política monetaria más restrictiva.",
+        "capturado": "2026-11-18T18:56:08-05:00"
+      },
+      {
+        "titulo": "Entidad de control de datos en Hesse indaga fuga de 15 millones de documentos de Deutsche Bank",
+        "url": "https://es.finance.yahoo.com/noticias/regulador-datos-hesse-investiga-filtraci%C3%B3n-214539944.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El regulador de datos de Hesse investiga la filtración de 15 millones de archivos de Deutsche Bank",
+        "capturado": "2026-11-18T18:56:08-05:00"
+      },
+      {
+        "titulo": "Nación asegura acuerdos financieros y de inversión por 43.200 millones de dólares en gira por EE. UU.",
+        "url": "https://es.finance.yahoo.com/noticias/colombia-logra-compromisos-inversi%C3%B3n-financiamiento-204700862.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Colombia logra compromisos de inversión y financiamiento por 43.200 millones de dólares en ronda en EEUU",
+        "capturado": "2026-11-18T18:56:08-05:00"
+      },
+      {
+        "titulo": "Cotización de trigo, maíz y soya retrocede debido a la valorización de la divisa estadounidense",
+        "url": "https://es.finance.yahoo.com/noticias/futuros-trigo-ma%C3%ADz-soja-caen-193434453.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Los futuros del trigo, el maíz y la soja caen por el fortalecimiento del dólar",
+        "capturado": "2026-11-18T18:56:08-05:00"
+      },
+      {
+        "titulo": "Bolsas norteamericanas muestran datos mixtos por impacto de Nvidia, actas de la Fed y debut de Anthropic",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-185933999.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos mientras Nvidia afecta el sentimiento de riesgo y los inversores esperan las actas de la Reserva Federal y el precio de la salida a bolsa de Anthropic.",
+        "capturado": "2026-11-18T18:56:08-05:00"
+      },
+      {
+        "titulo": "Barr de la Fed afirma que vendrían aumentos de tasas de interés para la economía",
+        "url": "https://es.finance.yahoo.com/noticias/barr-fed-probablemente-avecinan-alzas-185036417.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Barr, de la Fed, dice probablemente se avecinan alzas de tasas de interés para la economía",
+        "capturado": "2026-11-18T18:56:08-05:00"
+      },
+      {
+        "titulo": "Elevados costos de transporte bajan la compra estadounidense de crudo venezolano",
+        "url": "https://es.finance.yahoo.com/noticias/altos-costos-transporte-reducen-demanda-183140627.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Altos costos de transporte reducen demanda de EE.UU. por petróleo venezolano",
+        "capturado": "2026-11-18T18:56:08-05:00"
+      },
+      {
+        "titulo": "ETFs y acciones de Estados Unidos muestran balances diversos a mitad de jornada",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-acciones-estadounidenses-181634535.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa y las acciones estadounidenses presentan resultados mixtos tras la media jornada.",
+        "capturado": "2026-11-18T18:56:08-05:00"
+      },
       {
         "titulo": "Clima adverso lleva la elaboración global de vino cerca a mínimos históricos",
         "url": "https://es.finance.yahoo.com/noticias/producci%C3%B3n-mundial-vino-acerca-m%C3%ADnimos-173941998.html",
@@ -419,70 +483,6 @@
         "medio": "Bloomberg",
         "titulo_fuente": "Trump dice que podría reunirse con Kim Jong Un durante cumbre APEC",
         "capturado": "2026-11-16T12:17:45-05:00"
-      },
-      {
-        "titulo": "Robert Pattinson asumirá el papel del nuevo James Bond en la nueva etapa de MGM",
-        "url": "https://es.finance.yahoo.com/noticias/robert-pattinson-james-bond-relanzamiento-160007977.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Robert Pattinson será el nuevo James Bond en el relanzamiento de MGM",
-        "capturado": "2026-11-16T12:17:45-05:00"
-      },
-      {
-        "titulo": "Carney avisa que Canadá buscará proveedores chinos si no hay acuerdo comercial con EE. UU.",
-        "url": "https://es.finance.yahoo.com/noticias/canad%C3%A1-recurrir%C3%ADa-fabricantes-chinos-fracasan-044121875.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Carney advierte de que Canadá recurrirá a fabricantes de China si fracasa el pacto comercial con EE.UU.",
-        "capturado": "2026-11-16T02:03:39-05:00"
-      },
-      {
-        "titulo": "Bolsas de Asia bajan por problema en Nvidia y dudas sobre la inteligencia artificial",
-        "url": "https://es.finance.yahoo.com/noticias/bolsas-asi%C3%A1ticas-ampl%C3%ADan-p%C3%A9rdidas-esperan-054638808.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Las Bolsas asiáticas caen por la crisis de Nvidia y la incertidumbre sobre la inteligencia artificial",
-        "capturado": "2026-11-16T02:03:39-05:00"
-      },
-      {
-        "titulo": "El sector alimentario de Europa dinamiza la economía y es vital para la seguridad",
-        "url": "https://es.finance.yahoo.com/noticias/industria-alimentaria-europea-mueve-1-051101946.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La industria alimentaria europea impulsa la economía y es clave para la seguridad",
-        "capturado": "2026-11-16T02:03:39-05:00"
-      },
-      {
-        "titulo": "Rumores bursátiles indican que IG Group eliminará 50 empleos al cerrar sedes en Francia, España e Italia",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-rumores-mercado-informes-ig-043824888.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Rumores del mercado: Según informes, IG Group recortará 50 puestos de trabajo en medio del cierre de oficinas en Francia, España e Italia.",
-        "capturado": "2026-11-16T02:03:39-05:00"
-      },
-      {
-        "titulo": "Acciones de Alibaba: análisis sobre la conveniencia de adquirirlas o no",
-        "url": "https://es.finance.yahoo.com/noticias/alibaba-comprar-comprar-cuesti%C3%B3n-002000897.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "Alibaba ¿comprar o no comprar? Esa es la cuestión",
-        "capturado": "2026-11-16T02:03:39-05:00"
-      },
-      {
-        "titulo": "Las denuncias por fraude en Ripple llegan a cifras preocupantes",
-        "url": "https://es.finance.yahoo.com/noticias/casos-estafa-ripple-alcanzan-niveles-001000488.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "Los casos de estafa en Ripple alcanzan niveles alarmantes",
-        "capturado": "2026-11-16T02:03:39-05:00"
-      },
-      {
-        "titulo": "Descarga gratis el port para PC de Pokémon Legends Arceus sin emulador, que corre en 4K y hasta 240 FPS con paisajes que se ven cuatro veces más lejos",
-        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-port-pc-pok%C3%A9mon-182904620.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Descarga gratis el port para PC de Pokémon Legends Arceus sin emulador, que corre en 4K y hasta 240 FPS con paisajes que se ven cuatro veces más lejos",
-        "capturado": "2026-11-16T02:03:39-05:00"
       }
     ]
   }
