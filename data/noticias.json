@@ -1,9 +1,49 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-17T20:09:25-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-11-18T03:54:00-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "PLD Space sella su primer contrato de lanzamiento comercial junto a Mitsubishi Electric",
+        "url": "https://es.finance.yahoo.com/noticias/pld-space-firma-acuerdo-lanzamiento-074425600.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "PLD Space firma su primer acuerdo de lanzamiento comercial con Mitsubishi Electric",
+        "capturado": "2026-11-18T03:54:00-05:00"
+      },
+      {
+        "titulo": "Viernes Negro en Portugal: DECO advierte sobre descuentos falsos e irregularidades",
+        "url": "https://es.finance.yahoo.com/noticias/black-friday-portugal-deco-alerta-074111327.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Black Friday en Portugal: DECO alerta de falsos descuentos y prácticas irregulares",
+        "capturado": "2026-11-18T03:54:00-05:00"
+      },
+      {
+        "titulo": "Nvidia descarta el retorno de Huang y el WSJ señala que la SEC indaga a la firma",
+        "url": "https://es.finance.yahoo.com/noticias/nvidia-descarta-regreso-huang-wsj-071209865.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Nvidia descarta el regreso de Huang y el WSJ informa que la SEC investiga a la empresa",
+        "capturado": "2026-11-18T03:54:00-05:00"
+      },
+      {
+        "titulo": "Anthropic, desarrollador de Claude, fijaría hoy el precio de su OPV: claves financieras",
+        "url": "https://es.finance.yahoo.com/noticias/anthropic-prev%C3%A9-fijar-precio-opv-061619222.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Anthropic, creador de Claude, prevé fijar hoy el precio de su OPV multimillonaria: claves para inversores",
+        "capturado": "2026-11-18T03:54:00-05:00"
+      },
+      {
+        "titulo": "Nvidia duplica ventas y ganancias por la IA en medio de la crisis por la salida de Huang",
+        "url": "https://es.finance.yahoo.com/noticias/fuerte-demanda-chips-ia-duplica-053247519.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Nvidia duplica sus ingresos y beneficios gracias a la IA en plena crisis por la salida de Jensen Huang",
+        "capturado": "2026-11-18T03:54:00-05:00"
+      },
       {
         "titulo": "Bolsas de valores de Estados Unidos caen por liquidación masiva sectorial",
         "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-retroceden-220353357.html",
@@ -443,46 +483,6 @@
         "medio": "Tarreo",
         "titulo_fuente": "Streamer del remake de Zelda Ocarina of Time empuja a Malon dentro de un hoyo hasta hacerla desaparecer, y jugadores se enfurecen",
         "capturado": "2026-11-15T09:38:27-05:00"
-      },
-      {
-        "titulo": "NVIDIA financiaba con miles de millones a firmas de IA insolventes para mantener sus ventas de GPUs",
-        "url": "https://es-us.noticias.yahoo.com/nvidia-prestaba-miles-millones-d%C3%B3lares-155651409.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "NVIDIA prestaba miles de millones de dólares a empresas de IA que no podían pagar sus GPUs, para que siguieran comprándolas y la demanda no bajara",
-        "capturado": "2026-11-15T01:57:37-05:00"
-      },
-      {
-        "titulo": "Obtenga sin costo y sin emulador el port para PC de God of War Betrayal con pantalla ancha y 240 FPS",
-        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-port-pc-god-150612300.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Descarga gratis el port para PC de God of War Betrayal sin emulador, el juego 2D de Kratos que llega con widescreen y hasta 240 FPS",
-        "capturado": "2026-11-15T01:57:37-05:00"
-      },
-      {
-        "titulo": "Caída de la aviación en EE. UU. se atribuye a un enrutador instalado por L3 Harris",
-        "url": "https://es.finance.yahoo.com/noticias/colapso-sector-aviaci%C3%B3n-estadounidense-achaca-213522560.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Colapso del sector de la aviación estadounidense se achaca a un router instalado por L3 Harris",
-        "capturado": "2026-11-14T19:07:09-05:00"
-      },
-      {
-        "titulo": "Ensayos clínicos confirman que fármacos de Lilly contra la obesidad redujeron el peso de pacientes",
-        "url": "https://es.finance.yahoo.com/noticias/lilly-medicamentos-obesidad-ayudaron-pacientes-194754407.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Lilly dice sus medicamentos contra la obesidad ayudaron a pacientes a perder peso en ensayos clínicos",
-        "capturado": "2026-11-14T15:27:04-05:00"
-      },
-      {
-        "titulo": "El vuelo de prueba quince y reingreso del Starship de SpaceX llega a su etapa final",
-        "url": "https://es.finance.yahoo.com/noticias/starship-spacex-acerca-final-decimoquinto-194525197.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Starship de SpaceX se acerca al final de su decimoquinto vuelo de prueba e intento de aterrizaje de regreso",
-        "capturado": "2026-11-14T15:27:04-05:00"
       }
     ]
   }
