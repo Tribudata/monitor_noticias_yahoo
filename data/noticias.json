@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-19T10:59:33-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-19T17:59:35-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Caen los mercados de EE. UU. en medio de una venta general y alta volatilidad tras la salida de Anthropic",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-desploman-223941837.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses se desploman mientras la venta masiva generalizada y el aumento de la volatilidad empañan el histórico debut de Anthropic en el Nasdaq.",
+        "capturado": "2026-11-19T17:59:35-05:00"
+      },
+      {
+        "titulo": "Unión Europea y congresistas pactan cambios a la reglamentación de las finanzas verdes",
+        "url": "https://es.finance.yahoo.com/noticias/pa%C3%ADses-ue-legisladores-alcanzan-acuerdo-215124221.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Países de la UE y legisladores alcanzan acuerdo para reformar normativa sobre finanzas sostenibles",
+        "capturado": "2026-11-19T17:59:35-05:00"
+      },
+      {
+        "titulo": "Europa muestra recelo ante el positivismo de Trump frente a Putin y la paz ucraniana",
+        "url": "https://es.finance.yahoo.com/noticias/europa-recibe-cautela-optimismo-trump-201050858.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Europa recibe con cautela el optimismo de Trump sobre Putin y la paz en Ucrania",
+        "capturado": "2026-11-19T17:59:35-05:00"
+      },
+      {
+        "titulo": "Bajan las bolsas de EE. UU. luego del estreno de Anthropic en el Nasdaq y avanza el crudo",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-192433139.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen tras el debut de Anthropic en el Nasdaq, mientras que el petróleo crudo sube.",
+        "capturado": "2026-11-19T17:59:35-05:00"
+      },
+      {
+        "titulo": "INDEC reporta saldo a favor de 3.394 millones de dólares en la balanza comercial argentina en octubre",
+        "url": "https://es.finance.yahoo.com/noticias/balanza-comercial-argentina-contabiliza-super%C3%A1vit-190651613.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Balanza comercial de Argentina contabiliza superávit de 3.394 million $ en octubre: INDEC",
+        "capturado": "2026-11-19T17:59:35-05:00"
+      },
+      {
+        "titulo": "Bolsa de Cereales reporta que recolección triguera argentina progresa con mejores rendimientos de los previstos",
+        "url": "https://es.finance.yahoo.com/noticias/cosecha-trigo-argentina-avanza-rindes-185639826.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Cosecha de trigo de Argentina avanza con rindes superiores a esperados: Bolsa Cereales",
+        "capturado": "2026-11-19T17:59:35-05:00"
+      },
+      {
+        "titulo": "Goolsbee señala que la Reserva Federal necesita impedir que el boom de IA sobrecaliente la economía",
+        "url": "https://es.finance.yahoo.com/noticias/fed-evitar-auge-ia-provoque-182923910.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "La Fed debe evitar que el auge de la IA provoque un sobrecalentamiento de la economía: Goolsbee",
+        "capturado": "2026-11-19T17:59:35-05:00"
+      },
+      {
+        "titulo": "El CIC reduce la estimación de la producción global de maíz para el ciclo 2026/27",
+        "url": "https://es.finance.yahoo.com/noticias/cic-baja-previsi%C3%B3n-cosecha-mundial-182542778.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "El CIC baja la previsión para la cosecha mundial de maíz de 2026/27",
+        "capturado": "2026-11-19T17:59:35-05:00"
+      },
       {
         "titulo": "Anthropic efectúa una OPI sin precedentes al tiempo que Nvidia atraviesa su peor racha desde 2008",
         "url": "https://es.finance.yahoo.com/noticias/anthropic-debuta-bolsa-opv-ser-053157062.html",
@@ -419,70 +483,6 @@
         "medio": "Bloomberg",
         "titulo_fuente": "Error oculto desde julio provocó la falla global que paralizó los servicios de Microsoft",
         "capturado": "2026-11-16T19:57:12-05:00"
-      },
-      {
-        "titulo": "Gobierno Trump alista nuevas trabas para personal foráneo calificado",
-        "url": "https://es.finance.yahoo.com/noticias/gobierno-trump-propone-imponer-restricciones-193548678.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Gobierno Trump se propone imponer nuevas restricciones a los trabajadores extranjeros cualificados",
-        "capturado": "2026-11-16T19:57:12-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE UU caen por derrumbe tecnológico tras anuncio del Departamento de Comercio sobre IA",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-desploman-192245218.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses se desploman tras el desplome de las grandes tecnológicas después de que el Departamento de Comercio planeara restringir el acceso a la infraestructura avanzada de IA.",
-        "capturado": "2026-11-16T19:57:12-05:00"
-      },
-      {
-        "titulo": "Caen activos de Brasil ante crecientes dudas sobre la estrategia fiscal de Lula",
-        "url": "https://es.finance.yahoo.com/noticias/activos-brasile%C3%B1os-desploman-crecen-dudas-185030162.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Activos brasileños se desploman mientras crecen las dudas sobre el plan fiscal de Lula",
-        "capturado": "2026-11-16T19:57:12-05:00"
-      },
-      {
-        "titulo": "Bruselas autoriza la adquisición de la entidad alemana Commerzbank por parte de UniCredit",
-        "url": "https://es.finance.yahoo.com/noticias/bruselas-luz-verde-compra-banco-105417750.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Bruselas da luz verde a la compra del banco alemán Commerzbank por UniCredit",
-        "capturado": "2026-11-16T12:17:45-05:00"
-      },
-      {
-        "titulo": "Abastecedor de café de Nestlé Brasil afronta una diligencia por acusaciones de maltrato laboral",
-        "url": "https://es.finance.yahoo.com/noticias/proveedor-caf%C3%A9-nestl%C3%A9-brasil-enfrenta-165826663.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Proveedor de café de Nestlé Brasil se enfrenta a una audiencia por denuncias de abusos laborales",
-        "capturado": "2026-11-16T12:17:45-05:00"
-      },
-      {
-        "titulo": "Crudo cae al pesar más la sobreoferta que los roces con Irán",
-        "url": "https://es.finance.yahoo.com/noticias/petr%C3%B3leo-retrocede-oferta-pesa-tensiones-164401334.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Petróleo retrocede mientras mayor oferta pesa más que las tensiones con Irán",
-        "capturado": "2026-11-16T12:17:45-05:00"
-      },
-      {
-        "titulo": "Bank of America ratifica compra de ACS al ver valiosas ganancias hacia el 2030",
-        "url": "https://es.finance.yahoo.com/noticias/bank-of-america-objetivos-acs-162944917.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Bank of America: Los objetivos de ACS para el año fiscal 2030 indican un potencial de ganancias \"significativo\"; se mantiene la recomendación de compra.",
-        "capturado": "2026-11-16T12:17:45-05:00"
-      },
-      {
-        "titulo": "Trump respalda la vuelta de Jensen Huang a la dirección general de Nvidia",
-        "url": "https://es.finance.yahoo.com/noticias/trump-apoya-regreso-jensen-huang-162049543.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Trump apoya el regreso de Jensen Huang como CEO de Nvidia",
-        "capturado": "2026-11-16T12:17:45-05:00"
       }
     ]
   }
