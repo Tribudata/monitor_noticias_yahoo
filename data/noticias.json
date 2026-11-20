@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-20T07:36:49-05:00",
+  "actualizado": "2026-11-20T15:56:14-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Tesla inaugura su primer concesionario argentino y avanza en su crecimiento regional",
+        "url": "https://es.finance.yahoo.com/noticias/tesla-abre-concesionaria-argentina-profundiza-200234437.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Tesla abre primera concesionaria en Argentina y profundiza expansión en Latinoamérica",
+        "capturado": "2026-11-20T15:56:14-05:00"
+      },
+      {
+        "titulo": "La canadiense Ensign prevé aumentar sus taladros de perforación en territorio venezolano",
+        "url": "https://es.finance.yahoo.com/noticias/canadiense-ensign-planea-ampliar-n%C3%BAmero-192629239.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Canadiense Ensign planea ampliar número de equipos de perforación en Venezuela",
+        "capturado": "2026-11-20T15:56:14-05:00"
+      },
+      {
+        "titulo": "Fujimori señala que Perú dejó atrás etapa difícil y convoca a inversores japoneses",
+        "url": "https://es.finance.yahoo.com/noticias/fujimori-afirma-per%C3%BA-super%C3%B3-periodo-184724988.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Fujimori afirma que Perú superó \"periodo traumático\" y pide en Japón invertir en el país",
+        "capturado": "2026-11-20T15:56:14-05:00"
+      },
+      {
+        "titulo": "Trump sostiene que Estados Unidos penalizará a firmas nacionales que hagan centros de datos fuera",
+        "url": "https://es.finance.yahoo.com/noticias/trump-afirma-eeuu-sancionar%C3%A1-empresas-184659794.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Trump afirma que EEUU sancionará a empresas locales que construyan centros de datos en el extranjero",
+        "capturado": "2026-11-20T15:56:14-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE UU bajan y Anthropic encabeza desplome tecnológico a la par de tasas de bonos",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-183415516.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen mientras Anthropic lidera el desplome de las grandes tecnológicas en medio de la caída de los rendimientos de los bonos del Tesoro.",
+        "capturado": "2026-11-20T15:56:14-05:00"
+      },
+      {
+        "titulo": "Trump observa un pacto comercial próximo con México y ve a Canadá más distante",
+        "url": "https://es.finance.yahoo.com/noticias/trump-ve-acuerdo-comercial-m%C3%A9xico-182806020.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Trump ve cerca un acuerdo comercial con México, pero dice que Canadá está más lejos",
+        "capturado": "2026-11-20T15:56:14-05:00"
+      },
+      {
+        "titulo": "Los mercados bursátiles asiáticos caen por la venta de títulos de IA en Wall Street",
+        "url": "https://es.finance.yahoo.com/noticias/bolsas-asi%C3%A1ticas-caen-ola-ventas-054934950.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Las bolsas de Asia se hunden arrastradas por la venta de valores de inteligencia artificial en Wall Street",
+        "capturado": "2026-11-20T15:56:14-05:00"
+      },
+      {
+        "titulo": "Los fondos cotizados descienden al bajar las acciones de EE. UU. pasado el mediodía",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-bajan-medida-181552445.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa bajan a medida que las acciones estadounidenses caen después del mediodía.",
+        "capturado": "2026-11-20T15:56:14-05:00"
+      },
       {
         "titulo": "El desplome del cobre empeora debido a venta masiva de IA y dudas sobre la demanda",
         "url": "https://es.finance.yahoo.com/noticias/ca%C3%ADda-cobre-agrava-liquidaci%C3%B3n-ia-115737292.html",
@@ -419,70 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "Al Sisi pide más inversión extranjera para Egipto en el Foro Económico Mundial",
         "capturado": "2026-11-17T13:17:49-05:00"
-      },
-      {
-        "titulo": "Nvidia evalúa el destino de Jensen Huang al revelarse un segundo amorío fuera del matrimonio",
-        "url": "https://es.finance.yahoo.com/noticias/nvidia-sopesa-futuro-jensen-huang-171711719.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Nvidia sopesa el futuro de Jensen Huang tras conocerse que mantuvo una segunda relación extramatrimonial",
-        "capturado": "2026-11-17T13:17:49-05:00"
-      },
-      {
-        "titulo": "Ventas externas de trigo blando 2026/27 de la UE llegan a 10,51 millones de toneladas al 15 de noviembre",
-        "url": "https://es.finance.yahoo.com/noticias/exportaciones-trigo-blando-2026-27-163145786.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Exportaciones de trigo blando 2026/27 de la UE ascienden a 10,51 millones de toneladas al 15 de noviembre",
-        "capturado": "2026-11-17T13:17:49-05:00"
-      },
-      {
-        "titulo": "Producción de cereales de Ucrania descendería a la mitad en 2027 por clausura de puertos, afirma ministro",
-        "url": "https://es.finance.yahoo.com/noticias/cosecha-granos-ucrania-caer-mitad-162020428.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Cosecha de granos de Ucrania podría caer a la mitad en 2027 por cierre de puertos, dice ministro",
-        "capturado": "2026-11-17T13:17:49-05:00"
-      },
-      {
-        "titulo": "Canadá y China estrechan lazos comerciales y Xi dialoga con Carney previo al foro de APEC",
-        "url": "https://es.finance.yahoo.com/noticias/canad%C3%A1-china-ampl%C3%ADan-acuerdos-comerciales-081630509.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Canadá y China amplían acuerdos comerciales y Xi se reúne con Carney antes de la cumbre de APEC",
-        "capturado": "2026-11-17T03:56:22-05:00"
-      },
-      {
-        "titulo": "HSBC señala a Italia como referente tributario frente a las demás naciones del G7",
-        "url": "https://es.finance.yahoo.com/noticias/italia-convierte-modelo-fiscal-resto-065001018.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Italia se convierte en modelo fiscal para el resto del G7, según HSBC",
-        "capturado": "2026-11-17T03:56:22-05:00"
-      },
-      {
-        "titulo": "Le Pen expondrá su propuesta pensional en medio de una mayor vigilancia bursátil",
-        "url": "https://es.finance.yahoo.com/noticias/pen-presentar%C3%A1-planes-pensiones-escrutinio-073129502.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Le Pen presentará sus planes para las pensiones ante un mayor escrutinio del mercado",
-        "capturado": "2026-11-17T03:56:22-05:00"
-      },
-      {
-        "titulo": "Portugal promueve subsidios para hogares vulnerables y microempresas en la compra de eléctricos",
-        "url": "https://es.finance.yahoo.com/noticias/portugal-impulsa-ayudas-familias-vulnerables-071630059.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Portugal impulsa ayudas a familias vulnerables y microempresas para comprar coches eléctricos",
-        "capturado": "2026-11-17T03:56:22-05:00"
-      },
-      {
-        "titulo": "Japón sugiere la creación de un bloque para garantizar el abastecimiento petrolero en Asia",
-        "url": "https://es.finance.yahoo.com/noticias/jap%C3%B3n-propone-crear-grupo-seguridad-065105374.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Japón propone crear un grupo para la seguridad del suministro de petróleo en Asia",
-        "capturado": "2026-11-17T03:56:22-05:00"
       }
     ]
   }
