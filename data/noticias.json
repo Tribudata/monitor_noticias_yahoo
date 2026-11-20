@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-19T22:56:16-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-20T07:36:49-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "El desplome del cobre empeora debido a venta masiva de IA y dudas sobre la demanda",
+        "url": "https://es.finance.yahoo.com/noticias/ca%C3%ADda-cobre-agrava-liquidaci%C3%B3n-ia-115737292.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Caída del cobre se agrava por liquidación de la IA y escepticismo sobre la demanda",
+        "capturado": "2026-11-20T07:36:49-05:00"
+      },
+      {
+        "titulo": "El Ejecutivo de España valida un nuevo reglamento dirigido a los centros de datos",
+        "url": "https://es.finance.yahoo.com/noticias/gobierno-espa%C3%B1ol-aprueba-normativa-centros-115011181.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "El Gobierno español aprueba una nueva normativa para los centros de datos",
+        "capturado": "2026-11-20T07:36:49-05:00"
+      },
+      {
+        "titulo": "Dudas comerciales con EE UU unen a México y Europa, según Hansen, de la UE",
+        "url": "https://es.finance.yahoo.com/noticias/incertidumbre-comercial-eeuu-acercando-m%C3%A9xico-114831207.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "La incertidumbre comercial con EEUU está acercando más a México y a Europa, dice Hansen, de la UE",
+        "capturado": "2026-11-20T07:36:49-05:00"
+      },
+      {
+        "titulo": "Disturbios urbanos del 17 y 18 de octubre causarían daños de hasta 207 millones de euros",
+        "url": "https://es.finance.yahoo.com/noticias/violencias-urbanas-17-18-octubre-114008123.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Violencias urbanas del 17 y 18 de octubre: los daños podrían llegar a 207 millones de euros",
+        "capturado": "2026-11-20T07:36:49-05:00"
+      },
+      {
+        "titulo": "Lufthansa prevé suprimir 1.000 puestos en Frankfurt y Múnich tras perder 20 millones al mes",
+        "url": "https://es.finance.yahoo.com/noticias/lufthansa-planea-recortar-1-000-113841927.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Lufthansa planea recortar 1.000 empleos en Frankfurt y Múnich tras perder 20 millones al mes",
+        "capturado": "2026-11-20T07:36:49-05:00"
+      },
+      {
+        "titulo": "Bending Spoons pacta adquirir Mailchimp de Intuit por 3,32 mil millones de euros",
+        "url": "https://es.finance.yahoo.com/noticias/bending-spoons-acuerda-compra-mailchimp-113839017.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Bending Spoons acuerda compra de Mailchimp a Intuit por 3,32 mil millones de euros",
+        "capturado": "2026-11-20T07:36:49-05:00"
+      },
+      {
+        "titulo": "Dudas sobre IA golpean a Wall Street previo a la apertura; Asia y Europa bajan",
+        "url": "https://es.finance.yahoo.com/noticias/inquietud-ia-afecta-negativamente-wall-110827597.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "La inquietud por la IA afecta negativamente a Wall Street antes de la apertura; Asia y Europa registran pérdidas.",
+        "capturado": "2026-11-20T07:36:49-05:00"
+      },
+      {
+        "titulo": "Paro nacional estatal por mejores sueldos impacta salud y educación en Portugal",
+        "url": "https://es.finance.yahoo.com/noticias/huelga-nacional-funci%C3%B3n-p%C3%BAblica-mejores-105358154.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Huelga nacional de la función pública por mejores salarios afecta salud y educación en Portugal",
+        "capturado": "2026-11-20T07:36:49-05:00"
+      },
       {
         "titulo": "Caen los mercados de EE. UU. en medio de una venta general y alta volatilidad tras la salida de Anthropic",
         "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-desploman-223941837.html",
@@ -419,70 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Japón propone crear un grupo para la seguridad del suministro de petróleo en Asia",
         "capturado": "2026-11-17T03:56:22-05:00"
-      },
-      {
-        "titulo": "Nuevos problemas informáticos afectan al sector bancario en Estados Unidos tras incidentes previos",
-        "url": "https://es.finance.yahoo.com/noticias/aplicaciones-bancarias-ee-uu-sufren-052625906.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Primero Microsoft y los aeropuertos, ahora los bancos: otra caída por fallos de software sacude EE.UU.",
-        "capturado": "2026-11-17T03:56:22-05:00"
-      },
-      {
-        "titulo": "Renault creará 2000 puestos en Francia y eliminará 1000 debido a la competencia de China",
-        "url": "https://es.finance.yahoo.com/noticias/renault-crear%C3%A1-2-000-empleos-054027246.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Renault anuncia 2.000 nuevos empleos en Francia y recorta otros 1.000 ante la presión de China",
-        "capturado": "2026-11-17T03:56:22-05:00"
-      },
-      {
-        "titulo": "Es Meta una inversión atractiva tras su emisión reciente de deuda",
-        "url": "https://es.finance.yahoo.com/noticias/meta-inversi%C3%B3n-emisi%C3%B3n-deuda-012000139.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "¿Sigue siendo Meta una buena inversión tras la última emisión de deuda?",
-        "capturado": "2026-11-17T03:56:22-05:00"
-      },
-      {
-        "titulo": "Nueva caída en bolsas de EE. UU. tras desplome de fabricantes de chips por plan de comercio de frenar brechas",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-222335169.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen a medida que los fabricantes de chips se hunden después de que el Departamento de Comercio planeara cerrar las lagunas legales para adquirir chips de IA restringidos.",
-        "capturado": "2026-11-16T19:57:12-05:00"
-      },
-      {
-        "titulo": "Bahaia Metals informa emisión privada de acciones por 1,2 millones de dólares canadienses",
-        "url": "https://es.finance.yahoo.com/noticias/bahaia-metals-anuncia-colocaci%C3%B3n-privada-212601317.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Bahaia Metals anuncia una colocación privada de acciones por valor de 1,2 millones de dólares canadienses.",
-        "capturado": "2026-11-16T19:57:12-05:00"
-      },
-      {
-        "titulo": "PPX Mining señala que perforaciones en el proyecto Igor en Perú aportan datos sobre el objetivo Portachuelos",
-        "url": "https://es.finance.yahoo.com/noticias/ppx-mining-afirma-perforaciones-proyecto-204352615.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "PPX Mining afirma que las perforaciones en el proyecto Igor en Perú brindan más información sobre el objetivo Portachuelos.",
-        "capturado": "2026-11-16T19:57:12-05:00"
-      },
-      {
-        "titulo": "JPMorgan informa falla técnica que retrasa ciertas operaciones",
-        "url": "https://es.finance.yahoo.com/noticias/jpmorgan-reporta-problema-t%C3%A9cnico-demora-200526213.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "JPMorgan reporta problema técnico que demora algunas transacciones",
-        "capturado": "2026-11-16T19:57:12-05:00"
-      },
-      {
-        "titulo": "Fallido oculto desde julio causó el apagón global que afectó a Microsoft",
-        "url": "https://es.finance.yahoo.com/noticias/error-oculto-julio-provoc%C3%B3-falla-194845564.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Error oculto desde julio provocó la falla global que paralizó los servicios de Microsoft",
-        "capturado": "2026-11-16T19:57:12-05:00"
       }
     ]
   }
