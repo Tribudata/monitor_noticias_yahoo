@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-20T15:56:14-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-11-20T21:00:36-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "El Dow Jones y el S&P 500 retroceden a zona de corrección al huir inversores a bonos por caída tecnológica",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-s-p-500-dow-214248463.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: El S&P 500 y el Dow Jones caen en territorio de corrección mientras los inversores buscan refugio en bonos del Tesoro en medio del desplome de las grandes tecnológicas.",
+        "capturado": "2026-11-20T21:00:36-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE. UU. caen por presión a chips y postura de la Fed ante la llegada de Anthropic al Nasdaq",
+        "url": "https://es.finance.yahoo.com/noticias/%C3%ADndices-burs%C3%A1tiles-estadounidenses-desploman-nubes-212255403.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los índices bursátiles estadounidenses se desploman mientras las nubes que se ciernen sobre los fabricantes de chips y la postura restrictiva de la Reserva Federal pesan sobre el debut de Anthropic en el Nasdaq esta semana.",
+        "capturado": "2026-11-20T21:00:36-05:00"
+      },
       {
         "titulo": "Tesla inaugura su primer concesionario argentino y avanza en su crecimiento regional",
         "url": "https://es.finance.yahoo.com/noticias/tesla-abre-concesionaria-argentina-profundiza-200234437.html",
@@ -466,22 +482,6 @@
         "resumen": "",
         "medio": "Euronews",
         "titulo_fuente": "Las acciones de Deutsche Bank caen tras una filtración que afecta a Trump",
-        "capturado": "2026-11-17T13:17:49-05:00"
-      },
-      {
-        "titulo": "El oro y la plata bajan a su piso de más de un año por dólar fuerte y tasas de interés",
-        "url": "https://es.finance.yahoo.com/noticias/oro-plata-caen-nivel-a%C3%B1o-152356169.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El oro y la plata caen al nivel más bajo en más de un año por un dólar fuerte y los tipos de interés",
-        "capturado": "2026-11-17T13:17:49-05:00"
-      },
-      {
-        "titulo": "Al Sisi solicita mayor capital extranjero para Egipto en el Foro Económico Mundial",
-        "url": "https://es.finance.yahoo.com/noticias/sisi-pide-inversi%C3%B3n-extranjera-detalla-144708109.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Al Sisi pide más inversión extranjera para Egipto en el Foro Económico Mundial",
         "capturado": "2026-11-17T13:17:49-05:00"
       }
     ]
