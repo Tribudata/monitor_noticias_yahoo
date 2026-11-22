@@ -1,9 +1,57 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-21T21:50:45-05:00",
-  "nuevos_en_esta_corrida": 2,
+  "actualizado": "2026-11-22T05:46:35-05:00",
+  "nuevos_en_esta_corrida": 6,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Suecia y Francia encabezan la transición europea hacia empleos basados en competencias",
+        "url": "https://es.finance.yahoo.com/noticias/europa-prepara-contrataci%C3%B3n-basada-habilidades-060051193.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Europa se prepara para la contratación basada en habilidades: Suecia y Francia lideran",
+        "capturado": "2026-11-22T05:46:35-05:00"
+      },
+      {
+        "titulo": "Descarga gratuita del port para PC de Hyrule Warriors Age of Calamity en 4K y sin emulador",
+        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-port-pc-hyrule-213344058.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Descarga gratis el port para PC de Hyrule Warriors Age of Calamity, sin emulador, en 4K, con DLSS, cooperativo y todos sus DLC",
+        "capturado": "2026-11-22T05:46:35-05:00"
+      },
+      {
+        "titulo": "Costos de tarjetas gráficas, RAM y SSD descenderían en 2027 por menor demanda de IA",
+        "url": "https://es-us.noticias.yahoo.com/tarjetas-gr%C3%A1ficas-ram-ssd-bajar%C3%ADan-205442932.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Tarjetas gráficas, la RAM y los SSD bajarían de precio en 2027 porque los centros de datos para IA están comprando menos",
+        "capturado": "2026-11-22T05:46:35-05:00"
+      },
+      {
+        "titulo": "Autor del port para PC del remake de Zelda Ocarina of Time trabaja en el de GTA 6",
+        "url": "https://es-us.noticias.yahoo.com/creador-port-pc-remake-zelda-185546095.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Creador del port para PC del remake de Zelda Ocarina of Time está haciendo el de GTA 6, y solo le falta el ejecutable para que arranque",
+        "capturado": "2026-11-22T05:46:35-05:00"
+      },
+      {
+        "titulo": "Industria local rindió homenaje a los creadores chilenos de videojuegos en pleno auge de GTA 6",
+        "url": "https://es-us.noticias.yahoo.com/medio-locura-gta-6-industria-181243799.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "En medio de la locura por GTA 6, la industria nacional celebró a los desarrolladores chilenos de videojuegos",
+        "capturado": "2026-11-22T05:46:35-05:00"
+      },
+      {
+        "titulo": "El código CE-108255-1 congela GTA 6 en PS5, reinstalar falla y apuntan al metal líquido",
+        "url": "https://es-us.noticias.yahoo.com/gta-6-cierra-ps5-error-151358005.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "GTA 6 se cierra una y otra vez en PS5 con el error CE-108255-1, reinstalar no sirve de nada y el principal sospechoso es el metal líquido de la consola",
+        "capturado": "2026-11-22T05:46:35-05:00"
+      },
       {
         "titulo": "GTA 6 supera la barrera de 30 FPS y llega a más de 60 en Xbox Series X mediante el truco del Quick Resume",
         "url": "https://es-us.noticias.yahoo.com/gta-6-rompe-l%C3%ADmite-30-143331271.html",
@@ -435,54 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Cal-Maine sacrificará 1,8 millones de aves en Florida tras detectar un caso de gripe aviar",
         "capturado": "2026-11-18T12:49:23-05:00"
-      },
-      {
-        "titulo": "Las ventas pendientes de casas en EE UU caen a mínimo histórico durante octubre",
-        "url": "https://es.finance.yahoo.com/noticias/ventas-pendientes-viviendas-eeuu-desploman-152720567.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Las ventas pendientes de viviendas en EEUU se desploman a mínimo histórico en octubre",
-        "capturado": "2026-11-18T12:49:23-05:00"
-      },
-      {
-        "titulo": "Waller advierte sobre la inflación y sugiere un incremento mayor de tipos de la Fed",
-        "url": "https://es.finance.yahoo.com/noticias/waller-advierte-inflaci%C3%B3n-plantea-alza-142636065.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Waller advierte sobre la inflación y plantea una mayor alza de tasas de la Fed",
-        "capturado": "2026-11-18T12:49:23-05:00"
-      },
-      {
-        "titulo": "PLD Space sella su primer contrato de lanzamiento comercial junto a Mitsubishi Electric",
-        "url": "https://es.finance.yahoo.com/noticias/pld-space-firma-acuerdo-lanzamiento-074425600.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "PLD Space firma su primer acuerdo de lanzamiento comercial con Mitsubishi Electric",
-        "capturado": "2026-11-18T03:54:00-05:00"
-      },
-      {
-        "titulo": "Viernes Negro en Portugal: DECO advierte sobre descuentos falsos e irregularidades",
-        "url": "https://es.finance.yahoo.com/noticias/black-friday-portugal-deco-alerta-074111327.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Black Friday en Portugal: DECO alerta de falsos descuentos y prácticas irregulares",
-        "capturado": "2026-11-18T03:54:00-05:00"
-      },
-      {
-        "titulo": "Nvidia descarta el retorno de Huang y el WSJ señala que la SEC indaga a la firma",
-        "url": "https://es.finance.yahoo.com/noticias/nvidia-descarta-regreso-huang-wsj-071209865.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Nvidia descarta el regreso de Huang y el WSJ informa que la SEC investiga a la empresa",
-        "capturado": "2026-11-18T03:54:00-05:00"
-      },
-      {
-        "titulo": "Anthropic, desarrollador de Claude, fijaría hoy el precio de su OPV: claves financieras",
-        "url": "https://es.finance.yahoo.com/noticias/anthropic-prev%C3%A9-fijar-precio-opv-061619222.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Anthropic, creador de Claude, prevé fijar hoy el precio de su OPV multimillonaria: claves para inversores",
-        "capturado": "2026-11-18T03:54:00-05:00"
       }
     ]
   }
