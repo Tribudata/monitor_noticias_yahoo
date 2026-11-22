@@ -1,9 +1,49 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-22T13:15:17-05:00",
+  "actualizado": "2026-11-22T18:43:24-05:00",
   "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Demoras momentáneas en vuelos de Delta en Atlanta por falla del sistema automatizado",
+        "url": "https://es.finance.yahoo.com/noticias/vuelos-delta-sufren-breves-retrasos-213944050.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Vuelos de Delta sufren breves retrasos en aeropuerto de Atlanta por problema con sistema automatizado",
+        "capturado": "2026-11-22T18:43:24-05:00"
+      },
+      {
+        "titulo": "Insurgentes hutíes de Yemen afirman haber atacado refinería petrolera saudí de Rabigh",
+        "url": "https://es.finance.yahoo.com/noticias/hut%C3%ADes-yemen-atacaron-refiner%C3%ADa-petr%C3%B3leo-193525490.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Los hutíes de Yemen dicen que atacaron la refinería de petróleo saudita de Rabigh",
+        "capturado": "2026-11-22T18:43:24-05:00"
+      },
+      {
+        "titulo": "Bloom Energy asegura que la inteligencia artificial no requiere esperar años por energía",
+        "url": "https://es.finance.yahoo.com/noticias/exclusiva-ia-necesita-esperar-a%C3%B1os-170009442.html",
+        "resumen": "",
+        "medio": "Benzinga Espana",
+        "titulo_fuente": "EXCLUSIVA: La IA no necesita esperar años a la red eléctrica, según Bloom Energy",
+        "capturado": "2026-11-22T18:43:24-05:00"
+      },
+      {
+        "titulo": "Podrá Nvidia evadir el destino tipo Ícaro que experimentó Cisco post burbuja puntocom",
+        "url": "https://es.finance.yahoo.com/noticias/nvidia-escapar-efecto-%C3%ADcaro-sufri%C3%B3-150007775.html",
+        "resumen": "",
+        "medio": "Benzinga Espana",
+        "titulo_fuente": "¿Puede Nvidia escapar del efecto Ícaro que sufrió Cisco tras la burbuja puntocom?",
+        "capturado": "2026-11-22T18:43:24-05:00"
+      },
+      {
+        "titulo": "SpaceX destina 32000 millones de dólares para adquirir chips de Nvidia",
+        "url": "https://es.finance.yahoo.com/noticias/spacex-financia-32-000-m-140009233.html",
+        "resumen": "",
+        "medio": "Benzinga Espana",
+        "titulo_fuente": "SpaceX financia 32.000 M$ en chips de Nvidia",
+        "capturado": "2026-11-22T18:43:24-05:00"
+      },
       {
         "titulo": "Israel crece a pesar del conflicto y Europa analiza lecciones de su desarrollo tecnológico",
         "url": "https://es.finance.yahoo.com/noticias/israel-encamina-ser-25-econom%C3%ADa-171332713.html",
@@ -443,46 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Los futuros del trigo, el maíz y la soja caen por el fortalecimiento del dólar",
         "capturado": "2026-11-18T18:56:08-05:00"
-      },
-      {
-        "titulo": "Bolsas norteamericanas muestran datos mixtos por impacto de Nvidia, actas de la Fed y debut de Anthropic",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-185933999.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos mientras Nvidia afecta el sentimiento de riesgo y los inversores esperan las actas de la Reserva Federal y el precio de la salida a bolsa de Anthropic.",
-        "capturado": "2026-11-18T18:56:08-05:00"
-      },
-      {
-        "titulo": "Barr de la Fed afirma que vendrían aumentos de tasas de interés para la economía",
-        "url": "https://es.finance.yahoo.com/noticias/barr-fed-probablemente-avecinan-alzas-185036417.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Barr, de la Fed, dice probablemente se avecinan alzas de tasas de interés para la economía",
-        "capturado": "2026-11-18T18:56:08-05:00"
-      },
-      {
-        "titulo": "Elevados costos de transporte bajan la compra estadounidense de crudo venezolano",
-        "url": "https://es.finance.yahoo.com/noticias/altos-costos-transporte-reducen-demanda-183140627.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Altos costos de transporte reducen demanda de EE.UU. por petróleo venezolano",
-        "capturado": "2026-11-18T18:56:08-05:00"
-      },
-      {
-        "titulo": "ETFs y acciones de Estados Unidos muestran balances diversos a mitad de jornada",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-acciones-estadounidenses-181634535.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa y las acciones estadounidenses presentan resultados mixtos tras la media jornada.",
-        "capturado": "2026-11-18T18:56:08-05:00"
-      },
-      {
-        "titulo": "Clima adverso lleva la elaboración global de vino cerca a mínimos históricos",
-        "url": "https://es.finance.yahoo.com/noticias/producci%C3%B3n-mundial-vino-acerca-m%C3%ADnimos-173941998.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Producción mundial de vino se acerca a mínimos históricos por condiciones meteorológicas extremas",
-        "capturado": "2026-11-18T12:49:23-05:00"
       }
     ]
   }
