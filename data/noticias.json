@@ -1,9 +1,25 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-21T17:48:53-05:00",
-  "nuevos_en_esta_corrida": 0,
+  "actualizado": "2026-11-21T21:50:45-05:00",
+  "nuevos_en_esta_corrida": 2,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "GTA 6 supera la barrera de 30 FPS y llega a más de 60 en Xbox Series X mediante el truco del Quick Resume",
+        "url": "https://es-us.noticias.yahoo.com/gta-6-rompe-l%C3%ADmite-30-143331271.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "GTA 6 rompe el límite de 30 FPS y corre a más de 60 en Xbox Series X con un truco del Quick Resume",
+        "capturado": "2026-11-21T21:50:45-05:00"
+      },
+      {
+        "titulo": "Es posible ejecutar GTA 6 en una PS4 pirateada pese a que PlayStation afirma que jamás saldrá allí",
+        "url": "https://es-us.noticias.yahoo.com/gta-6-jugar-ps4-desbloqueada-140505374.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "GTA 6 se puede jugar en una PS4 desbloqueada, aunque PlayStation asegura que el juego nunca llegará a esa consola",
+        "capturado": "2026-11-21T21:50:45-05:00"
+      },
       {
         "titulo": "Real Madrid lidera facturación sobre Bayern Múnich y alcanza récord con 1.221 millones de euros",
         "url": "https://es.finance.yahoo.com/noticias/real-madrid-supera-bayern-m%C3%BAnich-165244719.html",
@@ -467,22 +483,6 @@
         "medio": "Euronews",
         "titulo_fuente": "Anthropic, creador de Claude, prevé fijar hoy el precio de su OPV multimillonaria: claves para inversores",
         "capturado": "2026-11-18T03:54:00-05:00"
-      },
-      {
-        "titulo": "Nvidia duplica ventas y ganancias por la IA en medio de la crisis por la salida de Huang",
-        "url": "https://es.finance.yahoo.com/noticias/fuerte-demanda-chips-ia-duplica-053247519.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Nvidia duplica sus ingresos y beneficios gracias a la IA en plena crisis por la salida de Jensen Huang",
-        "capturado": "2026-11-18T03:54:00-05:00"
-      },
-      {
-        "titulo": "Bolsas de valores de Estados Unidos caen por liquidación masiva sectorial",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-retroceden-220353357.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses retroceden en medio de una venta masiva generalizada en todos los sectores.",
-        "capturado": "2026-11-17T20:09:25-05:00"
       }
     ]
   }
