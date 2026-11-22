@@ -1,9 +1,49 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-22T05:46:35-05:00",
-  "nuevos_en_esta_corrida": 6,
+  "actualizado": "2026-11-22T13:15:17-05:00",
+  "nuevos_en_esta_corrida": 5,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Israel crece a pesar del conflicto y Europa analiza lecciones de su desarrollo tecnológico",
+        "url": "https://es.finance.yahoo.com/noticias/israel-encamina-ser-25-econom%C3%ADa-171332713.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Israel crece pese a la guerra: qué puede aprender Europa de su auge tecnológico",
+        "capturado": "2026-11-22T13:15:17-05:00"
+      },
+      {
+        "titulo": "El mandato de Pedro Sánchez avala alzas de sueldo a casi quince días de los comicios",
+        "url": "https://es.finance.yahoo.com/noticias/gobierno-pedro-s%C3%A1nchez-aprueba-sendas-153812552.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El Gobierno de Pedro Sánchez aprueba subidas salariales a menos de 2 semanas de las elecciones",
+        "capturado": "2026-11-22T13:15:17-05:00"
+      },
+      {
+        "titulo": "Tratativas climáticas de la COP31 van al fracaso y la UE junto a otros rechazan el pacto",
+        "url": "https://es.finance.yahoo.com/noticias/negociaciones-clima-cop31-marchan-fracaso-130919067.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Negociaciones sobre el clima de la COP31 marchan al fracaso, UE y otros rechazan el acuerdo",
+        "capturado": "2026-11-22T13:15:17-05:00"
+      },
+      {
+        "titulo": "Amazon y Alphabet elevan costo de asegurar pasivos y Wall Street teme por fondo de IA",
+        "url": "https://es.finance.yahoo.com/noticias/amazon-alphabet-disparan-coste-asegurar-060000788.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "Amazon y Alphabet disparan el coste de asegurar su deuda y Wall Street empieza a temer por la financiación de la IA",
+        "capturado": "2026-11-22T13:15:17-05:00"
+      },
+      {
+        "titulo": "Rubén García Páez de Columbia Threadneedle afirma que apostar por tecnología dará frutos",
+        "url": "https://es.finance.yahoo.com/noticias/rub%C3%A9n-garc%C3%ADa-p%C3%A1ez-columbia-threadneedle-050000370.html",
+        "resumen": "",
+        "medio": "Estrategias de inversión",
+        "titulo_fuente": "Rubén García Páez (Columbia Threadneedle) \"El que invierta en tecnología acabara ganando a largo plazo\"",
+        "capturado": "2026-11-22T13:15:17-05:00"
+      },
       {
         "titulo": "Suecia y Francia encabezan la transición europea hacia empleos basados en competencias",
         "url": "https://es.finance.yahoo.com/noticias/europa-prepara-contrataci%C3%B3n-basada-habilidades-060051193.html",
@@ -442,46 +482,6 @@
         "resumen": "",
         "medio": "Reuters",
         "titulo_fuente": "Producción mundial de vino se acerca a mínimos históricos por condiciones meteorológicas extremas",
-        "capturado": "2026-11-18T12:49:23-05:00"
-      },
-      {
-        "titulo": "En septiembre, el déficit comercial colombiano subió casi al doble por compras externas",
-        "url": "https://es.finance.yahoo.com/noticias/d%C3%A9ficit-comercial-colombia-duplica-septiembre-163801796.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Déficit comercial de Colombia casi se duplica en septiembre por el dinamismo de las importaciones",
-        "capturado": "2026-11-18T12:49:23-05:00"
-      },
-      {
-        "titulo": "Secretario de Seguridad Nacional afirma que Irán atacó instalaciones clave de EE.UU.",
-        "url": "https://es.finance.yahoo.com/noticias/ir%C3%A1n-atacado-infraestructura-cr%C3%ADtica-ee-160125126.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Irán ha atacado infraestructura crítica de EE.UU., dice secretario de Seguridad Nacional",
-        "capturado": "2026-11-18T12:49:23-05:00"
-      },
-      {
-        "titulo": "Inversionistas dejan apuestas en IA y el precio del cobre cae un 5 por ciento",
-        "url": "https://es.finance.yahoo.com/noticias/cobre-desploma-5-inversionistas-abandonan-153556719.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Cobre se desploma 5% mientras inversionistas abandonan apuesta por la IA",
-        "capturado": "2026-11-18T12:49:23-05:00"
-      },
-      {
-        "titulo": "Fuentes indican que drones redujeron casi a la mitad la refinación rusa en noviembre",
-        "url": "https://es.finance.yahoo.com/noticias/ataques-drones-reducen-mitad-refinaci%C3%B3n-153513049.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Ataques con drones reducen casi a la mitad la refinación de petróleo de Rusia en noviembre: fuentes",
-        "capturado": "2026-11-18T12:49:23-05:00"
-      },
-      {
-        "titulo": "Cal-Maine sacrificará 1,8 millones de aves en Florida tras hallar un caso de gripe aviar",
-        "url": "https://es.finance.yahoo.com/noticias/cal-maine-sacrificar%C3%A1-1-8-153301250.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Cal-Maine sacrificará 1,8 millones de aves en Florida tras detectar un caso de gripe aviar",
         "capturado": "2026-11-18T12:49:23-05:00"
       }
     ]
