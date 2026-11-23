@@ -1,9 +1,33 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-22T18:43:24-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-11-23T00:59:51-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "El desplome de las tecnológicas de IA pasa de Wall Street a Asia",
+        "url": "https://es.finance.yahoo.com/noticias/ca%C3%ADda-tecnol%C3%B3gicas-ligadas-ia-extiende-052014300.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "La caída de las tecnológicas ligadas a la IA se extiende desde Wall Street a Asia",
+        "capturado": "2026-11-23T00:59:51-05:00"
+      },
+      {
+        "titulo": "Seguidores de GTA 6 y Zelda Ocarina of Time se dan notas mínimas en Metacritic, mas en PlayStation Store GTA 6 roza 5 estrellas",
+        "url": "https://es-us.noticias.yahoo.com/fans-gta-6-zelda-ocarina-175405840.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Los fans de GTA 6 y de Zelda Ocarina of Time se atacan con notas en cero en Metacritic, pero en PlayStation Store GTA 6 roza las 5 estrellas",
+        "capturado": "2026-11-23T00:59:51-05:00"
+      },
+      {
+        "titulo": "Una versión no oficial de GTA 6 para PC generaría a Rockstar pérdidas de hasta 760 millones de dólares según informe",
+        "url": "https://es-us.noticias.yahoo.com/port-oficial-gta-6-pc-150740054.html",
+        "resumen": "",
+        "medio": "Tarreo",
+        "titulo_fuente": "Un port no oficial de GTA 6 para PC podría costarle a Rockstar hasta 760 millones de dólares, según un estudio sobre piratería",
+        "capturado": "2026-11-23T00:59:51-05:00"
+      },
       {
         "titulo": "Demoras momentáneas en vuelos de Delta en Atlanta por falla del sistema automatizado",
         "url": "https://es.finance.yahoo.com/noticias/vuelos-delta-sufren-breves-retrasos-213944050.html",
@@ -458,30 +482,6 @@
         "resumen": "",
         "medio": "MT Newswires",
         "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos mientras los inversores esperan la salida a bolsa de Anthropic tras el impacto de Nvidia en el sentimiento de riesgo y la publicación de las actas de la Reserva Federal a favor de una política monetaria más restrictiva.",
-        "capturado": "2026-11-18T18:56:08-05:00"
-      },
-      {
-        "titulo": "Entidad de control de datos en Hesse indaga fuga de 15 millones de documentos de Deutsche Bank",
-        "url": "https://es.finance.yahoo.com/noticias/regulador-datos-hesse-investiga-filtraci%C3%B3n-214539944.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El regulador de datos de Hesse investiga la filtración de 15 millones de archivos de Deutsche Bank",
-        "capturado": "2026-11-18T18:56:08-05:00"
-      },
-      {
-        "titulo": "Nación asegura acuerdos financieros y de inversión por 43.200 millones de dólares en gira por EE. UU.",
-        "url": "https://es.finance.yahoo.com/noticias/colombia-logra-compromisos-inversi%C3%B3n-financiamiento-204700862.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Colombia logra compromisos de inversión y financiamiento por 43.200 millones de dólares en ronda en EEUU",
-        "capturado": "2026-11-18T18:56:08-05:00"
-      },
-      {
-        "titulo": "Cotización de trigo, maíz y soya retrocede debido a la valorización de la divisa estadounidense",
-        "url": "https://es.finance.yahoo.com/noticias/futuros-trigo-ma%C3%ADz-soja-caen-193434453.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Los futuros del trigo, el maíz y la soja caen por el fortalecimiento del dólar",
         "capturado": "2026-11-18T18:56:08-05:00"
       }
     ]
