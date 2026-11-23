@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-23T00:59:51-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-11-23T12:55:50-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Blue Lagoon inicia cotización en el mercado accionario de Islandia con pérdidas",
+        "url": "https://es.finance.yahoo.com/noticias/blue-lagoon-debuta-bolsa-islandia-154027029.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Blue Lagoon debuta en la Bolsa de Islandia en números rojos",
+        "capturado": "2026-11-23T12:55:50-05:00"
+      },
+      {
+        "titulo": "Emmanuel Macron destina 350 millones de euros al sector aeronáutico galo",
+        "url": "https://es.finance.yahoo.com/noticias/macron-anuncia-350-millones-euros-162519841.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Emmanuel Macron anuncia 350 millones de euros para la industria aeronáutica francesa",
+        "capturado": "2026-11-23T12:55:50-05:00"
+      },
+      {
+        "titulo": "Plus Ultra cancela todos sus trayectos aéreos y pone en duda su continuidad",
+        "url": "https://es.finance.yahoo.com/noticias/plus-ultra-suspende-vuelos-deja-171141420.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "La aerolínea Plus Ultra suspende todos sus vuelos y deja en el aire su supervivencia",
+        "capturado": "2026-11-23T12:55:50-05:00"
+      },
+      {
+        "titulo": "Director del PMA señala que conflictos amenazan la asistencia alimentaria a 7,3 millones más",
+        "url": "https://es.finance.yahoo.com/noticias/jefe-pma-advierte-guerras-ponen-165723663.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Jefe del PMA advierte que guerras ponen en peligro ayuda alimentaria para 7,3 millones de personas más",
+        "capturado": "2026-11-23T12:55:50-05:00"
+      },
+      {
+        "titulo": "Nvidia devuelve el cargo de consejero delegado a Jensen Huang a menos de dos semanas de su renuncia",
+        "url": "https://es.finance.yahoo.com/noticias/nvidia-repone-jensen-huang-director-141538117.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Nvidia restituye a Jensen Huang como director ejecutivo menos de 2 semanas después de dimitir",
+        "capturado": "2026-11-23T12:55:50-05:00"
+      },
+      {
+        "titulo": "Compañías mexicanas anticipan mayor protección a pesar de las extorsiones",
+        "url": "https://es.finance.yahoo.com/noticias/empresas-m%C3%A9xico-prev%C3%A9n-seguridad-pese-160404735.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Empresas en México prevén más seguridad pese a extorsiones",
+        "capturado": "2026-11-23T12:55:50-05:00"
+      },
+      {
+        "titulo": "El máximo ejecutivo de Bolt señala el rezago europeo en robotaxis y bolsas",
+        "url": "https://es.finance.yahoo.com/noticias/ceo-bolt-alerta-europa-rezagada-145701341.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "El CEO de Bolt advierte del atraso de Europa en robotaxis y mercados de capitales",
+        "capturado": "2026-11-23T12:55:50-05:00"
+      },
+      {
+        "titulo": "Virginia y Oregón entablan demanda contra SpaceX por contenido de abuso generado por Grok",
+        "url": "https://es.finance.yahoo.com/noticias/virginia-oreg%C3%B3n-demandan-spacex-im%C3%A1genes-153453757.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Virginia y Oregón demandan a SpaceX por imágenes de abuso sexual infantil creadas por Grok",
+        "capturado": "2026-11-23T12:55:50-05:00"
+      },
       {
         "titulo": "El desplome de las tecnológicas de IA pasa de Wall Street a Asia",
         "url": "https://es.finance.yahoo.com/noticias/ca%C3%ADda-tecnol%C3%B3gicas-ligadas-ia-extiende-052014300.html",
@@ -419,70 +483,6 @@
         "medio": "Bloomberg",
         "titulo_fuente": "Europa recibe con cautela el optimismo de Trump sobre Putin y la paz en Ucrania",
         "capturado": "2026-11-19T17:59:35-05:00"
-      },
-      {
-        "titulo": "Bajan las bolsas de EE. UU. luego del estreno de Anthropic en el Nasdaq y avanza el crudo",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-192433139.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen tras el debut de Anthropic en el Nasdaq, mientras que el petróleo crudo sube.",
-        "capturado": "2026-11-19T17:59:35-05:00"
-      },
-      {
-        "titulo": "INDEC reporta saldo a favor de 3.394 millones de dólares en la balanza comercial argentina en octubre",
-        "url": "https://es.finance.yahoo.com/noticias/balanza-comercial-argentina-contabiliza-super%C3%A1vit-190651613.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Balanza comercial de Argentina contabiliza superávit de 3.394 million $ en octubre: INDEC",
-        "capturado": "2026-11-19T17:59:35-05:00"
-      },
-      {
-        "titulo": "Bolsa de Cereales reporta que recolección triguera argentina progresa con mejores rendimientos de los previstos",
-        "url": "https://es.finance.yahoo.com/noticias/cosecha-trigo-argentina-avanza-rindes-185639826.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Cosecha de trigo de Argentina avanza con rindes superiores a esperados: Bolsa Cereales",
-        "capturado": "2026-11-19T17:59:35-05:00"
-      },
-      {
-        "titulo": "Goolsbee señala que la Reserva Federal necesita impedir que el boom de IA sobrecaliente la economía",
-        "url": "https://es.finance.yahoo.com/noticias/fed-evitar-auge-ia-provoque-182923910.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "La Fed debe evitar que el auge de la IA provoque un sobrecalentamiento de la economía: Goolsbee",
-        "capturado": "2026-11-19T17:59:35-05:00"
-      },
-      {
-        "titulo": "El CIC reduce la estimación de la producción global de maíz para el ciclo 2026/27",
-        "url": "https://es.finance.yahoo.com/noticias/cic-baja-previsi%C3%B3n-cosecha-mundial-182542778.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "El CIC baja la previsión para la cosecha mundial de maíz de 2026/27",
-        "capturado": "2026-11-19T17:59:35-05:00"
-      },
-      {
-        "titulo": "Anthropic efectúa una OPI sin precedentes al tiempo que Nvidia atraviesa su peor racha desde 2008",
-        "url": "https://es.finance.yahoo.com/noticias/anthropic-debuta-bolsa-opv-ser-053157062.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Anthropic lanza una histórica OPV mientras Nvidia sufre su peor racha desde 2008",
-        "capturado": "2026-11-19T01:28:55-05:00"
-      },
-      {
-        "titulo": "BAE Systems proyecta recortar su personal en la oficina principal y en el área de aviación",
-        "url": "https://es.finance.yahoo.com/noticias/bae-systems-planea-reducir-plantilla-050007742.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "BAE Systems planea reducir su plantilla en la sede central y en la división aérea.",
-        "capturado": "2026-11-19T01:28:55-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE. UU. con comportamiento variado ante debut de Anthropic, efecto Nvidia y minutas de la Fed",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-221521260.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos mientras los inversores esperan la salida a bolsa de Anthropic tras el impacto de Nvidia en el sentimiento de riesgo y la publicación de las actas de la Reserva Federal a favor de una política monetaria más restrictiva.",
-        "capturado": "2026-11-18T18:56:08-05:00"
       }
     ]
   }
