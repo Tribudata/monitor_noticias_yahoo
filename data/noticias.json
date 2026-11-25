@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-25T02:14:29-05:00",
-  "nuevos_en_esta_corrida": 3,
+  "actualizado": "2026-11-25T13:06:12-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Indra busca liderar Defensa y espacio en Europa apuntando a 12.000 millones en facturación para 2030",
+        "url": "https://es.finance.yahoo.com/noticias/indra-lanza-liderar-defensa-espacio-170915830.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Indra se lanza a liderar la Defensa y el espacio en Europa con un plan para facturar 12.000 millones en 2030",
+        "capturado": "2026-11-25T13:06:12-05:00"
+      },
+      {
+        "titulo": "EE.UU. plantea nuevos aranceles a 14 socios comerciales, entre ellos la UE",
+        "url": "https://es.finance.yahoo.com/noticias/ee-uu-propone-aranceles-14-144324977.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "EE.UU. propone nuevos aranceles a 14 socios comerciales, incluida la UE",
+        "capturado": "2026-11-25T13:06:12-05:00"
+      },
+      {
+        "titulo": "Entidades bancarias detienen créditos para centros de datos tras limitaciones de EE.UU.",
+        "url": "https://es.finance.yahoo.com/noticias/bancos-frenan-pr%C3%A9stamos-centros-datos-163917057.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Bancos frenan préstamos para centros de datos tras restricciones de EE.UU.",
+        "capturado": "2026-11-25T13:06:12-05:00"
+      },
+      {
+        "titulo": "Trump establece nuevos y amplios aranceles a pesar de la derrota en las elecciones",
+        "url": "https://es.finance.yahoo.com/noticias/trump-dispone-imponer-aranceles-alcance-120848444.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Trump impone nuevos aranceles de gran alcance, pese a la derrota electoral",
+        "capturado": "2026-11-25T13:06:12-05:00"
+      },
+      {
+        "titulo": "EE.UU. alista nuevos aranceles a China y aumenta gravámenes a Brasil",
+        "url": "https://es.finance.yahoo.com/noticias/ee-uu-prepara-aranceles-china-161837928.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "EE.UU. prepara nuevos aranceles para China y eleva gravámenes a Brasil",
+        "capturado": "2026-11-25T13:06:12-05:00"
+      },
+      {
+        "titulo": "El consumo en Estados Unidos se frena al tiempo que avanza el costo de vida",
+        "url": "https://es.finance.yahoo.com/noticias/gasto-consumidor-ee-uu-estanca-155657671.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Gasto del consumidor en EE.UU. se estanca mientras inflación sube",
+        "capturado": "2026-11-25T13:06:12-05:00"
+      },
+      {
+        "titulo": "Octubre registra el punto más alto en diez meses para la venta de casas nuevas en EE.UU.",
+        "url": "https://es.finance.yahoo.com/noticias/ventas-viviendas-eeuu-alcanzan-octubre-155221512.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Las ventas de viviendas nuevas en EEUU alcanzan en octubre su máximo en 10 meses",
+        "capturado": "2026-11-25T13:06:12-05:00"
+      },
+      {
+        "titulo": "Bolsa de Nueva York retrocede fuertemente por incertidumbre en inteligencia artificial y va a deuda pública",
+        "url": "https://es.finance.yahoo.com/noticias/wall-street-cae-fuerza-dudas-114400314.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Wall Street cae con fuerza por dudas sobre la IA y busca refugio en bonos",
+        "capturado": "2026-11-25T13:06:12-05:00"
+      },
       {
         "titulo": "Remuneraciones promedio de jornada completa en Europa: naciones con mayores y menores pagos",
         "url": "https://es.finance.yahoo.com/noticias/salarios-medios-tiempo-completo-europa-055953356.html",
@@ -419,70 +483,6 @@
         "medio": "Tarreo",
         "titulo_fuente": "Descarga gratis el port para PC de Metroid Prime 4: Beyond, sin emulador, con FPS desbloqueados y jugable de principio a fin",
         "capturado": "2026-11-21T12:43:14-05:00"
-      },
-      {
-        "titulo": "NVIDIA admite que sus controladores dañaban los SSD con escritura constante y lo corrige con una actualización",
-        "url": "https://es-us.noticias.yahoo.com/nvidia-reconoce-drivers-escrib%C3%ADan-datos-231242081.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "NVIDIA reconoce que sus drivers escribían datos sin parar en tu SSD, incluso sin usar el PC, y lo soluciona con un nuevo driver",
-        "capturado": "2026-11-21T12:43:14-05:00"
-      },
-      {
-        "titulo": "Save Soil advierte que deterioro de la tierra costaría a la UE hasta 509.000 millones de euros",
-        "url": "https://es.finance.yahoo.com/noticias/save-soil-alerta-degradaci%C3%B3n-suelo-060027846.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Save Soil alerta: la degradación del suelo podría costar a la UE hasta 509.000 millones de euros",
-        "capturado": "2026-11-21T05:03:09-05:00"
-      },
-      {
-        "titulo": "Ejecutan GTA 6 en PC a 25 FPS con RTX 5080 usando archivos de CyberLeek y dudan de su veracidad",
-        "url": "https://es-us.noticias.yahoo.com/logran-correr-gta-6-pc-215018899.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Logran correr GTA 6 en PC a 25 FPS con una RTX 5080 con los archivos filtrados por CyberLeek, pero algunos dudan de su veracidad",
-        "capturado": "2026-11-21T05:03:09-05:00"
-      },
-      {
-        "titulo": "Fallos de autoguardado en GTA 6 borran horas de avance a miles de usuarios y streamers conocidos",
-        "url": "https://es-us.noticias.yahoo.com/gta-6-perder-horas-progreso-185253470.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "GTA 6 está haciendo perder horas de progreso a miles de jugadores, e incluso a streamers famosos, por fallas en su guardado automático",
-        "capturado": "2026-11-21T05:03:09-05:00"
-      },
-      {
-        "titulo": "El Dow Jones y el S&P 500 retroceden a zona de corrección al huir inversores a bonos por caída tecnológica",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-s-p-500-dow-214248463.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: El S&P 500 y el Dow Jones caen en territorio de corrección mientras los inversores buscan refugio en bonos del Tesoro en medio del desplome de las grandes tecnológicas.",
-        "capturado": "2026-11-20T21:00:36-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE. UU. caen por presión a chips y postura de la Fed ante la llegada de Anthropic al Nasdaq",
-        "url": "https://es.finance.yahoo.com/noticias/%C3%ADndices-burs%C3%A1tiles-estadounidenses-desploman-nubes-212255403.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los índices bursátiles estadounidenses se desploman mientras las nubes que se ciernen sobre los fabricantes de chips y la postura restrictiva de la Reserva Federal pesan sobre el debut de Anthropic en el Nasdaq esta semana.",
-        "capturado": "2026-11-20T21:00:36-05:00"
-      },
-      {
-        "titulo": "Tesla inaugura su primer concesionario argentino y avanza en su crecimiento regional",
-        "url": "https://es.finance.yahoo.com/noticias/tesla-abre-concesionaria-argentina-profundiza-200234437.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Tesla abre primera concesionaria en Argentina y profundiza expansión en Latinoamérica",
-        "capturado": "2026-11-20T15:56:14-05:00"
-      },
-      {
-        "titulo": "La canadiense Ensign prevé aumentar sus taladros de perforación en territorio venezolano",
-        "url": "https://es.finance.yahoo.com/noticias/canadiense-ensign-planea-ampliar-n%C3%BAmero-192629239.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Canadiense Ensign planea ampliar número de equipos de perforación en Venezuela",
-        "capturado": "2026-11-20T15:56:14-05:00"
       }
     ]
   }
