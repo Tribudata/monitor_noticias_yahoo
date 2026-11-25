@@ -1,9 +1,33 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-24T18:46:28-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-11-25T02:14:29-05:00",
+  "nuevos_en_esta_corrida": 3,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Remuneraciones promedio de jornada completa en Europa: naciones con mayores y menores pagos",
+        "url": "https://es.finance.yahoo.com/noticias/salarios-medios-tiempo-completo-europa-055953356.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Salarios medios a tiempo completo en Europa: qué países pagan más y menos",
+        "capturado": "2026-11-25T02:14:29-05:00"
+      },
+      {
+        "titulo": "Berenberg anticipa inversión de Enagás en hidrógeno desde 2029 y ratifica concepto de retener",
+        "url": "https://es.finance.yahoo.com/noticias/berenberg-prev%C3%A9-enag%C3%A1s-invierta-hidr%C3%B3geno-041149660.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Berenberg prevé que Enagás invierta en hidrógeno a partir de 2029; se confirma la recomendación de \"mantener\".",
+        "capturado": "2026-11-25T02:14:29-05:00"
+      },
+      {
+        "titulo": "Creadores de xAI presentan Epochal para crear IA con capacidad de anticipar eventos futuros",
+        "url": "https://es.finance.yahoo.com/noticias/fundadores-xai-lanzan-epochal-desarrollar-191103224.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Fundadores de xAI lanzan Epochal para desarrollar IA capaz de predecir el futuro",
+        "capturado": "2026-11-25T02:14:29-05:00"
+      },
       {
         "titulo": "Wall Street muestra tendencia dispar mientras capitales buscan refugio ante enfriamiento de la IA",
         "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-224038441.html",
@@ -458,30 +482,6 @@
         "resumen": "",
         "medio": "Reuters",
         "titulo_fuente": "Canadiense Ensign planea ampliar número de equipos de perforación en Venezuela",
-        "capturado": "2026-11-20T15:56:14-05:00"
-      },
-      {
-        "titulo": "Fujimori señala que Perú dejó atrás etapa difícil y convoca a inversores japoneses",
-        "url": "https://es.finance.yahoo.com/noticias/fujimori-afirma-per%C3%BA-super%C3%B3-periodo-184724988.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Fujimori afirma que Perú superó \"periodo traumático\" y pide en Japón invertir en el país",
-        "capturado": "2026-11-20T15:56:14-05:00"
-      },
-      {
-        "titulo": "Trump sostiene que Estados Unidos penalizará a firmas nacionales que hagan centros de datos fuera",
-        "url": "https://es.finance.yahoo.com/noticias/trump-afirma-eeuu-sancionar%C3%A1-empresas-184659794.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Trump afirma que EEUU sancionará a empresas locales que construyan centros de datos en el extranjero",
-        "capturado": "2026-11-20T15:56:14-05:00"
-      },
-      {
-        "titulo": "Bolsas de EE UU bajan y Anthropic encabeza desplome tecnológico a la par de tasas de bonos",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-caen-183415516.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses caen mientras Anthropic lidera el desplome de las grandes tecnológicas en medio de la caída de los rendimientos de los bonos del Tesoro.",
         "capturado": "2026-11-20T15:56:14-05:00"
       }
     ]
