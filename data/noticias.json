@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-26T05:30:05-05:00",
+  "actualizado": "2026-11-26T14:46:56-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Bolsa de Cereales advierte posible incremento en cálculo de cosecha triguera argentina",
+        "url": "https://es.finance.yahoo.com/noticias/bolsa-cereales-subir-estimaci%C3%B3n-cosecha-185252204.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Bolsa de Cereales dice que podría subir su estimación de cosecha trigo de Argentina",
+        "capturado": "2026-11-26T14:46:56-05:00"
+      },
+      {
+        "titulo": "Retiran personal de refinería Amuay en Venezuela tras conflagración sin lesionados",
+        "url": "https://es.finance.yahoo.com/noticias/evac%C3%BAan-trabajadores-refiner%C3%ADa-venezolana-amuay-180322228.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Evacúan trabajadores de refinería venezolana Amuay por incendio, no se reportan heridos",
+        "capturado": "2026-11-26T14:46:56-05:00"
+      },
+      {
+        "titulo": "Motivos por los que Argentina cae en recesión técnica a pesar de las reformas de Milei",
+        "url": "https://es.finance.yahoo.com/noticias/argentina-entrado-recesi%C3%B3n-t%C3%A9cnica-pese-172246671.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "¿Por qué Argentina ha entrado en recesión técnica pese a las reformas económicas de Milei?",
+        "capturado": "2026-11-26T14:46:56-05:00"
+      },
+      {
+        "titulo": "Cobre rebota desde su piso anual en medio de la volatilidad y dudas sobre inteligencia artificial",
+        "url": "https://es.finance.yahoo.com/noticias/cobre-repunta-m%C3%ADnimo-a%C3%B1o-volatilidad-172231837.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Cobre repunta desde mínimo del año ante volatilidad y dudas sobre la IA",
+        "capturado": "2026-11-26T14:46:56-05:00"
+      },
+      {
+        "titulo": "SAP proyecta despido de al menos 10.000 trabajadores para adaptar su modelo a la era de IA",
+        "url": "https://es.finance.yahoo.com/noticias/sap-prepara-recorte-10-000-165432040.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "SAP prepara recorte de al menos 10.000 empleos para transformar su negocio en era de IA",
+        "capturado": "2026-11-26T14:46:56-05:00"
+      },
+      {
+        "titulo": "Trump pide investigar cifras del PIB dadas a conocer previo a los comicios de mitad de periodo",
+        "url": "https://es.finance.yahoo.com/noticias/trump-exige-investiguen-datos-pib-163318056.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Trump exige que se investiguen datos del PIB publicados antes de las elecciones de mitad de mandato",
+        "capturado": "2026-11-26T14:46:56-05:00"
+      },
+      {
+        "titulo": "Sheinbaum señala intromisión de la DEA por habilitar canal de reportes contra los carteles",
+        "url": "https://es.finance.yahoo.com/noticias/sheinbaum-acusa-injerencia-dea-l%C3%ADnea-163313921.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Sheinbaum acusa de “injerencia” a la DEA por su línea de denuncias anticárteles",
+        "capturado": "2026-11-26T14:46:56-05:00"
+      },
+      {
+        "titulo": "Funcionarios del BCE anticipan nuevos recortes frente a un panorama inflacionario más adverso",
+        "url": "https://es.finance.yahoo.com/noticias/miembros-bce-prev%C3%A9n-ajustes-peores-162203143.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Miembros del BCE prevén más ajustes ante peores perspectivas de inflación",
+        "capturado": "2026-11-26T14:46:56-05:00"
+      },
       {
         "titulo": "Comicios adelantados en España: cinco dudas esenciales para las bolsas",
         "url": "https://es.finance.yahoo.com/noticias/elecciones-anticipadas-espa%C3%B1a-preguntas-clave-101612467.html",
@@ -419,70 +483,6 @@
         "medio": "Tarreo",
         "titulo_fuente": "Un port no oficial de GTA 6 para PC podría costarle a Rockstar hasta 760 millones de dólares, según un estudio sobre piratería",
         "capturado": "2026-11-23T00:59:51-05:00"
-      },
-      {
-        "titulo": "Demoras momentáneas en vuelos de Delta en Atlanta por falla del sistema automatizado",
-        "url": "https://es.finance.yahoo.com/noticias/vuelos-delta-sufren-breves-retrasos-213944050.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Vuelos de Delta sufren breves retrasos en aeropuerto de Atlanta por problema con sistema automatizado",
-        "capturado": "2026-11-22T18:43:24-05:00"
-      },
-      {
-        "titulo": "Insurgentes hutíes de Yemen afirman haber atacado refinería petrolera saudí de Rabigh",
-        "url": "https://es.finance.yahoo.com/noticias/hut%C3%ADes-yemen-atacaron-refiner%C3%ADa-petr%C3%B3leo-193525490.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Los hutíes de Yemen dicen que atacaron la refinería de petróleo saudita de Rabigh",
-        "capturado": "2026-11-22T18:43:24-05:00"
-      },
-      {
-        "titulo": "Bloom Energy asegura que la inteligencia artificial no requiere esperar años por energía",
-        "url": "https://es.finance.yahoo.com/noticias/exclusiva-ia-necesita-esperar-a%C3%B1os-170009442.html",
-        "resumen": "",
-        "medio": "Benzinga Espana",
-        "titulo_fuente": "EXCLUSIVA: La IA no necesita esperar años a la red eléctrica, según Bloom Energy",
-        "capturado": "2026-11-22T18:43:24-05:00"
-      },
-      {
-        "titulo": "Podrá Nvidia evadir el destino tipo Ícaro que experimentó Cisco post burbuja puntocom",
-        "url": "https://es.finance.yahoo.com/noticias/nvidia-escapar-efecto-%C3%ADcaro-sufri%C3%B3-150007775.html",
-        "resumen": "",
-        "medio": "Benzinga Espana",
-        "titulo_fuente": "¿Puede Nvidia escapar del efecto Ícaro que sufrió Cisco tras la burbuja puntocom?",
-        "capturado": "2026-11-22T18:43:24-05:00"
-      },
-      {
-        "titulo": "SpaceX destina 32000 millones de dólares para adquirir chips de Nvidia",
-        "url": "https://es.finance.yahoo.com/noticias/spacex-financia-32-000-m-140009233.html",
-        "resumen": "",
-        "medio": "Benzinga Espana",
-        "titulo_fuente": "SpaceX financia 32.000 M$ en chips de Nvidia",
-        "capturado": "2026-11-22T18:43:24-05:00"
-      },
-      {
-        "titulo": "Israel crece a pesar del conflicto y Europa analiza lecciones de su desarrollo tecnológico",
-        "url": "https://es.finance.yahoo.com/noticias/israel-encamina-ser-25-econom%C3%ADa-171332713.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Israel crece pese a la guerra: qué puede aprender Europa de su auge tecnológico",
-        "capturado": "2026-11-22T13:15:17-05:00"
-      },
-      {
-        "titulo": "El mandato de Pedro Sánchez avala alzas de sueldo a casi quince días de los comicios",
-        "url": "https://es.finance.yahoo.com/noticias/gobierno-pedro-s%C3%A1nchez-aprueba-sendas-153812552.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El Gobierno de Pedro Sánchez aprueba subidas salariales a menos de 2 semanas de las elecciones",
-        "capturado": "2026-11-22T13:15:17-05:00"
-      },
-      {
-        "titulo": "Tratativas climáticas de la COP31 van al fracaso y la UE junto a otros rechazan el pacto",
-        "url": "https://es.finance.yahoo.com/noticias/negociaciones-clima-cop31-marchan-fracaso-130919067.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Negociaciones sobre el clima de la COP31 marchan al fracaso, UE y otros rechazan el acuerdo",
-        "capturado": "2026-11-22T13:15:17-05:00"
       }
     ]
   }
