@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-25T20:53:55-05:00",
+  "actualizado": "2026-11-26T05:30:05-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Comicios adelantados en España: cinco dudas esenciales para las bolsas",
+        "url": "https://es.finance.yahoo.com/noticias/elecciones-anticipadas-espa%C3%B1a-preguntas-clave-101612467.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Elecciones anticipadas en España: cinco preguntas clave para los mercados financieros",
+        "capturado": "2026-11-26T05:30:05-05:00"
+      },
+      {
+        "titulo": "El costo de las normas sociales de Sánchez: el reto fiscal que deja el 29N",
+        "url": "https://es.finance.yahoo.com/noticias/factura-decretos-sociales-s%C3%A1nchez-desaf%C3%ADo-101239018.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "La factura de los decretos sociales de Sánchez: el desafío fiscal que deja el 29N",
+        "capturado": "2026-11-26T05:30:05-05:00"
+      },
+      {
+        "titulo": "La aerolínea Norse Atlantic avisa peligro de quiebra tras frenar sus viajes",
+        "url": "https://es.finance.yahoo.com/noticias/aerol%C3%ADnea-norse-atlantic-advierte-riesgo-100452250.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "La aerolínea Norse Atlantic advierte del riesgo de quiebra tras suspender sus vuelos",
+        "capturado": "2026-11-26T05:30:05-05:00"
+      },
+      {
+        "titulo": "Costa busca arrimar a los jefes de la UE a un pacto de presupuesto, a pesar de reparos",
+        "url": "https://es.finance.yahoo.com/noticias/costa-pretende-acercar-l%C3%ADderes-ue-094731103.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Costa pretende acercar a los líderes de la UE a un acuerdo presupuestario, pese a las objeciones",
+        "capturado": "2026-11-26T05:30:05-05:00"
+      },
+      {
+        "titulo": "Madrid, Lisboa y Barcelona están entre las diez urbes de Europa más apetecidas por capitales para 2027",
+        "url": "https://es.finance.yahoo.com/noticias/madrid-lisboa-barcelona-destacan-10-070649211.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Madrid, Lisboa y Barcelona figuran entre las diez ciudades europeas más buscadas por los inversores para 2027",
+        "capturado": "2026-11-26T05:30:05-05:00"
+      },
+      {
+        "titulo": "La inequidad en la riqueza influye fuertemente en las elecciones de España",
+        "url": "https://es.finance.yahoo.com/noticias/reparto-desigual-prosperidad-econ%C3%B3mica-factor-074947109.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "El reparto desigual de la prosperidad económica, un factor de peso en las elecciones en España",
+        "capturado": "2026-11-26T05:30:05-05:00"
+      },
+      {
+        "titulo": "UniCredit recibe la aprobación final polaca para ir por Commerzbank",
+        "url": "https://es.finance.yahoo.com/noticias/unicredit-logra-visto-polonia-oferta-073539877.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "UniCredit logra el último visto bueno de Polonia para su oferta por Commerzbank",
+        "capturado": "2026-11-26T05:30:05-05:00"
+      },
+      {
+        "titulo": "Mandatarios europeos discuten presupuesto al 2034 y fondos para Ucrania",
+        "url": "https://es.finance.yahoo.com/noticias/l%C3%ADderes-ue-debaten-presupuesto-2034-070643295.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Los líderes de la UE debaten el presupuesto a 2034 y la financiación para Ucrania",
+        "capturado": "2026-11-26T05:30:05-05:00"
+      },
       {
         "titulo": "Colombia rechaza su entrada al bloque BRICS y al Nuevo Banco de Desarrollo",
         "url": "https://es.finance.yahoo.com/noticias/colombia-descarta-ingreso-grupo-brics-000756843.html",
@@ -419,70 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Negociaciones sobre el clima de la COP31 marchan al fracaso, UE y otros rechazan el acuerdo",
         "capturado": "2026-11-22T13:15:17-05:00"
-      },
-      {
-        "titulo": "Amazon y Alphabet elevan costo de asegurar pasivos y Wall Street teme por fondo de IA",
-        "url": "https://es.finance.yahoo.com/noticias/amazon-alphabet-disparan-coste-asegurar-060000788.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "Amazon y Alphabet disparan el coste de asegurar su deuda y Wall Street empieza a temer por la financiación de la IA",
-        "capturado": "2026-11-22T13:15:17-05:00"
-      },
-      {
-        "titulo": "Rubén García Páez de Columbia Threadneedle afirma que apostar por tecnología dará frutos",
-        "url": "https://es.finance.yahoo.com/noticias/rub%C3%A9n-garc%C3%ADa-p%C3%A1ez-columbia-threadneedle-050000370.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "Rubén García Páez (Columbia Threadneedle) \"El que invierta en tecnología acabara ganando a largo plazo\"",
-        "capturado": "2026-11-22T13:15:17-05:00"
-      },
-      {
-        "titulo": "Suecia y Francia encabezan la transición europea hacia empleos basados en competencias",
-        "url": "https://es.finance.yahoo.com/noticias/europa-prepara-contrataci%C3%B3n-basada-habilidades-060051193.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Europa se prepara para la contratación basada en habilidades: Suecia y Francia lideran",
-        "capturado": "2026-11-22T05:46:35-05:00"
-      },
-      {
-        "titulo": "Descarga gratuita del port para PC de Hyrule Warriors Age of Calamity en 4K y sin emulador",
-        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-port-pc-hyrule-213344058.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Descarga gratis el port para PC de Hyrule Warriors Age of Calamity, sin emulador, en 4K, con DLSS, cooperativo y todos sus DLC",
-        "capturado": "2026-11-22T05:46:35-05:00"
-      },
-      {
-        "titulo": "Costos de tarjetas gráficas, RAM y SSD descenderían en 2027 por menor demanda de IA",
-        "url": "https://es-us.noticias.yahoo.com/tarjetas-gr%C3%A1ficas-ram-ssd-bajar%C3%ADan-205442932.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Tarjetas gráficas, la RAM y los SSD bajarían de precio en 2027 porque los centros de datos para IA están comprando menos",
-        "capturado": "2026-11-22T05:46:35-05:00"
-      },
-      {
-        "titulo": "Autor del port para PC del remake de Zelda Ocarina of Time trabaja en el de GTA 6",
-        "url": "https://es-us.noticias.yahoo.com/creador-port-pc-remake-zelda-185546095.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Creador del port para PC del remake de Zelda Ocarina of Time está haciendo el de GTA 6, y solo le falta el ejecutable para que arranque",
-        "capturado": "2026-11-22T05:46:35-05:00"
-      },
-      {
-        "titulo": "Industria local rindió homenaje a los creadores chilenos de videojuegos en pleno auge de GTA 6",
-        "url": "https://es-us.noticias.yahoo.com/medio-locura-gta-6-industria-181243799.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "En medio de la locura por GTA 6, la industria nacional celebró a los desarrolladores chilenos de videojuegos",
-        "capturado": "2026-11-22T05:46:35-05:00"
-      },
-      {
-        "titulo": "El código CE-108255-1 congela GTA 6 en PS5, reinstalar falla y apuntan al metal líquido",
-        "url": "https://es-us.noticias.yahoo.com/gta-6-cierra-ps5-error-151358005.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "GTA 6 se cierra una y otra vez en PS5 con el error CE-108255-1, reinstalar no sirve de nada y el principal sospechoso es el metal líquido de la consola",
-        "capturado": "2026-11-22T05:46:35-05:00"
       }
     ]
   }
