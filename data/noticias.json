@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-25T13:06:12-05:00",
+  "actualizado": "2026-11-25T20:53:55-05:00",
   "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Colombia rechaza su entrada al bloque BRICS y al Nuevo Banco de Desarrollo",
+        "url": "https://es.finance.yahoo.com/noticias/colombia-descarta-ingreso-grupo-brics-000756843.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Colombia descarta ingreso al Grupo de los BRICS y al Nuevo Banco de Desarrollo",
+        "capturado": "2026-11-25T20:53:55-05:00"
+      },
+      {
+        "titulo": "Venezuela sella alianza estratégica de energía eléctrica junto a Omterra",
+        "url": "https://es.finance.yahoo.com/noticias/venezuela-firma-alianza-estrat%C3%A9gica-materia-225841316.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Venezuela firma \"alianza estratégica\" en materia eléctrica con Omterra",
+        "capturado": "2026-11-25T20:53:55-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE UU con datos mixtos y bonos a la baja por salida de inversores de firmas de chips ante aranceles",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-213222824.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos, los rendimientos de los bonos del Tesoro caen a medida que los inversores retiran sus inversiones de los fabricantes de chips mientras evalúan los aranceles comerciales.",
+        "capturado": "2026-11-25T20:53:55-05:00"
+      },
+      {
+        "titulo": "Inversionista Michael Burry adopta postura casi 100 por ciento alcista tras caída de acciones tecnológicas",
+        "url": "https://es.finance.yahoo.com/noticias/inversor-michael-burry-queda-totalmente-190815082.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "Inversor Michael Burry queda casi totalmente alcista tras desplome de acciones tecnológicas",
+        "capturado": "2026-11-25T20:53:55-05:00"
+      },
+      {
+        "titulo": "SpaceX continúa con su proyecto de un millón de satélites destinados a centros de datos de inteligencia artificial",
+        "url": "https://es.finance.yahoo.com/noticias/spacex-avanza-plan-mill%C3%B3n-sat%C3%A9lites-190507952.html",
+        "resumen": "",
+        "medio": "Bloomberg",
+        "titulo_fuente": "SpaceX avanza con su plan de un millón de satélites para centros de datos de IA",
+        "capturado": "2026-11-25T20:53:55-05:00"
+      },
+      {
+        "titulo": "Bolsas de EE. UU. con comportamiento variado y baja en tasas del Tesoro tras venta masiva de chips",
+        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-184032781.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos, mientras que los rendimientos de los bonos del Tesoro caen en medio de una fuerte venta masiva en el sector de los fabricantes de chips.",
+        "capturado": "2026-11-25T20:53:55-05:00"
+      },
+      {
+        "titulo": "EE. UU. da vía libre a SpaceX para lanzar un millón de satélites para centros de datos espaciales",
+        "url": "https://es.finance.yahoo.com/noticias/eeuu-autoriza-spacex-%C3%B3rbita-mill%C3%B3n-181450644.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "EEUU autoriza a SpaceX a poner en órbita un millón de satélites para centros de datos en el espacio",
+        "capturado": "2026-11-25T20:53:55-05:00"
+      },
+      {
+        "titulo": "ETF retroceden a la par de la caída en la bolsa estadounidense tras el mediodía",
+        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-bajan-medida-181148697.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "Los fondos cotizados en bolsa bajan a medida que las acciones estadounidenses caen después del mediodía.",
+        "capturado": "2026-11-25T20:53:55-05:00"
+      },
       {
         "titulo": "Indra busca liderar Defensa y espacio en Europa apuntando a 12.000 millones en facturación para 2030",
         "url": "https://es.finance.yahoo.com/noticias/indra-lanza-liderar-defensa-espacio-170915830.html",
@@ -419,70 +483,6 @@
         "medio": "Tarreo",
         "titulo_fuente": "GTA 6 se cierra una y otra vez en PS5 con el error CE-108255-1, reinstalar no sirve de nada y el principal sospechoso es el metal líquido de la consola",
         "capturado": "2026-11-22T05:46:35-05:00"
-      },
-      {
-        "titulo": "GTA 6 supera la barrera de 30 FPS y llega a más de 60 en Xbox Series X mediante el truco del Quick Resume",
-        "url": "https://es-us.noticias.yahoo.com/gta-6-rompe-l%C3%ADmite-30-143331271.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "GTA 6 rompe el límite de 30 FPS y corre a más de 60 en Xbox Series X con un truco del Quick Resume",
-        "capturado": "2026-11-21T21:50:45-05:00"
-      },
-      {
-        "titulo": "Es posible ejecutar GTA 6 en una PS4 pirateada pese a que PlayStation afirma que jamás saldrá allí",
-        "url": "https://es-us.noticias.yahoo.com/gta-6-jugar-ps4-desbloqueada-140505374.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "GTA 6 se puede jugar en una PS4 desbloqueada, aunque PlayStation asegura que el juego nunca llegará a esa consola",
-        "capturado": "2026-11-21T21:50:45-05:00"
-      },
-      {
-        "titulo": "Real Madrid lidera facturación sobre Bayern Múnich y alcanza récord con 1.221 millones de euros",
-        "url": "https://es.finance.yahoo.com/noticias/real-madrid-supera-bayern-m%C3%BAnich-165244719.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "El Real Madrid supera al Bayern de Múnich en ingresos y marca otro récord: 1.221 millones de euros",
-        "capturado": "2026-11-21T12:43:14-05:00"
-      },
-      {
-        "titulo": "Benjamin Cowen vaticina posible piso de 40.000 dólares para el precio de Bitcoin",
-        "url": "https://es.finance.yahoo.com/noticias/40-000-d%C3%B3lares-suelo-benjamin-130007932.html",
-        "resumen": "",
-        "medio": "Benzinga Espana",
-        "titulo_fuente": "40.000 dólares: el suelo que Benjamin Cowen no descarta para Bitcoin",
-        "capturado": "2026-11-21T12:43:14-05:00"
-      },
-      {
-        "titulo": "Motivos por los cuales la recuperación de Starship reduciría costos de centros de datos espaciales",
-        "url": "https://es.finance.yahoo.com/noticias/captura-starship-abaratar-centros-datos-100009440.html",
-        "resumen": "",
-        "medio": "Benzinga Espana",
-        "titulo_fuente": "Por qué la captura de Starship podría abaratar los centros de datos en órbita",
-        "capturado": "2026-11-21T12:43:14-05:00"
-      },
-      {
-        "titulo": "Apple presenta balances financieros enfocada en ventas del iPhone y su impacto bursátil",
-        "url": "https://es.finance.yahoo.com/noticias/apple-afronta-resultados-atenci%C3%B3n-puesta-060000057.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "Apple afronta sus resultados con la atención puesta en el iPhone: qué cifras pueden mover su cotización",
-        "capturado": "2026-11-21T12:43:14-05:00"
-      },
-      {
-        "titulo": "Que vuelvan pronto los emigrantes…♬♬♬",
-        "url": "https://es.finance.yahoo.com/noticias/vuelvan-pronto-emigrantes-050000106.html",
-        "resumen": "",
-        "medio": "Estrategias de inversión",
-        "titulo_fuente": "Que vuelvan pronto los emigrantes…♬♬♬",
-        "capturado": "2026-11-21T12:43:14-05:00"
-      },
-      {
-        "titulo": "Consigue sin costo la versión para computador de Metroid Prime 4 Beyond completa, directa y sin emulador",
-        "url": "https://es-us.noticias.yahoo.com/descarga-gratis-port-pc-metroid-000548858.html",
-        "resumen": "",
-        "medio": "Tarreo",
-        "titulo_fuente": "Descarga gratis el port para PC de Metroid Prime 4: Beyond, sin emulador, con FPS desbloqueados y jugable de principio a fin",
-        "capturado": "2026-11-21T12:43:14-05:00"
       }
     ]
   }
