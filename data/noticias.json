@@ -1,9 +1,73 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-26T21:40:24-05:00",
-  "nuevos_en_esta_corrida": 5,
+  "actualizado": "2026-11-27T06:48:55-05:00",
+  "nuevos_en_esta_corrida": 8,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Francia cae en recesión técnica al actualizarse los datos trimestrales",
+        "url": "https://es.finance.yahoo.com/noticias/francia-entra-recesi%C3%B3n-t%C3%A9cnica-revisiones-114213078.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Francia entra en recesión técnica tras las revisiones trimestrales",
+        "capturado": "2026-11-27T06:48:55-05:00"
+      },
+      {
+        "titulo": "Fontes indican que la OPEP+ mantendría las metas de bombeo de crudo",
+        "url": "https://es.finance.yahoo.com/noticias/opep-encamina-mantener-cambios-objetivos-112811225.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "OPEP+ se encamina a mantener sin cambios sus objetivos de producción petrolera: fuentes",
+        "capturado": "2026-11-27T06:48:55-05:00"
+      },
+      {
+        "titulo": "Wall Street sube antes de abrir por optimismo tecnológico; alzas en Asia y Europa",
+        "url": "https://es.finance.yahoo.com/noticias/renovado-optimismo-tecnol%C3%B3gico-impulsa-wall-111258337.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "El renovado optimismo tecnológico impulsa a Wall Street antes de la apertura; Asia y Europa registran subidas.",
+        "capturado": "2026-11-27T06:48:55-05:00"
+      },
+      {
+        "titulo": "Agencia estatal señala que ventas de crudo iraquí sin pasar por SOMO son ilegalidad",
+        "url": "https://es.finance.yahoo.com/noticias/irak-exportaciones-petroleras-eluden-somo-110804694.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Irak dice que exportaciones petroleras que eluden a SOMO son contrabando: agencia estatal noticias",
+        "capturado": "2026-11-27T06:48:55-05:00"
+      },
+      {
+        "titulo": "SAP planea suprimir mínimo 10000 puestos debido a la IA, reporta Bloomberg",
+        "url": "https://es.finance.yahoo.com/noticias/sap-estudia-recortar-10-000-103923890.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "SAP estudia recortar al menos 10.000 empleos por el auge de la IA, según Bloomberg",
+        "capturado": "2026-11-27T06:48:55-05:00"
+      },
+      {
+        "titulo": "Jefes de Estado de Europa apoyan a Hernández de Cos para relevar a Lagarde en la dirección del BCE",
+        "url": "https://es.finance.yahoo.com/noticias/l%C3%ADderes-europeos-respaldan-hern%C3%A1ndez-cos-092031105.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Los líderes europeos respaldan a Hernández de Cos para suceder a Lagarde al frente del BCE",
+        "capturado": "2026-11-27T06:48:55-05:00"
+      },
+      {
+        "titulo": "En noviembre, la inflación en España y Francia baja más de lo previsto por la caída energética",
+        "url": "https://es.finance.yahoo.com/noticias/inflaci%C3%B3n-noviembre-modera-esperado-francia-102553221.html",
+        "resumen": "",
+        "medio": "MT Newswires",
+        "titulo_fuente": "La inflación de noviembre se modera más de lo esperado en Francia y España debido a la desaceleración del crecimiento de los precios de la energía.",
+        "capturado": "2026-11-27T06:48:55-05:00"
+      },
+      {
+        "titulo": "El IPC de Francia desciende al 2,9% en noviembre debido al desplome en las tarifas energéticas",
+        "url": "https://es.finance.yahoo.com/noticias/francia-inflaci%C3%B3n-frena-2-9-092518489.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Francia: la inflación se frena al 2,9% en noviembre por la fuerte caída de los precios de la energía",
+        "capturado": "2026-11-27T06:48:55-05:00"
+      },
       {
         "titulo": "Fuente afirma que el jefe del consejo directivo de Bradesco acepta propuesta de Lula como ministro",
         "url": "https://es.finance.yahoo.com/noticias/presidente-consejo-administraci%C3%B3n-bradesco-acepta-215816027.html",
@@ -419,70 +483,6 @@
         "medio": "Reuters",
         "titulo_fuente": "Trump considera a Huang, de Nvidia, como un defensor de los modelos de IA de peso abierto: fuentes",
         "capturado": "2026-11-23T22:52:18-05:00"
-      },
-      {
-        "titulo": "Wall Street sube con fuerza tras el regreso de Jensen Huang como CEO de Nvidia que impulsa la IA",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-disparan-182720662.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses se disparan tras la decisión de Nvidia de restituir a Jensen Huang como CEO, lo que impulsa el comercio de IA.",
-        "capturado": "2026-11-23T22:52:18-05:00"
-      },
-      {
-        "titulo": "Aumentan los fondos cotizados en bolsa conforme los títulos estadounidenses suben pasada la media jornada",
-        "url": "https://es.finance.yahoo.com/noticias/fondos-cotizados-bolsa-suben-medida-181225130.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Los fondos cotizados en bolsa suben a medida que las acciones estadounidenses avanzan después del mediodía.",
-        "capturado": "2026-11-23T22:52:18-05:00"
-      },
-      {
-        "titulo": "Blue Lagoon inicia cotización en el mercado accionario de Islandia con pérdidas",
-        "url": "https://es.finance.yahoo.com/noticias/blue-lagoon-debuta-bolsa-islandia-154027029.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Blue Lagoon debuta en la Bolsa de Islandia en números rojos",
-        "capturado": "2026-11-23T12:55:50-05:00"
-      },
-      {
-        "titulo": "Emmanuel Macron destina 350 millones de euros al sector aeronáutico galo",
-        "url": "https://es.finance.yahoo.com/noticias/macron-anuncia-350-millones-euros-162519841.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Emmanuel Macron anuncia 350 millones de euros para la industria aeronáutica francesa",
-        "capturado": "2026-11-23T12:55:50-05:00"
-      },
-      {
-        "titulo": "Plus Ultra cancela todos sus trayectos aéreos y pone en duda su continuidad",
-        "url": "https://es.finance.yahoo.com/noticias/plus-ultra-suspende-vuelos-deja-171141420.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "La aerolínea Plus Ultra suspende todos sus vuelos y deja en el aire su supervivencia",
-        "capturado": "2026-11-23T12:55:50-05:00"
-      },
-      {
-        "titulo": "Director del PMA señala que conflictos amenazan la asistencia alimentaria a 7,3 millones más",
-        "url": "https://es.finance.yahoo.com/noticias/jefe-pma-advierte-guerras-ponen-165723663.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Jefe del PMA advierte que guerras ponen en peligro ayuda alimentaria para 7,3 millones de personas más",
-        "capturado": "2026-11-23T12:55:50-05:00"
-      },
-      {
-        "titulo": "Nvidia devuelve el cargo de consejero delegado a Jensen Huang a menos de dos semanas de su renuncia",
-        "url": "https://es.finance.yahoo.com/noticias/nvidia-repone-jensen-huang-director-141538117.html",
-        "resumen": "",
-        "medio": "Euronews",
-        "titulo_fuente": "Nvidia restituye a Jensen Huang como director ejecutivo menos de 2 semanas después de dimitir",
-        "capturado": "2026-11-23T12:55:50-05:00"
-      },
-      {
-        "titulo": "Compañías mexicanas anticipan mayor protección a pesar de las extorsiones",
-        "url": "https://es.finance.yahoo.com/noticias/empresas-m%C3%A9xico-prev%C3%A9n-seguridad-pese-160404735.html",
-        "resumen": "",
-        "medio": "Bloomberg",
-        "titulo_fuente": "Empresas en México prevén más seguridad pese a extorsiones",
-        "capturado": "2026-11-23T12:55:50-05:00"
       }
     ]
   }
