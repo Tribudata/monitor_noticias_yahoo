@@ -1,9 +1,41 @@
 {
   "fuente": "https://es.finance.yahoo.com/",
-  "actualizado": "2026-11-27T15:44:01-05:00",
-  "nuevos_en_esta_corrida": 8,
+  "actualizado": "2026-11-27T22:06:44-05:00",
+  "nuevos_en_esta_corrida": 4,
   "secciones": {
     "Portada": [
+      {
+        "titulo": "Tekever impulsa a Portugal al top 10 europeo de inversión tecnológica",
+        "url": "https://es.finance.yahoo.com/noticias/portugal-entra-top-10-europeo-020021557.html",
+        "resumen": "",
+        "medio": "Euronews",
+        "titulo_fuente": "Portugal entra en el top 10 europeo de inversión tecnológica gracias a Tekever",
+        "capturado": "2026-11-27T22:06:44-05:00"
+      },
+      {
+        "titulo": "Estudio revela plan de integración de gas y electricidad en Suramérica por 18.000 millones de dólares",
+        "url": "https://es.finance.yahoo.com/noticias/am%C3%A9rica-sur-apunta-plan-integraci%C3%B3n-215613423.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "América del Sur apunta a plan integración gas y electricidad por valor de 18.000 millones dólares: estudio",
+        "capturado": "2026-11-27T22:06:44-05:00"
+      },
+      {
+        "titulo": "Pátria AgroNegócios indica que la siembra de soja en Brasil llega al 89,43% del área",
+        "url": "https://es.finance.yahoo.com/noticias/siembra-soja-brasil-avanza-89-212540631.html",
+        "resumen": "",
+        "medio": "Reuters",
+        "titulo_fuente": "Siembra de soja en Brasil avanza al 89,43% de la superficie, según Pátria AgroNegócios",
+        "capturado": "2026-11-27T22:06:44-05:00"
+      },
+      {
+        "titulo": "Nvidia enfrenta dudas por sus chips Blackwell en China al tiempo que crece la presión sobre Jensen Huang",
+        "url": "https://es.finance.yahoo.com/noticias/nvidia-afronta-sospechas-chips-blackwell-190009278.html",
+        "resumen": "",
+        "medio": "Benzinga Espana",
+        "titulo_fuente": "Nvidia afronta nuevas sospechas por sus chips Blackwell en China mientras aumenta la presión sobre Jensen Huang",
+        "capturado": "2026-11-27T22:06:44-05:00"
+      },
       {
         "titulo": "Soja sube impulsada por la revalorización del real brasileño y el repunte de su harina",
         "url": "https://es.finance.yahoo.com/noticias/soja-recupera-gracias-avance-real-202951710.html",
@@ -451,38 +483,6 @@
         "medio": "Bloomberg",
         "titulo_fuente": "Fundadores de xAI lanzan Epochal para desarrollar IA capaz de predecir el futuro",
         "capturado": "2026-11-25T02:14:29-05:00"
-      },
-      {
-        "titulo": "Wall Street muestra tendencia dispar mientras capitales buscan refugio ante enfriamiento de la IA",
-        "url": "https://es.finance.yahoo.com/noticias/actualizaci%C3%B3n-%C3%ADndices-burs%C3%A1tiles-estadounidenses-presentan-224038441.html",
-        "resumen": "",
-        "medio": "MT Newswires",
-        "titulo_fuente": "Actualización: Los índices bursátiles estadounidenses presentan resultados mixtos a medida que los inversores se inclinan por valores defensivos en medio del debilitamiento de la IA.",
-        "capturado": "2026-11-24T18:46:28-05:00"
-      },
-      {
-        "titulo": "Cierran provisionalmente 58 puertos peruanos por marejadas según mandato de la Capitanía",
-        "url": "https://es.finance.yahoo.com/noticias/capitan%C3%ADa-puertos-per%C3%BA-ordena-cierre-210830349.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Capitanía de Puertos de Perú ordena cierre temporal de 58 puertos por fuertes oleajes",
-        "capturado": "2026-11-24T18:46:28-05:00"
-      },
-      {
-        "titulo": "Firma asiática Huawei resulta sentenciada en EE UU dentro de litigio penal por lazos con Irán",
-        "url": "https://es.finance.yahoo.com/noticias/empresa-china-huawei-condenada-eeuu-204305965.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Empresa china Huawei es condenada en EEUU en un extenso juicio penal por sus negocios con Irán",
-        "capturado": "2026-11-24T18:46:28-05:00"
-      },
-      {
-        "titulo": "Administración Trump prevé fijar nuevos gravámenes tras indagación sobre sobreoferta fabril",
-        "url": "https://es.finance.yahoo.com/noticias/gobierno-trump-dispone-anunciar-aranceles-191546300.html",
-        "resumen": "",
-        "medio": "Reuters",
-        "titulo_fuente": "Gobierno de Trump se dispone a anunciar nuevos aranceles tras investigación sobre exceso de capacidad industrial",
-        "capturado": "2026-11-24T18:46:28-05:00"
       }
     ]
   }
